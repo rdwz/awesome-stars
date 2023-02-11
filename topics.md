@@ -569,6 +569,7 @@
 
 ## docker 
 
+- [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
 - [mgoltzsche/podman-static](https://github.com/mgoltzsche/podman-static) - static podman binaries and container image
 - [renovatebot/docker-renovate](https://github.com/renovatebot/docker-renovate) - Renovate docker slim image
@@ -820,6 +821,7 @@
 
 ## golang 
 
+- [Rosettea/bunnyfetch](https://github.com/Rosettea/bunnyfetch) - 🐰 Tiny system info fetch utility.
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [ellisonleao/vl](https://github.com/ellisonleao/vl) - CLI tool that helps verify current status of URIs in text files
 - [dwisiswant0/tlder](https://github.com/dwisiswant0/tlder) - TLDs finder — check domain name availability across all valid top-level domains.
@@ -893,6 +895,7 @@
 
 ## hacktoberfest 
 
+- [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [saisandeepvaddi/ten-hands](https://github.com/saisandeepvaddi/ten-hands) - ⚡ Simplest way to organize and run command-line tasks
 - [GilbN/theme.park](https://github.com/GilbN/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
@@ -1453,6 +1456,7 @@
 
 ## others 
 
+- [neu-ro-it/docker-ddns-server](https://github.com/neu-ro-it/docker-ddns-server) - Dynamic DNS Server with Web UI written in Go
 - [Misfits-Rebels-Outcasts/WebAssemblyMan](https://github.com/Misfits-Rebels-Outcasts/WebAssemblyMan) - WebAssemblyMan website
 - [sienori/simple-translate](https://github.com/sienori/simple-translate) - WebExtensions for translating text on web pages
 - [jwobith/docker-gitea](https://github.com/jwobith/docker-gitea) - Docker Gitea Service
