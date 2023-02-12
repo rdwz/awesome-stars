@@ -345,6 +345,7 @@
 
 ## c 
 
+- [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [kornelski/dssim](https://github.com/kornelski/dssim) - Image similarity comparison simulating human perception (multiscale SSIM in Rust)
 - [kornelski/pngquant](https://github.com/kornelski/pngquant) - Lossy PNG compressor — pngquant command based on libimagequant library
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
@@ -741,6 +742,7 @@
 
 ## git 
 
+- [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
 - [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
 - [bokub/git-history-editor](https://github.com/bokub/git-history-editor) - :pencil2: Online commit editor, intuitive and easy to use
@@ -1456,6 +1458,10 @@
 
 ## others 
 
+- [kambrium/c64-startup-screen](https://github.com/kambrium/c64-startup-screen) - A web page that looks like a C64 startup screen
+- [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
+- [grego/blades](https://github.com/grego/blades) - Blazing fast dead simple static site generator
+- [cloudinary/ssimulacra2](https://github.com/cloudinary/ssimulacra2) - SSIMULACRA 2. Perceptual metric.
 - [neu-ro-it/docker-ddns-server](https://github.com/neu-ro-it/docker-ddns-server) - Dynamic DNS Server with Web UI written in Go
 - [Misfits-Rebels-Outcasts/WebAssemblyMan](https://github.com/Misfits-Rebels-Outcasts/WebAssemblyMan) - WebAssemblyMan website
 - [sienori/simple-translate](https://github.com/sienori/simple-translate) - WebExtensions for translating text on web pages
