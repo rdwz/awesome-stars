@@ -116,6 +116,7 @@
 
 ## C++ 
 
+- [libjxl/libjxl](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation
 - [cloudinary/ssimulacra2](https://github.com/cloudinary/ssimulacra2) - SSIMULACRA 2. Perceptual metric.
 - [mozilla/bergamot-translator](https://github.com/mozilla/bergamot-translator) - Bergamot translator
 - [vc64web/virtualc64web](https://github.com/vc64web/virtualc64web) - vc64web - Commodore C64  Emulator for iPad iPhone Android and the Web with CSDb access for thousands of demos at your fingertip.
