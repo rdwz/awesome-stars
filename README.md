@@ -575,7 +575,7 @@
 
 - [mikhailklassen/Mining-the-Social-Web-3rd-Edition](https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition) - The official online compendium for Mining the Social Web, 3rd Edition (O'Reilly, 2018)
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
-- [saic-mdal/lama](https://github.com/saic-mdal/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
+- [advimman/lama](https://github.com/advimman/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
 
 ## Kotlin 
 
