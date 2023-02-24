@@ -1457,6 +1457,7 @@
 
 ## others 
 
+- [alexkay/spek](https://github.com/alexkay/spek) - Acoustic spectrum analyser
 - [back-to/liveproxy](https://github.com/back-to/liveproxy) - LiveProxy can redirect Livestreams to your favorite player
 - [n00mkrad/cupscale](https://github.com/n00mkrad/cupscale) - Image Upscaling GUI based on ESRGAN
 - [libjxl/libjxl](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation
