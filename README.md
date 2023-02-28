@@ -73,6 +73,7 @@
 
 ## C 
 
+- [rsms/markdown-wasm](https://github.com/rsms/markdown-wasm) - Very fast Markdown parser and HTML generator implemented in WebAssembly, based on md4c
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [CZ-NIC/knot-resolver](https://github.com/CZ-NIC/knot-resolver) - Knot Resolver - resolve DNS names like it's 2023
 - [riftbit/old-radio-sound](https://github.com/riftbit/old-radio-sound) - The server to emulate old warm AM radio sound (like Fallout styled)
@@ -295,6 +296,7 @@
 
 ## HCL 
 
+- [thumbsup/aws-private-gallery](https://github.com/thumbsup/aws-private-gallery) - Host a thumbsup static gallery on AWS
 - [shibumi/infra](https://github.com/shibumi/infra) - My personal infrastructure managed by terraform
 - [Olivr/free-domain](https://github.com/Olivr/free-domain) - Get a cluster.ws & wip.la domain for free and instantly
 - [NickMRamirez/Proxy-Benchmarks](https://github.com/NickMRamirez/Proxy-Benchmarks) - Benchmarks for several proxies
@@ -376,6 +378,8 @@
 
 ## JavaScript 
 
+- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
+- [expressjs/multer](https://github.com/expressjs/multer) - Node.js middleware for handling `multipart/form-data`.
 - [fregante/browser-extension-template](https://github.com/fregante/browser-extension-template) - 📕 Barebones boilerplate with Parcel 2, options handler and auto-publishing
 - [sienori/simple-translate](https://github.com/sienori/simple-translate) - WebExtensions for translating text on web pages
 - [open-domains/register](https://github.com/open-domains/register) - Free subdomains for personal sites, open-source projects, and more.
@@ -943,6 +947,7 @@
 
 ## TypeScript 
 
+- [vincaslt/twitter-code](https://github.com/vincaslt/twitter-code) - Code examples from my Twitter @VincasStonys
 - [saisandeepvaddi/ten-hands](https://github.com/saisandeepvaddi/ten-hands) - ⚡ Simplest way to organize and run command-line tasks
 - [Debdut/browser-extension](https://github.com/Debdut/browser-extension) - Browser Extension Template with ESbuild builds, support for React, Preact, Typescript, Tailwind, Manifest V3/V2 support and multi browser build including Chrome, Firefox, Safari, Edge, Brave.
 - [AnWeber/dot-icons](https://github.com/AnWeber/dot-icons) - File Icon Extension for VSCode or VSCodium
