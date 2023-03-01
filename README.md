@@ -206,6 +206,7 @@
 
 ## Go 
 
+- [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
 - [neu-ro-it/docker-ddns-server](https://github.com/neu-ro-it/docker-ddns-server) - Dynamic DNS Server with Web UI written in Go
 - [Rosettea/bunnyfetch](https://github.com/Rosettea/bunnyfetch) - 🐰 Tiny system info fetch utility.
@@ -270,7 +271,7 @@
 - [cshum/imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips
 - [ssllabs/ssllabs-scan](https://github.com/ssllabs/ssllabs-scan) - A command-line reference-implementation client for SSL Labs APIs, designed for automated and/or bulk testing.
 - [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑
-- [nickname76/telegrambot](https://github.com/nickname76/telegrambot) - Telegram Bot API 6.2 in Go
+- [nickname76/telegrambot](https://github.com/nickname76/telegrambot) - Telegram Bot API 6.2 library in Go
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [danielgtaylor/restish](https://github.com/danielgtaylor/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
@@ -303,6 +304,7 @@
 
 ## HTML 
 
+- [5t3ph/course-structure](https://github.com/5t3ph/course-structure) - A template to manage lessons for a related course using yarn workspaces.
 - [Misfits-Rebels-Outcasts/WebAssemblyMan](https://github.com/Misfits-Rebels-Outcasts/WebAssemblyMan) - WebAssemblyMan website
 - [shadawck/awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks) - Collection of tools to build beautiful command line interface in different languages
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -621,6 +623,7 @@
 
 ## Nunjucks 
 
+- [jamstack/jamstack.org](https://github.com/jamstack/jamstack.org) - The official Jamstack site
 - [nhoizey/1y](https://github.com/nhoizey/1y) - A template project to build a short URL manager with Eleventy
 - [lumeland/base-blog](https://github.com/lumeland/base-blog) - A template repository to build a blog with Lume static site generator
 - [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev) - The frontend, backend, and content source code for web.dev
@@ -720,6 +723,7 @@
 
 ## Python 
 
+- [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [back-to/liveproxy](https://github.com/back-to/liveproxy) - LiveProxy can redirect Livestreams to your favorite player
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
 - [thenurhabib/subnum](https://github.com/thenurhabib/subnum) - Crawl all subdomains and check for subdomain takeover vulnerability.
@@ -861,6 +865,7 @@
 
 ## SCSS 
 
+- [EthicalSource/hippocratic-license-3](https://github.com/EthicalSource/hippocratic-license-3) - An ethical license for open source.
 - [teemutammela/auralcandy.net](https://github.com/teemutammela/auralcandy.net) - Source code of AuralCandy.Net - Premium House Music Podcast.
 - [jhalmu/my-astro-pages-v2](https://github.com/jhalmu/my-astro-pages-v2) - Colorful astro-pages for fun. Projects came from github when rebuild, outcome static html
 - [markteekman/advice-generator-app](https://github.com/markteekman/advice-generator-app) - Frontend Mentor challenge "Advice Generator App" using CSS Flexbox and Grid, Accessibility best practices, CSS Animations and the Fetch API for the random advices.
