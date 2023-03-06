@@ -1470,6 +1470,8 @@
 
 ## others 
 
+- [sondr3/a11y-color-contrast](https://github.com/sondr3/a11y-color-contrast) - A TypeScript  package to calculate WCAG 2.0/3.0 and APCA color contrasts
+- [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [5t3ph/course-structure](https://github.com/5t3ph/course-structure) - A template to manage lessons for a related course using yarn workspaces.
 - [EthicalSource/hippocratic-license-3](https://github.com/EthicalSource/hippocratic-license-3) - An ethical license for open source.
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads
