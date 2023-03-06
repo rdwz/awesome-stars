@@ -882,6 +882,7 @@
 
 ## Shell 
 
+- [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [alwaysdata/autodeploy-git-hook](https://github.com/alwaysdata/autodeploy-git-hook) - A simple bash script to deploy on production using Git hooks
 - [essentialkaos/webkaos](https://github.com/essentialkaos/webkaos) - WEBKAOS is a web-server based on latest version of Nginx with many improvements
 - [haya14busa/action-bumpr](https://github.com/haya14busa/action-bumpr) - 💥 Bump semantic version tag on merging Pull Requests with specific lables.
@@ -951,6 +952,7 @@
 
 ## TypeScript 
 
+- [sondr3/a11y-color-contrast](https://github.com/sondr3/a11y-color-contrast) - A TypeScript  package to calculate WCAG 2.0/3.0 and APCA color contrasts
 - [vincaslt/twitter-code](https://github.com/vincaslt/twitter-code) - Code examples from my Twitter @VincasStonys
 - [saisandeepvaddi/ten-hands](https://github.com/saisandeepvaddi/ten-hands) - ⚡ Simplest way to organize and run command-line tasks
 - [Debdut/browser-extension](https://github.com/Debdut/browser-extension) - Browser Extension Template with ESbuild builds, support for React, Preact, Typescript, Tailwind, Manifest V3/V2 support and multi browser build including Chrome, Firefox, Safari, Edge, Brave.
