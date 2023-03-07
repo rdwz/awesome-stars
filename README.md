@@ -1048,7 +1048,7 @@
 - [yoshixmk/deno-x-ranking](https://github.com/yoshixmk/deno-x-ranking) - 🦕 Deno Third Party Modules Ranking 👑
 - [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
-- [withastro/astro](https://github.com/withastro/astro) - Build faster websites with Astro's next-gen island architecture 🏝✨
+- [withastro/astro](https://github.com/withastro/astro) - Astro is the all-in-one web framework designed for speed 🏝️✨
 - [TanStack/ranger](https://github.com/TanStack/ranger) - 🤖 Headless utilities for building range and multi-range sliders in React, Preact, Solid, Vue, Svelte and Angular
 - [bejamas/dodonut-og-image](https://github.com/bejamas/dodonut-og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
