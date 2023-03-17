@@ -1767,7 +1767,7 @@
 - [redwerkz/personal-astro-theme](https://github.com/redwerkz/personal-astro-theme) - Personal AstroJS theme for Stackbit V2
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [troybetz/react-soundcloud-widget](https://github.com/troybetz/react-soundcloud-widget) - react.js powered SoundCloud player component
-- [fell-lucas/chrome-ext-template-preact-windi-vite](https://github.com/fell-lucas/chrome-ext-template-preact-windi-vite) - 
+- [fell-lucas/chrome-extension-template-preact-vite](https://github.com/fell-lucas/chrome-extension-template-preact-vite) - 
 - [miukimiu/cassette-tape](https://github.com/miukimiu/cassette-tape) - Record your freestyle in the browser!
 - [initml/clipdrop-api-samples](https://github.com/initml/clipdrop-api-samples) - Public samples using the ClipDrop API
 - [JeffreyCA/spotify-recently-played-readme](https://github.com/JeffreyCA/spotify-recently-played-readme) - Display your recently played Spotify tracks on your GitHub profile README.
