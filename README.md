@@ -380,6 +380,9 @@
 
 ## JavaScript 
 
+- [Martinomagnifico/reveal.js-simplemenu](https://github.com/Martinomagnifico/reveal.js-simplemenu) - A simple Reveal.js plugin for a menubar or a header or footer with an auto-generated menu.
+- [wesbos/eslint-config-wesbos](https://github.com/wesbos/eslint-config-wesbos) - No-Sweat™ Eslint and Prettier Setup - with or without VS Code
+- [wesbos/dotfiles](https://github.com/wesbos/dotfiles) - Hey wes what settings do you use?
 - [joews/rubik-js](https://github.com/joews/rubik-js) - A Three.js Rubik's cube simulation
 - [cakenggt/hyperatompunk](https://github.com/cakenggt/hyperatompunk) - A cyberpunk theme for HyperTerm
 - [slammayjammay/hyper-postprocessing](https://github.com/slammayjammay/hyper-postprocessing) - Add fragment shaders to the Hyper terminal.
@@ -1064,7 +1067,7 @@
 - [zaki-yama/copy-title-and-url-as-markdown](https://github.com/zaki-yama/copy-title-and-url-as-markdown) - Chrome Extension: Quickly copy the title & url of current tab as Markdown style
 - [windicss/windicss-analysis](https://github.com/windicss/windicss-analysis) - 🔍 A visual analyzer for Windi CSS
 - [heybokeh/pollen](https://github.com/heybokeh/pollen) - The CSS variables build system
-- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [redwerkz/personal-astro-theme](https://github.com/redwerkz/personal-astro-theme) - Personal AstroJS theme for Stackbit V2
 - [fell-lucas/chrome-extension-template-preact-vite](https://github.com/fell-lucas/chrome-extension-template-preact-vite) - 
 - [initml/clipdrop-api-samples](https://github.com/initml/clipdrop-api-samples) - Public samples using the ClipDrop API
