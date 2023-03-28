@@ -960,6 +960,7 @@
 
 ## TypeScript 
 
+- [sergiodxa/remix-utils](https://github.com/sergiodxa/remix-utils) - A set of utility functions and types to use with Remix.run
 - [sondr3/a11y-color-contrast](https://github.com/sondr3/a11y-color-contrast) - A TypeScript  package to calculate WCAG 2.0/3.0 and APCA color contrasts
 - [vincaslt/twitter-code](https://github.com/vincaslt/twitter-code) - Code examples from my Twitter @VincasStonys
 - [saisandeepvaddi/ten-hands](https://github.com/saisandeepvaddi/ten-hands) - ⚡ Simplest way to organize and run command-line tasks
@@ -1055,7 +1056,7 @@
 - [yoshixmk/deno-x-ranking](https://github.com/yoshixmk/deno-x-ranking) - 🦕 Deno Third Party Modules Ranking 👑
 - [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
-- [withastro/astro](https://github.com/withastro/astro) - Astro is the all-in-one web framework designed for speed 🏝️✨
+- [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
 - [TanStack/ranger](https://github.com/TanStack/ranger) - 🤖 Headless utilities for building range and multi-range sliders in React, Preact, Solid, Vue, Svelte and Angular
 - [bejamas/dodonut-og-image](https://github.com/bejamas/dodonut-og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
