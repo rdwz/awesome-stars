@@ -1475,6 +1475,7 @@
 
 ## others 
 
+- [mivion/swisseph](https://github.com/mivion/swisseph) - Swiss Ephemeris binding for node.js
 - [sergiodxa/remix-utils](https://github.com/sergiodxa/remix-utils) - A set of utility functions and types to use with Remix.run
 - [wesbos/dotfiles](https://github.com/wesbos/dotfiles) - Hey wes what settings do you use?
 - [joews/rubik-js](https://github.com/joews/rubik-js) - A Three.js Rubik's cube simulation
