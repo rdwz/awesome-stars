@@ -118,6 +118,7 @@
 
 ## C++ 
 
+- [mivion/swisseph](https://github.com/mivion/swisseph) - Swiss Ephemeris binding for node.js
 - [alexkay/spek](https://github.com/alexkay/spek) - Acoustic spectrum analyser
 - [libjxl/libjxl](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation
 - [cloudinary/ssimulacra2](https://github.com/cloudinary/ssimulacra2) - SSIMULACRA 2. Perceptual metric.
