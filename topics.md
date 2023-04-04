@@ -212,6 +212,7 @@
 
 ## api 
 
+- [helmasaur/zodiac-signs](https://github.com/helmasaur/zodiac-signs) - Provides a zodiac sign depending a birthday and much more.
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [LibreTranslate/LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) - Free and Open Source Machine Translation API. Self-hosted, offline capable and easy to setup.
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
@@ -565,7 +566,7 @@
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a community fork of the Drone CI system.
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted Git-based PaaS for Kubernetes
+- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted & Git-based PaaS for Kubernetes
 - [undergroundwires/bump-everywhere](https://github.com/undergroundwires/bump-everywhere) - 🚀 Automate versioning, changelog creation, README updates and GitHub releases using GitHub Actions,npm, docker or bash.
 
 ## django 
@@ -1195,7 +1196,7 @@
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
-- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted Git-based PaaS for Kubernetes
+- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted & Git-based PaaS for Kubernetes
 
 ## language 
 
@@ -1396,6 +1397,7 @@
 
 ## nodejs 
 
+- [helmasaur/zodiac-signs](https://github.com/helmasaur/zodiac-signs) - Provides a zodiac sign depending a birthday and much more.
 - [saisandeepvaddi/ten-hands](https://github.com/saisandeepvaddi/ten-hands) - ⚡ Simplest way to organize and run command-line tasks
 - [ricardodantas/website-carbon-calculator](https://github.com/ricardodantas/website-carbon-calculator) - This package calculates the carbon emission by the network traffic from a given URL.
 - [DeepLcom/deepl-node](https://github.com/DeepLcom/deepl-node) - Official Node.js library for the DeepL language translation API.
