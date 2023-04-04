@@ -381,6 +381,7 @@
 
 ## JavaScript 
 
+- [helmasaur/zodiac-signs](https://github.com/helmasaur/zodiac-signs) - Provides a zodiac sign depending a birthday and much more.
 - [Martinomagnifico/reveal.js-simplemenu](https://github.com/Martinomagnifico/reveal.js-simplemenu) - A simple Reveal.js plugin for a menubar or a header or footer with an auto-generated menu.
 - [wesbos/eslint-config-wesbos](https://github.com/wesbos/eslint-config-wesbos) - No-Sweat™ Eslint and Prettier Setup - with or without VS Code
 - [wesbos/dotfiles](https://github.com/wesbos/dotfiles) - Hey wes what settings do you use?
@@ -621,7 +622,7 @@
 
 - [mend/renovate-on-prem](https://github.com/mend/renovate-on-prem) - WhiteSource Renovate On-Premises Documentation & Examples
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
-- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted Git-based PaaS for Kubernetes
+- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted & Git-based PaaS for Kubernetes
 
 ## Nim 
 
