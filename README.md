@@ -186,7 +186,7 @@
 - [renovatebot/docker-renovate](https://github.com/renovatebot/docker-renovate) - Renovate docker slim image
 - [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
 - [truecharts/containers](https://github.com/truecharts/containers) - TrueCharts container repository
-- [BretFisher/github-actions-templates](https://github.com/BretFisher/github-actions-templates) - 
+- [BretFisher/github-actions-templates](https://github.com/BretFisher/github-actions-templates) - Reusable GitHub Actions workflow examples for cloud native DevOps
 - [linuxserver/docker-fleet](https://github.com/linuxserver/docker-fleet) - 
 - [emibcn/badge-action](https://github.com/emibcn/badge-action) - Create a badge using GitHub Actions and GitHub Workflow CPU time (no 3rd parties servers)
 - [SonarSource/docker-sonarqube](https://github.com/SonarSource/docker-sonarqube) - :whale: SonarQube in Docker
@@ -306,6 +306,7 @@
 
 ## HTML 
 
+- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [5t3ph/course-structure](https://github.com/5t3ph/course-structure) - A template to manage lessons for a related course using yarn workspaces.
 - [Misfits-Rebels-Outcasts/WebAssemblyMan](https://github.com/Misfits-Rebels-Outcasts/WebAssemblyMan) - WebAssemblyMan website
 - [shadawck/awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks) - Collection of tools to build beautiful command line interface in different languages
@@ -410,7 +411,6 @@
 - [magicmark/composerize](https://github.com/magicmark/composerize) - 🏃→🎼  docker run asdlksjfksdf &gt; docker-composerize up
 - [webkul/myscale](https://github.com/webkul/myscale) - myScale - Quick SVG Icon Resizer
 - [RafidMuhymin/astro-imagetools](https://github.com/RafidMuhymin/astro-imagetools) - Image Optimization tools for the Astro JS framework
-- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free
 - [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
 - [Faboolea/shaders-on-scroll](https://github.com/Faboolea/shaders-on-scroll) - Smooth WebGL Shader Transformations on Scroll
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
@@ -643,7 +643,7 @@
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
 - [opencontainers/artwork](https://github.com/opencontainers/artwork) - OCI artwork and logos
 - [adbar/German-NLP](https://github.com/adbar/German-NLP) - Curated list of open-access/open-source/off-the-shelf resources and tools developed with a particular focus on German
-- [webalys-hq/streamline-vectors](https://github.com/webalys-hq/streamline-vectors) - 
+- [webalys-hq/streamline-vectors](https://github.com/webalys-hq/streamline-vectors) - Free vectors from Streamline
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
 - [withastro/action](https://github.com/withastro/action) - A GitHub Action that deploys your Astro project to GitHub Pages
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
