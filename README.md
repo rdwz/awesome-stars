@@ -208,6 +208,7 @@
 
 ## Go 
 
+- [xperimental/linky](https://github.com/xperimental/linky) - Simple and fast link checker
 - [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
 - [neu-ro-it/docker-ddns-server](https://github.com/neu-ro-it/docker-ddns-server) - Dynamic DNS Server with Web UI written in Go
@@ -306,6 +307,7 @@
 
 ## HTML 
 
+- [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Get unified metadata from websites using Open Graph, Microdata, RDFa, Twitter Cards, JSON-LD, HTML, and more.
 - [Scosh/fonts](https://github.com/Scosh/fonts) - A collection of rad, open-source typefaces that everyone needs in their lives.
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [5t3ph/course-structure](https://github.com/5t3ph/course-structure) - A template to manage lessons for a related course using yarn workspaces.
@@ -383,6 +385,10 @@
 
 ## JavaScript 
 
+- [standard/semistandard](https://github.com/standard/semistandard) - :icecream: All the goodness of `standard/standard` with semicolons sprinkled on top.
+- [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
+- [standard/ts-standard](https://github.com/standard/ts-standard) - Typescript style guide, linter, and formatter using StandardJS
+- [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [hacksalot/HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
 - [helmasaur/zodiac-signs](https://github.com/helmasaur/zodiac-signs) - Provides a zodiac sign depending a birthday and much more.
 - [Martinomagnifico/reveal.js-simplemenu](https://github.com/Martinomagnifico/reveal.js-simplemenu) - A simple Reveal.js plugin for a menubar or a header or footer with an auto-generated menu.
@@ -639,6 +645,8 @@
 
 ## Others 
 
+- [capaj/vscode-standardjs-snippets](https://github.com/capaj/vscode-standardjs-snippets) - a complete set of Javascript snippets for Visual Studio Code
+- [johnjago/awesome-uncopyright](https://github.com/johnjago/awesome-uncopyright) - Curated list of all things public domain
 - [cybercon/jobs](https://github.com/cybercon/jobs) - Wir brauchen eine Stellenanzeige, oder mehrere
 - [jwobith/docker-gitea](https://github.com/jwobith/docker-gitea) - Docker Gitea Service
 - [emilebosch/awesome-fediverse](https://github.com/emilebosch/awesome-fediverse) - A curated, collaborative list of awesome Fediverse resources
@@ -733,6 +741,9 @@
 
 ## Python 
 
+- [FamilySearch/GEDCOM](https://github.com/FamilySearch/GEDCOM) - 
+- [ctrlcctrlv/some-time-later](https://github.com/ctrlcctrlv/some-time-later) - Font inspired by the title and time cards in the Nickelodeon cartoon SpongeBob SquarePants
+- [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [back-to/liveproxy](https://github.com/back-to/liveproxy) - LiveProxy can redirect Livestreams to your favorite player
 - [ohmyform/ohmyform](https://github.com/ohmyform/ohmyform) - ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
@@ -876,6 +887,7 @@
 
 ## SCSS 
 
+- [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [EthicalSource/hippocratic-license-3](https://github.com/EthicalSource/hippocratic-license-3) - An ethical license for open source.
 - [teemutammela/auralcandy.net](https://github.com/teemutammela/auralcandy.net) - Source code of AuralCandy.Net - Premium House Music Podcast.
 - [jhalmu/my-astro-pages-v2](https://github.com/jhalmu/my-astro-pages-v2) - Colorful astro-pages for fun. Projects came from github when rebuild, outcome static html
@@ -964,6 +976,8 @@
 
 ## TypeScript 
 
+- [Tenpi/waifu2x](https://github.com/Tenpi/waifu2x) - waifu2x image upscaling in Node.js
+- [blove/typescript-express-starter](https://github.com/blove/typescript-express-starter) - TypeScript 2 + Express + Node.js
 - [heysagnik/Linkees](https://github.com/heysagnik/Linkees) - Awesome Linktree clone made with React ⚛️
 - [sergiodxa/remix-utils](https://github.com/sergiodxa/remix-utils) - A set of utility functions and types to use with Remix.run
 - [sondr3/a11y-color-contrast](https://github.com/sondr3/a11y-color-contrast) - A TypeScript  package to calculate WCAG 2.0/3.0 and APCA color contrasts
