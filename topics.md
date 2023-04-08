@@ -26,6 +26,7 @@
 - [bot](#bot)
 - [c](#c)
 - [chatgpt](#chatgpt)
+- [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
@@ -110,7 +111,6 @@
 - [monitoring](#monitoring)
 - [music](#music)
 - [mysql](#mysql)
-- [nativescript](#nativescript)
 - [neovim](#neovim)
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
@@ -190,7 +190,6 @@
 - [aghontpi/ad-silence](https://github.com/aghontpi/ad-silence) - Mute Ad/promotions from Accuradio, Spotify, TIDAL & Pandora Android. Minimal, extensible & lightweight under 150kb.
 - [Codelessly/ResponsiveFramework](https://github.com/Codelessly/ResponsiveFramework) - Easily make Flutter apps responsive. Automatically adapt UI to different screen sizes. Responsiveness made simple. Demo: https://gallery.codelessly.com/flutterwebsites/minimal/
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
-- [bradyhouse/house](https://github.com/bradyhouse/house) - Proof of Concept and Research repository.
 - [burgyl/SelfUpdatingApp](https://github.com/burgyl/SelfUpdatingApp) - An Android Application that can update itself if new releases in GitHub are available.
 - [Sav22999/common-voice-android](https://github.com/Sav22999/common-voice-android) - Repository of "CV Project" app. It's an unofficial app for Mozilla Common Voice, which permits you to contribute to this project via your device.
 - [seedvault-app/seedvault](https://github.com/seedvault-app/seedvault) - A backup application for the Android Open Source Project.
@@ -251,6 +250,7 @@
 
 ## awesome 
 
+- [johnjago/awesome-uncopyright](https://github.com/johnjago/awesome-uncopyright) - Curated list of all things public domain
 - [shadawck/awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks) - Collection of tools to build beautiful command line interface in different languages
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
@@ -275,6 +275,7 @@
 
 ## awesome-list 
 
+- [johnjago/awesome-uncopyright](https://github.com/johnjago/awesome-uncopyright) - Curated list of all things public domain
 - [shadawck/awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks) - Collection of tools to build beautiful command line interface in different languages
 - [emilebosch/awesome-fediverse](https://github.com/emilebosch/awesome-fediverse) - A curated, collaborative list of awesome Fediverse resources
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
@@ -363,6 +364,10 @@
 
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
 
+## chatgpt-api 
+
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+
 ## chrome 
 
 - [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org) - :lock: Chromium's HSTS preload list submission website.
@@ -371,7 +376,6 @@
 - [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [yorkxin/copy-as-markdown](https://github.com/yorkxin/copy-as-markdown) - Copying Link, Image and Tab(s) as Markdown Much Easier.
-- [bradyhouse/house](https://github.com/bradyhouse/house) - Proof of Concept and Research repository.
 
 ## chrome-extension 
 
@@ -622,7 +626,6 @@
 - [nginx-proxy/docker-gen](https://github.com/nginx-proxy/docker-gen) - Generate files from docker container meta-data
 - [atmoz/sftp](https://github.com/atmoz/sftp) - Securely share your files
 - [BaptisteBdn/docker-selfhosted-apps](https://github.com/BaptisteBdn/docker-selfhosted-apps) - Collection of selfhosted apps with docker only ! Traefik, Bitwarden, Wireguard with Pihole, Synapse with Elements, etc.
-- [bradyhouse/house](https://github.com/bradyhouse/house) - Proof of Concept and Research repository.
 - [fluent/fluentd-docker-image](https://github.com/fluent/fluentd-docker-image) - Docker image for Fluentd
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 
@@ -680,10 +683,13 @@
 
 ## es6 
 
+- [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023)
 
 ## eslint 
 
+- [standard/ts-standard](https://github.com/standard/ts-standard) - Typescript style guide, linter, and formatter using StandardJS
+- [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [wesbos/eslint-config-wesbos](https://github.com/wesbos/eslint-config-wesbos) - No-Sweat™ Eslint and Prettier Setup - with or without VS Code
 - [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
@@ -719,6 +725,7 @@
 
 ## font 
 
+- [ctrlcctrlv/some-time-later](https://github.com/ctrlcctrlv/some-time-later) - Font inspired by the title and time cards in the Nickelodeon cartoon SpongeBob SquarePants
 - [be5invis/Iosevka](https://github.com/be5invis/Iosevka) - Versatile typeface for code, from code.
 - [Ernxst/subfont](https://github.com/Ernxst/subfont) - A plugin to purge unused glyphs from your font files to minimise bundle size
 - [Iosevka-Mayukai/Iosevka-Mayukai](https://github.com/Iosevka-Mayukai/Iosevka-Mayukai) - Font based on Iosevka Custom Build, with combination from Iosevka SS04 Menlo, SS07 Monaco,  SS09 Source Code Pro, SS12 Ubuntu Mono, SS14 Jetbrains Mono, Hack Style, and some Nerd Font Patching.
@@ -753,6 +760,7 @@
 
 ## git 
 
+- [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
 - [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
@@ -833,6 +841,7 @@
 
 ## golang 
 
+- [xperimental/linky](https://github.com/xperimental/linky) - Simple and fast link checker
 - [Rosettea/bunnyfetch](https://github.com/Rosettea/bunnyfetch) - 🐰 Tiny system info fetch utility.
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [ellisonleao/vl](https://github.com/ellisonleao/vl) - CLI tool that helps verify current status of URIs in text files
@@ -907,6 +916,8 @@
 
 ## hacktoberfest 
 
+- [Tenpi/waifu2x](https://github.com/Tenpi/waifu2x) - waifu2x image upscaling in Node.js
+- [xperimental/linky](https://github.com/xperimental/linky) - Simple and fast link checker
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [wesbos/eslint-config-wesbos](https://github.com/wesbos/eslint-config-wesbos) - No-Sweat™ Eslint and Prettier Setup - with or without VS Code
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
@@ -994,6 +1005,7 @@
 
 ## html 
 
+- [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [markteekman/advice-generator-app](https://github.com/markteekman/advice-generator-app) - Frontend Mentor challenge "Advice Generator App" using CSS Flexbox and Grid, Accessibility best practices, CSS Animations and the Fetch API for the random advices.
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [emmetio/emmet](https://github.com/emmetio/emmet) - The essential toolkit for web-developers
@@ -1074,6 +1086,9 @@
 
 ## javascript 
 
+- [capaj/vscode-standardjs-snippets](https://github.com/capaj/vscode-standardjs-snippets) - a complete set of Javascript snippets for Visual Studio Code
+- [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
+- [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [Martinomagnifico/reveal.js-simplemenu](https://github.com/Martinomagnifico/reveal.js-simplemenu) - A simple Reveal.js plugin for a menubar or a header or footer with an auto-generated menu.
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [jhalmu/my-astro-pages-v2](https://github.com/jhalmu/my-astro-pages-v2) - Colorful astro-pages for fun. Projects came from github when rebuild, outcome static html
@@ -1350,10 +1365,6 @@
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 
-## nativescript 
-
-- [bradyhouse/house](https://github.com/bradyhouse/house) - Proof of Concept and Research repository.
-
 ## neovim 
 
 - [David-Else/developer-workstation-setup-script](https://github.com/David-Else/developer-workstation-setup-script) - Post-install script for Fedora and RHEL 9 clones to create your ultimate development environment
@@ -1401,6 +1412,8 @@
 
 ## nodejs 
 
+- [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
+- [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [helmasaur/zodiac-signs](https://github.com/helmasaur/zodiac-signs) - Provides a zodiac sign depending a birthday and much more.
 - [saisandeepvaddi/ten-hands](https://github.com/saisandeepvaddi/ten-hands) - ⚡ Simplest way to organize and run command-line tasks
 - [ricardodantas/website-carbon-calculator](https://github.com/ricardodantas/website-carbon-calculator) - This package calculates the carbon emission by the network traffic from a given URL.
@@ -1482,6 +1495,11 @@
 
 ## others 
 
+- [standard/semistandard](https://github.com/standard/semistandard) - :icecream: All the goodness of `standard/standard` with semicolons sprinkled on top.
+- [FamilySearch/GEDCOM](https://github.com/FamilySearch/GEDCOM) - 
+- [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Get unified metadata from websites using Open Graph, Microdata, RDFa, Twitter Cards, JSON-LD, HTML, and more.
+- [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
+- [blove/typescript-express-starter](https://github.com/blove/typescript-express-starter) - TypeScript 2 + Express + Node.js
 - [hacksalot/HackMyResume](https://github.com/hacksalot/HackMyResume) - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
 - [siteinspector/siteinspector](https://github.com/siteinspector/siteinspector) - A tool for catching spelling errors, grammatical errors, broken links, and other errors on websites.
 - [cybercon/jobs](https://github.com/cybercon/jobs) - Wir brauchen eine Stellenanzeige, oder mehrere
@@ -1907,7 +1925,6 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [ssddanbrown/rss](https://github.com/ssddanbrown/rss) - A simple twitter-feed-style RSS aggregator written in PHP, Laravel, Inertia.js, Tailwind and Vue.js
-- [bradyhouse/house](https://github.com/bradyhouse/house) - Proof of Concept and Research repository.
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [Rudloff/alltube](https://github.com/Rudloff/alltube) - Web GUI for youtube-dl
 
@@ -2064,6 +2081,7 @@
 - [ixartz/Astro-boilerplate](https://github.com/ixartz/Astro-boilerplate) - 🚀 Astro boilerplate with responsive blog and portfolio template using TypeScript and React styled with Tailwind CSS ⚡️ Made with developer experience first: TypeScript + ESLint + Prettier + Husky + Li
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
+- [bradyhouse/house](https://github.com/bradyhouse/house) - Proof of Concept and Research repository.
 - [debiki/talkyard](https://github.com/debiki/talkyard) - A community discussion platform: Brings together the main features from StackOverflow, Slack, Discourse, Reddit, and Disqus blog comments.
 - [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
 
@@ -2246,6 +2264,7 @@
 
 ## typescript 
 
+- [standard/ts-standard](https://github.com/standard/ts-standard) - Typescript style guide, linter, and formatter using StandardJS
 - [saisandeepvaddi/ten-hands](https://github.com/saisandeepvaddi/ten-hands) - ⚡ Simplest way to organize and run command-line tasks
 - [marcolink/contentful-remix-starter-blog](https://github.com/marcolink/contentful-remix-starter-blog) - Remix starter for a Contentful blog (template) project
 - [JustinBeckwith/linkinator](https://github.com/JustinBeckwith/linkinator) - 🐿 Scurry around your site and find all those broken links.
@@ -2327,6 +2346,7 @@
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
+- [bradyhouse/house](https://github.com/bradyhouse/house) - Proof of Concept and Research repository.
 
 ## web 
 
