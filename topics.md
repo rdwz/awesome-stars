@@ -30,6 +30,7 @@
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
+- [clojure](#clojure)
 - [code](#code)
 - [code-quality](#code-quality)
 - [code-review](#code-review)
@@ -47,6 +48,7 @@
 - [data-visualization](#data-visualization)
 - [database](#database)
 - [deep-learning](#deep-learning)
+- [deno](#deno)
 - [deployment](#deployment)
 - [design](#design)
 - [devops](#devops)
@@ -419,6 +421,10 @@
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [contabo/cntb](https://github.com/contabo/cntb) - Contabo Command Line Interface
 
+## clojure 
+
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
+
 ## code 
 
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
@@ -468,6 +474,7 @@
 
 ## css 
 
+- [AleksandrHovhannisyan/fluid-type-scale-calculator](https://github.com/AleksandrHovhannisyan/fluid-type-scale-calculator) - Generate font size variables for a fluid type scale with CSS clamp.
 - [GilbN/theme.park](https://github.com/GilbN/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 - [jhalmu/my-astro-pages-v2](https://github.com/jhalmu/my-astro-pages-v2) - Colorful astro-pages for fun. Projects came from github when rebuild, outcome static html
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
@@ -552,6 +559,18 @@
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [sniklaus/3d-ken-burns](https://github.com/sniklaus/3d-ken-burns) - an implementation of 3D Ken Burns Effect from a Single Image using PyTorch
 
+## deno 
+
+- [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
+- [denosaurs/mod.land](https://github.com/denosaurs/mod.land) - 📦 Pretty subdomains for you deno project
+- [IamFlowZ/ssh-bm](https://github.com/IamFlowZ/ssh-bm) - An ssh bookmarking program
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+- [AsyncBanana/microdiff](https://github.com/AsyncBanana/microdiff) - A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
+- [yoshixmk/deno-x-ranking](https://github.com/yoshixmk/deno-x-ranking) - 🦕 Deno Third Party Modules Ranking 👑
+- [denolib/awesome-deno](https://github.com/denolib/awesome-deno) - Curated list of awesome things related to Deno
+- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕
+- [lumeland/base-blog](https://github.com/lumeland/base-blog) - A template repository to build a blog with Lume static site generator
+
 ## deployment 
 
 - [ct-Open-Source/team-container](https://github.com/ct-Open-Source/team-container) - A collection of containers to prepare a server for collaboration.
@@ -560,6 +579,7 @@
 
 ## design 
 
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
 - [Scosh/fonts](https://github.com/Scosh/fonts) - A collection of rad, open-source typefaces that everyone needs in their lives.
 - [greenmagenta/web-avant-gardes](https://github.com/greenmagenta/web-avant-gardes) - 💇‍♀️ Collection of experimental, radical, or unorthodox websites
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
@@ -646,6 +666,7 @@
 
 ## electron 
 
+- [nwesthoff/shiplog](https://github.com/nwesthoff/shiplog) - Menubar app to keep track of running deploys on Vercel & Netlify
 - [saisandeepvaddi/ten-hands](https://github.com/saisandeepvaddi/ten-hands) - ⚡ Simplest way to organize and run command-line tasks
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [aolsenjazz/super-controller](https://github.com/aolsenjazz/super-controller) - Give your MIDI devices super powers: take control of the lights, messages, and communication between controllers.
@@ -699,6 +720,7 @@
 
 ## express 
 
+- [Kikobeats/http-compression](https://github.com/Kikobeats/http-compression) - Adding compression (gzip/brotli) for your HTTP server in Node.js.
 - [practicajs/practica](https://github.com/practicajs/practica) - Node.js solution starter that is production-ready, packed with ✅  best practices and built with simplicity in mind
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2023)
 
@@ -1086,6 +1108,7 @@
 
 ## javascript 
 
+- [Kikobeats/http-compression](https://github.com/Kikobeats/http-compression) - Adding compression (gzip/brotli) for your HTTP server in Node.js.
 - [capaj/vscode-standardjs-snippets](https://github.com/capaj/vscode-standardjs-snippets) - a complete set of Javascript snippets for Visual Studio Code
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
@@ -1378,6 +1401,7 @@
 
 ## nextjs 
 
+- [AleksandrHovhannisyan/fluid-type-scale-calculator](https://github.com/AleksandrHovhannisyan/fluid-type-scale-calculator) - Generate font size variables for a fluid type scale with CSS clamp.
 - [justinschmitz97/avif.io](https://github.com/justinschmitz97/avif.io) - Convert all images to AVIF for free. No data is sent. The magic happens in your browser.
 - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ⭐️ Transform data chaos into clarity with JSON Crack - the ultimate JSON visualization solution.
@@ -1412,6 +1436,7 @@
 
 ## nodejs 
 
+- [Kikobeats/http-compression](https://github.com/Kikobeats/http-compression) - Adding compression (gzip/brotli) for your HTTP server in Node.js.
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
 - [helmasaur/zodiac-signs](https://github.com/helmasaur/zodiac-signs) - Provides a zodiac sign depending a birthday and much more.
@@ -1495,6 +1520,8 @@
 
 ## others 
 
+- [modularscale/modularscale-sass](https://github.com/modularscale/modularscale-sass) - Modular scale calculator built into your Sass
+- [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - browserless is an efficient way to interact with a headless browser built in top of Puppeteer.
 - [standard/semistandard](https://github.com/standard/semistandard) - :icecream: All the goodness of `standard/standard` with semicolons sprinkled on top.
 - [FamilySearch/GEDCOM](https://github.com/FamilySearch/GEDCOM) - 
 - [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Get unified metadata from websites using Open Graph, Microdata, RDFa, Twitter Cards, JSON-LD, HTML, and more.
@@ -1757,7 +1784,6 @@
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [jherr/bun-vs-node-2](https://github.com/jherr/bun-vs-node-2) - Bun vs Node performance comparison - part 2
 - [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
-- [yoshixmk/deno-x-ranking](https://github.com/yoshixmk/deno-x-ranking) - 🦕 Deno Third Party Modules Ranking 👑
 - [Upinel/localhost.direct](https://github.com/Upinel/localhost.direct) - localhost with public CA signed SSL certificate
 - [penpot/penpot-files](https://github.com/penpot/penpot-files) - Publicly released files and assets of Penpot, The Open-Source design & prototyping platform
 - [atlemo/SubtlePatterns](https://github.com/atlemo/SubtlePatterns) - All the patterns
@@ -1781,7 +1807,6 @@
 - [samueldobbie/shelf.gg](https://github.com/samueldobbie/shelf.gg) - A pastebin to find and share useful resources 📚
 - [jstayton/suri](https://github.com/jstayton/suri) - Your own link shortener that's easily deployed as a static site (for free)
 - [gizak/termui](https://github.com/gizak/termui) - Golang terminal dashboard
-- [lumeland/base-blog](https://github.com/lumeland/base-blog) - A template repository to build a blog with Lume static site generator
 - [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [diasks2/pragmatic_segmenter](https://github.com/diasks2/pragmatic_segmenter) - Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.
@@ -2024,6 +2049,7 @@
 
 ## react 
 
+- [AleksandrHovhannisyan/fluid-type-scale-calculator](https://github.com/AleksandrHovhannisyan/fluid-type-scale-calculator) - Generate font size variables for a fluid type scale with CSS clamp.
 - [heysagnik/Linkees](https://github.com/heysagnik/Linkees) - Awesome Linktree clone made with React ⚛️
 - [meilisearch/instant-meilisearch](https://github.com/meilisearch/instant-meilisearch) - The search client to use Meilisearch with InstantSearch.
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
@@ -2087,6 +2113,7 @@
 
 ## rest-api 
 
+- [johnbillion/wp-json-schemas](https://github.com/johnbillion/wp-json-schemas) - JSON schemas for WordPress PHP objects and REST  API responses
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
 ## ruby 
@@ -2264,6 +2291,8 @@
 
 ## typescript 
 
+- [johnbillion/wp-json-schemas](https://github.com/johnbillion/wp-json-schemas) - JSON schemas for WordPress PHP objects and REST  API responses
+- [AleksandrHovhannisyan/fluid-type-scale-calculator](https://github.com/AleksandrHovhannisyan/fluid-type-scale-calculator) - Generate font size variables for a fluid type scale with CSS clamp.
 - [standard/ts-standard](https://github.com/standard/ts-standard) - Typescript style guide, linter, and formatter using StandardJS
 - [saisandeepvaddi/ten-hands](https://github.com/saisandeepvaddi/ten-hands) - ⚡ Simplest way to organize and run command-line tasks
 - [marcolink/contentful-remix-starter-blog](https://github.com/marcolink/contentful-remix-starter-blog) - Remix starter for a Contentful blog (template) project
@@ -2424,6 +2453,7 @@
 
 ## wordpress 
 
+- [johnbillion/wp-json-schemas](https://github.com/johnbillion/wp-json-schemas) - JSON schemas for WordPress PHP objects and REST  API responses
 - [adamsilverstein/modern-images-wp](https://github.com/adamsilverstein/modern-images-wp) - 
 - [Automattic/go-search-replace](https://github.com/Automattic/go-search-replace) - 🚀 Search & replace URLs in WordPress SQL files.
 - [litespeedtech/ols-docker-env](https://github.com/litespeedtech/ols-docker-env) - OpenLiteSpeed Docker Environment
