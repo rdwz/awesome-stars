@@ -18,6 +18,7 @@
 - [Elixir](#elixir)
 - [Gherkin](#gherkin)
 - [Go](#go)
+- [Groovy](#groovy)
 - [HCL](#hcl)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -300,6 +301,10 @@
 - [prasmussen/gdrive](https://github.com/prasmussen/gdrive) - Google Drive CLI Client
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 
+## Groovy 
+
+- [danielnaber/openthesaurus](https://github.com/danielnaber/openthesaurus) - web-based thesaurus search and management
+
 ## HCL 
 
 - [thumbsup/aws-private-gallery](https://github.com/thumbsup/aws-private-gallery) - Host a thumbsup static gallery on AWS
@@ -387,6 +392,7 @@
 
 ## JavaScript 
 
+- [PallaviKatari/ReactTraining](https://github.com/PallaviKatari/ReactTraining) - React is an open source, JavaScript library for developing user interface (UI) in web application. React is developed and released by Facebook.
 - [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - browserless is an efficient way to interact with a headless browser built in top of Puppeteer.
 - [Kikobeats/http-compression](https://github.com/Kikobeats/http-compression) - Adding compression (gzip/brotli) for your HTTP server in Node.js.
 - [standard/semistandard](https://github.com/standard/semistandard) - :icecream: All the goodness of `standard/standard` with semicolons sprinkled on top.
