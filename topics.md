@@ -189,6 +189,7 @@
 
 ## android 
 
+- [rashidRizvi98/YourPersonality](https://github.com/rashidRizvi98/YourPersonality) - An android app to let know users their MBTI personality type
 - [aghontpi/ad-silence](https://github.com/aghontpi/ad-silence) - Mute Ad/promotions from Accuradio, Spotify, TIDAL & Pandora Android. Minimal, extensible & lightweight under 150kb.
 - [Codelessly/ResponsiveFramework](https://github.com/Codelessly/ResponsiveFramework) - Easily make Flutter apps responsive. Automatically adapt UI to different screen sizes. Responsiveness made simple. Demo: https://gallery.codelessly.com/flutterwebsites/minimal/
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
@@ -246,6 +247,7 @@
 
 ## automation 
 
+- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
 - [blopa/Resume-Builder](https://github.com/blopa/Resume-Builder) - Resume Builder is a free open-source project that allows anyone to easily maintain and build any kind of resume.
@@ -521,6 +523,7 @@
 
 ## dart 
 
+- [eniscakircali/2-Match](https://github.com/eniscakircali/2-Match) - An application that matches users by their character types
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
 
 ## data-analysis 
@@ -740,6 +743,7 @@
 
 ## flutter 
 
+- [eniscakircali/2-Match](https://github.com/eniscakircali/2-Match) - An application that matches users by their character types
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [Codelessly/ResponsiveFramework](https://github.com/Codelessly/ResponsiveFramework) - Easily make Flutter apps responsive. Automatically adapt UI to different screen sizes. Responsiveness made simple. Demo: https://gallery.codelessly.com/flutterwebsites/minimal/
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
@@ -938,6 +942,7 @@
 
 ## hacktoberfest 
 
+- [rubynor/bigfive-web](https://github.com/rubynor/bigfive-web) - Website for taking personality tests
 - [Tenpi/waifu2x](https://github.com/Tenpi/waifu2x) - waifu2x image upscaling in Node.js
 - [xperimental/linky](https://github.com/xperimental/linky) - Simple and fast link checker
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speedtest for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
@@ -1100,6 +1105,7 @@
 
 ## java 
 
+- [rashidRizvi98/YourPersonality](https://github.com/rashidRizvi98/YourPersonality) - An android app to let know users their MBTI personality type
 - [hanabi1224/Programming-Language-Benchmarks](https://github.com/hanabi1224/Programming-Language-Benchmarks) - Yet another implementation of computer language benchmarks game
 - [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
 - [burgyl/SelfUpdatingApp](https://github.com/burgyl/SelfUpdatingApp) - An Android Application that can update itself if new releases in GitHub are available.
@@ -1365,6 +1371,7 @@
 
 ## monitoring 
 
+- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [Cyclenerd/static_status](https://github.com/Cyclenerd/static_status) - 🚦Bash script to generate a static status page.
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
 - [ddiiwoong/synology-prometheus](https://github.com/ddiiwoong/synology-prometheus) - Monitoring Synology NAS with snmp-exporter and prometheus
@@ -1622,7 +1629,7 @@
 - [JOJ0/discodos](https://github.com/JOJ0/discodos) - the geekiest DJ tool on the planet
 - [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor) - Open source macOS Cursors.
 - [pixers/imaginator](https://github.com/pixers/imaginator) - A web interface to imagemagick.
-- [projectM-visualizer/frontend-sdl2-rust](https://github.com/projectM-visualizer/frontend-sdl2-rust) - Rust | SDL2-based standalone application that turns your desktop audio into awesome visuals.
+- [projectM-visualizer/frontend-sdl-rust](https://github.com/projectM-visualizer/frontend-sdl-rust) - Rust | SDL2-based standalone application that turns your desktop audio into awesome visuals.
 - [googlefonts/unbounded](https://github.com/googlefonts/unbounded) - Open source, freely available and on-chain funded font.
 - [aaronpk/webmention.io](https://github.com/aaronpk/webmention.io) - Easily enable webmentions and pingbacks on any web page
 - [eldraco/domain_analyzer](https://github.com/eldraco/domain_analyzer) - Analyze the security of any domain by finding all the information possible. Made in python.
@@ -2097,6 +2104,7 @@
 
 ## reactjs 
 
+- [nipunadodan/mbti-app](https://github.com/nipunadodan/mbti-app) - Supplimentary tool for MBTI personality enthusiasts. Used Tailwind on React as the CSS framework, with a dark mode and added PWA capability to make the app more versatile. There's no back-end for this
 - [saisandeepvaddi/ten-hands](https://github.com/saisandeepvaddi/ten-hands) - ⚡ Simplest way to organize and run command-line tasks
 - [thedevelobear/react-rewards](https://github.com/thedevelobear/react-rewards) - A package containing a few micro-interactions you can use to reward your users for little things and make them smile!
 - [burhan-syed/WebRoll](https://github.com/burhan-syed/WebRoll) - A place to submit and discover creations on the internet.
@@ -2287,6 +2295,7 @@
 
 ## twitter 
 
+- [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
 - [libredirect/libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative frontends and backends
 - [astro-community/astro-embed](https://github.com/astro-community/astro-embed) - Experimental embeds provider for Astro
