@@ -942,6 +942,7 @@
 
 ## hacktoberfest 
 
+- [AstroDraw/AstroChart](https://github.com/AstroDraw/AstroChart) - A free and open-source JavaScript library for generating SVG charts to display planets in astrology.
 - [rubynor/bigfive-web](https://github.com/rubynor/bigfive-web) - Website for taking personality tests
 - [Tenpi/waifu2x](https://github.com/Tenpi/waifu2x) - waifu2x image upscaling in Node.js
 - [xperimental/linky](https://github.com/xperimental/linky) - Simple and fast link checker
