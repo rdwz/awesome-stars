@@ -8,6 +8,7 @@
 - [Assembly](#assembly)
 - [Astro](#astro)
 - [AutoIt](#autoit)
+- [Blade](#blade)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -71,6 +72,10 @@
 ## AutoIt 
 
 - [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
+
+## Blade 
+
+- [JulianPrieber/littlelink-custom](https://github.com/JulianPrieber/littlelink-custom) - LittleLink Custom - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Se
 
 ## C 
 
@@ -143,6 +148,7 @@
 
 ## CSS 
 
+- [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree and many.link.
 - [modularscale/modularscale-sass](https://github.com/modularscale/modularscale-sass) - Modular scale calculator built into your Sass
 - [kambrium/c64-startup-screen](https://github.com/kambrium/c64-startup-screen) - A web page that looks like a C64 startup screen
 - [GilbN/theme.park](https://github.com/GilbN/theme.park) - A collection of themes/skins for 50 selfhosted apps!
@@ -394,6 +400,10 @@
 
 ## JavaScript 
 
+- [rebassjs/rebass](https://github.com/rebassjs/rebass) - :atom_symbol: React primitive UI components built with styled-system.
+- [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
+- [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) - A lightweight, open source, and self-hosted alternative to linktree in a Docker container!
+- [techweber/node-js-whois-query](https://github.com/techweber/node-js-whois-query) - This POC written in Node JS queries WHOIS servers for domains, ip addresses and ASN's
 - [AstroDraw/AstroChart](https://github.com/AstroDraw/AstroChart) - A free and open-source JavaScript library for generating SVG charts to display planets in astrology.
 - [nipunadodan/mbti-app](https://github.com/nipunadodan/mbti-app) - Supplimentary tool for MBTI personality enthusiasts. Used Tailwind on React as the CSS framework, with a dark mode and added PWA capability to make the app more versatile. There's no back-end for this
 - [rubynor/bigfive-web](https://github.com/rubynor/bigfive-web) - Website for taking personality tests
@@ -434,6 +444,7 @@
 - [magicmark/composerize](https://github.com/magicmark/composerize) - 🏃→🎼  docker run asdlksjfksdf &gt; docker-composerize up
 - [webkul/myscale](https://github.com/webkul/myscale) - myScale - Quick SVG Icon Resizer
 - [RafidMuhymin/astro-imagetools](https://github.com/RafidMuhymin/astro-imagetools) - Image Optimization tools for the Astro JS framework
+- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free
 - [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
 - [Faboolea/shaders-on-scroll](https://github.com/Faboolea/shaders-on-scroll) - Smooth WebGL Shader Transformations on Scroll
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
@@ -727,6 +738,7 @@
 
 ## PHP 
 
+- [vityabond/hopebilling](https://github.com/vityabond/hopebilling) - The free billing system hopebilling.com
 - [mautic/mautic](https://github.com/mautic/mautic) - Mautic: Open Source Marketing Automation Software.
 - [Okazanta/okazanta-legacy](https://github.com/Okazanta/okazanta-legacy) - An open source status page and monitoring system for everyone. Based on Cachet
 - [henrywhitaker3/Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker) - Continuously track your internet speed
@@ -992,6 +1004,7 @@
 
 ## TypeScript 
 
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [nwesthoff/shiplog](https://github.com/nwesthoff/shiplog) - Menubar app to keep track of running deploys on Vercel & Netlify
 - [johnbillion/wp-json-schemas](https://github.com/johnbillion/wp-json-schemas) - JSON schemas for WordPress PHP objects and REST  API responses
 - [AleksandrHovhannisyan/fluid-type-scale-calculator](https://github.com/AleksandrHovhannisyan/fluid-type-scale-calculator) - Generate font size variables for a fluid type scale with CSS clamp.
@@ -1138,6 +1151,7 @@
 
 ## Vue 
 
+- [favrora/Avatar-Maker](https://github.com/favrora/Avatar-Maker) - Create your own avatar with Vue Avatar Maker app
 - [waltzHao/SVG_Circle](https://github.com/waltzHao/SVG_Circle) - 
 - [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your web with WebCrate, a modern and beautiful bookmarking tool
 - [tutaru99/Internet-Radio-Player-Vue](https://github.com/tutaru99/Internet-Radio-Player-Vue) - Internet Radio Player with an Audio Visualizer made using VueJS, Vuetify & Howler.JS frameworks. The Player has a bunch of radio stations. Check out the demo below.
