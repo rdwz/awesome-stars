@@ -838,6 +838,7 @@
 
 ## go 
 
+- [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [shadawck/awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks) - Collection of tools to build beautiful command line interface in different languages
 - [ellisonleao/vl](https://github.com/ellisonleao/vl) - CLI tool that helps verify current status of URIs in text files
 - [dwisiswant0/tlder](https://github.com/dwisiswant0/tlder) - TLDs finder — check domain name availability across all valid top-level domains.
@@ -875,6 +876,7 @@
 
 ## golang 
 
+- [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [xperimental/linky](https://github.com/xperimental/linky) - Simple and fast link checker
 - [Rosettea/bunnyfetch](https://github.com/Rosettea/bunnyfetch) - 🐰 Tiny system info fetch utility.
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
@@ -950,6 +952,7 @@
 
 ## hacktoberfest 
 
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [AstroDraw/AstroChart](https://github.com/AstroDraw/AstroChart) - A free and open-source JavaScript library for generating SVG charts to display planets in astrology.
 - [rubynor/bigfive-web](https://github.com/rubynor/bigfive-web) - Website for taking personality tests
 - [Tenpi/waifu2x](https://github.com/Tenpi/waifu2x) - waifu2x image upscaling in Node.js
@@ -1548,6 +1551,7 @@
 
 ## others 
 
+- [atomia/atomiadns](https://github.com/atomia/atomiadns) - Atomia DNS
 - [bigdatabysumitm/NotesOfYouTubeSQLSeries](https://github.com/bigdatabysumitm/NotesOfYouTubeSQLSeries) - 
 - [inoda/journal](https://github.com/inoda/journal) - :notebook: A simple self-hosted journaling app
 - [vityabond/hopebilling](https://github.com/vityabond/hopebilling) - The free billing system hopebilling.com
@@ -2170,6 +2174,7 @@
 
 ## rust 
 
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [justinschmitz97/avif.io](https://github.com/justinschmitz97/avif.io) - Convert all images to AVIF for free. No data is sent. The magic happens in your browser.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [Watfaq/PowerSession-rs](https://github.com/Watfaq/PowerSession-rs) - Rust implementation of PowerSession, with new features and enhancements
