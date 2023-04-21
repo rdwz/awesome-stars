@@ -952,6 +952,7 @@
 
 ## hacktoberfest 
 
+- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [AstroDraw/AstroChart](https://github.com/AstroDraw/AstroChart) - A free and open-source JavaScript library for generating SVG charts to display planets in astrology.
 - [rubynor/bigfive-web](https://github.com/rubynor/bigfive-web) - Website for taking personality tests
@@ -1126,6 +1127,7 @@
 
 ## javascript 
 
+- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [rebassjs/rebass](https://github.com/rebassjs/rebass) - :atom_symbol: React primitive UI components built with styled-system.
 - [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) - A lightweight, open source, and self-hosted alternative to linktree in a Docker container!
 - [JulianPrieber/littlelink-custom](https://github.com/JulianPrieber/littlelink-custom) - LittleLink Custom - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Se
@@ -1291,6 +1293,7 @@
 
 ## linux 
 
+- [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG and WebP formats.   You can quickly reduce the file size (and resolution, if you wan
 - [thenurhabib/subnum](https://github.com/thenurhabib/subnum) - Crawl all subdomains and check for subdomain takeover vulnerability.
 - [Cyclenerd/benchmark](https://github.com/Cyclenerd/benchmark) - 🏋️ Bash Script which runs several Linux benchmarks (Sysbench, UnixBench and Geekbench)
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
@@ -1340,6 +1343,7 @@
 
 ## macos 
 
+- [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG and WebP formats.   You can quickly reduce the file size (and resolution, if you wan
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 - [Xaymar/obs-StreamFX](https://github.com/Xaymar/obs-StreamFX) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here
@@ -1411,7 +1415,6 @@
 
 ## mysql 
 
-- [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) - 🛍️ NodeJS E-commerce Platform
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript, fully customizable and developer-first.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
@@ -1551,6 +1554,9 @@
 
 ## others 
 
+- [r7kamura/amazon_url_shortener](https://github.com/r7kamura/amazon_url_shortener) - Chrome extension to automatically shorten Amazon product URL.
+- [Lymphatus/libcaesium](https://github.com/Lymphatus/libcaesium) - The Caesium compression library written in Rust
+- [siddharthvp/toolforge-node-app-base](https://github.com/siddharthvp/toolforge-node-app-base) - Base for creating a node.js app hosted on Toolforge
 - [atomia/atomiadns](https://github.com/atomia/atomiadns) - Atomia DNS
 - [bigdatabysumitm/NotesOfYouTubeSQLSeries](https://github.com/bigdatabysumitm/NotesOfYouTubeSQLSeries) - 
 - [inoda/journal](https://github.com/inoda/journal) - :notebook: A simple self-hosted journaling app
@@ -1994,6 +2000,7 @@
 
 ## postgresql 
 
+- [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) - 🛍️ NodeJS E-commerce Platform
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [practicajs/practica](https://github.com/practicajs/practica) - Node.js solution starter that is production-ready, packed with ✅  best practices and built with simplicity in mind
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, self-hosted session replay.
@@ -2022,6 +2029,7 @@
 
 ## python 
 
+- [axsddlr/rpilocator_api](https://github.com/axsddlr/rpilocator_api) - An Unofficial REST API for checking Raspberry Pi 4 availability https://rpilocator.com/
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [shadawck/awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks) - Collection of tools to build beautiful command line interface in different languages
 - [julianps/kontrolx1](https://github.com/julianps/kontrolx1) - Ableton Live Control Surface for NI Kontrol X1 (MKI)
@@ -2088,6 +2096,7 @@
 
 ## react 
 
+- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) - 🛍️ NodeJS E-commerce Platform
 - [rebassjs/rebass](https://github.com/rebassjs/rebass) - :atom_symbol: React primitive UI components built with styled-system.
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
@@ -2160,6 +2169,7 @@
 
 ## rest-api 
 
+- [axsddlr/rpilocator_api](https://github.com/axsddlr/rpilocator_api) - An Unofficial REST API for checking Raspberry Pi 4 availability https://rpilocator.com/
 - [johnbillion/wp-json-schemas](https://github.com/johnbillion/wp-json-schemas) - JSON schemas for WordPress PHP objects and REST  API responses
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
@@ -2480,6 +2490,7 @@
 
 ## windows 
 
+- [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG and WebP formats.   You can quickly reduce the file size (and resolution, if you wan
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
