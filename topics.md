@@ -74,6 +74,7 @@
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
+- [github-config](#github-config)
 - [go](#go)
 - [golang](#golang)
 - [google](#google)
@@ -134,6 +135,7 @@
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [programming](#programming)
+- [project-management](#project-management)
 - [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
@@ -255,6 +257,7 @@
 
 ## awesome 
 
+- [MarketingPipeline/Awesome-Repo-Template](https://github.com/MarketingPipeline/Awesome-Repo-Template) - An awesome repo template packed with tons of tools & more to kick-start your next project / repo!
 - [deta/awesome-deta](https://github.com/deta/awesome-deta) - Awesome Deta Stuff
 - [dendronhq/awesome-dendron](https://github.com/dendronhq/awesome-dendron) - A big list of Dendron docs, talks, tools, examples, articles, extensions, vaults, showcases, and more that the internet has to offer.
 - [johnjago/awesome-uncopyright](https://github.com/johnjago/awesome-uncopyright) - Curated list of all things public domain
@@ -407,6 +410,7 @@
 
 ## cli 
 
+- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [saisandeepvaddi/ten-hands](https://github.com/saisandeepvaddi/ten-hands) - ⚡ Simplest way to organize and run command-line tasks
 - [shadawck/awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks) - Collection of tools to build beautiful command line interface in different languages
 - [ellisonleao/vl](https://github.com/ellisonleao/vl) - CLI tool that helps verify current status of URIs in text files
@@ -613,6 +617,8 @@
 
 ## docker 
 
+- [golang-templates/seed](https://github.com/golang-templates/seed) - Go application GitHub repository template.
+- [moul/golang-repo-template](https://github.com/moul/golang-repo-template) - 🌀 A template for creating new Golang + Docker + Canonical Domain + Badges + Dependabot + Renovate + GolangCI-lint + Goreleaser + GitHub Actions + Gitpod + Depaware + Git Hooks + ...
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 - [devforth/hothost](https://github.com/devforth/hothost) - Lightweight and minimalistic open-source Servers and HTTP monitor
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
@@ -667,6 +673,7 @@
 
 ## documentation 
 
+- [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
 - [bagder/everything-curl](https://github.com/bagder/everything-curl) - The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
@@ -819,6 +826,7 @@
 
 ## github 
 
+- [MarketingPipeline/Awesome-Repo-Template](https://github.com/MarketingPipeline/Awesome-Repo-Template) - An awesome repo template packed with tons of tools & more to kick-start your next project / repo!
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
 - [buttons/github-buttons](https://github.com/buttons/github-buttons) - :octocat: Unofficial github:buttons
@@ -845,8 +853,15 @@
 - [axelmy318/react-github-scraper](https://github.com/axelmy318/react-github-scraper) - Provides multiple customizable components to automatically load and display GitHub repositories data by just passing the targeted repository!
 - [whiteinge/ok.sh](https://github.com/whiteinge/ok.sh) - A Bourne shell GitHub API client library focused on interfacing with shell scripts
 
+## github-config 
+
+- [MarketingPipeline/Awesome-Repo-Template](https://github.com/MarketingPipeline/Awesome-Repo-Template) - An awesome repo template packed with tons of tools & more to kick-start your next project / repo!
+- [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
+
 ## go 
 
+- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
+- [golang-templates/seed](https://github.com/golang-templates/seed) - Go application GitHub repository template.
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [shadawck/awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks) - Collection of tools to build beautiful command line interface in different languages
 - [ellisonleao/vl](https://github.com/ellisonleao/vl) - CLI tool that helps verify current status of URIs in text files
@@ -885,6 +900,9 @@
 
 ## golang 
 
+- [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
+- [golang-templates/seed](https://github.com/golang-templates/seed) - Go application GitHub repository template.
+- [moul/golang-repo-template](https://github.com/moul/golang-repo-template) - 🌀 A template for creating new Golang + Docker + Canonical Domain + Badges + Dependabot + Renovate + GolangCI-lint + Goreleaser + GitHub Actions + Gitpod + Depaware + Git Hooks + ...
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [xperimental/linky](https://github.com/xperimental/linky) - Simple and fast link checker
 - [Rosettea/bunnyfetch](https://github.com/Rosettea/bunnyfetch) - 🐰 Tiny system info fetch utility.
@@ -1575,6 +1593,11 @@
 
 ## others 
 
+- [strapi/nextjs-corporate-starter](https://github.com/strapi/nextjs-corporate-starter) - Strapi Demo application for Corporate Websites using Next.js
+- [sergiodxa/remix-auth](https://github.com/sergiodxa/remix-auth) - Simple Authentication for Remix
+- [EthicalSource/ethicalsource.dev](https://github.com/EthicalSource/ethicalsource.dev) - Home of the Organization for Ethical Source
+- [kraudcloud/cli](https://github.com/kraudcloud/cli) - 
+- [Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template) - An awesome README template for your projects!
 - [tumblr/tumblr.go](https://github.com/tumblr/tumblr.go) - This is a library which provides structs and functions for accessing the Tumblr API
 - [cfortuner/wellknown](https://github.com/cfortuner/wellknown) - A registry of AI Plugins
 - [hynnot/PERN-stack-boilerplate](https://github.com/hynnot/PERN-stack-boilerplate) - 
@@ -2054,8 +2077,13 @@
 - [nakov/Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatu
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
+## project-management 
+
+- [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
+
 ## pwa 
 
+- [JaneMoroz/astro-ssr](https://github.com/JaneMoroz/astro-ssr) - A simple PWA build with Astro SSR and Strapi CMS.
 - [vc64web/virtualc64web](https://github.com/vc64web/virtualc64web) - vc64web - Commodore C64  Emulator for iPad iPhone Android and the Web with CSDb access for thousands of demos at your fingertip.
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [milligram/awesome-milligram](https://github.com/milligram/awesome-milligram) - A curated list of Milligram resources.
@@ -2451,6 +2479,7 @@
 
 ## visual-studio-code 
 
+- [golang-templates/seed](https://github.com/golang-templates/seed) - Go application GitHub repository template.
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 
 ## vue 
