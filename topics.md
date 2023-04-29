@@ -487,6 +487,7 @@
 ## css 
 
 - [rebassjs/rebass](https://github.com/rebassjs/rebass) - :atom_symbol: React primitive UI components built with styled-system.
+- [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree.
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [AleksandrHovhannisyan/fluid-type-scale-calculator](https://github.com/AleksandrHovhannisyan/fluid-type-scale-calculator) - Generate font size variables for a fluid type scale with CSS clamp.
 - [GilbN/theme.park](https://github.com/GilbN/theme.park) - A collection of themes/skins for 50 selfhosted apps!
@@ -1076,6 +1077,7 @@
 
 ## html 
 
+- [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree.
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [markteekman/advice-generator-app](https://github.com/markteekman/advice-generator-app) - Frontend Mentor challenge "Advice Generator App" using CSS Flexbox and Grid, Accessibility best practices, CSS Animations and the Fetch API for the random advices.
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
@@ -1615,7 +1617,6 @@
 - [bigdatabysumitm/NotesOfYouTubeSQLSeries](https://github.com/bigdatabysumitm/NotesOfYouTubeSQLSeries) - 
 - [inoda/journal](https://github.com/inoda/journal) - :notebook: A simple self-hosted journaling app
 - [vityabond/hopebilling](https://github.com/vityabond/hopebilling) - The free billing system hopebilling.com
-- [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree and many.link.
 - [techweber/node-js-whois-query](https://github.com/techweber/node-js-whois-query) - This POC written in Node JS queries WHOIS servers for domains, ip addresses and ASN's
 - [danielnaber/openthesaurus](https://github.com/danielnaber/openthesaurus) - web-based thesaurus search and management
 - [modularscale/modularscale-sass](https://github.com/modularscale/modularscale-sass) - Modular scale calculator built into your Sass
