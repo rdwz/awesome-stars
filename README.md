@@ -150,6 +150,7 @@
 
 ## CSS 
 
+- [devfreebooks/devfreebooks.github.io](https://github.com/devfreebooks/devfreebooks.github.io) - A huge collection of free books for developers
 - [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree.
 - [modularscale/modularscale-sass](https://github.com/modularscale/modularscale-sass) - Modular scale calculator built into your Sass
 - [kambrium/c64-startup-screen](https://github.com/kambrium/c64-startup-screen) - A web page that looks like a C64 startup screen
@@ -692,6 +693,7 @@
 
 ## Others 
 
+- [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template) - An awesome README template for your projects!
 - [alvessteve/awesome-green-it](https://github.com/alvessteve/awesome-green-it) - An awesome list of sites/books about green IT. Because ecology matters !!
 - [thomkrupa/awesome-climate-tech](https://github.com/thomkrupa/awesome-climate-tech) - A collection of awesome things regarding the Climate tech ecosystem.
