@@ -412,6 +412,7 @@
 
 ## JavaScript 
 
+- [Picorims/wav2bar](https://github.com/Picorims/wav2bar) - Wav2Bar is a tool to make custom audio visualization and export production videos for the audio and music industry.
 - [JaneMoroz/astro-ssr](https://github.com/JaneMoroz/astro-ssr) - A simple PWA build with Astro SSR and Strapi CMS.
 - [pronouns/main](https://github.com/pronouns/main) - Share your personal pronouns and stay updated on your friends' pronouns. Pronouny allows you to update your pronouns and send alerts to your friends.
 - [paweldrozd/eslint-plugin-markdownlint](https://github.com/paweldrozd/eslint-plugin-markdownlint) - Eslint plugin which runs markdownlint. This is github mirror repository of https://gitlab.com/pawelbbdrozd/eslint-plugin-markdownlint
@@ -972,6 +973,7 @@
 
 ## Shell 
 
+- [willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
 - [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
 - [r7kamura/amazon_url_shortener](https://github.com/r7kamura/amazon_url_shortener) - Chrome extension to automatically shorten Amazon product URL.
 - [litespeedtech/ols-dockerfiles](https://github.com/litespeedtech/ols-dockerfiles) - 
