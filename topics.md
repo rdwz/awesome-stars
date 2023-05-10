@@ -1662,7 +1662,7 @@
 - [prenaudin/reservify](https://github.com/prenaudin/reservify) - Util to mark as reserved a a list of words / Blacklisting subdomain ala Slack
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
-- [butterfyme/Butterfy](https://github.com/butterfyme/Butterfy) - 
+- [butterfyme/Sparkable](https://github.com/butterfyme/Sparkable) - 
 - [r7kamura/amazon_url_shortener](https://github.com/r7kamura/amazon_url_shortener) - Chrome extension to automatically shorten Amazon product URL.
 - [Lymphatus/libcaesium](https://github.com/Lymphatus/libcaesium) - The Caesium compression library written in Rust
 - [siddharthvp/toolforge-node-app-base](https://github.com/siddharthvp/toolforge-node-app-base) - Base for creating a node.js app hosted on Toolforge
