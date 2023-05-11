@@ -225,6 +225,7 @@
 
 ## Go 
 
+- [Zibbp/tidal-utils](https://github.com/Zibbp/tidal-utils) - Convert Spotify playlists to Tidal playlists and more.
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [kraudcloud/cli](https://github.com/kraudcloud/cli) - 
 - [moul/golang-repo-template](https://github.com/moul/golang-repo-template) - 🌀 A template for creating new Golang + Docker + Canonical Domain + Badges + Dependabot + Renovate + GolangCI-lint + Goreleaser + GitHub Actions + Gitpod + Depaware + Git Hooks + ...
