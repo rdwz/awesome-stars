@@ -113,6 +113,7 @@
 
 ## C# # 
 
+- [github/gh-actions-importer](https://github.com/github/gh-actions-importer) - GitHub Actions Importer helps you plan and automate the migration of Azure DevOps, CircleCI, GitLab, Jenkins, and Travis CI pipelines to GitHub Actions.
 - [n00mkrad/cupscale](https://github.com/n00mkrad/cupscale) - Image Upscaling GUI based on ESRGAN
 - [philipmat/discogs-xml2db](https://github.com/philipmat/discogs-xml2db) - Imports the discogs.com monthly XML dumps into databases
 - [mganss/CueGen](https://github.com/mganss/CueGen) - Create Rekordbox cue points from Mixed in Key
@@ -810,6 +811,9 @@
 
 ## Python 
 
+- [timrae/spotify_to_tidal](https://github.com/timrae/spotify_to_tidal) - A command line tool for importing your Spotify playlists into Tidal
+- [spotipy-dev/spotipy](https://github.com/spotipy-dev/spotipy) - A light weight Python library for the Spotify Web API
+- [googlefonts/noto-emoji](https://github.com/googlefonts/noto-emoji) - Noto Emoji fonts
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [axsddlr/rpilocator_api](https://github.com/axsddlr/rpilocator_api) - An Unofficial REST API for checking Raspberry Pi 4 availability https://rpilocator.com/
