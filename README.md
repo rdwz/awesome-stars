@@ -397,6 +397,7 @@
 
 ## Java 
 
+- [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [rashidRizvi98/YourPersonality](https://github.com/rashidRizvi98/YourPersonality) - An android app to let know users their MBTI personality type
 - [openaudible/openaudible](https://github.com/openaudible/openaudible) - Audiobook Manager for Audible Users
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
@@ -416,6 +417,8 @@
 
 ## JavaScript 
 
+- [domdomegg/hideytthumbnails-extension](https://github.com/domdomegg/hideytthumbnails-extension) - 🚫 Hide YouTube thumbnails for less clickbaity browsing
+- [gusfahmi/Social-Media-Downloader](https://github.com/gusfahmi/Social-Media-Downloader) - API for Social Media Downloader. (Youtube Downloader, Youtube Playlist Downloader, Instagram Downloader, TikTok Downloader, Soundcloud Downloader, DailyMotion Downloader).
 - [arscan/encom-globe](https://github.com/arscan/encom-globe) - 🌎 WebGL globe based on the boardroom scene from Tron: Legacy
 - [NTag/dotted-map](https://github.com/NTag/dotted-map) - Create futuristic SVG maps, Tron-like, filled with dots or hexagons
 - [abetusk/ResonatorVoyantTarot](https://github.com/abetusk/ResonatorVoyantTarot) - An experiment in creating generative tarot cards.
