@@ -1645,6 +1645,7 @@
 
 ## others 
 
+- [delucis/astro-badge](https://github.com/delucis/astro-badge) - Badges for Astro projects
 - [domdomegg/hideytthumbnails-extension](https://github.com/domdomegg/hideytthumbnails-extension) - 🚫 Hide YouTube thumbnails for less clickbaity browsing
 - [gusfahmi/Social-Media-Downloader](https://github.com/gusfahmi/Social-Media-Downloader) - API for Social Media Downloader. (Youtube Downloader, Youtube Playlist Downloader, Instagram Downloader, TikTok Downloader, Soundcloud Downloader, DailyMotion Downloader).
 - [timrae/spotify_to_tidal](https://github.com/timrae/spotify_to_tidal) - A command line tool for importing your Spotify playlists into Tidal
