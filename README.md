@@ -62,6 +62,7 @@
 
 ## Astro 
 
+- [delucis/astro-badge](https://github.com/delucis/astro-badge) - Badges for Astro projects
 - [quev-dev/simple-tarot](https://github.com/quev-dev/simple-tarot) - ( Work-in-progress ) A front-end web app aiming to create a modern, minimalistic experience for tarot card readings and quizzes. 🃏
 - [t3-oss/init.tips](https://github.com/t3-oss/init.tips) - 
 - [Destiner/astro-analytics](https://github.com/Destiner/astro-analytics) - Astro components for site analytics
