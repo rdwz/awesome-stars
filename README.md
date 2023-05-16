@@ -161,7 +161,7 @@
 - [GilbN/theme.park](https://github.com/GilbN/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 - [OSSPhilippines/freefolio](https://github.com/OSSPhilippines/freefolio) - 100% FREE professional portfolio website templates
 - [erfjs/ejbank](https://github.com/erfjs/ejbank) - 
-- [redwerkz/instagram-bio-link](https://github.com/redwerkz/instagram-bio-link) - For better communication in Instagram with your audience, it is better to have a link that audience can get acquainted with our other media and our services. There are sites that give us this link fre
+- [rdwz/instagram-bio-link](https://github.com/rdwz/instagram-bio-link) - For better communication in Instagram with your audience, it is better to have a link that audience can get acquainted with our other media and our services. There are sites that give us this link fre
 - [ferdium/ferdium-recipes](https://github.com/ferdium/ferdium-recipes) - 
 - [NasserToghiri/instagram-bio-link](https://github.com/NasserToghiri/instagram-bio-link) - For better communication in Instagram with your audience, it is better to have a link that audience can get acquainted with our other media and our services. There are sites that give us this link fre
 - [Benja-media/Ulink](https://github.com/Benja-media/Ulink) - Ulink (Formerly InstaLink) is an open source bio link generator. Ulink uses a simple json file to create a fast biolink! Ulink is a Static site generator that provides your links in a clean Bio link
@@ -419,6 +419,8 @@
 
 ## JavaScript 
 
+- [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
+- [DataStax-Examples/astra-next.js-starter](https://github.com/DataStax-Examples/astra-next.js-starter) - ⚡️ A sample Next.js + DataStax Astra starter app that leverages the AstraDB REST API to manage a character database.
 - [domdomegg/hideytthumbnails-extension](https://github.com/domdomegg/hideytthumbnails-extension) - 🚫 Hide YouTube thumbnails for less clickbaity browsing
 - [gusfahmi/Social-Media-Downloader](https://github.com/gusfahmi/Social-Media-Downloader) - API for Social Media Downloader. (Youtube Downloader, Youtube Playlist Downloader, Instagram Downloader, TikTok Downloader, Soundcloud Downloader, DailyMotion Downloader).
 - [arscan/encom-globe](https://github.com/arscan/encom-globe) - 🌎 WebGL globe based on the boardroom scene from Tron: Legacy
@@ -509,7 +511,7 @@
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [finzzz/tldr](https://github.com/finzzz/tldr) - Minimalistic TLDR Web Client
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
-- [redwerkz/buttr.fyi](https://github.com/redwerkz/buttr.fyi) - butterfy 🌸created at the Rethink Journalism 21 Hackathon
+- [rdwz/buttr.fyi](https://github.com/rdwz/buttr.fyi) - butterfy 🌸created at the Rethink Journalism 21 Hackathon
 - [browserslist/browserslist](https://github.com/browserslist/browserslist) - 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
 - [CulturalMe/meteor-slingshot](https://github.com/CulturalMe/meteor-slingshot) - Upload files directly to AWS S3, Google Cloud Storage and others in meteor
 - [fazt/github-client](https://github.com/fazt/github-client) - A Frontend Application using Pure Javascript and Github API
@@ -542,7 +544,7 @@
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain
 - [js-org/js.org](https://github.com/js-org/js.org) - Dedicated to JavaScript and its awesome community since 2015
-- [redwerkz/js.cool](https://github.com/redwerkz/js.cool) - 为国人开源项目提供免费的子域名（自 2020 年 8 月起），现在支持 Vercel 啦！
+- [rdwz/js.cool](https://github.com/rdwz/js.cool) - 为国人开源项目提供免费的子域名（自 2020 年 8 月起），现在支持 Vercel 啦！
 - [willin/js.cool](https://github.com/willin/js.cool) - 为国人开源项目提供免费的子域名（自 2020 年 8 月起），现在支持 Vercel 啦！
 - [coollabsio/fonts](https://github.com/coollabsio/fonts) - A privacy-friendly drop-in replacement for Google Fonts
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
@@ -612,7 +614,7 @@
 - [marionebl/svg-term-cli](https://github.com/marionebl/svg-term-cli) - Share terminal sessions via SVG and CSS
 - [dar5hak/generator-awesome-list](https://github.com/dar5hak/generator-awesome-list) - :sunglasses: Yeoman generator for GitHub awesome lists
 - [Alex-Rose/fb-messenger-cli](https://github.com/Alex-Rose/fb-messenger-cli) - fb-messenger-cli, console Facebook messenger
-- [redwerkz/set-game](https://github.com/redwerkz/set-game) - Set – Visual card game
+- [rdwz/set-game](https://github.com/rdwz/set-game) - Set – Visual card game
 - [GoogleChromeLabs/postcss-jit-props](https://github.com/GoogleChromeLabs/postcss-jit-props) - A CSS custom property helper based on PostCSS. Supply a pool of variables and this plugin will add them to the stylesheet as they are used.
 - [YIZHUANG/git-repo-npm-bootster](https://github.com/YIZHUANG/git-repo-npm-bootster) - A cli tool that make your repo or npm package look nice.
 - [google/eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog) - A high performance blog template for the 11ty static site generator.
@@ -701,6 +703,7 @@
 
 ## Nunjucks 
 
+- [ineffyble/genders.wtf](https://github.com/ineffyble/genders.wtf) - 
 - [jamstack/jamstack.org](https://github.com/jamstack/jamstack.org) - The official Jamstack site
 - [nhoizey/1y](https://github.com/nhoizey/1y) - A template project to build a short URL manager with Eleventy
 - [lumeland/base-blog](https://github.com/lumeland/base-blog) - A template repository to build a blog with Lume static site generator
@@ -938,7 +941,7 @@
 - [pixers/imaginator](https://github.com/pixers/imaginator) - A web interface to imagemagick.
 - [projectM-visualizer/frontend-sdl-rust](https://github.com/projectM-visualizer/frontend-sdl-rust) - Rust | SDL2-based standalone application that turns your desktop audio into awesome visuals.
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
-- [redwerkz/cadmium](https://github.com/redwerkz/cadmium) - Transforms the colors of a given image according to a given palette
+- [rdwz/cadmium](https://github.com/rdwz/cadmium) - Transforms the colors of a given image according to a given palette
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [spk/rust-w3c_validators](https://github.com/spk/rust-w3c_validators) - Rust wrapper for the World Wide Web Consortium's online validation services
@@ -975,6 +978,7 @@
 
 ## SCSS 
 
+- [aaranxu/adidoks](https://github.com/aaranxu/adidoks) - AdiDoks is a mordern documentation theme, which is a port of the Hugo theme Doks for Zola.
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [EthicalSource/hippocratic-license-3](https://github.com/EthicalSource/hippocratic-license-3) - An ethical license for open source.
 - [teemutammela/auralcandy.net](https://github.com/teemutammela/auralcandy.net) - Source code of AuralCandy.Net - Premium House Music Podcast.
@@ -1004,7 +1008,7 @@
 - [alwaysdata/autodeploy-git-hook](https://github.com/alwaysdata/autodeploy-git-hook) - A simple bash script to deploy on production using Git hooks
 - [essentialkaos/webkaos](https://github.com/essentialkaos/webkaos) - WEBKAOS is a web-server based on latest version of Nginx with many improvements
 - [haya14busa/action-bumpr](https://github.com/haya14busa/action-bumpr) - 💥 Bump semantic version tag on merging Pull Requests with specific lables.
-- [redwerkz/benchmark](https://github.com/redwerkz/benchmark) - 🏋️ Bash Script which runs several Linux benchmarks (Sysbench, UnixBench and Geekbench)
+- [rdwz/benchmark](https://github.com/rdwz/benchmark) - 🏋️ Bash Script which runs several Linux benchmarks (Sysbench, UnixBench and Geekbench)
 - [Cyclenerd/benchmark](https://github.com/Cyclenerd/benchmark) - 🏋️ Bash Script which runs several Linux benchmarks (Sysbench, UnixBench and Geekbench)
 - [Cyclenerd/static_status](https://github.com/Cyclenerd/static_status) - 🚦Bash script to generate a static status page.
 - [shef-er/gitea-woodpecker](https://github.com/shef-er/gitea-woodpecker) - 
@@ -1078,6 +1082,8 @@
 
 ## TypeScript 
 
+- [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
+- [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time.
 - [astuto/astuto](https://github.com/astuto/astuto) - A free, open source, self-hosted customer feedback tool 🦊
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [bejamas/react-redux-blog](https://github.com/bejamas/react-redux-blog) - A frontend blog made with TypeScript, React and Redux Toolkit.
@@ -1207,7 +1213,7 @@
 - [windicss/windicss-analysis](https://github.com/windicss/windicss-analysis) - 🔍 A visual analyzer for Windi CSS
 - [heybokeh/pollen](https://github.com/heybokeh/pollen) - The CSS variables build system
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
-- [redwerkz/personal-astro-theme](https://github.com/redwerkz/personal-astro-theme) - Personal AstroJS theme for Stackbit V2
+- [rdwz/personal-astro-theme](https://github.com/rdwz/personal-astro-theme) - Personal AstroJS theme for Stackbit V2
 - [fell-lucas/chrome-extension-template-preact-vite](https://github.com/fell-lucas/chrome-extension-template-preact-vite) - 
 - [initml/clipdrop-api-samples](https://github.com/initml/clipdrop-api-samples) - Public samples using the ClipDrop API
 - [JeffreyCA/spotify-recently-played-readme](https://github.com/JeffreyCA/spotify-recently-played-readme) - Display your recently played Spotify tracks on your GitHub profile README.
@@ -1253,5 +1259,5 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [redwerkz](https://github.com/redwerkz) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [rdwz](https://github.com/rdwz) has waived all copyright and related or neighboring rights to this work.
 
