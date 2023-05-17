@@ -426,6 +426,7 @@
 
 ## cli 
 
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [saisandeepvaddi/ten-hands](https://github.com/saisandeepvaddi/ten-hands) - ⚡ Simplest way to organize and run command-line tasks
@@ -1653,6 +1654,10 @@
 
 ## others 
 
+- [brianwisti/rgb-astro-adoc](https://github.com/brianwisti/rgb-astro-adoc) - building my blog with astro and asciidoctor
+- [bugout-dev/mirror](https://github.com/bugout-dev/mirror) - Software project analysis
+- [shaked6540/YoutubePlaylistDownloader](https://github.com/shaked6540/YoutubePlaylistDownloader) - A tool to download whole playlists, channels or single videos from youtube and also optionally convert them to almost any format you would like
+- [bluulo/joplin-plugin-code-clipboard](https://github.com/bluulo/joplin-plugin-code-clipboard) - Copy the content of a code block to the clipboard
 - [aaranxu/adidoks](https://github.com/aaranxu/adidoks) - AdiDoks is a mordern documentation theme, which is a port of the Hugo theme Doks for Zola.
 - [ineffyble/genders.wtf](https://github.com/ineffyble/genders.wtf) - 
 - [delucis/astro-badge](https://github.com/delucis/astro-badge) - Badges for Astro projects
@@ -1782,7 +1787,6 @@
 - [rbsec/dnscan](https://github.com/rbsec/dnscan) - 
 - [sa-ma/remix-supabase-tutorial](https://github.com/sa-ma/remix-supabase-tutorial) - Tutorial Example of integrating Supabase in Remix Applications
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
-- [GrapheneOS/Apps](https://github.com/GrapheneOS/Apps) - 
 - [RoelN/Compyx](https://github.com/RoelN/Compyx) - Multicolor OpenType font "Compyx"
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [FranzFlueckiger/Storygram](https://github.com/FranzFlueckiger/Storygram) - Explore and visualize sequential grouping in your data!
@@ -1925,7 +1929,7 @@
 - [zbrox/zola-deploy-action](https://github.com/zbrox/zola-deploy-action) - Github action for building a Zola site and deploying to Github Pages
 - [learnk8s/free-kubernetes](https://github.com/learnk8s/free-kubernetes) - List of Free Trials of Managed Kubernetes Services
 - [prahaladramji/synology-prometheus](https://github.com/prahaladramji/synology-prometheus) - Setup script to install the prometheus stack on a synology NAS
-- [Codibre/anypm](https://github.com/Codibre/anypm) - Your favorite package locally and npm ci in the cloud!
+- [codibre/anypm](https://github.com/codibre/anypm) - Your favorite package locally and npm ci in the cloud!
 - [jboxberger/synology-gitlab-ce](https://github.com/jboxberger/synology-gitlab-ce) - This is a docker based GitLab CE package for Synology NAS server using the original gitlab/gitlab-ce image from hub.docker.com. The goal of this project is to lower the entry barrier for new GitLab us
 - [sblask/webextension-skip-redirect](https://github.com/sblask/webextension-skip-redirect) - Some web pages use intermediary pages before redirecting to a final page. This add-on tries to extract the final url from the intermediary url and goes there straight away if successful.
 - [stevepryde/tauri-yew-demo](https://github.com/stevepryde/tauri-yew-demo) - Demo project for the Tauri + Yew tutorial
@@ -2105,6 +2109,7 @@
 
 ## package-manager 
 
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - Windows Package Manager CLI (aka winget)
 - [dimensionhq/volt](https://github.com/dimensionhq/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
@@ -2238,6 +2243,7 @@
 
 ## react 
 
+- [Klarr-Agency/Circum-Icons](https://github.com/Klarr-Agency/Circum-Icons) - Circum is a open source icon library following Google Material Design principles. Every icon was made using a 24x24 grid.
 - [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time.
 - [astuto/astuto](https://github.com/astuto/astuto) - A free, open source, self-hosted customer feedback tool 🦊
 - [bejamas/react-redux-blog](https://github.com/bejamas/react-redux-blog) - A frontend blog made with TypeScript, React and Redux Toolkit.
@@ -2295,6 +2301,7 @@
 
 ## reactjs 
 
+- [Klarr-Agency/Circum-Icons](https://github.com/Klarr-Agency/Circum-Icons) - Circum is a open source icon library following Google Material Design principles. Every icon was made using a 24x24 grid.
 - [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, stitches and goober) at build time.
 - [phosphor-icons/react](https://github.com/phosphor-icons/react) - A flexible icon family for React
 - [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) - 🛍️ NodeJS E-commerce Platform
@@ -2385,6 +2392,7 @@
 
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
+- [GrapheneOS/Apps](https://github.com/GrapheneOS/Apps) - 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org) - :lock: Chromium's HSTS preload list submission website.
 - [Anon-Planet/thgtoa](https://github.com/Anon-Planet/thgtoa) - The comprehensive guide for online anonymity and OpSec
@@ -2446,6 +2454,7 @@
 
 ## svelte 
 
+- [Klarr-Agency/Circum-Icons](https://github.com/Klarr-Agency/Circum-Icons) - Circum is a open source icon library following Google Material Design principles. Every icon was made using a 24x24 grid.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -2589,6 +2598,7 @@
 
 ## vue 
 
+- [Klarr-Agency/Circum-Icons](https://github.com/Klarr-Agency/Circum-Icons) - Circum is a open source icon library following Google Material Design principles. Every icon was made using a 24x24 grid.
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
 - [favrora/Avatar-Maker](https://github.com/favrora/Avatar-Maker) - Create your own avatar with Vue Avatar Maker app
 - [meilisearch/instant-meilisearch](https://github.com/meilisearch/instant-meilisearch) - The search client to use Meilisearch with InstantSearch.
@@ -2602,6 +2612,7 @@
 
 ## vuejs 
 
+- [Klarr-Agency/Circum-Icons](https://github.com/Klarr-Agency/Circum-Icons) - Circum is a open source icon library following Google Material Design principles. Every icon was made using a 24x24 grid.
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
