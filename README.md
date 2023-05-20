@@ -129,6 +129,7 @@
 
 ## C++ 
 
+- [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
 - [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG and WebP formats.   You can quickly reduce the file size (and resolution, if you wan
 - [mivion/swisseph](https://github.com/mivion/swisseph) - Swiss Ephemeris binding for node.js
 - [alexkay/spek](https://github.com/alexkay/spek) - Acoustic spectrum analyser
