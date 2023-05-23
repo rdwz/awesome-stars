@@ -1905,7 +1905,7 @@
 - [hugopeixoto/mail-tools](https://github.com/hugopeixoto/mail-tools) - Collection of tools to handle email backup and analysis
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [hetznercloud/apps](https://github.com/hetznercloud/apps) - Hetzner Cloud Apps
-- [w4/rgit](https://github.com/w4/rgit) - 🏯 (our git) a gitweb interface written in rust
+- [w4/rgit](https://github.com/w4/rgit) - 🏯 a gitweb interface written in rust
 - [domaindumper/domain-statistics](https://github.com/domaindumper/domain-statistics) - Domain Dumper daily domains states, You can get states of all registered domains from 1 January 1990. We cover 900 plus zone and update on every 24 hours
 - [yanxiu0614/subdomain3](https://github.com/yanxiu0614/subdomain3) - A new generation of tool for discovering subdomains( ip , cdn and so on)
 - [rdwz/js.cool](https://github.com/rdwz/js.cool) - 为国人开源项目提供免费的子域名（自 2020 年 8 月起），现在支持 Vercel 啦！
