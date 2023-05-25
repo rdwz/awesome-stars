@@ -157,6 +157,7 @@
 - [sass](#sass)
 - [scala](#scala)
 - [security](#security)
+- [self-hosted](#self-hosted)
 - [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
@@ -1705,7 +1706,6 @@
 - [siddharthvp/toolforge-node-app-base](https://github.com/siddharthvp/toolforge-node-app-base) - Base for creating a node.js app hosted on Toolforge
 - [atomia/atomiadns](https://github.com/atomia/atomiadns) - Atomia DNS
 - [bigdatabysumitm/NotesOfYouTubeSQLSeries](https://github.com/bigdatabysumitm/NotesOfYouTubeSQLSeries) - 
-- [inoda/journal](https://github.com/inoda/journal) - :notebook: A simple self-hosted journaling app
 - [vityabond/hopebilling](https://github.com/vityabond/hopebilling) - The free billing system hopebilling.com
 - [techweber/node-js-whois-query](https://github.com/techweber/node-js-whois-query) - This POC written in Node JS queries WHOIS servers for domains, ip addresses and ASN's
 - [danielnaber/openthesaurus](https://github.com/danielnaber/openthesaurus) - web-based thesaurus search and management
@@ -1756,7 +1756,6 @@
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [dnstwister/dnstwister](https://github.com/dnstwister/dnstwister) - Domain name permutation as a service
 - [mend/renovate-on-prem](https://github.com/mend/renovate-on-prem) - Mend Renovate On-Premises Documentation & Examples
-- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
 - [ngryman/cz-emoji](https://github.com/ngryman/cz-emoji) - Commitizen adapter formatting commit messages using emojis.
 - [thegreenwebfoundation/co2.js](https://github.com/thegreenwebfoundation/co2.js) - An npm module for accessing the green web API, and estimating the carbon emissions from using digital services
 - [ReadmeCritic/awesome-react](https://github.com/ReadmeCritic/awesome-react) - A collection of awesome things regarding React ecosystem
@@ -1951,7 +1950,7 @@
 - [LinkStackOrg/linkstack-themes](https://github.com/LinkStackOrg/linkstack-themes) - A list of themes for LinkStack. Customize the look of your LinkStack instance with themes. Themes allow you to change the look and feel of your site with a few clicks. Users can submit themes they cre
 - [MagicLike/galaxy](https://github.com/MagicLike/galaxy) - A LittleLink Custom Theme. Galaxy is a dark mode only, minimalist theme. The background consists of a parallax pure CSS animation with a dark gradient and white contrasting elements.
 - [linuxserver/docker-booksonic-air](https://github.com/linuxserver/docker-booksonic-air) - 
-- [nikolaxhristov/fresh-compress](https://github.com/nikolaxhristov/fresh-compress) - 🗜️ FreshJS Compression utilities. Compress HTML, CSS, JavaScript and more.
+- [NikolaRHristov/fresh-compress](https://github.com/NikolaRHristov/fresh-compress) - 🗜️ FreshJS Compression utilities. Compress HTML, CSS, JavaScript and more.
 - [VSCodium/vscodium-insiders](https://github.com/VSCodium/vscodium-insiders) - binary releases of VS Code (Insiders) without MS branding/telemetry/licensing
 - [EndeavourOS-Community-Editions/worm](https://github.com/EndeavourOS-Community-Editions/worm) - Worm CE for EndeavourOS
 - [endeavouros-team/endeavouros-DE-fixes](https://github.com/endeavouros-team/endeavouros-DE-fixes) - fixes for DE vanilla installs on EndeabvourOS
@@ -1983,7 +1982,6 @@
 - [tokotype/generate-webfont](https://github.com/tokotype/generate-webfont) - A guide to installing woff & woff2 using CLI converter
 - [orestbida/cookieconsent](https://github.com/orestbida/cookieconsent) - :cookie: Simple cross-browser cookie-consent plugin written in vanilla js
 - [christopher-kapic/astro-blanding](https://github.com/christopher-kapic/astro-blanding) - A template for agencies/businesses to get a landing page/website built quickly using Astro, Svelte, and TailwindCSS
-- [realaravinth/gitpad](https://github.com/realaravinth/gitpad) - Self-Hosted alternative to GitHub Gists
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [electricbookworks/electric-book](https://github.com/electricbookworks/electric-book) - A Jekyll template for creating books in multiple formats
 - [SPGoding/renovate-config-gitmoji](https://github.com/SPGoding/renovate-config-gitmoji) - A Gitmoji compatible Renovate config.
@@ -1991,7 +1989,6 @@
 - [optionfactory/digit](https://github.com/optionfactory/digit) - Learn git by visualizing it
 - [nimblemachines/analyzing-iana-root-db](https://github.com/nimblemachines/analyzing-iana-root-db) - Simple scripts to fetch and parse the IANA root zone database (the current set of delegated top-level domains (TLDs)) into one of two forms: Lua tables, or a tab-separated CSV file suitable for conver
 - [samueldobbie/shelf.gg](https://github.com/samueldobbie/shelf.gg) - A pastebin to find and share useful resources 📚
-- [jstayton/suri](https://github.com/jstayton/suri) - Your own link shortener that's easily deployed as a static site (for free)
 - [gizak/termui](https://github.com/gizak/termui) - Golang terminal dashboard
 - [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
@@ -2001,7 +1998,6 @@
 - [t413/SinglePaged](https://github.com/t413/SinglePaged) - SinglePaged - Simple Jekyll template
 - [M4FFS/matrix-rain-background-react](https://github.com/M4FFS/matrix-rain-background-react) - A matrix/digital rain effect in React
 - [filegator/filegator](https://github.com/filegator/filegator) - Powerful Multi-User File Manager
-- [umputun/remark42](https://github.com/umputun/remark42) - comment engine
 - [windicss/windicss-analysis](https://github.com/windicss/windicss-analysis) - 🔍 A visual analyzer for Windi CSS
 - [atomiks/moonlight-vscode-theme](https://github.com/atomiks/moonlight-vscode-theme) - A VS Code theme with bubblegum colors on a moonlit background
 - [xz/fonts](https://github.com/xz/fonts) - A fast, open-source CDN for open-source fonts
@@ -2420,6 +2416,33 @@
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2022
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
+
+## self-hosted 
+
+- [astuto/astuto](https://github.com/astuto/astuto) - A free, open source, self-hosted customer feedback tool 🦊
+- [devforth/hothost](https://github.com/devforth/hothost) - Lightweight and minimalistic open-source Servers and HTTP monitor
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, WireGuard, Automation, Ho
+- [inoda/journal](https://github.com/inoda/journal) - :notebook: A simple self-hosted journaling app
+- [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
+- [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree.
+- [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
+- [sissbruecker/linkding](https://github.com/sissbruecker/linkding) - Self-hosted bookmark manager that is designed be to be minimal, fast, and easy to set up using Docker.
+- [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
+- [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best place to find icons for your dashboards.
+- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
+- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
+- [davestephens/ansible-nas](https://github.com/davestephens/ansible-nas) - Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.
+- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted & Git-based PaaS for Kubernetes
+- [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
+- [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
+- [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
+- [realaravinth/gitpad](https://github.com/realaravinth/gitpad) - Self-Hosted alternative to GitHub Gists
+- [jstayton/suri](https://github.com/jstayton/suri) - Your own link shortener that's easily deployed as a static site (for free)
+- [umputun/remark42](https://github.com/umputun/remark42) - comment engine
+- [ironsmile/euterpe](https://github.com/ironsmile/euterpe) - Self-hosted music streaming server 🎶 with RESTful API and Web interface. Think of it as your very own Spotify! ☁️🎧
+- [BaptisteBdn/docker-selfhosted-apps](https://github.com/BaptisteBdn/docker-selfhosted-apps) - Collection of selfhosted apps with docker only ! Traefik, Bitwarden, Wireguard with Pihole, Synapse with Elements, etc.
+- [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
+- [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 
 ## server 
 
