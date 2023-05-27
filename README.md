@@ -702,7 +702,7 @@
 
 - [mend/renovate-on-prem](https://github.com/mend/renovate-on-prem) - Mend Renovate On-Premises Documentation & Examples
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
-- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted & Git-based PaaS for Kubernetes
+- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted Kubernetes based PaaS
 
 ## Nim 
 
@@ -1265,7 +1265,7 @@
 
 ## Zig 
 
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler, and package manager – all in one
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 
 ## License
