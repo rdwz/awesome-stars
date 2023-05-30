@@ -381,6 +381,7 @@
 
 ## c 
 
+- [aubio/aubio](https://github.com/aubio/aubio) - a library for audio and music analysis
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [kornelski/dssim](https://github.com/kornelski/dssim) - Image similarity comparison simulating human perception (multiscale SSIM in Rust)
 - [kornelski/pngquant](https://github.com/kornelski/pngquant) - Lossy PNG compressor — pngquant command based on libimagequant library
@@ -1211,6 +1212,7 @@
 
 ## javascript 
 
+- [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
 - [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate) - A tool to help migrate JavaScript code quickly and conveniently to TypeScript
 - [arscan/encom-globe](https://github.com/arscan/encom-globe) - 🌎 WebGL globe based on the boardroom scene from Tron: Legacy
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
@@ -1507,6 +1509,8 @@
 
 ## music 
 
+- [aubio/aubio](https://github.com/aubio/aubio) - a library for audio and music analysis
+- [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
 - [Picorims/wav2bar](https://github.com/Picorims/wav2bar) - Wav2Bar is a tool to make custom audio visualization and export production videos for the audio and music industry.
 - [aolsenjazz/super-controller](https://github.com/aolsenjazz/super-controller) - Give your MIDI devices super powers: take control of the lights, messages, and communication between controllers.
 - [SYQEL/SYQEL-VJ-Releases](https://github.com/SYQEL/SYQEL-VJ-Releases) - SYQEL VJ Desktop Application enables users to visualize their desktop audio feed and/or microphone audio input. Ideal for DJ's looking to visualize their music while streaming online. Compatible with 
@@ -1664,6 +1668,9 @@
 
 ## others 
 
+- [katyo/aubio-rs](https://github.com/katyo/aubio-rs) - Rust bindings for Aubio library
+- [astrofox-io/astrofox](https://github.com/astrofox-io/astrofox) - Astrofox is a motion graphics program that lets you turn audio into amazing videos.
+- [metabrainz/listenbrainz-android](https://github.com/metabrainz/listenbrainz-android) - Official Android App of ListenBrainz
 - [brianwisti/rgb-astro-adoc](https://github.com/brianwisti/rgb-astro-adoc) - building my blog with astro and asciidoctor
 - [bugout-dev/mirror](https://github.com/bugout-dev/mirror) - Software project analysis
 - [shaked6540/YoutubePlaylistDownloader](https://github.com/shaked6540/YoutubePlaylistDownloader) - A tool to download whole playlists, channels or single videos from youtube and also optionally convert them to almost any format you would like
@@ -2175,6 +2182,7 @@
 
 ## python 
 
+- [aubio/aubio](https://github.com/aubio/aubio) - a library for audio and music analysis
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [axsddlr/rpilocator_api](https://github.com/axsddlr/rpilocator_api) - An Unofficial REST API for checking Raspberry Pi 4 availability https://rpilocator.com/
@@ -2566,6 +2574,7 @@
 
 ## typescript 
 
+- [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
 - [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate) - A tool to help migrate JavaScript code quickly and conveniently to TypeScript
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [bejamas/react-redux-blog](https://github.com/bejamas/react-redux-blog) - A frontend blog made with TypeScript, React and Redux Toolkit.
