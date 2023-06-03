@@ -374,7 +374,6 @@
 - [Rustaceans/rust-cologne](https://github.com/Rustaceans/rust-cologne) - Website for Rust User Group Cologne
 - [argyleink/gui-challenges](https://github.com/argyleink/gui-challenges) - Components from the YouTube show GUI Challenges: accessible, responsive, adaptive and cross browser components.
 - [LinkStackOrg/linkstack-themes](https://github.com/LinkStackOrg/linkstack-themes) - A list of themes for LinkStack. Customize the look of your LinkStack instance with themes. Themes allow you to change the look and feel of your site with a few clicks. Users can submit themes they cre
-- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [MichaIng/DietPi-Docs](https://github.com/MichaIng/DietPi-Docs) - Source repository for the DietPi OS documentation
 - [atlemo/SubtlePatterns](https://github.com/atlemo/SubtlePatterns) - All the patterns
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
@@ -830,6 +829,8 @@
 
 ## Python 
 
+- [shaikhsajid1111/social-media-profile-scrapers](https://github.com/shaikhsajid1111/social-media-profile-scrapers) - Fetch user's data across social media
+- [dhohirpradana/Instagram-Automation](https://github.com/dhohirpradana/Instagram-Automation) - [Python, Typescript] Instagram Automation Post Feed and Story, Integrate Data from Facebook Group and Page
 - [bugout-dev/mirror](https://github.com/bugout-dev/mirror) - Software project analysis
 - [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [timrae/spotify_to_tidal](https://github.com/timrae/spotify_to_tidal) - A command line tool for importing your Spotify playlists into Tidal
@@ -894,6 +895,7 @@
 - [ThereOHM/playlist_scraper](https://github.com/ThereOHM/playlist_scraper) - Python online webradio playlist scraper
 - [unrblt/beets-bandcamp](https://github.com/unrblt/beets-bandcamp) - Plugin for beets (http://beets.io) to use bandcamp as an autotagger source.
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Create UIs for your machine learning model in Python in 3 minutes
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [HorlogeSkynet/archey4](https://github.com/HorlogeSkynet/archey4) - :computer: Maintained fork of the original Archey (Linux) system tool
 - [volitank/nala](https://github.com/volitank/nala) - a wrapper for the apt package manager.
