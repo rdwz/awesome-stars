@@ -1672,6 +1672,7 @@
 
 ## others 
 
+- [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder) - Home of StarCoder: fine-tuning & inference!
 - [pingidentity/astro](https://github.com/pingidentity/astro) - 
 - [RocketCommunicationsInc/astro-components](https://github.com/RocketCommunicationsInc/astro-components) - 
 - [katyo/aubio-rs](https://github.com/katyo/aubio-rs) - Rust bindings for Aubio library
