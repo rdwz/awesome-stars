@@ -1200,7 +1200,7 @@
 - [antfu/sponsorkit](https://github.com/antfu/sponsorkit) - 💖 Toolkit for generating sponsors images 😄
 - [IamFlowZ/ssh-bm](https://github.com/IamFlowZ/ssh-bm) - An ssh bookmarking program
 - [axe312ger/sqip](https://github.com/axe312ger/sqip) - "SQIP" (pronounced \skwɪb\ like the non-magical folk of magical descent) is a  SVG-based LQIP technique.
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Nightly Build artifacts for https://github.com/BuilderIO/qwik
 - [practicajs/practica](https://github.com/practicajs/practica) - Node.js solution starter that is production-ready, packed with ✅  best practices and built with simplicity in mind
 - [codibre/anypm](https://github.com/codibre/anypm) - Your favorite package locally and npm ci in the cloud!
 - [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built by Salesforce.
