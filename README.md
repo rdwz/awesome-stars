@@ -1199,7 +1199,7 @@
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [denosaurs/mod.land](https://github.com/denosaurs/mod.land) - 📦 Pretty subdomains for you deno project
 - [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
-- [audapolis/audapolis](https://github.com/audapolis/audapolis) - an editor for spoken-word audio with automatic transcription
+- [bugbakery/audapolis](https://github.com/bugbakery/audapolis) - an editor for spoken-word audio with automatic transcription
 - [antfu/sponsorkit](https://github.com/antfu/sponsorkit) - 💖 Toolkit for generating sponsors images 😄
 - [IamFlowZ/ssh-bm](https://github.com/IamFlowZ/ssh-bm) - An ssh bookmarking program
 - [axe312ger/sqip](https://github.com/axe312ger/sqip) - "SQIP" (pronounced \skwɪb\ like the non-magical folk of magical descent) is a  SVG-based LQIP technique.
@@ -1248,7 +1248,7 @@
 - [GoogleChromeLabs/proxx](https://github.com/GoogleChromeLabs/proxx) - A game of proximity
 - [Princesseuh/astro-social-images](https://github.com/Princesseuh/astro-social-images) - Social image generator for Astro
 - [ixartz/Astro-boilerplate](https://github.com/ixartz/Astro-boilerplate) - 🚀 Astro boilerplate with responsive blog and portfolio template using TypeScript and React styled with Tailwind CSS ⚡️ Made with developer experience first: TypeScript + ESLint + Prettier + Husky + Li
-- [botpress/botpress](https://github.com/botpress/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
+- [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A wrapper around YouTube's internal API — reverse engineering InnerTube
