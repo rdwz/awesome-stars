@@ -158,6 +158,7 @@
 
 ## CSS 
 
+- [appzic/astro-reset-css](https://github.com/appzic/astro-reset-css) - Astro Component for CSS reset like tailwind base
 - [RocketCommunicationsInc/astro-components](https://github.com/RocketCommunicationsInc/astro-components) - 
 - [brianwisti/rgb-astro-adoc](https://github.com/brianwisti/rgb-astro-adoc) - building my blog with astro and asciidoctor
 - [devfreebooks/devfreebooks.github.io](https://github.com/devfreebooks/devfreebooks.github.io) - A huge collection of free books for developers
@@ -425,6 +426,9 @@
 
 ## JavaScript 
 
+- [realvjy/nxt-lnk](https://github.com/realvjy/nxt-lnk) - Custom bio links for creatives who love coding. Made this first to use for my own weblinks vjy.me/lnk  A perfect custom alternative for linktree, bio and other shortner platform.
+- [mafiosnik777/enhancr](https://github.com/mafiosnik777/enhancr) - Video Frame Interpolation & Super Resolution using NVIDIA's TensorRT & Tencent's NCNN inference, beautifully crafted and packaged into a single app
+- [rschristian/astro-preact-twind](https://github.com/rschristian/astro-preact-twind) - Astro integration for using Preact & Twind
 - [pingidentity/astro](https://github.com/pingidentity/astro) - 
 - [astrofox-io/astrofox](https://github.com/astrofox-io/astrofox) - Astrofox is a motion graphics program that lets you turn audio into amazing videos.
 - [truethari/reactfolio](https://github.com/truethari/reactfolio) - Reactfolio is a sleek and responsive personal portfolio template built using React, perfect for showcasing your work and skills in a professional manner.
@@ -709,7 +713,6 @@
 ## Mustache 
 
 - [mend/renovate-on-prem](https://github.com/mend/renovate-on-prem) - Mend Renovate On-Premises Documentation & Examples
-- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 - [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted PaaS for Kubernetes
 
 ## Nim 
@@ -726,6 +729,7 @@
 
 ## Others 
 
+- [ekohrt/davinci_notebook](https://github.com/ekohrt/davinci_notebook) - A collection of AI-generated sketches in the style of Leonardo da Vinci's journals
 - [w3f/unbounded](https://github.com/w3f/unbounded) - Open source, freely available and on-chain funded font.
 - [astrotarot-ca/medium](https://github.com/astrotarot-ca/medium) - The main astrotarot.ca asset repository.
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
@@ -1087,6 +1091,7 @@
 ## Smarty 
 
 - [isaron/gitea-kubernetes](https://github.com/isaron/gitea-kubernetes) - Setup Gitea on Kubernetes
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 
 ## Starlark 
 
@@ -1104,6 +1109,7 @@
 
 ## TypeScript 
 
+- [Leonardo-Interactive/leonardo-ts-sdk](https://github.com/Leonardo-Interactive/leonardo-ts-sdk) - Typescript SDK for Leonardo AI
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate) - A tool to help migrate JavaScript code quickly and conveniently to TypeScript
