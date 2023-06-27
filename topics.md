@@ -256,6 +256,7 @@
 
 ## artificial-intelligence 
 
+- [mafiosnik777/enhancr](https://github.com/mafiosnik777/enhancr) - Video Frame Interpolation & Super Resolution using NVIDIA's TensorRT & Tencent's NCNN inference, beautifully crafted and packaged into a single app
 - [cderinbogaz/namekrea](https://github.com/cderinbogaz/namekrea) - NameKrea is an AI Domain Name Generator which uses GPT-2
 
 ## atom 
@@ -513,6 +514,7 @@
 
 ## css 
 
+- [appzic/astro-reset-css](https://github.com/appzic/astro-reset-css) - Astro Component for CSS reset like tailwind base
 - [rebassjs/rebass](https://github.com/rebassjs/rebass) - :atom_symbol: React primitive UI components built with styled-system.
 - [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree.
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
@@ -720,6 +722,7 @@
 
 ## electron 
 
+- [mafiosnik777/enhancr](https://github.com/mafiosnik777/enhancr) - Video Frame Interpolation & Super Resolution using NVIDIA's TensorRT & Tencent's NCNN inference, beautifully crafted and packaged into a single app
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
 - [Picorims/wav2bar](https://github.com/Picorims/wav2bar) - Wav2Bar is a tool to make custom audio visualization and export production videos for the audio and music industry.
 - [zadam/trilium](https://github.com/zadam/trilium) - Build your personal knowledge base with Trilium Notes
@@ -1557,6 +1560,7 @@
 
 ## nextjs 
 
+- [realvjy/nxt-lnk](https://github.com/realvjy/nxt-lnk) - Custom bio links for creatives who love coding. Made this first to use for my own weblinks vjy.me/lnk  A perfect custom alternative for linktree, bio and other shortner platform.
 - [DataStax-Examples/astra-next.js-starter](https://github.com/DataStax-Examples/astra-next.js-starter) - ⚡️ A sample Next.js + DataStax Astra starter app that leverages the AstraDB REST API to manage a character database.
 - [AleksandrHovhannisyan/fluid-type-scale-calculator](https://github.com/AleksandrHovhannisyan/fluid-type-scale-calculator) - Generate font size variables for a fluid type scale with CSS clamp.
 - [justinschmitz97/avif.io](https://github.com/justinschmitz97/avif.io) - Convert all images to AVIF for free. No data is sent. The magic happens in your browser.
@@ -1684,6 +1688,9 @@
 
 ## others 
 
+- [Leonardo-Interactive/leonardo-ts-sdk](https://github.com/Leonardo-Interactive/leonardo-ts-sdk) - Typescript SDK for Leonardo AI
+- [ekohrt/davinci_notebook](https://github.com/ekohrt/davinci_notebook) - A collection of AI-generated sketches in the style of Leonardo da Vinci's journals
+- [rschristian/astro-preact-twind](https://github.com/rschristian/astro-preact-twind) - Astro integration for using Preact & Twind
 - [jpaddeo/treelink](https://github.com/jpaddeo/treelink) - Personal link tree
 - [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder) - Home of StarCoder: fine-tuning & inference!
 - [pingidentity/astro](https://github.com/pingidentity/astro) - 
