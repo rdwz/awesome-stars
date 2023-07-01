@@ -486,7 +486,6 @@
 - [thegreenwebfoundation/co2.js](https://github.com/thegreenwebfoundation/co2.js) - An npm module for accessing the green web API, and estimating the carbon emissions from using digital services
 - [words/automated-readability](https://github.com/words/automated-readability) - Formula to detect ease of reading according to the Automated Readability Index (1967)
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
-- [justinschmitz97/avif.io](https://github.com/justinschmitz97/avif.io) - Convert all images to AVIF for free. No data is sent. The magic happens in your browser.
 - [johnsorrentino/favicon.js](https://github.com/johnsorrentino/favicon.js) - Given a HTML5 canvas return an ICO formatted favicon.
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [buttons/github-buttons](https://github.com/buttons/github-buttons) - :octocat: Unofficial github:buttons
@@ -696,6 +695,7 @@
 
 ## MDX 
 
+- [justinschmitz97/avif.io](https://github.com/justinschmitz97/avif.io) - Convert all images to AVIF for free. No data is sent. The magic happens in your browser.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 
 ## Makefile 
