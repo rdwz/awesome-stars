@@ -427,6 +427,7 @@
 
 ## JavaScript 
 
+- [sindresorhus/pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots
 - [realvjy/nxt-lnk](https://github.com/realvjy/nxt-lnk) - Custom bio links for creatives who love coding. Made this first to use for my own weblinks vjy.me/lnk  A perfect custom alternative for linktree, bio and other shortner platform.
 - [mafiosnik777/enhancr](https://github.com/mafiosnik777/enhancr) - Video Frame Interpolation & Super Resolution using NVIDIA's TensorRT & Tencent's NCNN inference, beautifully crafted and packaged into a single app
 - [rschristian/astro-preact-twind](https://github.com/rschristian/astro-preact-twind) - Astro integration for using Preact & Twind
@@ -840,6 +841,8 @@
 
 ## Python 
 
+- [techleadhd/chatgpt-retrieval](https://github.com/techleadhd/chatgpt-retrieval) - 
+- [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [sam5epi0l/BotTuber](https://github.com/sam5epi0l/BotTuber) - Fully Automated YouTube Channel ▶️with Added Extra Features (Automated Title, Description, Tags, Watermark and much more)
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder) - Home of StarCoder: fine-tuning & inference!
@@ -1111,6 +1114,7 @@
 
 ## TypeScript 
 
+- [denoland/saaskit](https://github.com/denoland/saaskit) - A modern SaaS template built on Fresh.
 - [campvanilla/casualdb](https://github.com/campvanilla/casualdb) - Simple JSON "database" for Deno with type-safety! ⚡️
 - [Leonardo-Interactive/leonardo-ts-sdk](https://github.com/Leonardo-Interactive/leonardo-ts-sdk) - Typescript SDK for Leonardo AI
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
