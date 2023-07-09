@@ -1695,6 +1695,7 @@
 
 ## others 
 
+- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - 🔉 Youtube Videos Transcription with OpenAI's Whisper
 - [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments) - Clone, deploy, and fully customize a SaaS subscription application with Next.js.
 - [stripe-samples/subscription-use-cases](https://github.com/stripe-samples/subscription-use-cases) - Create subscriptions with fixed prices or usage based billing.
