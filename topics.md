@@ -435,6 +435,7 @@
 
 ## cli 
 
+- [lightpohl/podcast-dl](https://github.com/lightpohl/podcast-dl) - CLI for downloading and archiving podcasts.
 - [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive command line tool for using emojis on commits. 💻
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
@@ -1050,7 +1051,7 @@
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
 - [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
-- [AstroDraw/AstroChart](https://github.com/AstroDraw/AstroChart) - A free and open-source JavaScript library for generating SVG charts to display planets in astrology.
+- [AstroDraw/AstroChart](https://github.com/AstroDraw/AstroChart) - A free and open-source TypeScript library for generating SVG charts to display planets in astrology.
 - [rubynor/bigfive-web](https://github.com/rubynor/bigfive-web) - Website for taking personality tests
 - [Tenpi/waifu2x](https://github.com/Tenpi/waifu2x) - waifu2x image upscaling in Node.js
 - [xperimental/linky](https://github.com/xperimental/linky) - Simple and fast link checker
@@ -1695,6 +1696,8 @@
 
 ## others 
 
+- [jojeyh/subtitler](https://github.com/jojeyh/subtitler) - 
+- [m1guelpf/yt-whisper](https://github.com/m1guelpf/yt-whisper) - Using OpenAI's Whisper to automatically generate YouTube subtitles
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - 🔉 Youtube Videos Transcription with OpenAI's Whisper
 - [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments) - Clone, deploy, and fully customize a SaaS subscription application with Next.js.
@@ -2267,6 +2270,7 @@
 
 ## python3 
 
+- [Kabanosk/whisper-website](https://github.com/Kabanosk/whisper-website) - Simple web application, which can be used to convert audio to subtitles by OpenAI's Whisper model
 - [sam5epi0l/BotTuber](https://github.com/sam5epi0l/BotTuber) - Fully Automated YouTube Channel ▶️with Added Extra Features (Automated Title, Description, Tags, Watermark and much more)
 - [manuelzander/ra-scraper](https://github.com/manuelzander/ra-scraper) - Scraper for Resident Advisor (https://residentadvisor.net/) events, prices and lineups using scrapy
 - [HorlogeSkynet/archey4](https://github.com/HorlogeSkynet/archey4) - :computer: Maintained fork of the original Archey (Linux) system tool
@@ -2762,6 +2766,7 @@
 
 ## website 
 
+- [Kabanosk/whisper-website](https://github.com/Kabanosk/whisper-website) - Simple web application, which can be used to convert audio to subtitles by OpenAI's Whisper model
 - [open-domains/register](https://github.com/open-domains/register) - Free subdomains for personal sites, open-source projects, and more.
 - [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org) - Source of open-vsx.org
 - [aakhilv/runs-on.tech](https://github.com/aakhilv/runs-on.tech) - Free 'runs-on.tech' subdomains for personal sites, open-source projects, and more.
