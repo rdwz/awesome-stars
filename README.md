@@ -227,6 +227,7 @@
 
 ## Go 
 
+- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers
 - [haccer/available](https://github.com/haccer/available) - Domain availability checking for Golang
 - [Zibbp/tidal-utils](https://github.com/Zibbp/tidal-utils) - Convert Spotify playlists to Tidal playlists and more.
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
@@ -421,6 +422,9 @@
 
 ## JavaScript 
 
+- [jmisavage/red-snapper](https://github.com/jmisavage/red-snapper) - Package to take snapshots with headless chrome
+- [halvves/shader-doodle](https://github.com/halvves/shader-doodle) - A friendly web-component for writing and rendering shaders.
+- [PaulBratslavsky/strapi-chat-blog-repo](https://github.com/PaulBratslavsky/strapi-chat-blog-repo) - 
 - [lightpohl/podcast-dl](https://github.com/lightpohl/podcast-dl) - CLI for downloading and archiving podcasts.
 - [jojeyh/subtitler](https://github.com/jojeyh/subtitler) - 
 - [stripe-samples/subscription-use-cases](https://github.com/stripe-samples/subscription-use-cases) - Create subscriptions with fixed prices or usage based billing.
@@ -1117,6 +1121,7 @@
 
 ## TypeScript 
 
+- [supabase-community/deno-fresh-openai-doc-search](https://github.com/supabase-community/deno-fresh-openai-doc-search) - Template for building your own custom ChatGPT style doc search powered by Fresh, Deno, OpenAI, and Supabase.
 - [xxcodianxx/youtube-dl-web](https://github.com/xxcodianxx/youtube-dl-web) - A good web interface for youtube-dl that allows you to download arbitrary mixes of audio and video, including up to the highest quality such as 8K.
 - [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) - An open-source ChatGPT app with a voice
 - [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
@@ -1209,9 +1214,9 @@
 - [iongion/podman-desktop-companion](https://github.com/iongion/podman-desktop-companion) - Podman desktop companion
 - [contributor-assistant/contributor-assistant](https://github.com/contributor-assistant/contributor-assistant) - The Contributor Assistant supports and simplifies Open Source collaboration.
 - [JulianCataldo/web-garden](https://github.com/JulianCataldo/web-garden) - Building blocks for making progressive and future-proof websites. Components collection features Astro, HTML, SCSS, JS, TS… Configurations features ESLint, Prettier, Stylelint…
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Seamlessly visualize your JSON data instantly into graphs.
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [andstor/file-existence-action](https://github.com/andstor/file-existence-action) - :file_folder: :octocat: GitHub Action to check for file existence
-- [deepsourcelabs/shifty](https://github.com/deepsourcelabs/shifty) - Shifty is a tiny zero-dependency secrets generator, built for the web using TypeScript.
+- [DeepSourceCorp/shifty](https://github.com/DeepSourceCorp/shifty) - Shifty is a tiny zero-dependency secrets generator, built for the web using TypeScript.
 - [poppinss/cliui](https://github.com/poppinss/cliui) - Opinionated UI KIT for Command Line apps
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 - [nurpax/c64jasm](https://github.com/nurpax/c64jasm) - C64 6502 assembler in TypeScript
