@@ -410,6 +410,7 @@
 
 ## chatgpt 
 
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [supabase-community/deno-fresh-openai-doc-search](https://github.com/supabase-community/deno-fresh-openai-doc-search) - Template for building your own custom ChatGPT style doc search powered by Fresh, Deno, OpenAI, and Supabase.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) - An open-source ChatGPT app with a voice
@@ -619,7 +620,7 @@
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [tarantool/tarantool](https://github.com/tarantool/tarantool) - Get your data in RAM. Get compute close to data. Enjoy the performance.
 - [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
-- [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
+- [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb) - Peer-to-Peer Databases for the Decentralized Web
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 
 ## deep-learning 
@@ -757,6 +758,7 @@
 
 ## electron 
 
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
 - [mafiosnik777/enhancr](https://github.com/mafiosnik777/enhancr) - Video Frame Interpolation & Super Resolution using NVIDIA's TensorRT & Tencent's NCNN inference, beautifully crafted and packaged into a single app
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
@@ -1260,7 +1262,7 @@
 
 ## ipfs 
 
-- [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
+- [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb) - Peer-to-Peer Databases for the Decentralized Web
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 
 ## java 
@@ -1460,6 +1462,7 @@
 
 ## linux 
 
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
 - [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG and WebP formats.   You can quickly reduce the file size (and resolution, if you wan
 - [thenurhabib/subnum](https://github.com/thenurhabib/subnum) - Crawl all subdomains and check for subdomain takeover vulnerability.
@@ -1493,6 +1496,7 @@
 
 ## lua 
 
+- [AstroNvim/astrotheme](https://github.com/AstroNvim/astrotheme) - The default colorscheme used by AstroNvim
 - [spotify/annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
 - [tarantool/tarantool](https://github.com/tarantool/tarantool) - Get your data in RAM. Get compute close to data. Enjoy the performance.
 - [xoac/nvim](https://github.com/xoac/nvim) - Simple and ready configuration for neovim(nvim) with LSP. Inited with rust and go support
@@ -1500,6 +1504,8 @@
 
 ## mac 
 
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [openaudible/openaudible](https://github.com/openaudible/openaudible) - Audiobook Manager for Audible Users
 
@@ -1581,6 +1587,8 @@
 
 ## music 
 
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [aubio/aubio](https://github.com/aubio/aubio) - a library for audio and music analysis
@@ -1606,6 +1614,7 @@
 
 ## neovim 
 
+- [AstroNvim/astrotheme](https://github.com/AstroNvim/astrotheme) - The default colorscheme used by AstroNvim
 - [David-Else/developer-workstation-setup-script](https://github.com/David-Else/developer-workstation-setup-script) - Post-install script for Fedora and RHEL 9 clones to create your ultimate development environment
 - [xoac/nvim](https://github.com/xoac/nvim) - Simple and ready configuration for neovim(nvim) with LSP. Inited with rust and go support
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
@@ -1642,6 +1651,7 @@
 
 ## node 
 
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) - A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container!
 - [justinschmitz97/avif.io](https://github.com/justinschmitz97/avif.io) - Convert all images to AVIF for free. No data is sent. The magic happens in your browser.
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
@@ -1754,6 +1764,9 @@
 
 ## others 
 
+- [mmarquez76/AstrologyClock](https://github.com/mmarquez76/AstrologyClock) - Displays time and astrological data (moon phases, positions of planets & celestial points in zodiac)
+- [rewbs/butterchurn-recorder](https://github.com/rewbs/butterchurn-recorder) - 
+- [free-music-by-eatme/Milkdrop-Butterchurn-for-Web-v2.6.7.1e-complete-by-Geiss-Flexi-JBerg-EatMe](https://github.com/free-music-by-eatme/Milkdrop-Butterchurn-for-Web-v2.6.7.1e-complete-by-Geiss-Flexi-JBerg-EatMe) - Butterchurn is a WebGL implementation of the Milkdrop Visualizer
 - [winkerVSbecks/solarstorm](https://github.com/winkerVSbecks/solarstorm) - 
 - [kevinkhagan/adinkra-icons](https://github.com/kevinkhagan/adinkra-icons) - 
 - [ya-mouse/phpbb-scraper](https://github.com/ya-mouse/phpbb-scraper) - Multithreaded and Multiprocess Scraper for phpBB
@@ -2234,7 +2247,7 @@
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
 - [webtorrent/bittorrent-dht](https://github.com/webtorrent/bittorrent-dht) - 🕸 Simple, robust, BitTorrent DHT implementation
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
-- [orbitdb/orbit-db](https://github.com/orbitdb/orbit-db) - Peer-to-Peer Databases for the Decentralized Web
+- [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb) - Peer-to-Peer Databases for the Decentralized Web
 - [ipfs/ipfs-desktop](https://github.com/ipfs/ipfs-desktop) - An unobtrusive and user-friendly desktop application for IPFS on Windows, Mac and Linux.
 
 ## package-manager 
@@ -2283,6 +2296,7 @@
 
 ## programming 
 
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [Iosevka-Mayukai/Iosevka-Mayukai](https://github.com/Iosevka-Mayukai/Iosevka-Mayukai) - Font based on Iosevka Custom Build, with combination from Iosevka SS04 Menlo, SS07 Monaco,  SS09 Source Code Pro, SS12 Ubuntu Mono, SS14 Jetbrains Mono, Hack Style, and some Nerd Font Patching.
 - [nakov/Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatu
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
@@ -2302,6 +2316,7 @@
 
 ## python 
 
+- [g-battaglia/kerykeion](https://github.com/g-battaglia/kerykeion) - Kerykeion is a python library for astrology. It can generate SVG charts and extract all data about a birthchart, a composite chart and a transit chart.
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [JosephLai241/URS](https://github.com/JosephLai241/URS) - Universal Reddit Scraper - A comprehensive Reddit scraping/archival command-line tool.
 - [themagicalmammal/wikibot](https://github.com/themagicalmammal/wikibot) - A :robot: which provides features from Wikipedia like summary, title searches, location API etc.
@@ -2499,6 +2514,7 @@
 
 ## rust 
 
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [JosephLai241/URS](https://github.com/JosephLai241/URS) - Universal Reddit Scraper - A comprehensive Reddit scraping/archival command-line tool.
 - [valmisson/tauri-app-template](https://github.com/valmisson/tauri-app-template) - A template for building desktop applications with Tauri
 - [TimSusa/montauri-editor](https://github.com/TimSusa/montauri-editor) - A light weight simple crossplatform text editor based on Monaco Editor and build on Tauri.
@@ -2710,6 +2726,7 @@
 
 ## twitter 
 
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
@@ -2788,6 +2805,7 @@
 
 ## vim 
 
+- [AstroNvim/astrotheme](https://github.com/AstroNvim/astrotheme) - The default colorscheme used by AstroNvim
 - [David-Else/developer-workstation-setup-script](https://github.com/David-Else/developer-workstation-setup-script) - Post-install script for Fedora and RHEL 9 clones to create your ultimate development environment
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [susam/uncap](https://github.com/susam/uncap) - Map Caps Lock to Escape or any key to any key
@@ -2879,6 +2897,7 @@
 
 ## windows 
 
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
 - [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG and WebP formats.   You can quickly reduce the file size (and resolution, if you wan
