@@ -537,6 +537,7 @@
 
 ## css 
 
+- [markteekman/frontend-resources](https://github.com/markteekman/frontend-resources) - A list of resources concerning front-end web development. From HTML, CSS and JavaScript to testing, accessibility, Atom packages, UI Design and Design Systems.
 - [ariqnrnns/zauberhaft-astro](https://github.com/ariqnrnns/zauberhaft-astro) - FREE one page agency Astro 1.6 template with built-in dark mode to supercharge your project. Zauberhaft is available in: HTML, Next.js, Gatsby & Astro
 - [williamhzo/astro-cube](https://github.com/williamhzo/astro-cube) - A minimal Astro starter template with CUBE CSS 🧑‍🚀 🧊
 - [sanderblue/solar-system-threejs](https://github.com/sanderblue/solar-system-threejs) - The Solar System modeled to scale with Three.js
@@ -1190,6 +1191,7 @@
 
 ## html 
 
+- [markteekman/frontend-resources](https://github.com/markteekman/frontend-resources) - A list of resources concerning front-end web development. From HTML, CSS and JavaScript to testing, accessibility, Atom packages, UI Design and Design Systems.
 - [ariqnrnns/zauberhaft-astro](https://github.com/ariqnrnns/zauberhaft-astro) - FREE one page agency Astro 1.6 template with built-in dark mode to supercharge your project. Zauberhaft is available in: HTML, Next.js, Gatsby & Astro
 - [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree.
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
@@ -1276,6 +1278,7 @@
 
 ## javascript 
 
+- [markteekman/frontend-resources](https://github.com/markteekman/frontend-resources) - A list of resources concerning front-end web development. From HTML, CSS and JavaScript to testing, accessibility, Atom packages, UI Design and Design Systems.
 - [jwagner/simplex-noise.js](https://github.com/jwagner/simplex-noise.js) - A fast simplex noise implementation in Javascript / Typescript.
 - [TimSusa/montauri-editor](https://github.com/TimSusa/montauri-editor) - A light weight simple crossplatform text editor based on Monaco Editor and build on Tauri.
 - [halvves/shader-doodle](https://github.com/halvves/shader-doodle) - A friendly web-component for writing and rendering shaders.
@@ -1764,6 +1767,7 @@
 
 ## others 
 
+- [mozilla/observatory-cli](https://github.com/mozilla/observatory-cli) - 
 - [mmarquez76/AstrologyClock](https://github.com/mmarquez76/AstrologyClock) - Displays time and astrological data (moon phases, positions of planets & celestial points in zodiac)
 - [rewbs/butterchurn-recorder](https://github.com/rewbs/butterchurn-recorder) - 
 - [free-music-by-eatme/Milkdrop-Butterchurn-for-Web-v2.6.7.1e-complete-by-Geiss-Flexi-JBerg-EatMe](https://github.com/free-music-by-eatme/Milkdrop-Butterchurn-for-Web-v2.6.7.1e-complete-by-Geiss-Flexi-JBerg-EatMe) - Butterchurn is a WebGL implementation of the Milkdrop Visualizer
