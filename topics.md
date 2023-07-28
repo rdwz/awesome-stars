@@ -173,6 +173,7 @@
 - [telegram](#telegram)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
+- [termux](#termux)
 - [terraform](#terraform)
 - [testing](#testing)
 - [twitter](#twitter)
@@ -1568,6 +1569,7 @@
 
 - [xxcodianxx/youtube-dl-web](https://github.com/xxcodianxx/youtube-dl-web) - A good web interface for youtube-dl that allows you to download arbitrary mixes of audio and video, including up to the highest quality such as 8K.
 - [carloscuesta/materialshell](https://github.com/carloscuesta/materialshell) - A material design theme for your terminal. ✨
+- [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 
 ## mongodb 
@@ -1767,6 +1769,7 @@
 
 ## others 
 
+- [ShanonPearce/ASH-IR-Dataset](https://github.com/ShanonPearce/ASH-IR-Dataset) - An impulse response dataset for binaural synthesis of spatial audio systems on headphones
 - [mozilla/observatory-cli](https://github.com/mozilla/observatory-cli) - 
 - [mmarquez76/AstrologyClock](https://github.com/mmarquez76/AstrologyClock) - Displays time and astrological data (moon phases, positions of planets & celestial points in zodiac)
 - [rewbs/butterchurn-recorder](https://github.com/rewbs/butterchurn-recorder) - 
@@ -2133,7 +2136,6 @@
 - [nimblemachines/analyzing-iana-root-db](https://github.com/nimblemachines/analyzing-iana-root-db) - Simple scripts to fetch and parse the IANA root zone database (the current set of delegated top-level domains (TLDs)) into one of two forms: Lua tables, or a tab-separated CSV file suitable for conver
 - [samueldobbie/shelf.gg](https://github.com/samueldobbie/shelf.gg) - A pastebin to find and share useful resources 📚
 - [gizak/termui](https://github.com/gizak/termui) - Golang terminal dashboard
-- [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [diasks2/pragmatic_segmenter](https://github.com/diasks2/pragmatic_segmenter) - Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.
 - [adolfintel/warpspeed](https://github.com/adolfintel/warpspeed) - Animated and tweakable starfield for HTML5 Canvas
@@ -2718,6 +2720,10 @@
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 
+## termux 
+
+- [thenurhabib/subnum](https://github.com/thenurhabib/subnum) - Crawl all subdomains and check for subdomain takeover vulnerability.
+
 ## terraform 
 
 - [coder/coder](https://github.com/coder/coder) - A tool that provisions remote development environments via Terraform
@@ -2860,6 +2866,7 @@
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
 - [fastify/benchmarks](https://github.com/fastify/benchmarks) - Fast and low overhead web framework fastify benchmarks.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+- [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev) - The frontend, backend, and content source code for web.dev
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
@@ -2869,6 +2876,7 @@
 
 - [muxinc/media-chrome](https://github.com/muxinc/media-chrome) - Custom elements (web components) for making audio and video player controls that look great in your website or app.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
+- [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 - [open-wc/open-wc](https://github.com/open-wc/open-wc) - Open Web Components: guides, tools and libraries for developing web components.
 
 ## webapp 
