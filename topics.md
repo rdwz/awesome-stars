@@ -1775,6 +1775,8 @@
 
 ## others 
 
+- [rdwz/complete-website-downloader](https://github.com/rdwz/complete-website-downloader) - 💡  Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ]  using Node.js
+- [gethyas/bolt](https://github.com/gethyas/bolt) - Minimal blog theme based on Bolt.css
 - [ShanonPearce/ASH-IR-Dataset](https://github.com/ShanonPearce/ASH-IR-Dataset) - An impulse response dataset for binaural synthesis of spatial audio systems on headphones
 - [mozilla/observatory-cli](https://github.com/mozilla/observatory-cli) - 
 - [mmarquez76/AstrologyClock](https://github.com/mmarquez76/AstrologyClock) - Displays time and astrological data (moon phases, positions of planets & celestial points in zodiac)
