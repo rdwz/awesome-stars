@@ -432,6 +432,9 @@
 
 ## JavaScript 
 
+- [steffest/DPaint-js](https://github.com/steffest/DPaint-js) - Webbased image editor, modeled after the legendary Deluxe Paint with a focus on retro Amiga file formats: read and write Amiga icon files and IFF ILBM images
+- [Kikobeats/timecards](https://github.com/Kikobeats/timecards) - SpongeBob time cards as service. Every hit is a different (random) image.
+- [Kikobeats/reachable-url](https://github.com/Kikobeats/reachable-url) - Given an URL, it resolves as fast as possible, performing a GET without downloading the body.
 - [CaptainOfPhB/spongebob](https://github.com/CaptainOfPhB/spongebob) - 🎨 Draw a cute SpongeBob.
 - [patriciogonzalezvivo/glslCanvas](https://github.com/patriciogonzalezvivo/glslCanvas) - Simple tool to load GLSL shaders on HTML Canvas using WebGL
 - [rdwz/complete-website-downloader](https://github.com/rdwz/complete-website-downloader) - 🚧  Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ]  using Node x Express
@@ -883,6 +886,7 @@
 
 ## Python 
 
+- [ioistired/timecard-cli](https://github.com/ioistired/timecard-cli) - generates spongebob-style timecards
 - [deep-floyd/IF](https://github.com/deep-floyd/IF) - 
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
 - [bucaneer/binauralconv](https://github.com/bucaneer/binauralconv) - A script for converting (surround) audio files into binaural stereo.
