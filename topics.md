@@ -1291,6 +1291,7 @@
 
 ## javascript 
 
+- [steffest/DPaint-js](https://github.com/steffest/DPaint-js) - Webbased image editor, modeled after the legendary Deluxe Paint with a focus on retro Amiga file formats: read and write Amiga icon files and IFF ILBM images
 - [patriciogonzalezvivo/glslCanvas](https://github.com/patriciogonzalezvivo/glslCanvas) - Simple tool to load GLSL shaders on HTML Canvas using WebGL
 - [standard/awesome-standard](https://github.com/standard/awesome-standard) - Documenting the explosion of packages in the standard ecosystem!
 - [markteekman/frontend-resources](https://github.com/markteekman/frontend-resources) - A list of resources concerning front-end web development. From HTML, CSS and JavaScript to testing, accessibility, Atom packages, UI Design and Design Systems.
@@ -1595,6 +1596,7 @@
 ## monitoring 
 
 - [devforth/hothost](https://github.com/devforth/hothost) - Lightweight and minimalistic open-source Servers and HTTP monitor
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, WireGuard, Automation, Ho
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [Cyclenerd/static_status](https://github.com/Cyclenerd/static_status) - 🚦Bash script to generate a static status page.
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
@@ -1785,6 +1787,9 @@
 
 ## others 
 
+- [ioistired/timecard-cli](https://github.com/ioistired/timecard-cli) - generates spongebob-style timecards
+- [Kikobeats/timecards](https://github.com/Kikobeats/timecards) - SpongeBob time cards as service. Every hit is a different (random) image.
+- [Kikobeats/reachable-url](https://github.com/Kikobeats/reachable-url) - Given an URL, it resolves as fast as possible, performing a GET without downloading the body.
 - [FrontenderMagazine/convince-others-against-dark-patterns](https://github.com/FrontenderMagazine/convince-others-against-dark-patterns) - How To Convince Others Not To Use Dark Patterns — Smashing Magazine
 - [deep-floyd/IF](https://github.com/deep-floyd/IF) - 
 - [Tailus-UI/astro-theme](https://github.com/Tailus-UI/astro-theme) - Home page template built with astro and tailwindcss using tailus blocks
