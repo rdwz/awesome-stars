@@ -128,6 +128,8 @@
 
 ## C++ 
 
+- [sotanakamura/winui3-command-line](https://github.com/sotanakamura/winui3-command-line) - Building WinUI 3 apps with commnad line tools
+- [DaGooseYT/FrameGUI](https://github.com/DaGooseYT/FrameGUI) - FrameGUI (frame-gooey) is a free, cross-platform, very easy to use encoding utility featuring AI filters, based on the more comprehensive EncodeGUI encoding tool.
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager
 - [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
@@ -200,6 +202,7 @@
 
 ## Dart 
 
+- [flutter/samples](https://github.com/flutter/samples) - A collection of Flutter examples and demos
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [eniscakircali/2-Match](https://github.com/eniscakircali/2-Match) - An application that matches users by their character types
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
@@ -434,6 +437,7 @@
 
 ## JavaScript 
 
+- [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [steffest/DPaint-js](https://github.com/steffest/DPaint-js) - Webbased image editor, modeled after the legendary Deluxe Paint with a focus on retro Amiga file formats: read and write Amiga icon files and IFF ILBM images
 - [Kikobeats/timecards](https://github.com/Kikobeats/timecards) - SpongeBob time cards as service. Every hit is a different (random) image.
 - [Kikobeats/reachable-url](https://github.com/Kikobeats/reachable-url) - Given an URL, it resolves as fast as possible, performing a GET without downloading the body.
@@ -887,6 +891,7 @@
 
 ## Python 
 
+- [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [rsheeter/colorize](https://github.com/rsheeter/colorize) - Random acts of hacking on color fonts
 - [rsheeter/Bungee](https://github.com/rsheeter/Bungee) - A chromatic signage typeface for vertical and horizontal setting.
@@ -1008,6 +1013,7 @@
 
 ## Ruby 
 
+- [opal/opal](https://github.com/opal/opal) - Ruby ♥︎ JavaScript
 - [inoda/journal](https://github.com/inoda/journal) - :notebook: A simple self-hosted journaling app
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [siteinspector/siteinspector](https://github.com/siteinspector/siteinspector) - A tool for catching spelling errors, grammatical errors, broken links, and other errors on websites.
@@ -1183,6 +1189,9 @@
 
 ## TypeScript 
 
+- [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
+- [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
+- [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [stormwarning/tailwindcss-capsize](https://github.com/stormwarning/tailwindcss-capsize) - ✂️ Tailwind CSS utility classes for trimming whitespace above & below capital letters.
 - [mcansh/remix-fastify](https://github.com/mcansh/remix-fastify) - Fastify server request handler for Remix
 - [rewbs/butterchurn-recorder](https://github.com/rewbs/butterchurn-recorder) - 
@@ -1313,7 +1322,7 @@
 - [myxvisual/react-uwp](https://github.com/myxvisual/react-uwp) - 📱⌨ React Components that Implement Microsoft's UWP Design & Fluent Design.
 - [digimezzo/dopamine](https://github.com/digimezzo/dopamine) - The audio player that keeps it simple
 - [open-source-labs/vno](https://github.com/open-source-labs/vno) - a build tool for compiling and bundling Vue single-file components
-- [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows and macOS, because privacy is sexy 🍑🍆
+- [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy 🍑🍆
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [github/issue-labeler](https://github.com/github/issue-labeler) - An action for automatically labelling issues
