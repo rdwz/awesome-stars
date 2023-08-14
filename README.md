@@ -437,6 +437,7 @@
 
 ## JavaScript 
 
+- [explorableexplanations/explorableexplanations.github.io](https://github.com/explorableexplanations/explorableexplanations.github.io) - The Explorable Explanations Website
 - [andwin/pagespeed-benchmark](https://github.com/andwin/pagespeed-benchmark) - A tool to run lighthouse pagespeed test multiple times on multiple urls and display statistics
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [steffest/DPaint-js](https://github.com/steffest/DPaint-js) - Webbased image editor, modeled after the legendary Deluxe Paint with a focus on retro Amiga file formats: read and write Amiga icon files and IFF ILBM images
@@ -636,7 +637,7 @@
 - [yorkxin/copy-as-markdown](https://github.com/yorkxin/copy-as-markdown) - Copying Link, Image and Tab(s) as Markdown Much Easier.
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [EnlighterJS/EnlighterJS](https://github.com/EnlighterJS/EnlighterJS) - :high_brightness: an open source syntax highlighter written in pure javascript
-- [M4FFS/matrix-rain-background-react](https://github.com/M4FFS/matrix-rain-background-react) - A matrix/digital rain effect in React
+- [C-o-d-e-C-o-w-b-o-y/matrix-rain-background-react](https://github.com/C-o-d-e-C-o-w-b-o-y/matrix-rain-background-react) - A matrix/digital rain effect in React
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [emazzotta/lighthouse-badges](https://github.com/emazzotta/lighthouse-badges) - 🚦 Generate badges (shields.io) based on Lighthouse performance.
 - [osano/cookieconsent](https://github.com/osano/cookieconsent) - A free solution to the EU, GDPR, and California Cookie Laws
@@ -892,6 +893,7 @@
 
 ## Python 
 
+- [ahmetoner/whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice) - OpenAI Whisper ASR Webservice API
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [rsheeter/colorize](https://github.com/rsheeter/colorize) - Random acts of hacking on color fonts
@@ -1190,6 +1192,11 @@
 
 ## TypeScript 
 
+- [Dogtiti/AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
+- [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
+- [BuilderIO/qwik-tw-vercel-starter-kit](https://github.com/BuilderIO/qwik-tw-vercel-starter-kit) - A starter kit for Qwik on Vercel
+- [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
+- [NikolaRHristov/AstroCompress](https://github.com/NikolaRHristov/AstroCompress) - 
 - [KonradSzwarc/devscard](https://github.com/KonradSzwarc/devscard) - A fully customizable template to create your online (and paper) resume without writing a single line of code.
 - [dendronhq/dendron](https://github.com/dendronhq/dendron) - The personal knowledge management (PKM) tool that grows as you do!
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
