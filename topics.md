@@ -98,6 +98,7 @@
 - [ipfs](#ipfs)
 - [java](#java)
 - [javascript](#javascript)
+- [jquery](#jquery)
 - [js](#js)
 - [json](#json)
 - [julia](#julia)
@@ -239,6 +240,7 @@
 
 ## api 
 
+- [mrmcsoftware/ShaderSearch](https://github.com/mrmcsoftware/ShaderSearch) - An HTML file to search for and play Shadertoy shaders by using shadertoy.com's API.
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
 - [ryuphi/astrology-api](https://github.com/ryuphi/astrology-api) - Astrology API Rest
@@ -392,6 +394,7 @@
 
 ## bootstrap 
 
+- [kyr0/astro-launchpad](https://github.com/kyr0/astro-launchpad) - An Astro project template for decent projects: auth, i18next, Bootstrap, sitemap, webworker, robots.txt, preact, react, endpoints, endpoint clients, OAuth, various Astro features and data loading prec
 - [Codelessly/ResponsiveFramework](https://github.com/Codelessly/ResponsiveFramework) - Easily make Flutter apps responsive. Automatically adapt UI to different screen sizes. Responsiveness made simple. Demo: https://gallery.codelessly.com/flutterwebsites/minimal/
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
 
@@ -547,6 +550,7 @@
 
 ## css 
 
+- [mrmcsoftware/ShaderSearch](https://github.com/mrmcsoftware/ShaderSearch) - An HTML file to search for and play Shadertoy shaders by using shadertoy.com's API.
 - [CaptainOfPhB/spongebob](https://github.com/CaptainOfPhB/spongebob) - 🎨 Draw a cute SpongeBob.
 - [markteekman/frontend-resources](https://github.com/markteekman/frontend-resources) - A list of resources concerning front-end web development. From HTML, CSS and JavaScript to testing, accessibility, Atom packages, UI Design and Design Systems.
 - [ariqnrnns/zauberhaft-astro](https://github.com/ariqnrnns/zauberhaft-astro) - FREE one page agency Astro 1.6 template with built-in dark mode to supercharge your project. Zauberhaft is available in: HTML, Next.js, Gatsby & Astro
@@ -588,7 +592,7 @@
 - [sparanoid/lightense-images](https://github.com/sparanoid/lightense-images) - A dependency-free pure JavaScript image zooming library less than 2 KB (gzipped). Inspired by tholman/intense-images
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
-- [astro-community/astro-compress](https://github.com/astro-community/astro-compress) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more!
+- [astro-community/AstroCompress](https://github.com/astro-community/AstroCompress) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more!
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools.
 - [milligram/awesome-milligram](https://github.com/milligram/awesome-milligram) - A curated list of Milligram resources.
@@ -672,6 +676,7 @@
 
 ## design 
 
+- [xemantic/shader-web-background](https://github.com/xemantic/shader-web-background) - Displays GLSL fragment shaders as a website background. Supports offscreen buffers and floating point textures on almost any browser and hardware. Compatible with Shadertoy.
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
 - [Scosh/fonts](https://github.com/Scosh/fonts) - A collection of rad, open-source typefaces that everyone needs in their lives.
 - [greenmagenta/web-avant-gardes](https://github.com/greenmagenta/web-avant-gardes) - 💇‍♀️ Collection of experimental, radical, or unorthodox websites
@@ -899,6 +904,7 @@
 
 ## framework 
 
+- [xemantic/shader-web-background](https://github.com/xemantic/shader-web-background) - Displays GLSL fragment shaders as a website background. Supports offscreen buffers and floating point textures on almost any browser and hardware. Compatible with Shadertoy.
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [shadawck/awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks) - Collection of tools to build beautiful command line interface in different languages
 - [Codelessly/ResponsiveFramework](https://github.com/Codelessly/ResponsiveFramework) - Easily make Flutter apps responsive. Automatically adapt UI to different screen sizes. Responsiveness made simple. Demo: https://gallery.codelessly.com/flutterwebsites/minimal/
@@ -1210,6 +1216,7 @@
 
 ## html 
 
+- [mrmcsoftware/ShaderSearch](https://github.com/mrmcsoftware/ShaderSearch) - An HTML file to search for and play Shadertoy shaders by using shadertoy.com's API.
 - [markteekman/frontend-resources](https://github.com/markteekman/frontend-resources) - A list of resources concerning front-end web development. From HTML, CSS and JavaScript to testing, accessibility, Atom packages, UI Design and Design Systems.
 - [ariqnrnns/zauberhaft-astro](https://github.com/ariqnrnns/zauberhaft-astro) - FREE one page agency Astro 1.6 template with built-in dark mode to supercharge your project. Zauberhaft is available in: HTML, Next.js, Gatsby & Astro
 - [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree.
@@ -1298,6 +1305,8 @@
 
 ## javascript 
 
+- [mrmcsoftware/ShaderSearch](https://github.com/mrmcsoftware/ShaderSearch) - An HTML file to search for and play Shadertoy shaders by using shadertoy.com's API.
+- [xemantic/shader-web-background](https://github.com/xemantic/shader-web-background) - Displays GLSL fragment shaders as a website background. Supports offscreen buffers and floating point textures on almost any browser and hardware. Compatible with Shadertoy.
 - [opal/opal](https://github.com/opal/opal) - Ruby ♥︎ JavaScript
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [steffest/DPaint-js](https://github.com/steffest/DPaint-js) - Webbased image editor, modeled after the legendary Deluxe Paint with a focus on retro Amiga file formats: read and write Amiga icon files and IFF ILBM images
@@ -1403,7 +1412,7 @@
 - [markteekman/accessible-astro-starter](https://github.com/markteekman/accessible-astro-starter) - An Accessible Starter Theme for Astro including accessibility features such as landmarks, better focus-outline and skip-links navigation. Ships with Tailwind, Prettier and ESLint support.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
-- [astro-community/astro-compress](https://github.com/astro-community/astro-compress) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more!
+- [astro-community/AstroCompress](https://github.com/astro-community/AstroCompress) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more!
 - [bradyhouse/house](https://github.com/bradyhouse/house) - Proof of Concept and Research repository.
 - [aFarkas/lazysizes](https://github.com/aFarkas/lazysizes) - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without co
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -1412,6 +1421,10 @@
 - [heiseonline/embetty](https://github.com/heiseonline/embetty) - 🐙 Embetty displays remote content like tweets or YouTube videos without compromising your privacy.
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+
+## jquery 
+
+- [mrmcsoftware/ShaderSearch](https://github.com/mrmcsoftware/ShaderSearch) - An HTML file to search for and play Shadertoy shaders by using shadertoy.com's API.
 
 ## js 
 
@@ -1485,6 +1498,7 @@
 
 ## library 
 
+- [xemantic/shader-web-background](https://github.com/xemantic/shader-web-background) - Displays GLSL fragment shaders as a website background. Supports offscreen buffers and floating point textures on almost any browser and hardware. Compatible with Shadertoy.
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager
 - [nickname76/telegrambot](https://github.com/nickname76/telegrambot) - Telegram Bot API library in Go, but with more clean code
 - [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
@@ -1703,6 +1717,7 @@
 
 ## nodejs 
 
+- [0xVasconcelos/TidalAPI](https://github.com/0xVasconcelos/TidalAPI) - Unofficial Node.js TIDAL API
 - [opal/opal](https://github.com/opal/opal) - Ruby ♥︎ JavaScript
 - [mcansh/remix-fastify](https://github.com/mcansh/remix-fastify) - Fastify server request handler for Remix
 - [standard/awesome-standard](https://github.com/standard/awesome-standard) - Documenting the explosion of packages in the standard ecosystem!
@@ -1803,10 +1818,16 @@
 
 ## others 
 
+- [deanthecoder/GLSLShaderShrinker](https://github.com/deanthecoder/GLSLShaderShrinker) - Optimizes the size of GLSL shader code.
+- [Amefuri/instagram-golang-scraper](https://github.com/Amefuri/instagram-golang-scraper) - Instagram scraper example using colly framework
+- [gilbarbara/logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos
+- [matthewp/astro-fastify](https://github.com/matthewp/astro-fastify) - A Fastify adapter for Astro
+- [radicle-dev/radicle-git](https://github.com/radicle-dev/radicle-git) - Everything Radicle growing around Git
+- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
+- [advanced-astro/chatgpt-demo](https://github.com/advanced-astro/chatgpt-demo) - Minimal web UI for ChatGPT.
 - [Dogtiti/AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 - [explorableexplanations/explorableexplanations.github.io](https://github.com/explorableexplanations/explorableexplanations.github.io) - The Explorable Explanations Website
 - [BuilderIO/qwik-tw-vercel-starter-kit](https://github.com/BuilderIO/qwik-tw-vercel-starter-kit) - A starter kit for Qwik on Vercel
-- [NikolaRHristov/AstroCompress](https://github.com/NikolaRHristov/AstroCompress) - 
 - [andwin/pagespeed-benchmark](https://github.com/andwin/pagespeed-benchmark) - A tool to run lighthouse pagespeed test multiple times on multiple urls and display statistics
 - [sotanakamura/winui3-command-line](https://github.com/sotanakamura/winui3-command-line) - Building WinUI 3 apps with commnad line tools
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
@@ -2522,7 +2543,6 @@
 
 ## react-native 
 
-- [jonnSmith/CyberTarot](https://github.com/jonnSmith/CyberTarot) - Cyberpunk 2077 video game Mysty's tarot cards scanning and identification managing application for IOS and android based on react-native expo
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia) - High-performance React Native Graphics using Skia
@@ -2928,6 +2948,7 @@
 
 ## web 
 
+- [xemantic/shader-web-background](https://github.com/xemantic/shader-web-background) - Displays GLSL fragment shaders as a website background. Supports offscreen buffers and floating point textures on almost any browser and hardware. Compatible with Shadertoy.
 - [mediathekview/mediathekviewweb](https://github.com/mediathekview/mediathekviewweb) - Eine Weboberfläche als Alternative zum Java-Client
 - [greenmagenta/web-avant-gardes](https://github.com/greenmagenta/web-avant-gardes) - 💇‍♀️ Collection of experimental, radical, or unorthodox websites
 - [matteobruni/tsparticles](https://github.com/matteobruni/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
