@@ -442,6 +442,7 @@
 
 ## JavaScript 
 
+- [BryceRussell/astro-headless-ui](https://github.com/BryceRussell/astro-headless-ui) - A headless component library for Astro
 - [matthewp/astro-fastify](https://github.com/matthewp/astro-fastify) - A Fastify adapter for Astro
 - [0xVasconcelos/TidalAPI](https://github.com/0xVasconcelos/TidalAPI) - Unofficial Node.js TIDAL API
 - [xemantic/shader-web-background](https://github.com/xemantic/shader-web-background) - Displays GLSL fragment shaders as a website background. Supports offscreen buffers and floating point textures on almost any browser and hardware. Compatible with Shadertoy.
@@ -783,6 +784,7 @@
 
 ## Others 
 
+- [understanding-astro/understanding-astro-book](https://github.com/understanding-astro/understanding-astro-book) - Learn to build remarkably fast websites with Astro ✨
 - [FrontenderMagazine/convince-others-against-dark-patterns](https://github.com/FrontenderMagazine/convince-others-against-dark-patterns) - How To Convince Others Not To Use Dark Patterns — Smashing Magazine
 - [protesilaos/iosevka-comfy](https://github.com/protesilaos/iosevka-comfy) - Custom build of Iosevka with different style and metrics than the default.
 - [standard/awesome-standard](https://github.com/standard/awesome-standard) - Documenting the explosion of packages in the standard ecosystem!
