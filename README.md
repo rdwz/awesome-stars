@@ -16,6 +16,7 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
+- [GLSL](#glsl)
 - [Gherkin](#gherkin)
 - [Go](#go)
 - [Groovy](#groovy)
@@ -64,6 +65,9 @@
 
 ## Astro 
 
+- [shim369/Astro-Newt-Site](https://github.com/shim369/Astro-Newt-Site) - Jamstack with headless CMS
+- [magnuswahlstrand/astro-supabase-vercel](https://github.com/magnuswahlstrand/astro-supabase-vercel) - 
+- [cosmicjs/simple-astro-blog](https://github.com/cosmicjs/simple-astro-blog) - A simple astro blog powered by the Cosmic CMS
 - [Tailus-UI/astro-theme](https://github.com/Tailus-UI/astro-theme) - Home page template built with astro and tailwindcss using tailus blocks
 - [themefisher/northendlab-light-astro](https://github.com/themefisher/northendlab-light-astro) - Northendlab is a highly customizable Astro theme designed specifically personal blog.
 - [jpaddeo/treelink](https://github.com/jpaddeo/treelink) - Personal link tree
@@ -193,7 +197,7 @@
 - [t413/SinglePaged](https://github.com/t413/SinglePaged) - SinglePaged - Simple Jekyll template
 - [xz/fonts](https://github.com/xz/fonts) - A fast, open-source CDN for open-source fonts
 - [sumitkharche/astro-cosmic-app](https://github.com/sumitkharche/astro-cosmic-app) - 🚀 Blazing fast blog built using Astro that utilizes the power of Cosmic 🔥
-- [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Front-end framework with a built-in dark mode and full customizability using CSS variables; great for building dashboards and tools.
+- [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Drop-in Bootstrap replacement, fully customizable with CSS variables.
 - [KatamariJr/split-landing](https://github.com/KatamariJr/split-landing) - A landing page theme made for Hugo
 - [gizak/nofancy](https://github.com/gizak/nofancy) - A Hugo blog theme
 
@@ -236,6 +240,10 @@
 
 - [benbusby/farside](https://github.com/benbusby/farside) - A smart redirecting gateway for various frontend services
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+
+## GLSL 
+
+- [danilw/shadertoy-to-video-with-FBO](https://github.com/danilw/shadertoy-to-video-with-FBO) - Render a ShaderToy script directly to a video file. (added FrameBuffers support)
 
 ## Gherkin 
 
@@ -283,7 +291,7 @@
 - [pulumi/pulumi-kubernetes-crds](https://github.com/pulumi/pulumi-kubernetes-crds) - Typed CustomResources for Kubernetes Operators
 - [toboshii/hajimari](https://github.com/toboshii/hajimari) - Hajimari is a beautiful & customizable browser startpage/dashboard with Kubernetes application discovery.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-- [nrdcg/porkbun](https://github.com/nrdcg/porkbun) - Go library for accessing the Porkdun API.
+- [nrdcg/porkbun](https://github.com/nrdcg/porkbun) - Go library for accessing the Porkbun API.
 - [pmaterer/goporkbun](https://github.com/pmaterer/goporkbun) - Go client for Porkbun API
 - [thestrukture/IDE](https://github.com/thestrukture/IDE) - A Go code editor. With debugging and Autocomplete. 一个 Go 代码编辑器，具有 DEBUGGING 和 AUTOCOMPLETE
 - [coder/tailscale](https://github.com/coder/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
@@ -751,6 +759,7 @@
 - [justinschmitz97/avif.io](https://github.com/justinschmitz97/avif.io) - Convert all images to AVIF for free. No data is sent. The magic happens in your browser.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [denosaurs/mod.land](https://github.com/denosaurs/mod.land) - 📦 Pretty subdomains for you deno project
+- [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 
 ## Makefile 
 
@@ -903,6 +912,7 @@
 
 ## Python 
 
+- [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - Make bilingual epub books Using AI translate
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [ahmetoner/whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice) - OpenAI Whisper ASR Webservice API
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
@@ -1111,7 +1121,6 @@
 - [themarshallproject/klaxon](https://github.com/themarshallproject/klaxon) - Klaxon enables reporters and editors to monitor scores of sites on the web for newsworthy changes.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
-- [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 
 ## SVG 
 
