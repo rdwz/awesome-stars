@@ -136,7 +136,7 @@
 
 - [sotanakamura/winui3-command-line](https://github.com/sotanakamura/winui3-command-line) - Building WinUI 3 apps with commnad line tools
 - [DaGooseYT/FrameGUI](https://github.com/DaGooseYT/FrameGUI) - FrameGUI (frame-gooey) is a free, cross-platform, very easy to use encoding utility featuring AI filters, based on the more comprehensive EncodeGUI encoding tool.
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
 - [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG and WebP formats.   You can quickly reduce the file size (and resolution, if you wan
@@ -451,6 +451,7 @@
 
 ## JavaScript 
 
+- [sindresorhus/capture-website-cli](https://github.com/sindresorhus/capture-website-cli) - Capture screenshots of websites from the command-line
 - [BryceRussell/astro-headless-ui](https://github.com/BryceRussell/astro-headless-ui) - A headless component library for Astro
 - [matthewp/astro-fastify](https://github.com/matthewp/astro-fastify) - A Fastify adapter for Astro
 - [0xVasconcelos/TidalAPI](https://github.com/0xVasconcelos/TidalAPI) - Unofficial Node.js TIDAL API
@@ -1217,6 +1218,7 @@
 
 ## TypeScript 
 
+- [Revenciel/Tina-Astro-Starter](https://github.com/Revenciel/Tina-Astro-Starter) - My Astro + Tina CMS sandbox to build generic features and components that I can reuse for future projects.
 - [advanced-astro/chatgpt-demo](https://github.com/advanced-astro/chatgpt-demo) - Minimal web UI for ChatGPT.
 - [Dogtiti/AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
