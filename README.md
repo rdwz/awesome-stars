@@ -65,6 +65,9 @@
 
 ## Astro 
 
+- [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 2.0 and Tailwind CSS. Astro starter theme.
+- [jordienr/astro-design-system](https://github.com/jordienr/astro-design-system) - This is a theme/starter project for design systems built in Astro. You can install and import your own component library and document all your design decisions and components.
+- [JonasKruckenberg/tauri-astro-template](https://github.com/JonasKruckenberg/tauri-astro-template) - Tauri, Astro, and Svelte template
 - [littlesticks/simple-blog-astro](https://github.com/littlesticks/simple-blog-astro) - A minimal, modern blog theme using Astro
 - [codiume/orbit](https://github.com/codiume/orbit) - Collection of useful integrations & components for the Astro ecosystem.
 - [shim369/Astro-Newt-Site](https://github.com/shim369/Astro-Newt-Site) - Jamstack with headless CMS
@@ -252,6 +255,8 @@
 
 ## Go 
 
+- [basswavetech/music-browser](https://github.com/basswavetech/music-browser) - An overengineered music browser backend for Bandcamp, Spotify and YT Music
+- [emilia-miki/music-browser](https://github.com/emilia-miki/music-browser) - An overengineered music browser backend for Bandcamp, Spotify and YT Music
 - [Amefuri/instagram-golang-scraper](https://github.com/Amefuri/instagram-golang-scraper) - Instagram scraper example using colly framework
 - [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers
 - [haccer/available](https://github.com/haccer/available) - Domain availability checking for Golang
@@ -417,7 +422,6 @@
 - [chintan9/1y](https://github.com/chintan9/1y) - 
 - [AhmadIbrahiim/Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader) - 💡  Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ]  using Node.js
 - [cbracco/html5-test-page](https://github.com/cbracco/html5-test-page) - A page filled with common HTML elements to be used for testing purposes. Useful when building CSS systems for projects big and small.
-- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
 - [homieiot/homie-esp8266](https://github.com/homieiot/homie-esp8266) - 💡 ESP8266 framework for Homie, a lightweight MQTT convention for the IoT
 - [spf13/instant](https://github.com/spf13/instant) - Instant theme for Hugo (derived from Black Tie Instant)
@@ -452,6 +456,8 @@
 
 ## JavaScript 
 
+- [dschombergii/sounds-local](https://github.com/dschombergii/sounds-local) - https://soundslocal.app
+- [nbelyh/editsvgcode](https://github.com/nbelyh/editsvgcode) - Online SVG auto-complete code editor based on monaco editor
 - [sindresorhus/capture-website-cli](https://github.com/sindresorhus/capture-website-cli) - Capture screenshots of websites from the command-line
 - [BryceRussell/astro-headless-ui](https://github.com/BryceRussell/astro-headless-ui) - A headless component library for Astro
 - [matthewp/astro-fastify](https://github.com/matthewp/astro-fastify) - A Fastify adapter for Astro
@@ -787,6 +793,7 @@
 
 ## Nunjucks 
 
+- [5t3ph/11ty-sass-skeleton](https://github.com/5t3ph/11ty-sass-skeleton) - Featuring absolutely nothing beyond a base HTML5 template and the essential setup to watch and compile your Sass alongside 11ty.
 - [ineffyble/genders.wtf](https://github.com/ineffyble/genders.wtf) - 
 - [jamstack/jamstack.org](https://github.com/jamstack/jamstack.org) - The official Jamstack site
 - [nhoizey/1y](https://github.com/nhoizey/1y) - A template project to build a short URL manager with Eleventy
@@ -795,6 +802,7 @@
 
 ## Others 
 
+- [readium/awesome-readium](https://github.com/readium/awesome-readium) - ⭐️ Awesome Readium-related resources
 - [understanding-astro/understanding-astro-book](https://github.com/understanding-astro/understanding-astro-book) - Learn to build remarkably fast websites with Astro ✨
 - [FrontenderMagazine/convince-others-against-dark-patterns](https://github.com/FrontenderMagazine/convince-others-against-dark-patterns) - How To Convince Others Not To Use Dark Patterns — Smashing Magazine
 - [protesilaos/iosevka-comfy](https://github.com/protesilaos/iosevka-comfy) - Custom build of Iosevka with different style and metrics than the default.
@@ -1058,6 +1066,7 @@
 
 ## Rust 
 
+- [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
 - [radicle-dev/radicle-git](https://github.com/radicle-dev/radicle-git) - Everything Radicle growing around Git
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [radicle-dev/heartwood](https://github.com/radicle-dev/heartwood) - ❤️🪵 Radicle Heartwood Protocol & Stack
@@ -1220,6 +1229,12 @@
 
 ## TypeScript 
 
+- [patrickkfkan/bandcamp-fetch](https://github.com/patrickkfkan/bandcamp-fetch) - 
+- [xaberus/vscode-remote-oss](https://github.com/xaberus/vscode-remote-oss) - Remote development for OSS Builds of VSCode like VSCodium
+- [anse-app/anse](https://github.com/anse-app/anse) - Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.
+- [zachleat/bench-framework-markdown](https://github.com/zachleat/bench-framework-markdown) - A set of scripts to test markdown processing speeds in various site generators/frameworks
+- [Tarikul-Islam-Anik/linkz](https://github.com/Tarikul-Islam-Anik/linkz) - 🔗 Just a Linktree clone, but simpler and, most importantly, with your own social media reference landing page. Just add your links in data/data.json and you're good to go!
+- [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [nowaythatworked/auth-astro](https://github.com/nowaythatworked/auth-astro) - Community maintained Astro integration of @auth/core
 - [Revenciel/Tina-Astro-Starter](https://github.com/Revenciel/Tina-Astro-Starter) - My Astro + Tina CMS sandbox to build generic features and components that I can reuse for future projects.
 - [advanced-astro/chatgpt-demo](https://github.com/advanced-astro/chatgpt-demo) - Minimal web UI for ChatGPT.
@@ -1414,6 +1429,7 @@
 - [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 - [debiki/talkyard](https://github.com/debiki/talkyard) - A community discussion platform: Brings together the main features from StackOverflow, Slack, Discourse, Reddit, and Disqus blog comments.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
+- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
 - [akashuba/react-timeline-animation](https://github.com/akashuba/react-timeline-animation) - react-timeline-animation component
 - [EddyVerbruggen/remove.bg](https://github.com/EddyVerbruggen/remove.bg) - A Node.js wrapper for the remove.bg API
 - [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia) - High-performance React Native Graphics using Skia
