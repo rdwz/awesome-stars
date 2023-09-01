@@ -547,10 +547,12 @@
 
 ## crystal 
 
+- [tbdsux/space-custom-apps](https://github.com/tbdsux/space-custom-apps) - Custom Spacefile templates for Deta Space
 - [hanabi1224/Programming-Language-Benchmarks](https://github.com/hanabi1224/Programming-Language-Benchmarks) - Yet another implementation of computer language benchmarks game
 
 ## csharp 
 
+- [tbdsux/space-custom-apps](https://github.com/tbdsux/space-custom-apps) - Custom Spacefile templates for Deta Space
 - [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
 - [hanabi1224/Programming-Language-Benchmarks](https://github.com/hanabi1224/Programming-Language-Benchmarks) - Yet another implementation of computer language benchmarks game
 
@@ -614,6 +616,7 @@
 
 ## dart 
 
+- [tbdsux/space-custom-apps](https://github.com/tbdsux/space-custom-apps) - Custom Spacefile templates for Deta Space
 - [eniscakircali/2-Match](https://github.com/eniscakircali/2-Match) - An application that matches users by their character types
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 
@@ -957,6 +960,7 @@
 
 ## github 
 
+- [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
 - [Tarikul-Islam-Anik/Animated-Fluent-Emojis](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis) - All the Microsoft animated fluent emojis are available in one place and ready to use in your next project or README file.
 - [MarketingPipeline/Awesome-Repo-Template](https://github.com/MarketingPipeline/Awesome-Repo-Template) - An awesome repo template packed with tons of tools & more to kick-start your next project / repo!
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
@@ -1319,6 +1323,7 @@
 
 ## javascript 
 
+- [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
 - [free-domains/cli](https://github.com/free-domains/cli) - Register a free subdomain with Free Domains using your command line.
 - [CJex/regulex](https://github.com/CJex/regulex) - :construction: Regular Expression Excited!
 - [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 3.0 and Tailwind CSS. Astro starter theme.
@@ -1711,6 +1716,7 @@
 
 ## nim 
 
+- [tbdsux/space-custom-apps](https://github.com/tbdsux/space-custom-apps) - Custom Spacefile templates for Deta Space
 - [hanabi1224/Programming-Language-Benchmarks](https://github.com/hanabi1224/Programming-Language-Benchmarks) - Yet another implementation of computer language benchmarks game
 - [codic12/worm](https://github.com/codic12/worm) - A dynamic, tag-based window manager written in Nim
 
@@ -1841,6 +1847,15 @@
 
 ## others 
 
+- [codiume/astro-component-starter](https://github.com/codiume/astro-component-starter) - A starter kit template for your next astro component
+- [tbdsux/koyo](https://github.com/tbdsux/koyo) - Website screenshot service api on Deta Space
+- [deta/todo-app](https://github.com/deta/todo-app) - Example Space app
+- [michael-andreuzza/quickstore](https://github.com/michael-andreuzza/quickstore) - A free and simple theme for Astro where you can embed your Gumroad or lemonsqueezy.
+- [michael-andreuzza/astrosaas](https://github.com/michael-andreuzza/astrosaas) - 
+- [michalsnik/aos](https://github.com/michalsnik/aos) - Animate on scroll library
+- [SanderGeraedts/Astro-Showcase](https://github.com/SanderGeraedts/Astro-Showcase) - A small project to test out the new dynamic routing API of astro (and tailwind)
+- [zachleat/speedlify](https://github.com/zachleat/speedlify) - Benchmark the web performance and accessibility of sites over time.
+- [coding-in-public/astro-view-transitions-first-look](https://github.com/coding-in-public/astro-view-transitions-first-look) - 
 - [coding-in-public/audio-player](https://github.com/coding-in-public/audio-player) - 
 - [vivekartiste/LinksGram-linktree.alternative](https://github.com/vivekartiste/LinksGram-linktree.alternative) - This is a linktree alternative single landing page based on html, css based code. You can download this and use it according to your usernames.
 - [shaunchander/astro-pwa-starter](https://github.com/shaunchander/astro-pwa-starter) - ✨ An opinionated Astro starter for building robust static websites.
@@ -2399,6 +2414,7 @@
 
 ## php 
 
+- [tbdsux/space-custom-apps](https://github.com/tbdsux/space-custom-apps) - Custom Spacefile templates for Deta Space
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [mautic/mautic](https://github.com/mautic/mautic) - Mautic: Open Source Marketing Automation Software.
@@ -2728,6 +2744,7 @@
 
 ## self-hosted 
 
+- [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
 - [manuelernestog/astropod](https://github.com/manuelernestog/astropod) - Free and open source self-hosting serverless podcast solution
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) - An open-source ChatGPT app with a voice
@@ -2899,6 +2916,7 @@
 
 ## typescript 
 
+- [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
 - [CJex/regulex](https://github.com/CJex/regulex) - :construction: Regular Expression Excited!
 - [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
 - [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 3.0 and Tailwind CSS. Astro starter theme.
@@ -3061,6 +3079,7 @@
 
 ## website 
 
+- [mesinkasir/astronot-with-astro](https://github.com/mesinkasir/astronot-with-astro) - A starter astro build with astronot css template themes
 - [Kabanosk/whisper-website](https://github.com/Kabanosk/whisper-website) - Simple web application, which can be used to convert audio to subtitles by OpenAI's Whisper model
 - [open-domains/register](https://github.com/open-domains/register) - Free subdomains for personal sites, open-source projects, and more.
 - [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org) - Source of open-vsx.org
