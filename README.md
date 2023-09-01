@@ -56,6 +56,7 @@
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
+- [XSLT](#xslt)
 - [Zig](#zig)
 
 ## Assembly 
@@ -65,6 +66,10 @@
 
 ## Astro 
 
+- [mesinkasir/astronot-with-astro](https://github.com/mesinkasir/astronot-with-astro) - A starter astro build with astronot css template themes
+- [michael-andreuzza/quickstore](https://github.com/michael-andreuzza/quickstore) - A free and simple theme for Astro where you can embed your Gumroad or lemonsqueezy.
+- [michael-andreuzza/astrosaas](https://github.com/michael-andreuzza/astrosaas) - 
+- [SanderGeraedts/Astro-Showcase](https://github.com/SanderGeraedts/Astro-Showcase) - A small project to test out the new dynamic routing API of astro (and tailwind)
 - [shaunchander/astro-pwa-starter](https://github.com/shaunchander/astro-pwa-starter) - ✨ An opinionated Astro starter for building robust static websites.
 - [manuelernestog/astropod](https://github.com/manuelernestog/astropod) - Free and open source self-hosting serverless podcast solution
 - [Johnkat-Mj/agency-landing-page-Astrojs](https://github.com/Johnkat-Mj/agency-landing-page-Astrojs) - A simple agency landing page made with astrojs and tailwindcss
@@ -144,6 +149,7 @@
 
 ## C++ 
 
+- [tbdsux/space-custom-apps](https://github.com/tbdsux/space-custom-apps) - Custom Spacefile templates for Deta Space
 - [sotanakamura/winui3-command-line](https://github.com/sotanakamura/winui3-command-line) - Building WinUI 3 apps with commnad line tools
 - [DaGooseYT/FrameGUI](https://github.com/DaGooseYT/FrameGUI) - FrameGUI (frame-gooey) is a free, cross-platform, very easy to use encoding utility featuring AI filters, based on the more comprehensive EncodeGUI encoding tool.
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
@@ -463,6 +469,10 @@
 
 ## JavaScript 
 
+- [codiume/astro-component-starter](https://github.com/codiume/astro-component-starter) - A starter kit template for your next astro component
+- [deta/todo-app](https://github.com/deta/todo-app) - Example Space app
+- [michalsnik/aos](https://github.com/michalsnik/aos) - Animate on scroll library
+- [zachleat/speedlify](https://github.com/zachleat/speedlify) - Benchmark the web performance and accessibility of sites over time.
 - [coding-in-public/audio-player](https://github.com/coding-in-public/audio-player) - 
 - [anup-a/meshy](https://github.com/anup-a/meshy) - 🧞‍♂️ MESH·Y is a design tool to generate beautiful & colorful mesh gradients.
 - [free-domains/cli](https://github.com/free-domains/cli) - Register a free subdomain with Free Domains using your command line.
@@ -1235,6 +1245,7 @@
 
 ## Svelte 
 
+- [tbdsux/koyo](https://github.com/tbdsux/koyo) - Website screenshot service api on Deta Space
 - [catchspider2002/svelte-svg-patterns](https://github.com/catchspider2002/svelte-svg-patterns) - Create seamless patterns in SVG to use as website backgrounds, header images, stationery design and package design
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - ⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library
 - [swyxio/swyxdotio](https://github.com/swyxio/swyxdotio) - This is the repo for swyx's blog - Blog content is created in github issues, then posted on swyx.io as blog pages! Comment/watch to follow along my blog within GitHub
@@ -1246,6 +1257,7 @@
 
 ## TypeScript 
 
+- [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
 - [advanced-astro/anse](https://github.com/advanced-astro/anse) - Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [rdwz/regex-vis](https://github.com/rdwz/regex-vis) - 🎨 Regex visualizer & editor
@@ -1470,6 +1482,10 @@
 - [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your web with WebCrate, a modern and beautiful bookmarking tool
 - [tutaru99/Internet-Radio-Player-Vue](https://github.com/tutaru99/Internet-Radio-Player-Vue) - Internet Radio Player with an Audio Visualizer made using VueJS, Vuetify & Howler.JS frameworks. The Player has a bunch of radio stations. Check out the demo below.
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
+
+## XSLT 
+
+- [coding-in-public/astro-view-transitions-first-look](https://github.com/coding-in-public/astro-view-transitions-first-look) - 
 
 ## Zig 
 
