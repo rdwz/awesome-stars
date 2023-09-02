@@ -66,6 +66,11 @@
 
 ## Astro 
 
+- [withastro/github-pages](https://github.com/withastro/github-pages) - Automatically deploy an Astro site to GitHub Pages
+- [manuelernestog/astrofy](https://github.com/manuelernestog/astrofy) - Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.
+- [iamhectorsosa/astrofordocs](https://github.com/iamhectorsosa/astrofordocs) - Is it possible to ship ZERO JavaScript and still deliver a functional website?
+- [TheOtterlord/manual](https://github.com/TheOtterlord/manual) - A feature full Astro documentation template
+- [delucis/hyperdrive-speedometer](https://github.com/delucis/hyperdrive-speedometer) - Speedlify for Astro sites
 - [mesinkasir/astronot-with-astro](https://github.com/mesinkasir/astronot-with-astro) - A starter astro build with astronot css template themes
 - [michael-andreuzza/quickstore](https://github.com/michael-andreuzza/quickstore) - A free and simple theme for Astro where you can embed your Gumroad or lemonsqueezy.
 - [michael-andreuzza/astrosaas](https://github.com/michael-andreuzza/astrosaas) - 
@@ -181,7 +186,7 @@
 ## CSS 
 
 - [kyr0/astro-launchpad](https://github.com/kyr0/astro-launchpad) - An Astro project template for decent projects: auth, i18next, Bootstrap, sitemap, webworker, robots.txt, preact, react, endpoints, endpoint clients, OAuth, various Astro features and data loading prec
-- [vinodmanimaran/ChatAlchemy](https://github.com/vinodmanimaran/ChatAlchemy) - ChatAlchemy is a modern, responsive UI design built with React and React Icons. It features various sections highlighting the capabilities of GPT-3's conversational AI, making it the perfect platform 
+- [vinodmanimaran/ChatAlchemy](https://github.com/vinodmanimaran/ChatAlchemy) - ✨ Dive into 'ChatAlchemy,' a modern, responsive UI crafted with React and React Icons. Explore the magic of GPT-3's conversational AI showcased in multiple sections, unleashing the potential of natura
 - [kevinkhagan/adinkra-icons](https://github.com/kevinkhagan/adinkra-icons) - 
 - [ariqnrnns/zauberhaft-astro](https://github.com/ariqnrnns/zauberhaft-astro) - FREE one page agency Astro 1.6 template with built-in dark mode to supercharge your project. Zauberhaft is available in: HTML, Next.js, Gatsby & Astro
 - [williamhzo/astro-cube](https://github.com/williamhzo/astro-cube) - A minimal Astro starter template with CUBE CSS 🧑‍🚀 🧊
@@ -235,7 +240,7 @@
 
 ## Dockerfile 
 
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, WireGuard, Automation, Ho
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [mgoltzsche/podman-static](https://github.com/mgoltzsche/podman-static) - static podman binaries and container image
 - [renovatebot/docker-renovate](https://github.com/renovatebot/docker-renovate) - Renovate docker slim image
 - [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
@@ -380,6 +385,7 @@
 
 ## HTML 
 
+- [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system
 - [vivekartiste/LinksGram-linktree.alternative](https://github.com/vivekartiste/LinksGram-linktree.alternative) - This is a linktree alternative single landing page based on html, css based code. You can download this and use it according to your usernames.
 - [mrmcsoftware/ShaderSearch](https://github.com/mrmcsoftware/ShaderSearch) - An HTML file to search for and play Shadertoy shaders by using shadertoy.com's API.
 - [ShanonPearce/ASH-IR-Dataset](https://github.com/ShanonPearce/ASH-IR-Dataset) - An impulse response dataset for binaural synthesis of spatial audio systems on headphones
@@ -441,6 +447,7 @@
 
 ## Haskell 
 
+- [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
 - [smallhadroncollider/brok](https://github.com/smallhadroncollider/brok) - Find broken links in text documents
 
 ## Inno Setup 
@@ -469,6 +476,12 @@
 
 ## JavaScript 
 
+- [librariesio/github_companion](https://github.com/librariesio/github_companion) - :pushpin: Chrome Extension to see dependency health on GitHub as you browse.
+- [robinparisi/tingle](https://github.com/robinparisi/tingle) - ⚡ 2kB vanilla modal plugin, no dependencies and easy-to-use
+- [gaplo917/load-balancer-benchmark](https://github.com/gaplo917/load-balancer-benchmark) - Apache Httpd vs Nginx vs Traefik vs HAProxy
+- [shelljs/shx](https://github.com/shelljs/shx) - Portable Shell Commands for Node
+- [tom-james-watson/apod-scraper](https://github.com/tom-james-watson/apod-scraper) - A Node script for scraping all images from NASA Astronomy Picture of the DAy
+- [jerbear2008/deta-snapdrop](https://github.com/jerbear2008/deta-snapdrop) - A Progressive Web App for file sharing over Deta 🚀
 - [codiume/astro-component-starter](https://github.com/codiume/astro-component-starter) - A starter kit template for your next astro component
 - [deta/todo-app](https://github.com/deta/todo-app) - Example Space app
 - [michalsnik/aos](https://github.com/michalsnik/aos) - Animate on scroll library
@@ -1091,6 +1104,7 @@
 
 ## Rust 
 
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [wonderfulspam/deta-rust](https://github.com/wonderfulspam/deta-rust) - Rust bindings for the Deta Base and Drive HTTP API
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [rapiz1/rathole](https://github.com/rapiz1/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
@@ -1257,6 +1271,8 @@
 
 ## TypeScript 
 
+- [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
+- [pybash1/aionspace](https://github.com/pybash1/aionspace) - Explore the power of GPT on Space
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
 - [advanced-astro/anse](https://github.com/advanced-astro/anse) - Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
@@ -1451,7 +1467,7 @@
 - [Princesseuh/astro-social-images](https://github.com/Princesseuh/astro-social-images) - Social image generator for Astro
 - [ixartz/Astro-boilerplate](https://github.com/ixartz/Astro-boilerplate) - 🚀 Astro boilerplate with responsive blog and portfolio template using TypeScript and React styled with Tailwind CSS ⚡️ Made with developer experience first: TypeScript + ESLint + Prettier + Husky + Li
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
+- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A wrapper around YouTube's internal API — reverse engineering InnerTube
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
