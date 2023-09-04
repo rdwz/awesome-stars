@@ -477,6 +477,7 @@
 
 ## JavaScript 
 
+- [nico3333fr/van11y-accessible-modal-window-aria](https://github.com/nico3333fr/van11y-accessible-modal-window-aria) - ES2015 accessible modal window system, using ARIA
 - [NTag/colivings](https://github.com/NTag/colivings) - Map of the best colivings in Europe
 - [code-charity/ultimate-REGEX-extension](https://github.com/code-charity/ultimate-REGEX-extension) - ctrl+shift+F Text multi-tool browser extension  with familiar Ctrl+F visuals.  **need contributors to be the best & complete**
 - [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube Extension (Top100): Enrich your experience & content [🧰80 lean Features][📌Longest-standing][Please👨‍👩‍👧‍👧write HowTo's]⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪} Youtube Player Repeat Screenshot | Hide youtube distr
@@ -836,6 +837,7 @@
 
 ## Nunjucks 
 
+- [a11yproject/a11yproject.com](https://github.com/a11yproject/a11yproject.com) - The A11Y Project is a community-driven effort to make digital accessibility easier.
 - [5t3ph/11ty-sass-skeleton](https://github.com/5t3ph/11ty-sass-skeleton) - Featuring absolutely nothing beyond a base HTML5 template and the essential setup to watch and compile your Sass alongside 11ty.
 - [ineffyble/genders.wtf](https://github.com/ineffyble/genders.wtf) - 
 - [jamstack/jamstack.org](https://github.com/jamstack/jamstack.org) - The official Jamstack site
@@ -966,6 +968,8 @@
 
 ## Python 
 
+- [ftCLI/FoundryTools-CLI](https://github.com/ftCLI/FoundryTools-CLI) - A collection of command line tools to inspect, manipulate and convert font files
+- [clauseggers/Playfair](https://github.com/clauseggers/Playfair) - Playfair is a general purpose Open Source typeface family
 - [megvii-research/ECCV2022-RIFE](https://github.com/megvii-research/ECCV2022-RIFE) - ECCV2022 - Real-Time Intermediate Flow Estimation for Video Frame Interpolation
 - [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - Make bilingual epub books Using AI translate
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
@@ -1169,6 +1173,7 @@
 
 ## SCSS 
 
+- [jfrankl/subsetting.xyz](https://github.com/jfrankl/subsetting.xyz) - An overview of which type foundries support font subsetting
 - [aaranxu/adidoks](https://github.com/aaranxu/adidoks) - AdiDoks is a mordern documentation theme, which is a port of the Hugo theme Doks for Zola.
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [EthicalSource/hippocratic-license-3](https://github.com/EthicalSource/hippocratic-license-3) - An ethical license for open source.
