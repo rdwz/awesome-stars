@@ -185,6 +185,8 @@
 
 ## CSS 
 
+- [HassanCorrigan/soundcloud-player](https://github.com/HassanCorrigan/soundcloud-player) - A SoundCloud styled audio player, with completely custom design controls and interface.
+- [mobalti/open-props-interfaces](https://github.com/mobalti/open-props-interfaces) - 
 - [kyr0/astro-launchpad](https://github.com/kyr0/astro-launchpad) - An Astro project template for decent projects: auth, i18next, Bootstrap, sitemap, webworker, robots.txt, preact, react, endpoints, endpoint clients, OAuth, various Astro features and data loading prec
 - [vinodmanimaran/ChatAlchemy](https://github.com/vinodmanimaran/ChatAlchemy) - ✨ Dive into 'ChatAlchemy,' a modern, responsive UI crafted with React and React Icons. Explore the magic of GPT-3's conversational AI showcased in multiple sections, unleashing the potential of natura
 - [kevinkhagan/adinkra-icons](https://github.com/kevinkhagan/adinkra-icons) - 
@@ -477,6 +479,9 @@
 
 ## JavaScript 
 
+- [FossPrime/webcontainer-api-starter-gh-pages](https://github.com/FossPrime/webcontainer-api-starter-gh-pages) - A repro repo. I can deploy any branch including PRs to wc.42x.app
+- [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js) - The lightweight library for manipulating and animating SVG
+- [mobalti/props-color-finder](https://github.com/mobalti/props-color-finder) - 
 - [SeanMcP/astro-emoji](https://github.com/SeanMcP/astro-emoji) - 🚀 An accessible Emoji component for Astro applications
 - [nico3333fr/van11y-accessible-modal-window-aria](https://github.com/nico3333fr/van11y-accessible-modal-window-aria) - ES2015 accessible modal window system, using ARIA
 - [NTag/colivings](https://github.com/NTag/colivings) - Map of the best colivings in Europe
@@ -1287,6 +1292,7 @@
 
 ## TypeScript 
 
+- [FossPrime/feathers](https://github.com/FossPrime/feathers) - The API and real-time application framework
 - [ReclaimApp/Reclaim](https://github.com/ReclaimApp/Reclaim) - A hub for your personal data
 - [shishkin/astro-asciidoc](https://github.com/shishkin/astro-asciidoc) - Support AsciiDoc pages in Astro
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
