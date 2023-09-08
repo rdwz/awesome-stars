@@ -916,6 +916,8 @@
 
 ## font 
 
+- [opentypejs/opentype.js](https://github.com/opentypejs/opentype.js) - Read and write OpenType fonts using JavaScript.
+- [zachleat/glyphhanger](https://github.com/zachleat/glyphhanger) - Your web font utility belt. It can subset web fonts. It can find unicode-ranges for you automatically. It makes julienne fries.
 - [clauseggers/Playfair](https://github.com/clauseggers/Playfair) - Playfair is a general purpose Open Source typeface family
 - [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
@@ -1350,6 +1352,7 @@
 
 ## javascript 
 
+- [opentypejs/opentype.js](https://github.com/opentypejs/opentype.js) - Read and write OpenType fonts using JavaScript.
 - [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js) - The lightweight library for manipulating and animating SVG
 - [iamhectorsosa/astrofordocs](https://github.com/iamhectorsosa/astrofordocs) - Is it possible to ship ZERO JavaScript and still deliver a functional website?
 - [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
@@ -1777,6 +1780,7 @@
 
 ## nodejs 
 
+- [opentypejs/opentype.js](https://github.com/opentypejs/opentype.js) - Read and write OpenType fonts using JavaScript.
 - [free-domains/cli](https://github.com/free-domains/cli) - Register a free subdomain with Free Domains using your command line.
 - [sindresorhus/capture-website-cli](https://github.com/sindresorhus/capture-website-cli) - Capture screenshots of websites from the command-line
 - [0xVasconcelos/TidalAPI](https://github.com/0xVasconcelos/TidalAPI) - Unofficial Node.js TIDAL API
@@ -1883,6 +1887,13 @@
 
 ## others 
 
+- [netlify-templates/astro-toolbox](https://github.com/netlify-templates/astro-toolbox) - Netlify ❤️ Astro: a simple template to give you the code you need to use Netlify features with Astro.
+- [SpinalCMS/astro-docs-template](https://github.com/SpinalCMS/astro-docs-template) - An Astro + Tailwind CSS theme for your documentation site
+- [matthewp/astro-flyio-fastify-starter](https://github.com/matthewp/astro-flyio-fastify-starter) - Starter for using Fly.io and Fastify with Astro
+- [ableplayer/ableplayer](https://github.com/ableplayer/ableplayer) - fully accessible cross-browser HTML5 media player.
+- [glyphr-studio/Glyphr-Studio-1](https://github.com/glyphr-studio/Glyphr-Studio-1) - A free, web-based font editor, focusing on font design hobbyists.
+- [ireade/caniuse-embed](https://github.com/ireade/caniuse-embed) - 📊 Embed realtime data from caniuse.com
+- [opawg/user-agents-v2](https://github.com/opawg/user-agents-v2) - Comprehensive open-source collection of broadly-compatible regular expression patterns to identify and analyze podcast player user agents.
 - [HassanCorrigan/soundcloud-player](https://github.com/HassanCorrigan/soundcloud-player) - A SoundCloud styled audio player, with completely custom design controls and interface.
 - [FossPrime/webcontainer-api-starter-gh-pages](https://github.com/FossPrime/webcontainer-api-starter-gh-pages) - A repro repo. I can deploy any branch including PRs to wc.42x.app
 - [FossPrime/feathers](https://github.com/FossPrime/feathers) - The API and real-time application framework
@@ -2148,7 +2159,7 @@
 - [RoelN/Compyx](https://github.com/RoelN/Compyx) - Multicolor OpenType font "Compyx"
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [FranzFlueckiger/Storygram](https://github.com/FranzFlueckiger/Storygram) - Explore and visualize sequential grouping in your data!
-- [WPO-Foundation/webpagetest](https://github.com/WPO-Foundation/webpagetest) - Official repository for WebPageTest
+- [catchpoint/WebPageTest](https://github.com/catchpoint/WebPageTest) - Official repository for WebPageTest
 - [nurpax/petmate](https://github.com/nurpax/petmate) - PETSCII editor with Electron/React/Redux
 - [mist64/c64ref](https://github.com/mist64/c64ref) - Ultimate Commodore 64 Reference: ROM Disassembly, Memory Map, ...
 - [vdechenaux/bootable-matrix-rain](https://github.com/vdechenaux/bootable-matrix-rain) - Boot on USB to a reproduction of the "Matrix digital rain" !
