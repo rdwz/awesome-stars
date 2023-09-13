@@ -211,7 +211,7 @@
 ## analytics 
 
 - [Destiner/astro-analytics](https://github.com/Destiner/astro-analytics) - Astro components for site analytics
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative. Cloud version available here -&gt; https://app.coolify.io
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
 ## android 
@@ -452,7 +452,7 @@
 ## chrome-extension 
 
 - [code-charity/ultimate-REGEX-extension](https://github.com/code-charity/ultimate-REGEX-extension) - ctrl+shift+F Text multi-tool browser extension  with familiar Ctrl+F visuals.  **need contributors to be the best & complete**
-- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube Extension (Top100): Enrich your experience & content [🧰80 lean Features][📌Longest-standing][Please👨‍👩‍👧‍👧write HowTo's]⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪} Youtube Player Repeat Screenshot | Hide youtube distr
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Top ~ 100 Extension. Enrich your YouTube & Video experience & choice [🧰80 lean Features][📌Longest-standing][Please👨‍👩‍👧‍👧help]⚙️⋮⋮🎛️☕🎧🔊⏯️🎞️🎬📈🧩🎨⋮⋮ youtube playback, youtube content discovery, youtube p
 - [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
 - [one-tab-group/onetab.group](https://github.com/one-tab-group/onetab.group) - The website home for https://onetab.group
 - [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
@@ -567,7 +567,7 @@
 
 ## css 
 
-- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube Extension (Top100): Enrich your experience & content [🧰80 lean Features][📌Longest-standing][Please👨‍👩‍👧‍👧write HowTo's]⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪} Youtube Player Repeat Screenshot | Hide youtube distr
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Top ~ 100 Extension. Enrich your YouTube & Video experience & choice [🧰80 lean Features][📌Longest-standing][Please👨‍👩‍👧‍👧help]⚙️⋮⋮🎛️☕🎧🔊⏯️🎞️🎬📈🧩🎨⋮⋮ youtube playback, youtube content discovery, youtube p
 - [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
 - [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
@@ -773,7 +773,7 @@
 - [litespeedtech/ols-docker-env](https://github.com/litespeedtech/ols-docker-env) - OpenLiteSpeed Docker Environment
 - [emazzotta/lighthouse-badges](https://github.com/emazzotta/lighthouse-badges) - 🚦 Generate badges (shields.io) based on Lighthouse performance.
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative. Cloud version available here -&gt; https://app.coolify.io
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [techno-tim/launchpad](https://github.com/techno-tim/launchpad) - A collection of quick starters for ansible, kubernetes, docker, linux, windows, and more.  Great for HomeLabs!
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
@@ -959,7 +959,7 @@
 
 ## gh-extension 
 
-- [github/gh-actions-importer](https://github.com/github/gh-actions-importer) - GitHub Actions Importer helps you plan and automate the migration of Azure DevOps, CircleCI, GitLab, Jenkins, and Travis CI pipelines to GitHub Actions.
+- [github/gh-actions-importer](https://github.com/github/gh-actions-importer) - GitHub Actions Importer helps you plan and automate the migration of Azure DevOps, Bamboo, Bitbucket, CircleCI, GitLab, Jenkins, and Travis CI pipelines to GitHub Actions.
 
 ## git 
 
@@ -1147,7 +1147,7 @@
 
 ## hacktoberfest 
 
-- [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube Extension (Top100): Enrich your experience & content [🧰80 lean Features][📌Longest-standing][Please👨‍👩‍👧‍👧write HowTo's]⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪} Youtube Player Repeat Screenshot | Hide youtube distr
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Top ~ 100 Extension. Enrich your YouTube & Video experience & choice [🧰80 lean Features][📌Longest-standing][Please👨‍👩‍👧‍👧help]⚙️⋮⋮🎛️☕🎧🔊⏯️🎞️🎬📈🧩🎨⋮⋮ youtube playback, youtube content discovery, youtube p
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
 - [modernweb-dev/rocket](https://github.com/modernweb-dev/rocket) - The modern web setup for static sites with a sprinkle of JavaScript
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -1675,7 +1675,7 @@
 
 - [pronouns/main](https://github.com/pronouns/main) - Share your personal pronouns and stay updated on your friends' pronouns. Pronouny allows you to update your pronouns and send alerts to your friends.
 - [practicajs/practica](https://github.com/practicajs/practica) - Node.js solution starter that is production-ready, packed with ✅  best practices and built with simplicity in mind
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative. Cloud version available here -&gt; https://app.coolify.io
 
 ## monitoring 
 
@@ -1716,7 +1716,7 @@
 
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative. Cloud version available here -&gt; https://app.coolify.io
 
 ## neovim 
 
@@ -1746,7 +1746,7 @@
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 - [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative. Cloud version available here -&gt; https://app.coolify.io
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 
 ## nim 
@@ -1827,7 +1827,7 @@
 - [emazzotta/lighthouse-badges](https://github.com/emazzotta/lighthouse-badges) - 🚦 Generate badges (shields.io) based on Lighthouse performance.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy fonts for the console
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative. Cloud version available here -&gt; https://app.coolify.io
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [bradyhouse/house](https://github.com/bradyhouse/house) - Proof of Concept and Research repository.
@@ -1886,6 +1886,8 @@
 
 ## others 
 
+- [zehfernandes/get-vercel-source-code](https://github.com/zehfernandes/get-vercel-source-code) - Get source code hosted at vercel
+- [0install/docs](https://github.com/0install/docs) - Zero Install documentation web-site
 - [btk/vectorizer](https://github.com/btk/vectorizer) - Potrace based multi-colored raster to vector tracer. Inputs PNG/JPG returns SVG
 - [jamescridland/podcastnamespace.org](https://github.com/jamescridland/podcastnamespace.org) - Adding new features to podcasting since 2020
 - [netlify-templates/astro-toolbox](https://github.com/netlify-templates/astro-toolbox) - Netlify ❤️ Astro: a simple template to give you the code you need to use Netlify features with Astro.
@@ -2489,7 +2491,7 @@
 - [mautic/mautic](https://github.com/mautic/mautic) - Mautic: Open Source Marketing Automation Software.
 - [femto-code/Raspberry-Pi-Dashboard](https://github.com/femto-code/Raspberry-Pi-Dashboard) - Web-based dashboard interface to check Raspberry Pi hardware and software status with no extra deependencies required.
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative. Cloud version available here -&gt; https://app.coolify.io
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [ssddanbrown/rss](https://github.com/ssddanbrown/rss) - A simple twitter-feed-style RSS aggregator written in PHP, Laravel, Inertia.js, Tailwind and Vue.js
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
@@ -2502,7 +2504,7 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [practicajs/practica](https://github.com/practicajs/practica) - Node.js solution starter that is production-ready, packed with ✅  best practices and built with simplicity in mind
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - :tv: OpenReplay is developer-friendly, self-hosted session replay.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative. Cloud version available here -&gt; https://app.coolify.io
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
 ## powershell 
@@ -2711,7 +2713,7 @@
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [oslabs-beta/fflow](https://github.com/oslabs-beta/fflow) - fflow is an easy-to-use open-source tool for all developers to create their React application.
 - [blopa/Resume-Builder](https://github.com/blopa/Resume-Builder) - Resume Builder is a free open-source project that allows anyone to easily maintain and build any kind of resume.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative. Cloud version available here -&gt; https://app.coolify.io
 - [ixartz/Astro-boilerplate](https://github.com/ixartz/Astro-boilerplate) - 🚀 Astro boilerplate with responsive blog and portfolio template using TypeScript and React styled with Tailwind CSS ⚡️ Made with developer experience first: TypeScript + ESLint + Prettier + Husky + Li
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
@@ -2922,7 +2924,7 @@
 - [ravenclaw900/DietPi-Dashboard](https://github.com/ravenclaw900/DietPi-Dashboard) - A lightweight, standalone web dashboard for DietPi
 - [anirbanmu/Vizl](https://github.com/anirbanmu/Vizl) - Vizl - SoundCloud® music visualizer via WebGL, WebAudio, Svelte & Typescript.
 - [swyxio/swyxdotio](https://github.com/swyxio/swyxdotio) - This is the repo for swyx's blog - Blog content is created in github issues, then posted on swyx.io as blog pages! Comment/watch to follow along my blog within GitHub
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative. Cloud version available here -&gt; https://app.coolify.io
 
 ## swift 
 
@@ -2997,7 +2999,7 @@
 - [CJex/regulex](https://github.com/CJex/regulex) - :construction: Regular Expression Excited!
 - [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
 - [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 3.0 and Tailwind CSS. Astro starter theme.
-- [codiume/orbit](https://github.com/codiume/orbit) - Collection of useful integrations & components for the Astro ecosystem.
+- [codiume/orbit](https://github.com/codiume/orbit) - Collection of useful integrations & components for the Astro ecosystem. ⭐️ Star to support our work!
 - [shim369/Astro-Newt-Site](https://github.com/shim369/Astro-Newt-Site) - Jamstack with headless CMS
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [KonradSzwarc/devscard](https://github.com/KonradSzwarc/devscard) - A fully customizable template to create your online (and paper) resume without writing a single line of code.
@@ -3061,7 +3063,6 @@
 
 ## ubuntu 
 
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
 - [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
 - [Cyclenerd/static_status](https://github.com/Cyclenerd/static_status) - 🚦Bash script to generate a static status page.
@@ -3110,7 +3111,7 @@
 - [tutaru99/Internet-Radio-Player-Vue](https://github.com/tutaru99/Internet-Radio-Player-Vue) - Internet Radio Player with an Audio Visualizer made using VueJS, Vuetify & Howler.JS frameworks. The Player has a bunch of radio stations. Check out the demo below.
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy 🍑🍆
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative. Cloud version available here -&gt; https://app.coolify.io
 - [bradyhouse/house](https://github.com/bradyhouse/house) - Proof of Concept and Research repository.
 
 ## web 
