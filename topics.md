@@ -1856,6 +1856,7 @@
 - [forsti0506/a11y-sitechecker](https://github.com/forsti0506/a11y-sitechecker) - Automatic accessibility checker with website crawling + screenshots for easy use
 - [themefisher/northendlab-light-astro](https://github.com/themefisher/northendlab-light-astro) - Northendlab is a highly customizable Astro theme designed specifically personal blog.
 - [Kabanosk/whisper-website](https://github.com/Kabanosk/whisper-website) - Simple web application, which can be used to convert audio to subtitles by OpenAI's Whisper model
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [Scosh/fonts](https://github.com/Scosh/fonts) - A collection of rad, open-source typefaces that everyone needs in their lives.
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
@@ -1985,7 +1986,6 @@
 - [deep-floyd/IF](https://github.com/deep-floyd/IF) - 
 - [Tailus-UI/astro-theme](https://github.com/Tailus-UI/astro-theme) - Home page template built with astro and tailwindcss using tailus blocks
 - [bucaneer/binauralconv](https://github.com/bucaneer/binauralconv) - A script for converting (surround) audio files into binaural stereo.
-- [rdwz/complete-website-downloader](https://github.com/rdwz/complete-website-downloader) - 🚧  Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ]  using Node x Express
 - [gethyas/bolt](https://github.com/gethyas/bolt) - Minimal blog theme based on Bolt.css
 - [ShanonPearce/ASH-IR-Dataset](https://github.com/ShanonPearce/ASH-IR-Dataset) - An impulse response dataset for binaural synthesis of spatial audio systems on headphones
 - [mozilla/observatory-cli](https://github.com/mozilla/observatory-cli) - 
