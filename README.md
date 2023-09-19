@@ -531,7 +531,6 @@
 - [Kikobeats/reachable-url](https://github.com/Kikobeats/reachable-url) - Given an URL, it resolves as fast as possible, performing a GET without downloading the body.
 - [CaptainOfPhB/spongebob](https://github.com/CaptainOfPhB/spongebob) - 🎨 Draw a cute SpongeBob.
 - [patriciogonzalezvivo/glslCanvas](https://github.com/patriciogonzalezvivo/glslCanvas) - Simple tool to load GLSL shaders on HTML Canvas using WebGL
-- [rdwz/complete-website-downloader](https://github.com/rdwz/complete-website-downloader) - 🚧  Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ]  using Node x Express
 - [gethyas/bolt](https://github.com/gethyas/bolt) - Minimal blog theme based on Bolt.css
 - [mozilla/observatory-cli](https://github.com/mozilla/observatory-cli) - 
 - [alexeyraspopov/picocolors](https://github.com/alexeyraspopov/picocolors) - The tiniest and the fastest library for terminal output formatting with ANSI colors
