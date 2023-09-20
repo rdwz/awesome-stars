@@ -396,7 +396,7 @@
 - [ShanonPearce/ASH-IR-Dataset](https://github.com/ShanonPearce/ASH-IR-Dataset) - An impulse response dataset for binaural synthesis of spatial audio systems on headphones
 - [Shakil-Shahadat/awesome-piracy](https://github.com/Shakil-Shahadat/awesome-piracy) - A curated list of awesome warez and piracy links.
 - [norinorin/linktree](https://github.com/norinorin/linktree) - Simple linktree w/ Tailwind CSS; a learning project.
-- [h-enk/doks](https://github.com/h-enk/doks) - Build beautiful, high-performance documentation websites with Doks
+- [h-enk/doks](https://github.com/h-enk/doks) - Everything you need to build an outstanding documentation website. Fast, accessible, and easy-to-use.
 - [deta/starters](https://github.com/deta/starters) - Example Space apps to help you get started with Space.
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
 - [VectorLogoZone/vectorlogozone](https://github.com/VectorLogoZone/vectorlogozone) - 3,000+ gorgeous SVG logos, perfect for your README or credits page
@@ -556,7 +556,6 @@
 - [lightpohl/podcast-dl](https://github.com/lightpohl/podcast-dl) - CLI for downloading and archiving podcasts.
 - [jojeyh/subtitler](https://github.com/jojeyh/subtitler) - 
 - [stripe-samples/subscription-use-cases](https://github.com/stripe-samples/subscription-use-cases) - Create subscriptions with fixed prices or usage based billing.
-- [remix-pwa/remix-pwa](https://github.com/remix-pwa/remix-pwa) - A lightweight, standalone package to integrate full PWA features into Remix 💿
 - [sindresorhus/pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots
 - [realvjy/nxt-lnk](https://github.com/realvjy/nxt-lnk) - Custom bio links for creatives who love coding. Made this first to use for my own weblinks vjy.me/lnk  A perfect custom alternative for linktree, bio and other shortner platform.
 - [mafiosnik777/enhancr](https://github.com/mafiosnik777/enhancr) - Video Frame Interpolation & Super Resolution using NVIDIA's TensorRT & Tencent's NCNN inference, beautifully crafted and packaged into a single app
@@ -1347,6 +1346,7 @@
 - [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 - [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments) - Clone, deploy, and fully customize a SaaS subscription application with Next.js.
 - [remix-run/blues-stack](https://github.com/remix-run/blues-stack) - The Remix Stack for deploying to Fly with PostgreSQL, authentication, testing, linting, formatting, etc.
+- [remix-pwa/remix-pwa](https://github.com/remix-pwa/remix-pwa) - A lightweight, standalone package to integrate full PWA features into Remix 💿
 - [remix-pwa/rockspec-stack](https://github.com/remix-pwa/rockspec-stack) - A fully configurable & customizable Remix PWA stack.
 - [valerebron/usetube](https://github.com/valerebron/usetube) - search & get datas from youtube no google account needed
 - [denoland/saaskit](https://github.com/denoland/saaskit) - A modern SaaS template built on Fresh.
