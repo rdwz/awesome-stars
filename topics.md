@@ -1563,6 +1563,7 @@
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG and WebP formats.   You can quickly reduce the file size (and resolution, if you wan
 - [thenurhabib/subnum](https://github.com/thenurhabib/subnum) - Crawl all subdomains and check for subdomain takeover vulnerability.
 - [Cyclenerd/benchmark](https://github.com/Cyclenerd/benchmark) - 🏋️ Bash Script which runs several Linux benchmarks (Sysbench, UnixBench and Geekbench)
