@@ -452,7 +452,7 @@
 ## chrome-extension 
 
 - [code-charity/ultimate-REGEX-extension](https://github.com/code-charity/ultimate-REGEX-extension) - ctrl+shift+F Text multi-tool browser extension  with familiar Ctrl+F visuals.  **need contributors to be the best & complete**
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Top ~ 100 Extension. Enrich your YouTube & Video experience & choice [🧰80 lean Features][📌Longest-standing][Please👨‍👩‍👧‍👧help]⚙️⋮⋮🎛️☕🎧🔊⏯️🎞️🎬📈🧩🎨⋮⋮ youtube playback, youtube content discovery, youtube p
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Top ~ 100 Extension. Enrich your YouTube- & Video-experience & -choice [🧰80 lean Features 📌Longest-standing 👨‍👩‍👧‍👧Please help] ⚙️⋮⋮⋮[🎛️☕🎧🔊⏯️🎞️🎬📈🧩🎨 youtube playback, youtube content discovery, youtube
 - [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
 - [one-tab-group/onetab.group](https://github.com/one-tab-group/onetab.group) - The website home for https://onetab.group
 - [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
@@ -567,7 +567,7 @@
 
 ## css 
 
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Top ~ 100 Extension. Enrich your YouTube & Video experience & choice [🧰80 lean Features][📌Longest-standing][Please👨‍👩‍👧‍👧help]⚙️⋮⋮🎛️☕🎧🔊⏯️🎞️🎬📈🧩🎨⋮⋮ youtube playback, youtube content discovery, youtube p
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Top ~ 100 Extension. Enrich your YouTube- & Video-experience & -choice [🧰80 lean Features 📌Longest-standing 👨‍👩‍👧‍👧Please help] ⚙️⋮⋮⋮[🎛️☕🎧🔊⏯️🎞️🎬📈🧩🎨 youtube playback, youtube content discovery, youtube
 - [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
 - [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
@@ -1147,7 +1147,7 @@
 
 ## hacktoberfest 
 
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Top ~ 100 Extension. Enrich your YouTube & Video experience & choice [🧰80 lean Features][📌Longest-standing][Please👨‍👩‍👧‍👧help]⚙️⋮⋮🎛️☕🎧🔊⏯️🎞️🎬📈🧩🎨⋮⋮ youtube playback, youtube content discovery, youtube p
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Top ~ 100 Extension. Enrich your YouTube- & Video-experience & -choice [🧰80 lean Features 📌Longest-standing 👨‍👩‍👧‍👧Please help] ⚙️⋮⋮⋮[🎛️☕🎧🔊⏯️🎞️🎬📈🧩🎨 youtube playback, youtube content discovery, youtube
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
 - [modernweb-dev/rocket](https://github.com/modernweb-dev/rocket) - The modern web setup for static sites with a sprinkle of JavaScript
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
