@@ -187,6 +187,7 @@
 ## CSS 
 
 - [HassanCorrigan/soundcloud-player](https://github.com/HassanCorrigan/soundcloud-player) - A SoundCloud styled audio player, with completely custom design controls and interface.
+- [mobalti/open-props-interfaces](https://github.com/mobalti/open-props-interfaces) - 
 - [kyr0/astro-launchpad](https://github.com/kyr0/astro-launchpad) - An Astro project template for decent projects: auth, i18next, Bootstrap, sitemap, webworker, robots.txt, preact, react, endpoints, endpoint clients, OAuth, various Astro features and data loading prec
 - [vinodmanimaran/ChatAlchemy](https://github.com/vinodmanimaran/ChatAlchemy) - ✨ Dive into 'ChatAlchemy,' a modern, responsive UI crafted with React and React Icons. Explore the magic of GPT-3's conversational AI showcased in multiple sections, unleashing the potential of natura
 - [kevinkhagan/adinkra-icons](https://github.com/kevinkhagan/adinkra-icons) - 
@@ -388,7 +389,6 @@
 
 ## HTML 
 
-- [mobalti/open-props-interfaces](https://github.com/mobalti/open-props-interfaces) - 
 - [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system
 - [vivekartiste/LinksGram-linktree.alternative](https://github.com/vivekartiste/LinksGram-linktree.alternative) - This is a linktree alternative single landing page based on html, css based code. You can download this and use it according to your usernames.
 - [mrmcsoftware/ShaderSearch](https://github.com/mrmcsoftware/ShaderSearch) - An HTML file to search for and play Shadertoy shaders by using shadertoy.com's API.
