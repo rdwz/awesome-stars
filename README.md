@@ -262,7 +262,7 @@
 ## Elixir 
 
 - [benbusby/farside](https://github.com/benbusby/farside) - A smart redirecting gateway for various frontend services
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
 ## GLSL 
 
@@ -342,7 +342,7 @@
 - [jdel/gosspks](https://github.com/jdel/gosspks) - A very simple Synology Package Server written in Go
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
-- [coder/coder](https://github.com/coder/coder) - A tool that provisions remote development environments via Terraform
+- [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [augmentable-dev/tickgit](https://github.com/augmentable-dev/tickgit) - Manage your repository's TODOs, tickets and checklists as config in your codebase.
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
@@ -1213,6 +1213,7 @@
 
 ## Shell 
 
+- [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [desertplant/moon-phase-background](https://github.com/desertplant/moon-phase-background) - Change desktop background to a high resolution picture of the current moon phase from NASA
 - [kodekloudhub/certified-kubernetes-administrator-course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course) - Certified Kubernetes Administrator - CKA Course
 - [bderenzo/tinystatus](https://github.com/bderenzo/tinystatus) - Static status page generator
@@ -1300,6 +1301,7 @@
 
 ## TypeScript 
 
+- [nextauthjs/next-auth-example](https://github.com/nextauthjs/next-auth-example) - Example showing how to use NextAuth.js with Next.js
 - [matthewp/astro-flyio-fastify-starter](https://github.com/matthewp/astro-flyio-fastify-starter) - Starter for using Fly.io and Fastify with Astro
 - [FossPrime/feathers](https://github.com/FossPrime/feathers) - The API and real-time application framework
 - [ReclaimApp/Reclaim](https://github.com/ReclaimApp/Reclaim) - A hub for your personal data
