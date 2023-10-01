@@ -1896,6 +1896,9 @@
 
 ## others 
 
+- [talves/astro-flex-components](https://github.com/talves/astro-flex-components) - Astro Starter (Typescript, fast-components)
+- [rdwz/socialify](https://github.com/rdwz/socialify) - 💞 Socialify your project. 🌐 Share with the world!
+- [littlesticks/astro-template-foundation](https://github.com/littlesticks/astro-template-foundation) - An opinionated foundation/starter repo for new Astro themes we create.
 - [zehfernandes/get-vercel-source-code](https://github.com/zehfernandes/get-vercel-source-code) - Get source code hosted at vercel
 - [0install/docs](https://github.com/0install/docs) - Zero Install documentation web-site
 - [btk/vectorizer](https://github.com/btk/vectorizer) - Potrace based multi-colored raster to vector tracer. Inputs PNG/JPG returns SVG
