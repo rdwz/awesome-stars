@@ -65,6 +65,7 @@
 
 ## Astro 
 
+- [yoanbernabeu/LinkTreeFreeClone](https://github.com/yoanbernabeu/LinkTreeFreeClone) - LinkTreeFreeClone is a LinkTree clone built with Astro and Tailwind
 - [talves/astro-flex-components](https://github.com/talves/astro-flex-components) - Astro Starter (Typescript, fast-components)
 - [littlesticks/astro-template-foundation](https://github.com/littlesticks/astro-template-foundation) - An opinionated foundation/starter repo for new Astro themes we create.
 - [netlify-templates/astro-toolbox](https://github.com/netlify-templates/astro-toolbox) - Netlify ❤️ Astro: a simple template to give you the code you need to use Netlify features with Astro.
@@ -207,7 +208,7 @@
 - [OSSPhilippines/freefolio](https://github.com/OSSPhilippines/freefolio) - 100% FREE professional portfolio website templates
 - [erfjs/ejbank](https://github.com/erfjs/ejbank) - 
 - [rdwz/instagram-bio-link](https://github.com/rdwz/instagram-bio-link) - For better communication in Instagram with your audience, it is better to have a link that audience can get acquainted with our other media and our services. There are sites that give us this link fre
-- [ferdium/ferdium-recipes](https://github.com/ferdium/ferdium-recipes) - 
+- [ferdium/ferdium-recipes](https://github.com/ferdium/ferdium-recipes) - Recipes encapsulate your favourite apps into Ferdium for unified notifications handling and more
 - [NasserToghiri/instagram-bio-link](https://github.com/NasserToghiri/instagram-bio-link) - For better communication in Instagram with your audience, it is better to have a link that audience can get acquainted with our other media and our services. There are sites that give us this link fre
 - [Benja-media/Ulink](https://github.com/Benja-media/Ulink) - Ulink (Formerly InstaLink) is an open source bio link generator. Ulink uses a simple json file to create a fast biolink! Ulink is a Static site generator that provides your links in a clean Bio link
 - [chinchang/hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
@@ -276,6 +277,7 @@
 
 ## Go 
 
+- [ai-mastering/phaselimiter-gui](https://github.com/ai-mastering/phaselimiter-gui) - 
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [basswavetech/music-browser](https://github.com/basswavetech/music-browser) - An overengineered music browser backend for Bandcamp, Spotify and YT Music
 - [emilia-miki/music-browser](https://github.com/emilia-miki/music-browser) - An overengineered music browser backend for Bandcamp, Spotify and YT Music
@@ -482,6 +484,7 @@
 
 ## JavaScript 
 
+- [erucix/Bard-API](https://github.com/erucix/Bard-API) - Small, lightweight and reliable unofficial Google Bard API built on Node-JS only. No external library implemented and or required to download.
 - [zehfernandes/get-vercel-source-code](https://github.com/zehfernandes/get-vercel-source-code) - Get source code hosted at vercel
 - [btk/vectorizer](https://github.com/btk/vectorizer) - Potrace based multi-colored raster to vector tracer. Inputs PNG/JPG returns SVG
 - [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
@@ -630,7 +633,7 @@
 - [Faboolea/shaders-on-scroll](https://github.com/Faboolea/shaders-on-scroll) - Smooth WebGL Shader Transformations on Scroll
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 - [mayank99/open-props-scss](https://github.com/mayank99/open-props-scss) - open-props as sass variables
-- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - The most comprehensive, compact, & up-to-date JavaScript library to detect user's Browser, Engine, OS, CPU, and Device type/model. Runs either in browser (client-side) or node.js (server
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - The open-source JavaScript library to detect user's Browser, Engine, OS, CPU, and Device type/model. Runs either in browser (client-side) or node.js (server-side).
 - [sa-ma/remix-supabase-tutorial](https://github.com/sa-ma/remix-supabase-tutorial) - Tutorial Example of integrating Supabase in Remix Applications
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
@@ -836,6 +839,7 @@
 
 ## Markdown 
 
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
@@ -1303,6 +1307,7 @@
 
 ## TypeScript 
 
+- [rossmoody/link-roamer](https://github.com/rossmoody/link-roamer) - A browser extension for gathering, organizing, and inspecting all the links on a page.
 - [rdwz/socialify](https://github.com/rdwz/socialify) - 💞 Socialify your project. 🌐 Share with the world!
 - [nextauthjs/next-auth-example](https://github.com/nextauthjs/next-auth-example) - Example showing how to use NextAuth.js with Next.js
 - [matthewp/astro-flyio-fastify-starter](https://github.com/matthewp/astro-flyio-fastify-starter) - Starter for using Fly.io and Fastify with Astro
