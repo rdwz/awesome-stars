@@ -276,6 +276,7 @@
 
 ## Go 
 
+- [mauamy/ard2rss](https://github.com/mauamy/ard2rss) - A small api that creates rss feeds for ARD Audiothek shows
 - [ai-mastering/phaselimiter-gui](https://github.com/ai-mastering/phaselimiter-gui) - 
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [basswavetech/music-browser](https://github.com/basswavetech/music-browser) - An overengineered music browser backend for Bandcamp, Spotify and YT Music
@@ -484,6 +485,8 @@
 
 ## JavaScript 
 
+- [amio/emoji.json](https://github.com/amio/emoji.json) - Just an emoji.json
+- [badgen/badgen-cli](https://github.com/badgen/badgen-cli) - Use the fastest badge generator from your CLI
 - [erucix/Bard-API](https://github.com/erucix/Bard-API) - Small, lightweight and reliable unofficial Google Bard API built on Node-JS only. No external library implemented and or required to download.
 - [zehfernandes/get-vercel-source-code](https://github.com/zehfernandes/get-vercel-source-code) - Get source code hosted at vercel
 - [btk/vectorizer](https://github.com/btk/vectorizer) - Potrace based multi-colored raster to vector tracer. Inputs PNG/JPG returns SVG
@@ -956,6 +959,7 @@
 
 ## PHP 
 
+- [outofcontrol/mediawiki-to-gfm](https://github.com/outofcontrol/mediawiki-to-gfm) - Converts Mediawiki format to Github Flavoured Markdown format
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [vityabond/hopebilling](https://github.com/vityabond/hopebilling) - The free billing system hopebilling.com
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
@@ -1213,6 +1217,7 @@
 
 ## SVG 
 
+- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨
 - [gilbarbara/logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos
 
 ## Scheme 
