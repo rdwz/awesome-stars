@@ -504,7 +504,7 @@
 - [nico3333fr/van11y-accessible-modal-window-aria](https://github.com/nico3333fr/van11y-accessible-modal-window-aria) - ES2015 accessible modal window system, using ARIA
 - [NTag/colivings](https://github.com/NTag/colivings) - Map of the best colivings in Europe
 - [code-charity/ultimate-REGEX-extension](https://github.com/code-charity/ultimate-REGEX-extension) - ctrl+shift+F Text multi-tool browser extension  with familiar Ctrl+F visuals.  **need contributors to be the best & complete**
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Top ~ 100 Extension. Enrich your YouTube- & Video-experience & -choice [🧰80 lean Features 📌Longest-standing 👨‍👩‍👧‍👧Please help]       ⚙️⋮[🎛️☕🎧🔊⏯️🎞️🎬📈🧩🎨 youtube playback, content discovery, player, ext
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Top~100 Extension. Enrich your YouTube- & Video-experience & -choice [🧰80 lean Features 📌Longest-standing 👨‍👩‍👧‍👧🧩Please help] ⋮⚙️🎛️☕🎧🎞️📈🎨⏯️🎬🔊 youtube playback, content discovery, player, extra button
 - [april/laboratory](https://github.com/april/laboratory) - Because good website security shouldn't only be available to mad scientists!
 - [adamPatrick12/study-beats-fm](https://github.com/adamPatrick12/study-beats-fm) - An online music player where you can listen to popular Youtube radio livestreams
 - [librariesio/github_companion](https://github.com/librariesio/github_companion) - :pushpin: Chrome Extension to see dependency health on GitHub as you browse.
@@ -543,7 +543,6 @@
 - [mozilla/observatory-cli](https://github.com/mozilla/observatory-cli) - 
 - [alexeyraspopov/picocolors](https://github.com/alexeyraspopov/picocolors) - The tiniest and the fastest library for terminal output formatting with ANSI colors
 - [mmarquez76/AstrologyClock](https://github.com/mmarquez76/AstrologyClock) - Displays time and astrological data (moon phases, positions of planets & celestial points in zodiac)
-- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [free-music-by-eatme/Milkdrop-Butterchurn-for-Web-v2.6.7.1e-complete-by-Geiss-Flexi-JBerg-EatMe](https://github.com/free-music-by-eatme/Milkdrop-Butterchurn-for-Web-v2.6.7.1e-complete-by-Geiss-Flexi-JBerg-EatMe) - Butterchurn is a WebGL implementation of the Milkdrop Visualizer
 - [winkerVSbecks/solarstorm](https://github.com/winkerVSbecks/solarstorm) - 
 - [zachfejes/js-horizons](https://github.com/zachfejes/js-horizons) - JavaScript client wrapper for the JPL Horizons Database
@@ -1352,6 +1351,7 @@
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [stormwarning/tailwindcss-capsize](https://github.com/stormwarning/tailwindcss-capsize) - ✂️ Tailwind CSS utility classes for trimming whitespace above & below capital letters.
 - [mcansh/remix-fastify](https://github.com/mcansh/remix-fastify) - Fastify server request handler for Remix
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [rewbs/butterchurn-recorder](https://github.com/rewbs/butterchurn-recorder) - 
 - [formkit/formkit](https://github.com/formkit/formkit) - Vue Forms ⚡️ Supercharged
 - [Tenpi/soundcloud.ts](https://github.com/Tenpi/soundcloud.ts) - Wrapper for the Soundcloud API with typings
