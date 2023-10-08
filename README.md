@@ -223,7 +223,7 @@
 - [t413/SinglePaged](https://github.com/t413/SinglePaged) - SinglePaged - Simple Jekyll template
 - [xz/fonts](https://github.com/xz/fonts) - A fast, open-source CDN for open-source fonts
 - [sumitkharche/astro-cosmic-app](https://github.com/sumitkharche/astro-cosmic-app) - 🚀 Blazing fast blog built using Astro that utilizes the power of Cosmic 🔥
-- [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Drop-in Bootstrap replacement, fully customizable with CSS variables.
+- [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Halfmoon is a highly customizable, drop-in Bootstrap replacement. It comes with three built-in core themes, with dark mode support for all themes and components.
 - [KatamariJr/split-landing](https://github.com/KatamariJr/split-landing) - A landing page theme made for Hugo
 - [gizak/nofancy](https://github.com/gizak/nofancy) - A Hugo blog theme
 
@@ -485,6 +485,7 @@
 
 ## JavaScript 
 
+- [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [amio/emoji.json](https://github.com/amio/emoji.json) - Just an emoji.json
 - [badgen/badgen-cli](https://github.com/badgen/badgen-cli) - Use the fastest badge generator from your CLI
@@ -556,7 +557,6 @@
 - [valmisson/tauri-app-template](https://github.com/valmisson/tauri-app-template) - A template for building desktop applications with Tauri
 - [sanderblue/solar-system-threejs](https://github.com/sanderblue/solar-system-threejs) - The Solar System modeled to scale with Three.js
 - [ashugeo/set-game](https://github.com/ashugeo/set-game) - Set – Visual card game
-- [Tarikul-Islam-Anik/Animated-Fluent-Emojis](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis) - All the Microsoft animated fluent emojis are available in one place and ready to use in your next project or README file.
 - [jmisavage/red-snapper](https://github.com/jmisavage/red-snapper) - Package to take snapshots with headless chrome
 - [halvves/shader-doodle](https://github.com/halvves/shader-doodle) - A friendly web-component for writing and rendering shaders.
 - [PaulBratslavsky/strapi-chat-blog-repo](https://github.com/PaulBratslavsky/strapi-chat-blog-repo) - 
@@ -1314,6 +1314,7 @@
 
 ## TypeScript 
 
+- [jee-r/astro-decap-cms](https://github.com/jee-r/astro-decap-cms) - Integration to add Netlify CMS’s admin dashboard to any Astro project
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [ACP-CODE/astro-robots](https://github.com/ACP-CODE/astro-robots) - The lightweight robots.txt generator makes it simple to create compliant robots.txt files specifically for Astro integrations, with zero-config support, an intuitive JSDoc API, and always up-to-date v
 - [rossmoody/link-roamer](https://github.com/rossmoody/link-roamer) - A browser extension for gathering, organizing, and inspecting all the links on a page.
@@ -1358,6 +1359,7 @@
 - [forsti0506/a11y-sitechecker](https://github.com/forsti0506/a11y-sitechecker) - Automatic accessibility checker with website crawling + screenshots for easy use
 - [jwagner/simplex-noise.js](https://github.com/jwagner/simplex-noise.js) - A fast simplex noise implementation in Javascript / Typescript.
 - [xsalazar/fluent-emoji](https://github.com/xsalazar/fluent-emoji) - 🚀 This repository contains the website source code for https://fluentemoji.com. This website allows for browsing Microsoft's "familiar, friendly, and modern emoji". Including additional features such 
+- [Tarikul-Islam-Anik/Animated-Fluent-Emojis](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis) - All the Microsoft animated fluent emojis are available in one place and ready to use in your next project or README file.
 - [supabase-community/deno-fresh-openai-doc-search](https://github.com/supabase-community/deno-fresh-openai-doc-search) - Template for building your own custom ChatGPT style doc search powered by Fresh, Deno, OpenAI, and Supabase.
 - [xxcodianxx/youtube-dl-web](https://github.com/xxcodianxx/youtube-dl-web) - A good web interface for youtube-dl that allows you to download arbitrary mixes of audio and video, including up to the highest quality such as 8K.
 - [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) - An open-source ChatGPT app with a voice
