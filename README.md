@@ -188,6 +188,7 @@
 
 ## CSS 
 
+- [XenoverseUp/graddient](https://github.com/XenoverseUp/graddient) - 
 - [HassanCorrigan/soundcloud-player](https://github.com/HassanCorrigan/soundcloud-player) - A SoundCloud styled audio player, with completely custom design controls and interface.
 - [mobalti/open-props-interfaces](https://github.com/mobalti/open-props-interfaces) - 
 - [kyr0/astro-launchpad](https://github.com/kyr0/astro-launchpad) - An Astro project template for decent projects: auth, i18next, Bootstrap, sitemap, webworker, robots.txt, preact, react, endpoints, endpoint clients, OAuth, various Astro features and data loading prec
@@ -485,6 +486,8 @@
 
 ## JavaScript 
 
+- [marwin1991/profile-technology-icons](https://github.com/marwin1991/profile-technology-icons) - 📋 😄 Add icons to your GitHub profile using this generator  😄 📋
+- [hernandez87v/djjosehernandez](https://github.com/hernandez87v/djjosehernandez) - 🎶 DJ Progressive Web App built using 🧬 React, 🔗 APIs.
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [amio/emoji.json](https://github.com/amio/emoji.json) - Just an emoji.json
