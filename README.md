@@ -810,7 +810,6 @@
 
 ## Jupyter Notebook 
 
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - 🔉 Youtube Videos Transcription with OpenAI's Whisper
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [mikhailklassen/Mining-the-Social-Web-3rd-Edition](https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition) - The official online compendium for Mining the Social Web, 3rd Edition (O'Reilly, 2018)
@@ -892,6 +891,7 @@
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
 - [SchoonLabs/CasterKit](https://github.com/SchoonLabs/CasterKit) - A resource for aspiring podcasters
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [ekohrt/davinci_notebook](https://github.com/ekohrt/davinci_notebook) - A collection of AI-generated sketches in the style of Leonardo da Vinci's journals
 - [w3f/unbounded](https://github.com/w3f/unbounded) - Open source, freely available and on-chain funded font.
 - [astrotarot-ca/medium](https://github.com/astrotarot-ca/medium) - The main astrotarot.ca asset repository.
@@ -1324,6 +1324,8 @@
 
 ## TypeScript 
 
+- [davipon/fastify-esbuild](https://github.com/davipon/fastify-esbuild) - Boilerplate to create a Fastify app with better DX
+- [shpetimselaci/fastify-esbuild-typescript-vite](https://github.com/shpetimselaci/fastify-esbuild-typescript-vite) - Boilerplate to quickly create a backend with fastify.js framework using typescript and the latest tooling.
 - [chouzz/vscode-innosetup](https://github.com/chouzz/vscode-innosetup) - Language syntax, snippets and build system for Inno Setup
 - [jee-r/astro-decap-cms](https://github.com/jee-r/astro-decap-cms) - Integration to add Netlify CMS’s admin dashboard to any Astro project
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
