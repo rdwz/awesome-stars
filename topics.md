@@ -460,6 +460,7 @@
 
 ## chrome-extension 
 
+- [sheldhur/cross-browser-extension-boilerplate](https://github.com/sheldhur/cross-browser-extension-boilerplate) - Supports TypeScript, React, PostCSS, Manifest V3 and Manifest V2. Cross browser building for Chrome, Firefox, Safari, Edge, etc.
 - [katspaugh/fluentcards-extension](https://github.com/katspaugh/fluentcards-extension) - Chrome extension to look up words in a dictionary and save as flashcards.
 - [rossmoody/link-roamer](https://github.com/rossmoody/link-roamer) - A browser extension for gathering, organizing, and inspecting all the links on a page.
 - [code-charity/ultimate-REGEX-extension](https://github.com/code-charity/ultimate-REGEX-extension) - ctrl+shift+F Text multi-tool browser extension  with familiar Ctrl+F visuals.  **need contributors to be the best & complete**
@@ -1176,6 +1177,7 @@
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [stormwarning/tailwindcss-capsize](https://github.com/stormwarning/tailwindcss-capsize) - ✂️ Tailwind CSS utility classes for trimming whitespace above & below capital letters.
+- [AstroNvim/astrotheme](https://github.com/AstroNvim/astrotheme) - The default colorscheme used by AstroNvim
 - [Tenpi/soundcloud.ts](https://github.com/Tenpi/soundcloud.ts) - Wrapper for the Soundcloud API with typings
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [forsti0506/a11y-sitechecker](https://github.com/forsti0506/a11y-sitechecker) - Automatic accessibility checker with website crawling + screenshots for easy use
@@ -1393,6 +1395,7 @@
 
 ## javascript 
 
+- [sheldhur/cross-browser-extension-boilerplate](https://github.com/sheldhur/cross-browser-extension-boilerplate) - Supports TypeScript, React, PostCSS, Manifest V3 and Manifest V2. Cross browser building for Chrome, Firefox, Safari, Edge, etc.
 - [francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼 A JavaScript library for zooming images like Medium
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [opentypejs/opentype.js](https://github.com/opentypejs/opentype.js) - Read and write OpenType fonts using JavaScript.
@@ -1939,6 +1942,9 @@
 
 ## others 
 
+- [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
+- [fontuni/boonjot](https://github.com/fontuni/boonjot) - BoonJot Font
+- [joelparkerhenderson/inclusive-language](https://github.com/joelparkerhenderson/inclusive-language) - Inclusive language
 - [davipon/fastify-esbuild](https://github.com/davipon/fastify-esbuild) - Boilerplate to create a Fastify app with better DX
 - [DannyMoerkerke/audio-recorder](https://github.com/DannyMoerkerke/audio-recorder) - Audio Recorder Web Component
 - [chouzz/vscode-innosetup](https://github.com/chouzz/vscode-innosetup) - Language syntax, snippets and build system for Inno Setup
@@ -2693,6 +2699,8 @@
 
 ## react 
 
+- [sheldhur/cross-browser-extension-boilerplate](https://github.com/sheldhur/cross-browser-extension-boilerplate) - Supports TypeScript, React, PostCSS, Manifest V3 and Manifest V2. Cross browser building for Chrome, Firefox, Safari, Edge, etc.
+- [alibaba/ChatUI](https://github.com/alibaba/ChatUI) - The UI design language and React library for Conversational UI
 - [hernandez87v/djjosehernandez](https://github.com/hernandez87v/djjosehernandez) - 🎶 DJ Progressive Web App built using 🧬 React, 🔗 APIs.
 - [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
@@ -3067,6 +3075,7 @@
 
 ## typescript 
 
+- [sheldhur/cross-browser-extension-boilerplate](https://github.com/sheldhur/cross-browser-extension-boilerplate) - Supports TypeScript, React, PostCSS, Manifest V3 and Manifest V2. Cross browser building for Chrome, Firefox, Safari, Edge, etc.
 - [shpetimselaci/fastify-esbuild-typescript-vite](https://github.com/shpetimselaci/fastify-esbuild-typescript-vite) - Boilerplate to quickly create a backend with fastify.js framework using typescript and the latest tooling.
 - [iamhectorsosa/astrofordocs](https://github.com/iamhectorsosa/astrofordocs) - Is it possible to ship ZERO JavaScript and still deliver a functional website?
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
