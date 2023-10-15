@@ -65,6 +65,7 @@
 
 ## Astro 
 
+- [astro-reactive/astro-reactive](https://github.com/astro-reactive/astro-reactive) - Let your data build your UI with server-side rendered, dynamic Astro components
 - [kyr0/turbo-hybrid-astro-on-vercel](https://github.com/kyr0/turbo-hybrid-astro-on-vercel) - Astro 2.0 / turbo monorepo project template featuring hybrid rendering (SSG + SSR). Configured to deploy on Vercel.
 - [Charca/astro-records](https://github.com/Charca/astro-records) - Astro SPA Demo
 - [yoanbernabeu/LinkTreeFreeClone](https://github.com/yoanbernabeu/LinkTreeFreeClone) - LinkTreeFreeClone is a LinkTree clone built with Astro and Tailwind
@@ -492,6 +493,7 @@
 
 ## JavaScript 
 
+- [sienori/Tab-Session-Manager](https://github.com/sienori/Tab-Session-Manager) - WebExtensions for restoring and saving window / tab states
 - [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript
 - [francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼 A JavaScript library for zooming images like Medium
 - [DannyMoerkerke/audio-recorder](https://github.com/DannyMoerkerke/audio-recorder) - Audio Recorder Web Component
@@ -649,7 +651,7 @@
 - [webkul/myscale](https://github.com/webkul/myscale) - myScale - Quick SVG Icon Resizer
 - [RafidMuhymin/astro-imagetools](https://github.com/RafidMuhymin/astro-imagetools) - Image Optimization tools for the Astro JS framework
 - [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free
-- [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
+- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run linters on git staged files
 - [Faboolea/shaders-on-scroll](https://github.com/Faboolea/shaders-on-scroll) - Smooth WebGL Shader Transformations on Scroll
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 - [mayank99/open-props-scss](https://github.com/mayank99/open-props-scss) - open-props as sass variables
@@ -976,6 +978,7 @@
 
 ## PHP 
 
+- [phoronix-test-suite/phoronix-test-suite](https://github.com/phoronix-test-suite/phoronix-test-suite) - The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
 - [outofcontrol/mediawiki-to-gfm](https://github.com/outofcontrol/mediawiki-to-gfm) - Converts Mediawiki format to Github Flavoured Markdown format
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [vityabond/hopebilling](https://github.com/vityabond/hopebilling) - The free billing system hopebilling.com
@@ -1159,6 +1162,7 @@
 
 ## Rust 
 
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [wonderfulspam/deta-rust](https://github.com/wonderfulspam/deta-rust) - Rust bindings for the Deta Base and Drive HTTP API
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -1331,6 +1335,7 @@
 
 ## TypeScript 
 
+- [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [sheldhur/cross-browser-extension-boilerplate](https://github.com/sheldhur/cross-browser-extension-boilerplate) - Supports TypeScript, React, PostCSS, Manifest V3 and Manifest V2. Cross browser building for Chrome, Firefox, Safari, Edge, etc.
 - [alibaba/ChatUI](https://github.com/alibaba/ChatUI) - The UI design language and React library for Conversational UI
 - [davipon/fastify-esbuild](https://github.com/davipon/fastify-esbuild) - Boilerplate to create a Fastify app with better DX
