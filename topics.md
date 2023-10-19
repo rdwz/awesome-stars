@@ -600,7 +600,6 @@
 - [sanderblue/solar-system-threejs](https://github.com/sanderblue/solar-system-threejs) - The Solar System modeled to scale with Three.js
 - [appzic/astro-reset-css](https://github.com/appzic/astro-reset-css) - Astro Component for CSS reset like tailwind base
 - [sethcottle/littlelink](https://github.com/sethcottle/littlelink) - A lightweight DIY alternative to services like Linktree.
-- [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [AleksandrHovhannisyan/fluid-type-scale-calculator](https://github.com/AleksandrHovhannisyan/fluid-type-scale-calculator) - Generate font size variables for a fluid type scale with CSS clamp.
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 - [jhalmu/my-astro-pages-v2](https://github.com/jhalmu/my-astro-pages-v2) - Colorful astro-pages for fun. Projects came from github when rebuild, outcome static html
@@ -1206,6 +1205,7 @@
 - [hubblo-org/scaphandre](https://github.com/hubblo-org/scaphandre) - ⚡ Energy consumption metrology agent. Let "scaph" dive and bring back the metrics that will help you make your systems and applications more sustainable !
 - [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
+- [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [AstroDraw/AstroChart](https://github.com/AstroDraw/AstroChart) - A free and open-source TypeScript library for generating SVG charts to display planets in astrology.
 - [rubynor/bigfive-web](https://github.com/rubynor/bigfive-web) - Website for taking personality tests
 - [Tenpi/waifu2x](https://github.com/Tenpi/waifu2x) - waifu2x image upscaling in Node.js
@@ -1450,7 +1450,6 @@
 - [pronouns/main](https://github.com/pronouns/main) - Share your personal pronouns and stay updated on your friends' pronouns. Pronouny allows you to update your pronouns and send alerts to your friends.
 - [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) - A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container!
-- [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [PallaviKatari/ReactTraining](https://github.com/PallaviKatari/ReactTraining) - React is an open source, JavaScript library for developing user interface (UI) in web application. React is developed and released by Facebook.
 - [Kikobeats/http-compression](https://github.com/Kikobeats/http-compression) - Adding compression (gzip/brotli) for your HTTP server in Node.js.
 - [capaj/vscode-standardjs-snippets](https://github.com/capaj/vscode-standardjs-snippets) - a complete set of Javascript snippets for Visual Studio Code
@@ -1975,7 +1974,7 @@
 
 - [netlify-templates/astro-quickstart](https://github.com/netlify-templates/astro-quickstart) - A bare-bones Astro template to get you deployed to Netlify fast!
 - [taiki-e/install-action](https://github.com/taiki-e/install-action) - GitHub Action for installing development tools (mainly from GitHub Releases).
-- [astro-reactive/astro-reactive](https://github.com/astro-reactive/astro-reactive) - Let your data build your UI with server-side rendered, dynamic Astro components
+- [astro-reactive/astro-reactive](https://github.com/astro-reactive/astro-reactive) - Let your data build your UI, with Astro components
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
 - [kyr0/turbo-hybrid-astro-on-vercel](https://github.com/kyr0/turbo-hybrid-astro-on-vercel) - Astro 2.0 / turbo monorepo project template featuring hybrid rendering (SSG + SSR). Configured to deploy on Vercel.
 - [Charca/astro-records](https://github.com/Charca/astro-records) - Astro SPA Demo
