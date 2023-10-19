@@ -66,7 +66,7 @@
 ## Astro 
 
 - [netlify-templates/astro-quickstart](https://github.com/netlify-templates/astro-quickstart) - A bare-bones Astro template to get you deployed to Netlify fast!
-- [astro-reactive/astro-reactive](https://github.com/astro-reactive/astro-reactive) - Let your data build your UI with server-side rendered, dynamic Astro components
+- [astro-reactive/astro-reactive](https://github.com/astro-reactive/astro-reactive) - Let your data build your UI, with Astro components
 - [kyr0/turbo-hybrid-astro-on-vercel](https://github.com/kyr0/turbo-hybrid-astro-on-vercel) - Astro 2.0 / turbo monorepo project template featuring hybrid rendering (SSG + SSR). Configured to deploy on Vercel.
 - [Charca/astro-records](https://github.com/Charca/astro-records) - Astro SPA Demo
 - [yoanbernabeu/LinkTreeFreeClone](https://github.com/yoanbernabeu/LinkTreeFreeClone) - LinkTreeFreeClone is a LinkTree clone built with Astro and Tailwind
