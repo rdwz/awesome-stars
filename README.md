@@ -306,7 +306,6 @@
 - [dns-as-code/docker-ddns-server](https://github.com/dns-as-code/docker-ddns-server) - Dynamic DNS Server with Web UI written in Go
 - [Rosettea/bunnyfetch](https://github.com/Rosettea/bunnyfetch) - 🐰 Tiny system info fetch utility.
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
-- [dee-al/domain.dee.al](https://github.com/dee-al/domain.dee.al) - Create free subdomain free
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [ellisonleao/vl](https://github.com/ellisonleao/vl) - CLI tool that helps verify current status of URIs in text files
 - [dwisiswant0/tlder](https://github.com/dwisiswant0/tlder) - TLDs finder — check domain name availability across all valid top-level domains.
