@@ -498,6 +498,7 @@
 
 ## JavaScript 
 
+- [magneum/youtube-exec](https://github.com/magneum/youtube-exec) - 🔥🎶YouTube-Exec: Unleash the Power of YouTube Downloads!
 - [ecomfe/fonteditor](https://github.com/ecomfe/fonteditor) - 在线字体编辑器
 - [ecomfe/fontmin](https://github.com/ecomfe/fontmin) - Minify font seamlessly
 - [tommoor/tinycon](https://github.com/tommoor/tinycon) - A small library for manipulating the favicon, in particular adding alert bubbles and changing images.
@@ -836,6 +837,7 @@
 
 ## Kotlin 
 
+- [sharplab/epub-translator](https://github.com/sharplab/epub-translator) - An utility to translate epub books with DeepL
 - [Slion/Fulguris](https://github.com/Slion/Fulguris) - ⚡Web Browser
 - [derlin/docker-compose-viz-mermaid](https://github.com/derlin/docker-compose-viz-mermaid) - Generate beautiful visuals from docker-compose files. The mermaid graph can be exported to PNG, SVG, or edited directly in https://mermaid.live.
 - [metabrainz/listenbrainz-android](https://github.com/metabrainz/listenbrainz-android) - Official Android App of ListenBrainz
