@@ -149,7 +149,7 @@
 ## C# # 
 
 - [totoroyyb/Project-Neon](https://github.com/totoroyyb/Project-Neon) - A modern media player made for UWP
-- [deanthecoder/GLSLShaderShrinker](https://github.com/deanthecoder/GLSLShaderShrinker) - Optimizes the size of GLSL shader code.
+- [deanthecoder/GLSLShaderShrinker](https://github.com/deanthecoder/GLSLShaderShrinker) - Cross-platform tool to Reformat/Remove Dead Code/Optimise/Analyse GLSL shader code.
 - [shaked6540/YoutubePlaylistDownloader](https://github.com/shaked6540/YoutubePlaylistDownloader) - A tool to download whole playlists, channels or single videos from youtube and also optionally convert them to almost any format you would like
 - [github/gh-actions-importer](https://github.com/github/gh-actions-importer) - GitHub Actions Importer helps you plan and automate the migration of Azure DevOps, Bamboo, Bitbucket, CircleCI, GitLab, Jenkins, and Travis CI pipelines to GitHub Actions.
 - [n00mkrad/cupscale](https://github.com/n00mkrad/cupscale) - Image Upscaling GUI based on ESRGAN
@@ -501,6 +501,8 @@
 
 ## JavaScript 
 
+- [KittyGiraudel/a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog script.
+- [tholman/intense-images](https://github.com/tholman/intense-images) - A simple library to view large images up close using simple mouse interaction, and the full screen.
 - [magneum/youtube-exec](https://github.com/magneum/youtube-exec) - 🔥🎶YouTube-Exec: Unleash the Power of YouTube Downloads!
 - [ecomfe/fonteditor](https://github.com/ecomfe/fonteditor) - 在线字体编辑器
 - [ecomfe/fontmin](https://github.com/ecomfe/fontmin) - Minify font seamlessly
@@ -538,7 +540,7 @@
 - [nico3333fr/van11y-accessible-modal-window-aria](https://github.com/nico3333fr/van11y-accessible-modal-window-aria) - ES2015 accessible modal window system, using ARIA
 - [NTag/colivings](https://github.com/NTag/colivings) - Map of the best colivings in Europe
 - [code-charity/ultimate-REGEX-extension](https://github.com/code-charity/ultimate-REGEX-extension) - ctrl+shift+F Text multi-tool browser extension  with familiar Ctrl+F visuals.  **need contributors to be the best & complete**
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Top~100 Extension. Enrich your YouTube- & Video-experience & -choice [🧰80 lean Features 📌Longest-standing 👨‍👩‍👧‍👧🧩Please help] ⋮⚙️🎛️☕🎧🎞️📈🎨⏯️🎬🔊 youtube playback, content discovery, player, extra button
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Top~100 Extension. Enrich your YouTube- & Video-experience & -choice [🧰90 lean Features 📌Longest-standing 👨‍👩‍👧‍👧🧩Please help] ⋮⚙️🎛️☕🎧🎞️📈🎨⏯️🎬🔊 youtube playback, content discovery, player, extra button
 - [april/laboratory](https://github.com/april/laboratory) - Because good website security shouldn't only be available to mad scientists!
 - [adamPatrick12/study-beats-fm](https://github.com/adamPatrick12/study-beats-fm) - An online music player where you can listen to popular Youtube radio livestreams
 - [librariesio/github_companion](https://github.com/librariesio/github_companion) - :pushpin: Chrome Extension to see dependency health on GitHub as you browse.
@@ -1012,7 +1014,7 @@
 - [MagicLike/readme-typing-svg](https://github.com/MagicLike/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your Github profile readme or repository.
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [filegator/filegator](https://github.com/filegator/filegator) - Powerful Multi-User File Manager
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify alternative. Cloud version available here -&gt; https://app.coolify.io
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative. Cloud version available here -&gt; https://app.coolify.io
 - [ssddanbrown/rss](https://github.com/ssddanbrown/rss) - A simple twitter-feed-style RSS aggregator written in PHP, Laravel, Inertia.js, Tailwind and Vue.js
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [Rudloff/alltube](https://github.com/Rudloff/alltube) - Web GUI for youtube-dl
@@ -1032,6 +1034,7 @@
 
 ## Python 
 
+- [andrewzlee/NeuralBlock](https://github.com/andrewzlee/NeuralBlock) - Neural Network that detects in-video YouTube sponsorships.
 - [jeanslack/Videomass](https://github.com/jeanslack/Videomass) - Videomass is a free, open source and cross-platform GUI for FFmpeg and yt-dlp
 - [nod-ai/SHARK](https://github.com/nod-ai/SHARK) - SHARK - High Performance Machine Learning Distribution
 - [eggplants/deepl-cli](https://github.com/eggplants/deepl-cli) - DeepL Translator CLI (without API Key)
