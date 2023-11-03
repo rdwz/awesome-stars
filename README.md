@@ -420,7 +420,6 @@
 - [gethyas/doks](https://github.com/gethyas/doks) - Build beautiful, accessible, high-performance documentation websites
 - [deta/starters](https://github.com/deta/starters) - Example Space apps to help you get started with Space.
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
-- [VectorLogoZone/vectorlogozone](https://github.com/VectorLogoZone/vectorlogozone) - 3,000+ gorgeous SVG logos, perfect for your README or credits page
 - [EthicalSource/ethicalsource.dev](https://github.com/EthicalSource/ethicalsource.dev) - Home of the Organization for Ethical Source
 - [MarketingPipeline/Awesome-Repo-Template](https://github.com/MarketingPipeline/Awesome-Repo-Template) - An awesome repo template packed with tons of tools & more to kick-start your next project / repo!
 - [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Get unified metadata from websites using Open Graph, Microdata, RDFa, Twitter Cards, JSON-LD, HTML, and more.
@@ -501,6 +500,7 @@
 
 ## JavaScript 
 
+- [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A full-stack application that turns any documents into an intelligent chatbot with a sleek UI and easier way to manage your workspaces.
 - [KittyGiraudel/a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog script.
@@ -844,6 +844,7 @@
 
 ## Kotlin 
 
+- [skydoves/TheMovies2](https://github.com/skydoves/TheMovies2) - 🎬 A demo project using The Movie DB based on Kotlin MVVM architecture and material design & animations.
 - [sharplab/epub-translator](https://github.com/sharplab/epub-translator) - An utility to translate epub books with DeepL
 - [Slion/Fulguris](https://github.com/Slion/Fulguris) - ⚡Web Browser
 - [derlin/docker-compose-viz-mermaid](https://github.com/derlin/docker-compose-viz-mermaid) - Generate beautiful visuals from docker-compose files. The mermaid graph can be exported to PNG, SVG, or edited directly in https://mermaid.live.
@@ -904,6 +905,7 @@
 
 ## Others 
 
+- [DeepLcom/openapi](https://github.com/DeepLcom/openapi) - OpenAPI specification of the DeepL API
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
 - [joelparkerhenderson/inclusive-language](https://github.com/joelparkerhenderson/inclusive-language) - Inclusive language
 - [IonicaBizau/ama](https://github.com/IonicaBizau/ama) - :speech_balloon: Ask me anything!
@@ -1264,6 +1266,7 @@
 
 - [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨
 - [gilbarbara/logos](https://github.com/gilbarbara/logos) - A huge collection of SVG logos
+- [VectorLogoZone/vectorlogozone](https://github.com/VectorLogoZone/vectorlogozone) - 3,000+ gorgeous SVG logos, perfect for your README or credits page
 
 ## Scheme 
 
@@ -1365,6 +1368,9 @@
 
 ## TypeScript 
 
+- [fajarhidayatt/whatmovie](https://github.com/fajarhidayatt/whatmovie) - WhatMovie is a website to find information about your favorite movies
+- [grantholle/moviedb-promise](https://github.com/grantholle/moviedb-promise) - Interact with themoviedb.org's api with Node... now in TypeScript!
+- [Debdut/uuid-readable](https://github.com/Debdut/uuid-readable) - Generate Easy to Remember, Readable UUIDs, that are Shakespearean and Grammatically Correct Sentences 🥳
 - [elegantapp/pwa-asset-generator](https://github.com/elegantapp/pwa-asset-generator) - Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. Updates manifest.json and index.html files with the generated i
 - [itgalaxy/favicons](https://github.com/itgalaxy/favicons) - Favicons generator for Node.js
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
