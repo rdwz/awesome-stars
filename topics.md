@@ -1196,7 +1196,6 @@
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [AndrejJurkin/create-tw](https://github.com/AndrejJurkin/create-tw) - CLI to scaffold tailwindcss-ready projects
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
@@ -1957,6 +1956,7 @@
 
 ## npm 
 
+- [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [gethyas/doks](https://github.com/gethyas/doks) - Build beautiful, accessible, high-performance documentation websites
 - [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
@@ -2009,6 +2009,8 @@
 
 ## others 
 
+- [shibumi/Podcast-dl](https://github.com/shibumi/Podcast-dl) - Download famous german podcasts
+- [total-typescript/total-typescript-book](https://github.com/total-typescript/total-typescript-book) - The companion repo for the upcoming Total TypeScript book
 - [DeepLcom/openapi](https://github.com/DeepLcom/openapi) - OpenAPI specification of the DeepL API
 - [Debdut/uuid-readable](https://github.com/Debdut/uuid-readable) - Generate Easy to Remember, Readable UUIDs, that are Shakespearean and Grammatically Correct Sentences 🥳
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
@@ -2827,7 +2829,7 @@
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
-- [clerkinc/remix-auth-starter](https://github.com/clerkinc/remix-auth-starter) - Add sign up, sign in, profile management, and authenticated API routes to your Remix application with the Remix Auth Starter by Clerk.
+- [clerk/remix-auth-starter](https://github.com/clerk/remix-auth-starter) - Add sign up, sign in, profile management, and authenticated API routes to your Remix application with the Remix Auth Starter by Clerk.
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [yocontra/react-responsive](https://github.com/yocontra/react-responsive) - CSS media queries in react - for responsive design, and more.
 - [ingram-projects/animxyz](https://github.com/ingram-projects/animxyz) - The first truly composable CSS animation library. Built for Vue, React, SCSS, and CSS, AnimXYZ will bring your website to life.
