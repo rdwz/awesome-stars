@@ -223,6 +223,7 @@
 - [elegantapp/pwa-asset-generator](https://github.com/elegantapp/pwa-asset-generator) - Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. Updates manifest.json and index.html files with the generated i
 - [Slion/Fulguris](https://github.com/Slion/Fulguris) - ⚡Web Browser
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [metabrainz/listenbrainz-android](https://github.com/metabrainz/listenbrainz-android) - Official Android App of ListenBrainz
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [rashidRizvi98/YourPersonality](https://github.com/rashidRizvi98/YourPersonality) - An android app to let know users their MBTI personality type
 - [aghontpi/ad-silence](https://github.com/aghontpi/ad-silence) - Mute Ad/promotions from Accuradio, Spotify, TIDAL & Pandora Android. Minimal, extensible & lightweight under 150kb.
@@ -386,6 +387,7 @@
 
 ## bash 
 
+- [nixcraft/domain-check-2](https://github.com/nixcraft/domain-check-2) - Domain Expiration Check Shell Script Forked and Maintained by nixCraft
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [shelljs/shx](https://github.com/shelljs/shx) - Portable Shell Commands for Node
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
@@ -543,6 +545,7 @@
 
 ## code-quality 
 
+- [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis) - ⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.
 
@@ -691,6 +694,7 @@
 
 ## deep-learning 
 
+- [guillaumekln/faster-whisper](https://github.com/guillaumekln/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [nod-ai/SHARK](https://github.com/nod-ai/SHARK) - SHARK - High Performance Machine Learning Distribution
 - [megvii-research/ECCV2022-RIFE](https://github.com/megvii-research/ECCV2022-RIFE) - ECCV2022 - Real-Time Intermediate Flow Estimation for Video Frame Interpolation
 - [cderinbogaz/namekrea](https://github.com/cderinbogaz/namekrea) - NameKrea is an AI Domain Name Generator which uses GPT-2
@@ -869,6 +873,8 @@
 
 ## emoji 
 
+- [github/gemoji](https://github.com/github/gemoji) - Emoji images and names.
+- [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [rugk/awesome-emoji-picker](https://github.com/rugk/awesome-emoji-picker) - Add-on/WebExtension that provides a modern emoji picker that you can use to find and copy/insert emoji into the active web page.
 - [amio/emoji.json](https://github.com/amio/emoji.json) - Just an emoji.json
 - [SeanMcP/astro-emoji](https://github.com/SeanMcP/astro-emoji) - 🚀 An accessible Emoji component for Astro applications
@@ -1024,6 +1030,7 @@
 
 ## github 
 
+- [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) - 🛡 Allows users to more easily use Octicons and their own icons and logos on shields.io badges
 - [marwin1991/profile-technology-icons](https://github.com/marwin1991/profile-technology-icons) - 📋 😄 Add icons to your GitHub profile using this generator  😄 📋
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
 - [Tarikul-Islam-Anik/Animated-Fluent-Emojis](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis) - All the Microsoft animated fluent emojis are available in one place and ready to use in your next project or README file.
@@ -1102,6 +1109,7 @@
 
 ## golang 
 
+- [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [haccer/available](https://github.com/haccer/available) - Domain availability checking for Golang
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
@@ -1195,6 +1203,8 @@
 
 ## hacktoberfest 
 
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+- [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) - 🛡 Allows users to more easily use Octicons and their own icons and logos on shields.io badges
 - [rugk/awesome-emoji-picker](https://github.com/rugk/awesome-emoji-picker) - Add-on/WebExtension that provides a modern emoji picker that you can use to find and copy/insert emoji into the active web page.
 - [grantholle/moviedb-promise](https://github.com/grantholle/moviedb-promise) - Interact with themoviedb.org's api with Node... now in TypeScript!
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
@@ -1214,7 +1224,6 @@
 - [stormwarning/tailwindcss-capsize](https://github.com/stormwarning/tailwindcss-capsize) - ✂️ Tailwind CSS utility classes for trimming whitespace above & below capital letters.
 - [AstroNvim/astrotheme](https://github.com/AstroNvim/astrotheme) - The default colorscheme used by AstroNvim
 - [Tenpi/soundcloud.ts](https://github.com/Tenpi/soundcloud.ts) - Wrapper for the Soundcloud API with typings
-- [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [forsti0506/a11y-sitechecker](https://github.com/forsti0506/a11y-sitechecker) - Automatic accessibility checker with website crawling + screenshots for easy use
 - [Kabanosk/whisper-website](https://github.com/Kabanosk/whisper-website) - Simple web application, which can be used to convert audio to subtitles by OpenAI's Whisper model
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
@@ -1431,6 +1440,7 @@
 
 ## java 
 
+- [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [rashidRizvi98/YourPersonality](https://github.com/rashidRizvi98/YourPersonality) - An android app to let know users their MBTI personality type
 - [hanabi1224/Programming-Language-Benchmarks](https://github.com/hanabi1224/Programming-Language-Benchmarks) - Yet another implementation of computer language benchmarks game
 - [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
@@ -1612,6 +1622,7 @@
 
 ## kotlin 
 
+- [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [skydoves/TheMovies2](https://github.com/skydoves/TheMovies2) - 🎬 A demo project using The Movie DB based on Kotlin MVVM architecture and material design & animations.
 - [derlin/docker-compose-viz-mermaid](https://github.com/derlin/docker-compose-viz-mermaid) - Generate beautiful visuals from docker-compose files. The mermaid graph can be exported to PNG, SVG, or edited directly in https://mermaid.live.
 - [aghontpi/ad-silence](https://github.com/aghontpi/ad-silence) - Mute Ad/promotions from Accuradio, Spotify, TIDAL & Pandora Android. Minimal, extensible & lightweight under 150kb.
@@ -1663,6 +1674,7 @@
 
 ## linux 
 
+- [nixcraft/domain-check-2](https://github.com/nixcraft/domain-check-2) - Domain Expiration Check Shell Script Forked and Maintained by nixCraft
 - [phoronix-test-suite/phoronix-test-suite](https://github.com/phoronix-test-suite/phoronix-test-suite) - The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
@@ -1728,6 +1740,7 @@
 
 ## macos 
 
+- [nixcraft/domain-check-2](https://github.com/nixcraft/domain-check-2) - Domain Expiration Check Shell Script Forked and Maintained by nixCraft
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
 - [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG and WebP formats.   You can quickly reduce the file size (and resolution, if you wan
@@ -1747,6 +1760,7 @@
 
 ## markdown 
 
+- [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 - [outofcontrol/mediawiki-to-gfm](https://github.com/outofcontrol/mediawiki-to-gfm) - Converts Mediawiki format to Github Flavoured Markdown format
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
@@ -1806,6 +1820,7 @@
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [aubio/aubio](https://github.com/aubio/aubio) - a library for audio and music analysis
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
+- [metabrainz/listenbrainz-android](https://github.com/metabrainz/listenbrainz-android) - Official Android App of ListenBrainz
 - [Picorims/wav2bar](https://github.com/Picorims/wav2bar) - Wav2Bar is a tool to make custom audio visualization and export production videos for the audio and music industry.
 - [aolsenjazz/super-controller](https://github.com/aolsenjazz/super-controller) - Give your MIDI devices super powers: take control of the lights, messages, and communication between controllers.
 - [projectM-visualizer/frontend-sdl-rust](https://github.com/projectM-visualizer/frontend-sdl-rust) - Rust | SDL-based standalone application that turns your desktop audio into awesome visuals.
@@ -2012,6 +2027,10 @@
 
 ## others 
 
+- [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
+- [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
+- [fidian/ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
+- [evanwashere/mitata](https://github.com/evanwashere/mitata) - cross-runtime benchmarking lib and cli
 - [jabacchetta/vscode-essentials](https://github.com/jabacchetta/vscode-essentials) - Turn VSCode into a supercharged IDE.
 - [shibumi/Podcast-dl](https://github.com/shibumi/Podcast-dl) - Download famous german podcasts
 - [total-typescript/total-typescript-book](https://github.com/total-typescript/total-typescript-book) - The companion repo for the upcoming Total TypeScript book
@@ -2195,7 +2214,6 @@
 - [RocketCommunicationsInc/astro-components](https://github.com/RocketCommunicationsInc/astro-components) - 
 - [katyo/aubio-rs](https://github.com/katyo/aubio-rs) - Rust bindings for Aubio library
 - [astrofox-io/astrofox](https://github.com/astrofox-io/astrofox) - Astrofox is a motion graphics program that lets you turn audio into amazing videos.
-- [metabrainz/listenbrainz-android](https://github.com/metabrainz/listenbrainz-android) - Official Android App of ListenBrainz
 - [brianwisti/rgb-astro-adoc](https://github.com/brianwisti/rgb-astro-adoc) - building my blog with astro and asciidoctor
 - [bugout-dev/mirror](https://github.com/bugout-dev/mirror) - Software project analysis
 - [shaked6540/YoutubePlaylistDownloader](https://github.com/shaked6540/YoutubePlaylistDownloader) - A tool to download whole playlists, channels or single videos from youtube and also optionally convert them to almost any format you would like
@@ -2709,6 +2727,7 @@
 
 ## python 
 
+- [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [jeanslack/Videomass](https://github.com/jeanslack/Videomass) - Videomass is a free, open source and cross-platform GUI for FFmpeg and yt-dlp
 - [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript
 - [eggplants/deepl-cli](https://github.com/eggplants/deepl-cli) - DeepL Translator CLI (without API Key)
@@ -2916,6 +2935,7 @@
 
 ## ruby 
 
+- [github/gemoji](https://github.com/github/gemoji) - Emoji images and names.
 - [opal/opal](https://github.com/opal/opal) - Ruby ♥︎ JavaScript
 - [shadawck/awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks) - Collection of tools to build beautiful command line interface in different languages
 - [teemutammela/auralcandy.net](https://github.com/teemutammela/auralcandy.net) - Source code of AuralCandy.Net - Premium House Music Podcast.
@@ -2926,6 +2946,7 @@
 
 ## rust 
 
+- [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)
 - [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
@@ -2983,6 +3004,7 @@
 
 ## security 
 
+- [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
@@ -3038,11 +3060,13 @@
 
 ## server 
 
+- [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)
 - [CZ-NIC/knot](https://github.com/CZ-NIC/knot) - A mirrored repository
 - [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
 
 ## serverless 
 
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
 - [manuelernestog/astropod](https://github.com/manuelernestog/astropod) - Free and open source self-hosting serverless podcast solution
@@ -3054,6 +3078,7 @@
 
 ## shell 
 
+- [nixcraft/domain-check-2](https://github.com/nixcraft/domain-check-2) - Domain Expiration Check Shell Script Forked and Maintained by nixCraft
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
@@ -3165,6 +3190,7 @@
 
 ## terraform 
 
+- [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 
 ## testing 
