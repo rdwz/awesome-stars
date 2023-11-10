@@ -498,6 +498,7 @@
 
 ## cli 
 
+- [simbleau/cddns](https://github.com/simbleau/cddns) - A modern, hackable, green DDNS service and cli for Cloudflare.
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [badgen/badgen-cli](https://github.com/badgen/badgen-cli) - Use the fastest badge generator from your CLI
 - [eggplants/deepl-cli](https://github.com/eggplants/deepl-cli) - DeepL Translator CLI (without API Key)
@@ -569,6 +570,7 @@
 
 ## continuous-integration 
 
+- [ChristopherHX/github-act-runner](https://github.com/ChristopherHX/github-act-runner) - act as self-hosted runner
 - [buildbot/buildbot](https://github.com/buildbot/buildbot) - Python-based continuous integration testing framework; your pull requests are more than welcome!
 - [SamKirkland/FTP-Deploy-Action](https://github.com/SamKirkland/FTP-Deploy-Action) - Deploys a GitHub project to a FTP server using GitHub actions
 - [lycheeverse/lychee-action](https://github.com/lycheeverse/lychee-action) - Github action to check for broken links in Markdown, HTML, and text files using lychee, a fast link checker written in Rust.
@@ -596,6 +598,7 @@
 
 ## css 
 
+- [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [wobsoriano/bun-lightningcss](https://github.com/wobsoriano/bun-lightningcss) - Lightning CSS plugin for Bun with class composition support.
 - [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
 - [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript
@@ -743,6 +746,8 @@
 
 ## devops 
 
+- [simbleau/cddns](https://github.com/simbleau/cddns) - A modern, hackable, green DDNS service and cli for Cloudflare.
+- [ChristopherHX/github-act-runner](https://github.com/ChristopherHX/github-act-runner) - act as self-hosted runner
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple CI engine with great extensibility.
 - [BretFisher/github-actions-templates](https://github.com/BretFisher/github-actions-templates) - Reusable GitHub Actions workflow examples for cloud native DevOps
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
@@ -756,6 +761,8 @@
 
 ## docker 
 
+- [simbleau/cddns](https://github.com/simbleau/cddns) - A modern, hackable, green DDNS service and cli for Cloudflare.
+- [ChristopherHX/github-act-runner](https://github.com/ChristopherHX/github-act-runner) - act as self-hosted runner
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [eggplants/deepl-cli](https://github.com/eggplants/deepl-cli) - DeepL Translator CLI (without API Key)
@@ -1030,6 +1037,7 @@
 
 ## github 
 
+- [ChristopherHX/github-act-runner](https://github.com/ChristopherHX/github-act-runner) - act as self-hosted runner
 - [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) - 🛡 Allows users to more easily use Octicons and their own icons and logos on shields.io badges
 - [marwin1991/profile-technology-icons](https://github.com/marwin1991/profile-technology-icons) - 📋 😄 Add icons to your GitHub profile using this generator  😄 📋
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
@@ -1067,6 +1075,7 @@
 
 ## go 
 
+- [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [haccer/available](https://github.com/haccer/available) - Domain availability checking for Golang
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
@@ -1109,6 +1118,7 @@
 
 ## golang 
 
+- [ChristopherHX/github-act-runner](https://github.com/ChristopherHX/github-act-runner) - act as self-hosted runner
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [haccer/available](https://github.com/haccer/available) - Domain availability checking for Golang
@@ -1327,7 +1337,6 @@
 - [JeffreyCA/spotify-recently-played-readme](https://github.com/JeffreyCA/spotify-recently-played-readme) - Display your recently played Spotify tracks on your GitHub profile README.
 - [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify playing on your Github profile
 - [open-wc/open-wc](https://github.com/open-wc/open-wc) - Open Web Components: guides, tools and libraries for developing web components.
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [dar5hak/generator-awesome-list](https://github.com/dar5hak/generator-awesome-list) - :sunglasses: Yeoman generator for GitHub awesome lists
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A wrapper around YouTube's internal API — reverse engineering InnerTube
@@ -1351,6 +1360,7 @@
 
 ## html 
 
+- [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
 - [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
@@ -1450,6 +1460,7 @@
 
 ## javascript 
 
+- [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [tholman/intense-images](https://github.com/tholman/intense-images) - A simple library to view large images up close using simple mouse interaction, and the full screen.
 - [tommoor/tinycon](https://github.com/tommoor/tinycon) - A small library for manipulating the favicon, in particular adding alert bubbles and changing images.
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
@@ -1590,6 +1601,7 @@
 
 ## js 
 
+- [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [free-domains/cli](https://github.com/free-domains/cli) - Register a free subdomain with Free Domains using your command line.
 - [opal/opal](https://github.com/opal/opal) - Ruby ♥︎ JavaScript
 - [meilisearch/meilisearch-js-plugins](https://github.com/meilisearch/meilisearch-js-plugins) - The search client to use Meilisearch with InstantSearch.
@@ -1601,6 +1613,7 @@
 
 ## json 
 
+- [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [amio/emoji.json](https://github.com/amio/emoji.json) - Just an emoji.json
 - [JosephLai241/URS](https://github.com/JosephLai241/URS) - Universal Reddit Scraper - A comprehensive Reddit scraping/archival command-line tool.
 - [campvanilla/casualdb](https://github.com/campvanilla/casualdb) - Simple JSON "database" for Deno with type-safety! ⚡️
@@ -1630,6 +1643,7 @@
 
 ## kubernetes 
 
+- [simbleau/cddns](https://github.com/simbleau/cddns) - A modern, hackable, green DDNS service and cli for Cloudflare.
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -1760,6 +1774,7 @@
 
 ## markdown 
 
+- [darsaveli/Readme-Markdown-Syntax](https://github.com/darsaveli/Readme-Markdown-Syntax) - 🔥 The Best, Complete Guide to Master Markdown Syntax & Create Awesome READMEs😈
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 - [outofcontrol/mediawiki-to-gfm](https://github.com/outofcontrol/mediawiki-to-gfm) - Converts Mediawiki format to Github Flavoured Markdown format
@@ -2027,6 +2042,8 @@
 
 ## others 
 
+- [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec
+- [WebpageFX/emoji-cheat-sheet.com](https://github.com/WebpageFX/emoji-cheat-sheet.com) - A one pager for emojis on Campfire and GitHub
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 - [fidian/ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
@@ -2946,6 +2963,7 @@
 
 ## rust 
 
+- [simbleau/cddns](https://github.com/simbleau/cddns) - A modern, hackable, green DDNS service and cli for Cloudflare.
 - [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)
 - [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
@@ -3027,6 +3045,7 @@
 
 ## self-hosted 
 
+- [ChristopherHX/github-act-runner](https://github.com/ChristopherHX/github-act-runner) - act as self-hosted runner
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
@@ -3439,6 +3458,7 @@
 
 ## xml 
 
+- [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [dvdn/webradios](https://github.com/dvdn/webradios) - A web page to group and play all your favorite webradios !
 
 
