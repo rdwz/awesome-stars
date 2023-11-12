@@ -166,6 +166,7 @@
 
 ## C++ 
 
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [tbdsux/space-custom-apps](https://github.com/tbdsux/space-custom-apps) - Custom Spacefile templates for Deta Space
 - [sotanakamura/winui3-command-line](https://github.com/sotanakamura/winui3-command-line) - Building WinUI 3 apps with commnad line tools
@@ -290,9 +291,9 @@
 
 ## Go 
 
+- [progfay/shields-with-icon](https://github.com/progfay/shields-with-icon) - Enjoy https://shields.io
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [ChristopherHX/github-act-runner](https://github.com/ChristopherHX/github-act-runner) - act as self-hosted runner
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
 - [mauamy/ard2rss](https://github.com/mauamy/ard2rss) - A small api that creates rss feeds for ARD Audiothek shows
 - [ai-mastering/phaselimiter-gui](https://github.com/ai-mastering/phaselimiter-gui) - 
@@ -410,6 +411,8 @@
 
 ## HTML 
 
+- [argyleink/open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
+- [purecatamphetamine/country-flag-icons](https://github.com/purecatamphetamine/country-flag-icons) - Vector (*.svg) country flag icons in 3:2 aspect ratio.
 - [WebpageFX/emoji-cheat-sheet.com](https://github.com/WebpageFX/emoji-cheat-sheet.com) - A one pager for emojis on Campfire and GitHub
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
@@ -439,7 +442,6 @@
 - [dwmkerr/starfield](https://github.com/dwmkerr/starfield) - A nice starfield background using built using HTML and vanilla JavaScript as a learning exercise.
 - [RayBB/ternary-converter](https://github.com/RayBB/ternary-converter) - Simple webpage to convert ternary conditionals to if else statements.
 - [bokub/git-history-editor](https://github.com/bokub/git-history-editor) - :pencil2: Online commit editor, intuitive and easy to use
-- [argyleink/open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
 - [RoelN/Compyx](https://github.com/RoelN/Compyx) - Multicolor OpenType font "Compyx"
 - [surjithctly/neat-starter](https://github.com/surjithctly/neat-starter) - Starter Template for Netlify CMS, Eleventy, Alpine JS & Tailwind CSS
 - [googlefonts/unbounded](https://github.com/googlefonts/unbounded) - Open source, freely available and on-chain funded font.
@@ -505,6 +507,7 @@
 
 ## JavaScript 
 
+- [kimmobrunfeldt/progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) - Responsive and slick progress bars
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [evanwashere/mitata](https://github.com/evanwashere/mitata) - cross-runtime benchmarking lib and cli
 - [rugk/awesome-emoji-picker](https://github.com/rugk/awesome-emoji-picker) - Add-on/WebExtension that provides a modern emoji picker that you can use to find and copy/insert emoji into the active web page.
