@@ -478,6 +478,7 @@
 - [chintan9/1y](https://github.com/chintan9/1y) - 
 - [AhmadIbrahiim/Website-downloader](https://github.com/AhmadIbrahiim/Website-downloader) - 💡  Download the complete source code of any website (including all assets). [ Javascripts, Stylesheets, Images ]  using Node.js
 - [cbracco/html5-test-page](https://github.com/cbracco/html5-test-page) - A page filled with common HTML elements to be used for testing purposes. Useful when building CSS systems for projects big and small.
+- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
 - [hfg-gmuend/openmoji](https://github.com/hfg-gmuend/openmoji) - Open source emojis for designers, developers and everyone else!
 - [homieiot/homie-esp8266](https://github.com/homieiot/homie-esp8266) - 💡 ESP8266 framework for Homie, a lightweight MQTT convention for the IoT
 - [spf13/instant](https://github.com/spf13/instant) - Instant theme for Hugo (derived from Black Tie Instant)
@@ -991,7 +992,7 @@
 - [automata/awesome-jamstack](https://github.com/automata/awesome-jamstack) - Carefully curated list of awesome Jamstack resources
 - [joelparkerhenderson/objectives-and-key-results](https://github.com/joelparkerhenderson/objectives-and-key-results) - Objectives and Key Results (OKR) examples for goals, tasks, plans, projects, and strategy.
 - [toptal/gitignore](https://github.com/toptal/gitignore) - The largest collection of useful .gitignore templates
-- [sebanc/brunch](https://github.com/sebanc/brunch) - Boot ChromeOS on x86_64 PC - supports Intel CPU/GPU from 4th Gen (Haswell) or AMD Ryzen
+- [sebanc/brunch](https://github.com/sebanc/brunch) - Boot ChromeOS on x86_64 PC - supports Intel CPU/GPU from 6th Gen (Skylake) or AMD Ryzen
 - [alrra/browser-logos](https://github.com/alrra/browser-logos) - 🗂 High resolution web browser logos
 - [caesiumstudio/csBooks-updates](https://github.com/caesiumstudio/csBooks-updates) - csBooks is the best epub reader, pdf reader, mobi book reader and djvu reader for windows, linux and mac os. It solves your problems if you need ebook manager, library manager on linux, best comic boo
 - [TheComputerM/awesome-svelte](https://github.com/TheComputerM/awesome-svelte) - ⚡ A curated list of awesome Svelte resources
@@ -1218,6 +1219,7 @@
 
 ## Rust 
 
+- [james-d12/Apm](https://github.com/james-d12/Apm) - Agnostic Package Manager
 - [indiscipline/zrtstr](https://github.com/indiscipline/zrtstr) - Check if stereo WAV files have identical channels (faux-stereo) and convert them to mono.
 - [simbleau/cddns](https://github.com/simbleau/cddns) - A modern, hackable, green DDNS service and cli for Cloudflare.
 - [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)
@@ -1407,6 +1409,7 @@
 
 ## TypeScript 
 
+- [delucis/astro-auto-import](https://github.com/delucis/astro-auto-import) - Auto-import components in Astro projects
 - [IogaMaster/videos](https://github.com/IogaMaster/videos) - Source code of my YouTube videos animated with MotionCanvas
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean HTML/Tailwind/JS code
 - [willnguyen1312/zoom-image](https://github.com/willnguyen1312/zoom-image) - A little yet powerful framework agnostic headless library to zoom images on the web
@@ -1660,7 +1663,6 @@
 - [bytedance/IconPark](https://github.com/bytedance/IconPark) - 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 - [debiki/talkyard](https://github.com/debiki/talkyard) - A community discussion platform: Brings together the main features from StackOverflow, Slack, Discourse, Reddit, and Disqus blog comments.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
-- [prabhuignoto/react-chrono](https://github.com/prabhuignoto/react-chrono) - 🕑 Modern Timeline Component for React
 - [akashuba/react-timeline-animation](https://github.com/akashuba/react-timeline-animation) - react-timeline-animation component
 - [EddyVerbruggen/remove.bg](https://github.com/EddyVerbruggen/remove.bg) - A Node.js wrapper for the remove.bg API
 - [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia) - High-performance React Native Graphics using Skia
