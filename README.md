@@ -22,6 +22,7 @@
 - [Groovy](#groovy)
 - [HCL](#hcl)
 - [HTML](#html)
+- [Haml](#haml)
 - [Haskell](#haskell)
 - [Inno Setup](#inno-setup)
 - [Java](#java)
@@ -168,6 +169,7 @@
 
 ## C++ 
 
+- [aclemons/emailrelay](https://github.com/aclemons/emailrelay) - emailrelay migrated to git (unofficial) - https://svn.code.sf.net/p/emailrelay/code/ mirrored in git
 - [martinrotter/rssguard](https://github.com/martinrotter/rssguard) - Feed reader which supports RSS/ATOM/JSON and many web-based feed services.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
@@ -488,6 +490,10 @@
 - [homieiot/homie-esp8266](https://github.com/homieiot/homie-esp8266) - 💡 ESP8266 framework for Homie, a lightweight MQTT convention for the IoT
 - [spf13/instant](https://github.com/spf13/instant) - Instant theme for Hugo (derived from Black Tie Instant)
 
+## Haml 
+
+- [olivierlacan/keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
+
 ## Haskell 
 
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
@@ -519,6 +525,7 @@
 
 ## JavaScript 
 
+- [NaturalNode/natural](https://github.com/NaturalNode/natural) - general natural language facilities for node
 - [lupomontero/psl](https://github.com/lupomontero/psl) - JavaScript domain name parser based on the Public Suffix List
 - [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) - Web App: Download just a sub directory from a GitHub repo.
 - [niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting) - Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?
@@ -1424,6 +1431,7 @@
 
 ## TypeScript 
 
+- [nimiq/qr-scanner](https://github.com/nimiq/qr-scanner) - Lightweight Javascript QR Code Scanner
 - [advanced-astro/astro-compress](https://github.com/advanced-astro/astro-compress) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more.
 - [styfle/packagephobia](https://github.com/styfle/packagephobia) - ⚖️ Find the cost of adding a new dependency to your project
 - [jpmonette/feed](https://github.com/jpmonette/feed) - A RSS, Atom and JSON Feed generator for Node.js, making content syndication simple and intuitive! 🚀
@@ -1478,7 +1486,7 @@
 - [rdwz/regex-vis](https://github.com/rdwz/regex-vis) - 🎨 Regex visualizer & editor
 - [CJex/regulex](https://github.com/CJex/regulex) - :construction: Regular Expression Excited!
 - [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
-- [patrickkfkan/bandcamp-fetch](https://github.com/patrickkfkan/bandcamp-fetch) - 
+- [patrickkfkan/bandcamp-fetch](https://github.com/patrickkfkan/bandcamp-fetch) - Library for scraping Bandcamp content.
 - [xaberus/vscode-remote-oss](https://github.com/xaberus/vscode-remote-oss) - Remote development for OSS Builds of VSCode like VSCodium
 - [anse-app/anse](https://github.com/anse-app/anse) - Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.
 - [zachleat/bench-framework-markdown](https://github.com/zachleat/bench-framework-markdown) - A set of scripts to test markdown processing speeds in various site generators/frameworks
