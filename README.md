@@ -525,6 +525,9 @@
 
 ## JavaScript 
 
+- [doniseferi/suntimes](https://github.com/doniseferi/suntimes) - A tiny library to get the exact date and time in an ISO 8601 format for certain points of the day for any desired location and date.
+- [rkusa/pdfjs](https://github.com/rkusa/pdfjs) - A Portable Document Format (PDF) generation library targeting both the server- and client-side.
+- [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [DataTables/DataTablesSrc](https://github.com/DataTables/DataTablesSrc) - DataTables source repository
 - [NaturalNode/natural](https://github.com/NaturalNode/natural) - general natural language facilities for node
 - [lupomontero/psl](https://github.com/lupomontero/psl) - JavaScript domain name parser based on the Public Suffix List
@@ -945,6 +948,7 @@
 
 ## Others 
 
+- [coding-in-public/astro-search-fusejs](https://github.com/coding-in-public/astro-search-fusejs) - 
 - [insertish/awesome-revolt](https://github.com/insertish/awesome-revolt) - Collection of Revolt libraries, bots, clients and other cool stuff.
 - [withastro/automation](https://github.com/withastro/automation) - Centralized repo for GitHub actions for the `withastro` org
 - [738/awesome-url-shortener](https://github.com/738/awesome-url-shortener) - 🔗 A curated list of awesome url shortener
@@ -1441,7 +1445,7 @@
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [delucis/astro-auto-import](https://github.com/delucis/astro-auto-import) - Auto-import components in Astro projects
 - [IogaMaster/videos](https://github.com/IogaMaster/videos) - Source code of my YouTube videos animated with MotionCanvas
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean HTML/Tailwind/JS code
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [willnguyen1312/zoom-image](https://github.com/willnguyen1312/zoom-image) - A little yet powerful framework agnostic headless library to zoom images on the web
 - [unjs/ufo](https://github.com/unjs/ufo) - 🔗 URL utils for humans
 - [0xsuk/agitcms](https://github.com/0xsuk/agitcms) - A hackable headless CMS for markdown blogs
