@@ -527,6 +527,7 @@
 
 ## cli 
 
+- [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
 - [pgollangi/netselect](https://github.com/pgollangi/netselect) - 💻 A CLI tool and Go library to find the fastest site based on the lowest ICMP latency.
 - [mindflowai/mindflow](https://github.com/mindflowai/mindflow) - 🧠 AI-powered CLI git wrapper, boilerplate code generator, chat history manager, and code search engine to streamline your dev workflow 🌊
 - [simbleau/cddns](https://github.com/simbleau/cddns) - A modern, hackable, green DDNS service and cli for Cloudflare.
@@ -2086,6 +2087,7 @@
 
 ## npm 
 
+- [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
 - [styfle/packagephobia](https://github.com/styfle/packagephobia) - ⚖️ Find the cost of adding a new dependency to your project
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
@@ -2141,6 +2143,8 @@
 
 ## others 
 
+- [lotabout/static-wiki](https://github.com/lotabout/static-wiki) - 
+- [shishkin/astro-pagefind](https://github.com/shishkin/astro-pagefind) - Astro integration for Pagefind static site search.
 - [doniseferi/suntimes](https://github.com/doniseferi/suntimes) - A tiny library to get the exact date and time in an ISO 8601 format for certain points of the day for any desired location and date.
 - [coding-in-public/astro-search-fusejs](https://github.com/coding-in-public/astro-search-fusejs) - 
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
@@ -2790,6 +2794,7 @@
 
 ## package-manager 
 
+- [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
 - [james-d12/Apm](https://github.com/james-d12/Apm) - Agnostic Package Manager
 - [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
