@@ -510,7 +510,7 @@
 - [code-charity/ultimate-REGEX-extension](https://github.com/code-charity/ultimate-REGEX-extension) - ctrl+shift+F Text multi-tool browser extension  with familiar Ctrl+F visuals.  **need contributors to be the best & complete**
 - [code-charity/youtube](https://github.com/code-charity/youtube) - [Top~3 YouTube Extension][🧰90 lean Features📌consistent (set & forget)📌Longest-standing](👨‍👩‍👧‍👧🧩Please help) "Enrich your YouTube- & Video-experience & -choice" ⋮⚙️🎛️☕🎧🎞️📈🎨⏯️🎬🔊 youtube playback, conte
 - [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
-- [one-tab-group/onetab.group](https://github.com/one-tab-group/onetab.group) - The website home for https://onetab.group
+- [one-tab-group/onetab.group](https://github.com/one-tab-group/onetab.group) - This repo just to collect user feedback.
 - [thegreenwebfoundation/web-extension](https://github.com/thegreenwebfoundation/web-extension) - The Green Web Addon based on Web Extensions
 - [Debdut/browser-extension](https://github.com/Debdut/browser-extension) - Browser Extension Template with ESbuild builds, support for React, Preact, Typescript, Tailwind, Manifest V3/V2 support and multi browser build including Chrome, Firefox, Safari, Edge, Brave.
 - [fregante/browser-extension-template](https://github.com/fregante/browser-extension-template) - 📕 Barebones boilerplate with Parcel 2, options handler and auto-publishing
@@ -695,6 +695,7 @@
 ## cybersecurity 
 
 - [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) - Security automation content in SCAP, Bash, Ansible, and other formats
+- [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy 🍑🍆
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
 
 ## dart 
@@ -1804,6 +1805,7 @@
 - [dail8859/NotepadNext](https://github.com/dail8859/NotepadNext) - A cross-platform, reimplementation of Notepad++
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [sonnyp/Tangram](https://github.com/sonnyp/Tangram) - Browser for your pinned tabs
+- [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy 🍑🍆
 - [HorlogeSkynet/archey4](https://github.com/HorlogeSkynet/archey4) - :computer: Maintained fork of the original Archey (Linux) system tool
 - [beucismis/awesome-fetch](https://github.com/beucismis/awesome-fetch) - Command-line fetch tools for system/other information
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
@@ -3188,6 +3190,7 @@
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) - Security automation content in SCAP, Bash, Ansible, and other formats
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
+- [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy 🍑🍆
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [EdOverflow/can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz) - "Can I take over XYZ?" — a list of services and how to claim (sub)domains with dangling DNS records.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
@@ -3533,7 +3536,6 @@
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [tutaru99/Internet-Radio-Player-Vue](https://github.com/tutaru99/Internet-Radio-Player-Vue) - Internet Radio Player with an Audio Visualizer made using VueJS, Vuetify & Howler.JS frameworks. The Player has a bunch of radio stations. Check out the demo below.
-- [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy 🍑🍆
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative. Cloud version available here -&gt; https://app.coolify.io
 - [bradyhouse/house](https://github.com/bradyhouse/house) - Proof of Concept and Research repository.
