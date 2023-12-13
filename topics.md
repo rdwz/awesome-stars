@@ -318,6 +318,7 @@
 
 ## awesome 
 
+- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [insertish/awesome-revolt](https://github.com/insertish/awesome-revolt) - Collection of Revolt libraries, bots, clients and other cool stuff.
 - [738/awesome-url-shortener](https://github.com/738/awesome-url-shortener) - 🔗 A curated list of awesome url shortener
@@ -353,6 +354,7 @@
 
 ## awesome-list 
 
+- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [insertish/awesome-revolt](https://github.com/insertish/awesome-revolt) - Collection of Revolt libraries, bots, clients and other cool stuff.
 - [738/awesome-url-shortener](https://github.com/738/awesome-url-shortener) - 🔗 A curated list of awesome url shortener
@@ -2217,7 +2219,7 @@
 - [schemaorg/schemaorg](https://github.com/schemaorg/schemaorg) - Schema.org - schemas and supporting software
 - [fontuni/boonjot](https://github.com/fontuni/boonjot) - BoonJot Font
 - [joelparkerhenderson/inclusive-language](https://github.com/joelparkerhenderson/inclusive-language) - Inclusive language
-- [davipon/fastify-esbuild](https://github.com/davipon/fastify-esbuild) - Boilerplate to create a Fastify app with better DX
+- [wd-David/fastify-esbuild](https://github.com/wd-David/fastify-esbuild) - Boilerplate to create a Fastify app with better DX
 - [DannyMoerkerke/audio-recorder](https://github.com/DannyMoerkerke/audio-recorder) - Audio Recorder Web Component
 - [chouzz/vscode-innosetup](https://github.com/chouzz/vscode-innosetup) - Language syntax, snippets and build system for Inno Setup
 - [omaha-consulting/winstall](https://github.com/omaha-consulting/winstall) - A web app for browsing and installing Windows Package Manager apps.
@@ -2856,6 +2858,7 @@
 
 ## powershell 
 
+- [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - A curated list of delightful PowerShell modules and resources
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
@@ -2893,6 +2896,7 @@
 
 ## programming 
 
+- [abbrcode/abbreviations-in-code](https://github.com/abbrcode/abbreviations-in-code) - The list of common abbreviations in program codes
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [Iosevka-Mayukai/Iosevka-Mayukai](https://github.com/Iosevka-Mayukai/Iosevka-Mayukai) - Font based on Iosevka Custom Build, with combination from Iosevka SS04 Menlo, SS07 Monaco,  SS09 Source Code Pro, SS12 Ubuntu Mono, SS14 Jetbrains Mono, Hack Style, and some Nerd Font Patching.
 - [nakov/Practical-Cryptography-for-Developers-Book](https://github.com/nakov/Practical-Cryptography-for-Developers-Book) - Practical Cryptography for Developers: Hashes, MAC, Key Derivation, DHKE, Symmetric and Asymmetric Ciphers, Public Key Cryptosystems, RSA, Elliptic Curves, ECC, secp256k1, ECDH, ECIES, Digital Signatu
