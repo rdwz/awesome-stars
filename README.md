@@ -529,6 +529,7 @@
 
 ## JavaScript 
 
+- [fontello/wawoff2](https://github.com/fontello/wawoff2) - WebAssembly build of Google's woff2
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [abbrcode/abbreviations-in-code](https://github.com/abbrcode/abbreviations-in-code) - The list of common abbreviations in program codes
 - [CardoPixel/md3-nextjs-template](https://github.com/CardoPixel/md3-nextjs-template) - Material Design 3 compliant Next.js website template, including features like: custom theming, Internationalization, PWA, SupaBase for data management, and Vercel for deployment.
@@ -1453,6 +1454,7 @@
 
 ## TypeScript 
 
+- [LibreService/my_font_converter](https://github.com/LibreService/my_font_converter) - Convert ttf/woff2 fonts.
 - [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
 - [nimiq/qr-scanner](https://github.com/nimiq/qr-scanner) - Lightweight Javascript QR Code Scanner
 - [advanced-astro/astro-compress](https://github.com/advanced-astro/astro-compress) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more.
