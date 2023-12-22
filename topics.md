@@ -645,7 +645,7 @@
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [wobsoriano/bun-lightningcss](https://github.com/wobsoriano/bun-lightningcss) - Lightning CSS plugin for Bun with class composition support.
 - [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
-- [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript
+- [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
 - [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
 - [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
@@ -1304,7 +1304,7 @@
 - [grantholle/moviedb-promise](https://github.com/grantholle/moviedb-promise) - Interact with themoviedb.org's api with Node... now in TypeScript!
 - [AndrejJurkin/create-tw](https://github.com/AndrejJurkin/create-tw) - CLI to scaffold tailwindcss-ready projects
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
-- [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript
+- [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [IonicaBizau/ama](https://github.com/IonicaBizau/ama) - :speech_balloon: Ask me anything!
 - [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
@@ -1445,7 +1445,7 @@
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
 - [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
-- [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript
+- [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
 - [mrmcsoftware/ShaderSearch](https://github.com/mrmcsoftware/ShaderSearch) - An HTML file to search for and play Shadertoy shaders by using shadertoy.com's API.
 - [markteekman/frontend-resources](https://github.com/markteekman/frontend-resources) - A list of resources concerning front-end web development. From HTML, CSS and JavaScript to testing, accessibility, Atom packages, UI Design and Design Systems.
 - [ariqnrnns/zauberhaft-astro](https://github.com/ariqnrnns/zauberhaft-astro) - FREE one page agency Astro 1.6 template with built-in dark mode to supercharge your project. Zauberhaft is available in: HTML, Next.js, Gatsby & Astro
@@ -1559,7 +1559,7 @@
 - [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
-- [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript
+- [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
 - [sheldhur/cross-browser-extension-boilerplate](https://github.com/sheldhur/cross-browser-extension-boilerplate) - Supports TypeScript, React, PostCSS, Manifest V3 and Manifest V2. Cross browser building for Chrome, Firefox, Safari, Edge, etc.
 - [francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼 A JavaScript library for zooming images like Medium
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
@@ -2041,7 +2041,7 @@
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
-- [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript
+- [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
 - [vsetka/deepl-translator](https://github.com/vsetka/deepl-translator) - This module provides promised methods for translating text using DeepL Translator (https://www.deepl.com/translator) undocumented API.
 - [DavidAnson/markdownlint](https://github.com/DavidAnson/markdownlint) - A Node.js style checker and lint tool for Markdown/CommonMark files.
 - [erucix/Bard-API](https://github.com/erucix/Bard-API) - Small, lightweight and reliable unofficial Google Bard API built on Node-JS only. No external library implemented and or required to download.
@@ -2933,7 +2933,7 @@
 - [mindflowai/mindflow](https://github.com/mindflowai/mindflow) - 🧠 AI-powered CLI git wrapper, boilerplate code generator, chat history manager, and code search engine to streamline your dev workflow 🌊
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [jeanslack/Videomass](https://github.com/jeanslack/Videomass) - Videomass is a free, open source and cross-platform GUI for FFmpeg and yt-dlp
-- [beautify-web/js-beautify](https://github.com/beautify-web/js-beautify) - Beautifier for javascript
+- [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
 - [eggplants/deepl-cli](https://github.com/eggplants/deepl-cli) - DeepL Translator CLI (without API Key)
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [g-battaglia/kerykeion](https://github.com/g-battaglia/kerykeion) - Kerykeion is a python library for astrology. It can generate SVG charts and extract all data about a birthchart, a composite chart and a transit chart.
@@ -3540,6 +3540,7 @@
 
 ## vim 
 
+- [ttytm/german-scroll.code](https://github.com/ttytm/german-scroll.code) - VSCode/Codium extension. Vim-like scrolling that obeys to the rules. Preserves folds and respects scrollOff.
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
