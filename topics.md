@@ -263,6 +263,7 @@
 
 ## api 
 
+- [marcolardera/chatgpt-cli](https://github.com/marcolardera/chatgpt-cli) - Simple yet effective command line client for chatting with ChatGPT using the official API
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [hernandez87v/djjosehernandez](https://github.com/hernandez87v/djjosehernandez) - 🎶 DJ Progressive Web App built using 🧬 React, 🔗 APIs.
@@ -478,12 +479,13 @@
 
 ## chatgpt 
 
+- [marcolardera/chatgpt-cli](https://github.com/marcolardera/chatgpt-cli) - Simple yet effective command line client for chatting with ChatGPT using the official API
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 - [kharvd/gpt-cli](https://github.com/kharvd/gpt-cli) - Command-line interface for ChatGPT, Claude and Bard
 - [JohannLai/gptcli](https://github.com/JohannLai/gptcli) - 🔥 All in one ChatGPT CLI, build your own AI cli tools just like GitHub Actions workflow gptcli.  内置 AI commmit（自动生成 commit message）、AI Command（自然语言转命令行）、翻译、gitmoji 等插件。秒级创建任意自定义 ChatGPT CLI 工具，就像创建一个 
 - [Joabutt/gptnegative](https://github.com/Joabutt/gptnegative) - A GPTZero bypasser
-- [anse-app/anse](https://github.com/anse-app/anse) - Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.
-- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
+- [anse-app/anse](https://github.com/anse-app/anse) - Supercharged experience for multiple models such as ChatGPT, DALL-E and Stable Diffusion.
+- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [supabase-community/deno-fresh-openai-doc-search](https://github.com/supabase-community/deno-fresh-openai-doc-search) - Template for building your own custom ChatGPT style doc search powered by Fresh, Deno, OpenAI, and Supabase.
@@ -495,6 +497,7 @@
 
 ## chatgpt-api 
 
+- [marcolardera/chatgpt-cli](https://github.com/marcolardera/chatgpt-cli) - Simple yet effective command line client for chatting with ChatGPT using the official API
 - [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) - An open-source ChatGPT app with a voice
 - [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
@@ -540,6 +543,7 @@
 
 ## cli 
 
+- [marcolardera/chatgpt-cli](https://github.com/marcolardera/chatgpt-cli) - Simple yet effective command line client for chatting with ChatGPT using the official API
 - [kharvd/gpt-cli](https://github.com/kharvd/gpt-cli) - Command-line interface for ChatGPT, Claude and Bard
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [antfu/ni](https://github.com/antfu/ni) - 💡 Use the right package manager
@@ -1996,7 +2000,7 @@
 - [fajarhidayatt/whatmovie](https://github.com/fajarhidayatt/whatmovie) - WhatMovie is a website to find information about your favorite movies
 - [AndrejJurkin/create-tw](https://github.com/AndrejJurkin/create-tw) - CLI to scaffold tailwindcss-ready projects
 - [nextauthjs/next-auth-example](https://github.com/nextauthjs/next-auth-example) - Example showing how to use NextAuth.js with Next.js
-- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
+- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [realvjy/nxt-lnk](https://github.com/realvjy/nxt-lnk) - Custom bio links for creatives who love coding. Made this first to use for my own weblinks vjy.me/lnk  A perfect custom alternative for linktree, bio and other shortner platform.
 - [DataStax-Examples/astra-next.js-starter](https://github.com/DataStax-Examples/astra-next.js-starter) - ⚡️ A sample Next.js + DataStax Astra starter app that leverages the AstraDB REST API to manage a character database.
@@ -2174,6 +2178,7 @@
 
 ## others 
 
+- [nico-i/psi-svg](https://github.com/nico-i/psi-svg) - Performs a Google PageSpeed Insights analysis on a given webpage and returns the result as an SVG.
 - [Softcatala/whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2) - Whisper command line client compatible with original OpenAI client based on CTranslate2.
 - [Kakulukian/youtube-transcript](https://github.com/Kakulukian/youtube-transcript) - Fetch transcript from a youtube video
 - [tragdate/gptube-cli](https://github.com/tragdate/gptube-cli) - Summarize videos from the command line
@@ -2945,6 +2950,7 @@
 
 ## python 
 
+- [marcolardera/chatgpt-cli](https://github.com/marcolardera/chatgpt-cli) - Simple yet effective command line client for chatting with ChatGPT using the official API
 - [JingShing/AI-image-tag-extractor](https://github.com/JingShing/AI-image-tag-extractor) - A tool to help you get image info.
 - [BrokenSource/ShaderFlow](https://github.com/BrokenSource/ShaderFlow) - 🔥 Imagine ShaderToy, on a Manim-like architecture. That's ShaderFlow. Audio reactive, professional, smooth, customizable.
 - [jmisilo/clip-gpt-captioning](https://github.com/jmisilo/clip-gpt-captioning) - CLIPxGPT Captioner is Image Captioning Model based on OpenAI's CLIP and GPT-2.
@@ -3051,7 +3057,7 @@
 - [alibaba/ChatUI](https://github.com/alibaba/ChatUI) - The UI design language and React library for Conversational UI
 - [hernandez87v/djjosehernandez](https://github.com/hernandez87v/djjosehernandez) - 🎶 DJ Progressive Web App built using 🧬 React, 🔗 APIs.
 - [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
-- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
+- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [vinodmanimaran/ChatAlchemy](https://github.com/vinodmanimaran/ChatAlchemy) - ✨ Dive into 'ChatAlchemy,' a modern, responsive UI crafted with React and React Icons. Explore the magic of GPT-3's conversational AI showcased in multiple sections, unleashing the potential of natura
 - [valmisson/tauri-app-template](https://github.com/valmisson/tauri-app-template) - A template for building desktop applications with Tauri
