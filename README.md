@@ -1105,6 +1105,7 @@
 
 ## Python 
 
+- [marcolardera/chatgpt-cli](https://github.com/marcolardera/chatgpt-cli) - Simple yet effective command line client for chatting with ChatGPT using the official API
 - [JingShing/AI-image-tag-extractor](https://github.com/JingShing/AI-image-tag-extractor) - A tool to help you get image info.
 - [BrokenSource/ShaderFlow](https://github.com/BrokenSource/ShaderFlow) - 🔥 Imagine ShaderToy, on a Manim-like architecture. That's ShaderFlow. Audio reactive, professional, smooth, customizable.
 - [Softcatala/whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2) - Whisper command line client compatible with original OpenAI client based on CTranslate2.
@@ -1461,6 +1462,7 @@
 
 ## TypeScript 
 
+- [nico-i/psi-svg](https://github.com/nico-i/psi-svg) - Performs a Google PageSpeed Insights analysis on a given webpage and returns the result as an SVG.
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 - [Kakulukian/youtube-transcript](https://github.com/Kakulukian/youtube-transcript) - Fetch transcript from a youtube video
 - [JohannLai/gptcli](https://github.com/JohannLai/gptcli) - 🔥 All in one ChatGPT CLI, build your own AI cli tools just like GitHub Actions workflow gptcli.  内置 AI commmit（自动生成 commit message）、AI Command（自然语言转命令行）、翻译、gitmoji 等插件。秒级创建任意自定义 ChatGPT CLI 工具，就像创建一个 
@@ -1526,7 +1528,7 @@
 - [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
 - [patrickkfkan/bandcamp-fetch](https://github.com/patrickkfkan/bandcamp-fetch) - Library for scraping Bandcamp content.
 - [xaberus/vscode-remote-oss](https://github.com/xaberus/vscode-remote-oss) - Remote development for OSS Builds of VSCode like VSCodium
-- [anse-app/anse](https://github.com/anse-app/anse) - Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.
+- [anse-app/anse](https://github.com/anse-app/anse) - Supercharged experience for multiple models such as ChatGPT, DALL-E and Stable Diffusion.
 - [zachleat/bench-framework-markdown](https://github.com/zachleat/bench-framework-markdown) - A set of scripts to test markdown processing speeds in various site generators/frameworks
 - [Tarikul-Islam-Anik/linkz](https://github.com/Tarikul-Islam-Anik/linkz) - 🔗 Just a Linktree clone, but simpler and, most importantly, with your own social media reference landing page. Just add your links in data/data.json and you're good to go!
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
@@ -1534,7 +1536,7 @@
 - [Revenciel/Tina-Astro-Starter](https://github.com/Revenciel/Tina-Astro-Starter) - My Astro + Tina CMS sandbox to build generic features and components that I can reuse for future projects.
 - [advanced-astro/chatgpt-demo](https://github.com/advanced-astro/chatgpt-demo) - Minimal web UI for ChatGPT.
 - [Dogtiti/AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
-- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
+- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
 - [BuilderIO/qwik-tw-vercel-starter-kit](https://github.com/BuilderIO/qwik-tw-vercel-starter-kit) - A starter kit for Qwik on Vercel
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [KonradSzwarc/devscard](https://github.com/KonradSzwarc/devscard) - A fully customizable template to create your online (and paper) resume without writing a single line of code.
