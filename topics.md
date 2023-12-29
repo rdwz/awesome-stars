@@ -2185,6 +2185,8 @@
 
 ## others 
 
+- [yeun/open-color](https://github.com/yeun/open-color) - Color scheme for UI design.
+- [Cloudxtreme/web-starter-kit](https://github.com/Cloudxtreme/web-starter-kit) - Web Starter Kit - a workflow for new multi-device websites
 - [yizhiwang96/deepvecfont-v2](https://github.com/yizhiwang96/deepvecfont-v2) - [CVPR 2023] DeepVecFont-v2: Exploiting Transformers to Synthesize Vector Fonts with Higher Quality
 - [marcodallasanta/ssh-scp-deploy](https://github.com/marcodallasanta/ssh-scp-deploy) - This action provide a way to upload your artifact via scp and execute a set of command via ssh before or/and after.
 - [nico-i/psi-svg](https://github.com/nico-i/psi-svg) - Performs a Google PageSpeed Insights analysis on a given webpage and returns the result as an SVG.
