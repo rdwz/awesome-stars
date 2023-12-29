@@ -23,6 +23,7 @@
 - [HCL](#hcl)
 - [HTML](#html)
 - [Haml](#haml)
+- [Handlebars](#handlebars)
 - [Haskell](#haskell)
 - [Inno Setup](#inno-setup)
 - [Java](#java)
@@ -427,6 +428,7 @@
 
 ## HTML 
 
+- [Cloudxtreme/web-starter-kit](https://github.com/Cloudxtreme/web-starter-kit) - Web Starter Kit - a workflow for new multi-device websites
 - [itsjenke/itsjenke.github.io](https://github.com/itsjenke/itsjenke.github.io) - JENKE.XYZ Homepage build with react and mantine
 - [argyleink/open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
 - [purecatamphetamine/country-flag-icons](https://github.com/purecatamphetamine/country-flag-icons) - Vector (*.svg) country flag icons in 3:2 aspect ratio.
@@ -497,6 +499,10 @@
 ## Haml 
 
 - [olivierlacan/keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
+
+## Handlebars 
+
+- [yeun/open-color](https://github.com/yeun/open-color) - Color scheme for UI design.
 
 ## Haskell 
 
