@@ -1978,7 +1978,7 @@
 ## mysql 
 
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure for modern marketing teams.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 
@@ -2011,7 +2011,7 @@
 - [DataStax-Examples/astra-next.js-starter](https://github.com/DataStax-Examples/astra-next.js-starter) - ⚡️ A sample Next.js + DataStax Astra starter app that leverages the AstraDB REST API to manage a character database.
 - [AleksandrHovhannisyan/fluid-type-scale-calculator](https://github.com/AleksandrHovhannisyan/fluid-type-scale-calculator) - Generate font size variables for a fluid type scale with CSS clamp.
 - [justinschmitz97/avif.io](https://github.com/justinschmitz97/avif.io) - Convert all images to AVIF for free. No data is sent. The magic happens in your browser.
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure for modern marketing teams.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 - [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
@@ -2159,7 +2159,7 @@
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [bagder/uncurled](https://github.com/bagder/uncurled) - Uncurled - everything I know and learned about running and maintaining Open Source projects for three decades.
 - [mautic/mautic](https://github.com/mautic/mautic) - Mautic: Open Source Marketing Automation Software.
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure for modern marketing teams.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 - [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and MacOS, free and open-source (FOSS)
@@ -2185,6 +2185,7 @@
 
 ## others 
 
+- [kevinzunigacuellar/astro-supabase](https://github.com/kevinzunigacuellar/astro-supabase) - Astro and Supabase auth demo
 - [yeun/open-color](https://github.com/yeun/open-color) - Color scheme for UI design.
 - [Cloudxtreme/web-starter-kit](https://github.com/Cloudxtreme/web-starter-kit) - Web Starter Kit - a workflow for new multi-device websites
 - [yizhiwang96/deepvecfont-v2](https://github.com/yizhiwang96/deepvecfont-v2) - [CVPR 2023] DeepVecFont-v2: Exploiting Transformers to Synthesize Vector Fonts with Higher Quality
@@ -3539,7 +3540,7 @@
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler) - Open source browser extension that makes designing and developing easier by finding, processing, exporting, optimizing, and managing SVG content.
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure for modern marketing teams.
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
 - [remusao/tldts](https://github.com/remusao/tldts) - JavaScript Library to extract domains, subdomains and public suffixes from complex URIs.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [magidoc-org/magidoc](https://github.com/magidoc-org/magidoc) - Autogenerate static GraphQL API documentation
