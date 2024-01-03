@@ -126,7 +126,7 @@
 - [aubio/aubio](https://github.com/aubio/aubio) - a library for audio and music analysis
 - [rsms/markdown-wasm](https://github.com/rsms/markdown-wasm) - Very fast Markdown parser and HTML generator implemented in WebAssembly, based on md4c
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
-- [CZ-NIC/knot-resolver](https://github.com/CZ-NIC/knot-resolver) - Knot Resolver - resolve DNS names like it's 2023
+- [CZ-NIC/knot-resolver](https://github.com/CZ-NIC/knot-resolver) - Knot Resolver - resolve DNS names like it's 2024
 - [riftlab/old-radio-sound](https://github.com/riftlab/old-radio-sound) - The server to emulate old warm AM radio sound (like Fallout styled)
 - [kornelski/pngquant](https://github.com/kornelski/pngquant) - Lossy PNG compressor — pngquant command based on libimagequant library
 - [autotrace/autotrace](https://github.com/autotrace/autotrace) - bitmap to vector graphics converter
@@ -681,7 +681,6 @@
 - [NTag/dotted-map](https://github.com/NTag/dotted-map) - Create futuristic SVG maps, Tron-like, filled with dots or hexagons
 - [quev-dev/tiny-visions](https://github.com/quev-dev/tiny-visions) - A front-end web app aiming to create a modern, minimalistic experience for tarot card readings and quizzes.
 - [abetusk/ResonatorVoyantTarot](https://github.com/abetusk/ResonatorVoyantTarot) - An experiment in creating generative tarot cards.
-- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [Picorims/wav2bar](https://github.com/Picorims/wav2bar) - Wav2Bar is a tool to make custom audio visualization and export production videos for the audio and music industry.
 - [JaneMoroz/astro-ssr](https://github.com/JaneMoroz/astro-ssr) - A simple PWA build with Astro SSR and Strapi CMS.
 - [pronouns/main](https://github.com/pronouns/main) - Share your personal pronouns and stay updated on your friends' pronouns. Pronouny allows you to update your pronouns and send alerts to your friends.
@@ -952,7 +951,7 @@
 ## Mustache 
 
 - [mend/renovate-ce-ee](https://github.com/mend/renovate-ce-ee) - Mend Renovate On-Premises Documentation & Examples
-- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted PaaS for Kubernetes
+- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted DevOps PaaS for Kubernetes
 
 ## Nim 
 
@@ -1591,6 +1590,7 @@
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [bejamas/react-redux-blog](https://github.com/bejamas/react-redux-blog) - A frontend blog made with TypeScript, React and Redux Toolkit.
 - [phosphor-icons/react](https://github.com/phosphor-icons/react) - A flexible icon family for React
+- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [strapi/nextjs-corporate-starter](https://github.com/strapi/nextjs-corporate-starter) - Strapi Demo application for Corporate Websites using Next.js
 - [sergiodxa/remix-auth](https://github.com/sergiodxa/remix-auth) - Simple Authentication for Remix
 - [cfortuner/wellknown](https://github.com/cfortuner/wellknown) - A registry of AI Plugins
