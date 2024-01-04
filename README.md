@@ -68,7 +68,7 @@
 
 ## Astro 
 
-- [kevinzunigacuellar/astro-supabase](https://github.com/kevinzunigacuellar/astro-supabase) - Astro and Supabase auth demo
+- [kevinzunigacuellar/astro-supabase](https://github.com/kevinzunigacuellar/astro-supabase) - Astro and Supabase auth and database demo
 - [shishkin/astro-pagefind](https://github.com/shishkin/astro-pagefind) - Astro integration for Pagefind static site search.
 - [aFuzzyBear/astro-ui](https://github.com/aFuzzyBear/astro-ui) - MonoRepo to house the collective distribution for Astro Components, Hoping this turns out to be a community led effort where Astro UI Components can be stored and accessed
 - [coding-in-public/pagefind-firstlook](https://github.com/coding-in-public/pagefind-firstlook) - 
@@ -429,6 +429,7 @@
 
 ## HTML 
 
+- [learnwithjason/pure-js-drag-n-drop](https://github.com/learnwithjason/pure-js-drag-n-drop) - 
 - [Cloudxtreme/web-starter-kit](https://github.com/Cloudxtreme/web-starter-kit) - Web Starter Kit - a workflow for new multi-device websites
 - [itsjenke/itsjenke.github.io](https://github.com/itsjenke/itsjenke.github.io) - JENKE.XYZ Homepage build with react and mantine
 - [argyleink/open-props](https://github.com/argyleink/open-props) - CSS custom properties to help accelerate adaptive and consistent design.
@@ -567,7 +568,7 @@
 - [rugk/awesome-emoji-picker](https://github.com/rugk/awesome-emoji-picker) - Add-on/WebExtension that provides a modern emoji picker that you can use to find and copy/insert emoji into the active web page.
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Open-source ChatGPT experience for both open and closed source LLMs, embedders, and vector databases. Unlimited documents, messages, and concurrent users with permission management in one app.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Open-source ChatGPT experience for both open and closed source LLMs, embedders, and vector databases. Unlimited documents, messages, and concurrent users with permission management in one app. 👉 Deskt
 - [KittyGiraudel/a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog script.
 - [tholman/intense-images](https://github.com/tholman/intense-images) - A simple library to view large images up close using simple mouse interaction, and the full screen.
 - [magneum/youtube-exec](https://github.com/magneum/youtube-exec) - 🔥🎶YouTube-Exec: Unleash the Power of YouTube Downloads!
@@ -1114,10 +1115,15 @@
 
 ## Python 
 
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
+- [zh-plus/openlrc](https://github.com/zh-plus/openlrc) - Transcribe (whisper) and translate (gpt) voice into LRC file. 使用whisper和gpt来转录、翻译你的音频为字幕文件。
+- [simonw/strip-tags](https://github.com/simonw/strip-tags) - CLI tool for stripping tags from HTML
+- [Ngz91/Eunomia](https://github.com/Ngz91/Eunomia) - Analyze your code locally using a GPT LLM.
+- [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
 - [yizhiwang96/deepvecfont-v2](https://github.com/yizhiwang96/deepvecfont-v2) - [CVPR 2023] DeepVecFont-v2: Exploiting Transformers to Synthesize Vector Fonts with Higher Quality
 - [marcolardera/chatgpt-cli](https://github.com/marcolardera/chatgpt-cli) - Simple yet effective command line client for chatting with ChatGPT using the official API
 - [JingShing/AI-image-tag-extractor](https://github.com/JingShing/AI-image-tag-extractor) - A tool to help you get image info.
-- [BrokenSource/ShaderFlow](https://github.com/BrokenSource/ShaderFlow) - 🔥 Imagine ShaderToy, on a Manim-like architecture. That's ShaderFlow. Audio reactive, professional, smooth, customizable.
+- [BrokenSource/ShaderFlow](https://github.com/BrokenSource/ShaderFlow) - 🌵 Imagine ShaderToy, on a Manim-like architecture. That's ShaderFlow. Audio reactive, professional, smooth, customizable.
 - [Softcatala/whisper-ctranslate2](https://github.com/Softcatala/whisper-ctranslate2) - Whisper command line client compatible with original OpenAI client based on CTranslate2.
 - [jmisilo/clip-gpt-captioning](https://github.com/jmisilo/clip-gpt-captioning) - CLIPxGPT Captioner is Image Captioning Model based on OpenAI's CLIP and GPT-2.
 - [kharvd/gpt-cli](https://github.com/kharvd/gpt-cli) - Command-line interface for ChatGPT, Claude and Bard
@@ -1276,6 +1282,9 @@
 
 ## Rust 
 
+- [sergree/whatbpm](https://github.com/sergree/whatbpm) - 💓 Today's Trending Values for EDM Production
+- [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [mitchmindtree/nannou-sketches](https://github.com/mitchmindtree/nannou-sketches) - Random bits and pieces with nannou!
 - [immunant/c2rust](https://github.com/immunant/c2rust) - Migrate C code to Rust
 - [tragdate/gptube-cli](https://github.com/tragdate/gptube-cli) - Summarize videos from the command line
@@ -1476,6 +1485,7 @@
 
 ## TypeScript 
 
+- [aminya/astro-plugins](https://github.com/aminya/astro-plugins) - Various astro plugins such as astro-htmlnano to minify Astro files with HTMLNano and CSSNano
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
 - [nico-i/psi-svg](https://github.com/nico-i/psi-svg) - Performs a Google PageSpeed Insights analysis on a given webpage and returns the result as an SVG.
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
