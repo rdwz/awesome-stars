@@ -118,6 +118,7 @@
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
+- [localization](#localization)
 - [lua](#lua)
 - [mac](#mac)
 - [machine-learning](#machine-learning)
@@ -1216,6 +1217,7 @@
 
 ## golang 
 
+- [isacikgoz/tldr](https://github.com/isacikgoz/tldr) - fast and interactive tldr client written with  go
 - [gwen001/github-subdomains](https://github.com/gwen001/github-subdomains) - Find subdomains on GitHub.
 - [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
@@ -1316,6 +1318,7 @@
 
 ## hacktoberfest 
 
+- [files-ui/files-ui-react](https://github.com/files-ui/files-ui-react) - UI components for file uploads with React js. Files UI is a complete library for handling files in the UI. You can validate and upload them. Multilanguage. Server side support.
 - [styfle/packagephobia](https://github.com/styfle/packagephobia) - ⚖️ Find the cost of adding a new dependency to your project
 - [telegraf/telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node.js
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
@@ -1568,6 +1571,7 @@
 
 ## javascript 
 
+- [files-ui/files-ui-react](https://github.com/files-ui/files-ui-react) - UI components for file uploads with React js. Files UI is a complete library for handling files in the UI. You can validate and upload them. Multilanguage. Server side support.
 - [nuejs/nue](https://github.com/nuejs/nue) - The closer-to-standards web framework. Simple alternative to Next.js and Astro.
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [webdiscus/ansis](https://github.com/webdiscus/ansis) - Tiny and fast Node.js lib to colorize text in console output. Allows to use color and style in Node.js console.
@@ -1850,6 +1854,10 @@
 - [firewalld/firewalld](https://github.com/firewalld/firewalld) - Stateful zone based firewall daemon with D-Bus interface
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [nextcloud/client_theming](https://github.com/nextcloud/client_theming) - :computer: Nextcloud themed desktop client - Moved over to https://github.com/nextcloud/desktop
+
+## localization 
+
+- [files-ui/files-ui-react](https://github.com/files-ui/files-ui-react) - UI components for file uploads with React js. Files UI is a complete library for handling files in the UI. You can validate and upload them. Multilanguage. Server side support.
 
 ## lua 
 
@@ -2198,6 +2206,9 @@
 
 ## others 
 
+- [unlayer/playgrounds](https://github.com/unlayer/playgrounds) - Unlayer Playgrounds
+- [chengyin/WhatFont-Bookmarklet](https://github.com/chengyin/WhatFont-Bookmarklet) - The core of WhatFont Tool
+- [randombits-dev/astro-font-picker](https://github.com/randombits-dev/astro-font-picker) - Astro Dev Toolbar Integration that lets you try out different fonts on your website
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [zh-plus/openlrc](https://github.com/zh-plus/openlrc) - Transcribe (whisper) and translate (gpt) voice into LRC file. 使用whisper和gpt来转录、翻译你的音频为字幕文件。
 - [simonw/strip-tags](https://github.com/simonw/strip-tags) - CLI tool for stripping tags from HTML
@@ -3084,6 +3095,7 @@
 
 ## react 
 
+- [files-ui/files-ui-react](https://github.com/files-ui/files-ui-react) - UI components for file uploads with React js. Files UI is a complete library for handling files in the UI. You can validate and upload them. Multilanguage. Server side support.
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
 - [willnguyen1312/zoom-image](https://github.com/willnguyen1312/zoom-image) - A little yet powerful framework agnostic headless library to zoom images on the web
 - [EmaSuriano/astro-art-portfolio](https://github.com/EmaSuriano/astro-art-portfolio) - Minimalistic Art showcase built with Astro and connected with Notion API
@@ -3216,6 +3228,7 @@
 
 ## rust 
 
+- [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker
 - [sergree/whatbpm](https://github.com/sergree/whatbpm) - 💓 Today's Trending Values for EDM Production
 - [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
@@ -3520,6 +3533,8 @@
 
 ## typescript 
 
+- [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker
+- [files-ui/files-ui-react](https://github.com/files-ui/files-ui-react) - UI components for file uploads with React js. Files UI is a complete library for handling files in the UI. You can validate and upload them. Multilanguage. Server side support.
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
 - [jpmonette/feed](https://github.com/jpmonette/feed) - A RSS, Atom and JSON Feed generator for Node.js, making content syndication simple and intuitive! 🚀
 - [JamieMason/blurhash-to-css](https://github.com/JamieMason/blurhash-to-css) - Convert BlurHashes to CSS Objects using TypeScript, Rust, and WebAssembly.
