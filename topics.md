@@ -669,6 +669,7 @@
 - [wobsoriano/bun-lightningcss](https://github.com/wobsoriano/bun-lightningcss) - Lightning CSS plugin for Bun with class composition support.
 - [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
 - [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
+- [mobalti/props-color-finder](https://github.com/mobalti/props-color-finder) - A Progressive Web Application that helps users find the closest Open Props color.
 - [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
 - [system-fonts/modern-font-stacks](https://github.com/system-fonts/modern-font-stacks) - System font stack CSS organized by typeface classification for every modern operating system
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
@@ -2326,8 +2327,7 @@
 - [HassanCorrigan/soundcloud-player](https://github.com/HassanCorrigan/soundcloud-player) - A SoundCloud styled audio player, with completely custom design controls and interface.
 - [FossPrime/webcontainer-api-starter-gh-pages](https://github.com/FossPrime/webcontainer-api-starter-gh-pages) - A repro repo. I can deploy any branch including PRs to wc.42x.app
 - [FossPrime/feathers](https://github.com/FossPrime/feathers) - The API and real-time application framework
-- [mobalti/open-props-interfaces](https://github.com/mobalti/open-props-interfaces) - 
-- [mobalti/props-color-finder](https://github.com/mobalti/props-color-finder) - 
+- [mobalti/open-props-interfaces](https://github.com/mobalti/open-props-interfaces) - A collection of customizable and responsive interfaces built with Open Props.
 - [desertplant/moon-phase-background](https://github.com/desertplant/moon-phase-background) - Change desktop background to a high resolution picture of the current moon phase from NASA
 - [shishkin/astro-asciidoc](https://github.com/shishkin/astro-asciidoc) - Support AsciiDoc pages in Astro
 - [a11yproject/a11yproject.com](https://github.com/a11yproject/a11yproject.com) - The A11Y Project is a community-driven effort to make digital accessibility easier.
@@ -2736,7 +2736,7 @@
 - [michellabbe/docker-iperf3](https://github.com/michellabbe/docker-iperf3) - Dockerfile to setup a simple iperf3 server based on Alpine
 - [esnet/iperf](https://github.com/esnet/iperf) - iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
 - [R0GGER/public-iperf3-servers](https://github.com/R0GGER/public-iperf3-servers) - A list of public iPerf3 servers...
-- [volitank/nala](https://github.com/volitank/nala) - a wrapper for the apt package manager.
+- [volitank/nala](https://github.com/volitank/nala) - Nala is a front-end for libapt-pkg.
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [MichaIng/DietPi-Docs](https://github.com/MichaIng/DietPi-Docs) - Source repository for the DietPi OS documentation
 - [github/issue-labeler](https://github.com/github/issue-labeler) - An action for automatically labelling issues
