@@ -13,6 +13,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Clojure](#clojure)
+- [Crystal](#crystal)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
@@ -68,6 +69,7 @@
 
 ## Astro 
 
+- [miguelgargallo/tauri-astro-app](https://github.com/miguelgargallo/tauri-astro-app) - ¿What if the god of perfect language, Rust, and the god of the web, Typescript, had a baby? Well, this is it, Tauri + Astro, the perfect combination to make the web a whole new world.
 - [kevinzunigacuellar/astro-supabase](https://github.com/kevinzunigacuellar/astro-supabase) - Astro and Supabase auth and database demo
 - [shishkin/astro-pagefind](https://github.com/shishkin/astro-pagefind) - Astro integration for Pagefind static site search.
 - [aFuzzyBear/astro-ui](https://github.com/aFuzzyBear/astro-ui) - MonoRepo to house the collective distribution for Astro Components, Hoping this turns out to be a community led effort where Astro UI Components can be stored and accessed
@@ -154,6 +156,7 @@
 
 ## C# # 
 
+- [simon-knuth/scanner](https://github.com/simon-knuth/scanner) - An all-in-one scanner app built for the Universal Windows Platform
 - [ServiceStack/ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
 - [totoroyyb/Project-Neon](https://github.com/totoroyyb/Project-Neon) - A modern media player made for UWP
 - [deanthecoder/GLSLShaderShrinker](https://github.com/deanthecoder/GLSLShaderShrinker) - Cross-platform tool to Reformat/Remove Dead Code/Optimise/Analyse GLSL shader code.
@@ -173,6 +176,7 @@
 
 ## C++ 
 
+- [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 - [aclemons/emailrelay](https://github.com/aclemons/emailrelay) - emailrelay migrated to git (unofficial) - https://svn.code.sf.net/p/emailrelay/code/ mirrored in git
 - [martinrotter/rssguard](https://github.com/martinrotter/rssguard) - Feed reader (and podcast player) which supports RSS/ATOM/JSON and many web-based feed services.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
@@ -259,6 +263,10 @@
 - [pyr/warp](https://github.com/pyr/warp) - simple controller for parallel script execution
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 
+## Crystal 
+
+- [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - A CLI tool to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
+
 ## Dart 
 
 - [flutter/samples](https://github.com/flutter/samples) - A collection of Flutter examples and demos
@@ -295,6 +303,7 @@
 
 ## GLSL 
 
+- [patriciogonzalezvivo/thebookofshaders](https://github.com/patriciogonzalezvivo/thebookofshaders) - Step-by-step guide through the abstract and complex universe of Fragment Shaders.
 - [danilw/shadertoy-to-video-with-FBO](https://github.com/danilw/shadertoy-to-video-with-FBO) - Render a ShaderToy script directly to a video file. (added FrameBuffers support)
 
 ## Gherkin 
@@ -541,6 +550,7 @@
 
 ## JavaScript 
 
+- [tmthydvnprt/aggregit](https://github.com/tmthydvnprt/aggregit) - Aggregate all of a GitHub user's data.
 - [marioortizmanero/reddit-search-on-google](https://github.com/marioortizmanero/reddit-search-on-google) - Button on Google to search only for Reddit posts
 - [tobiasbueschel/search-gpt](https://github.com/tobiasbueschel/search-gpt) - 🌳 Connecting ChatGPT with the Internet
 - [infokiller/web-search-navigator](https://github.com/infokiller/web-search-navigator) - Web extension that adds keyboard shortcuts to Google, YouTube, Github, Amazon, and others (Chrome/Firefox/Edge/Safari)
@@ -569,7 +579,6 @@
 - [YashSaxena9/github-selective-downloader](https://github.com/YashSaxena9/github-selective-downloader) - A repository downloader for GitHub that can download specific paths inside the repository, preventing the need to download the complete GitHub repo if not required.
 - [mayeaux/generate-subtitles](https://github.com/mayeaux/generate-subtitles) - Generate transcripts for audio and video content with a user friendly UI, powered by Open AI's Whisper with automatic translations and download videos automatically with yt-dlp integration
 - [zkochan/packages](https://github.com/zkochan/packages) - Zoltan Kochan's npm packages
-- [Jaid/action-sync-node-meta](https://github.com/Jaid/action-sync-node-meta) - GitHub Action that syncs package.json with the repository metadata.
 - [kimmobrunfeldt/progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) - Responsive and slick progress bars
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -691,6 +700,7 @@
 - [NTag/dotted-map](https://github.com/NTag/dotted-map) - Create futuristic SVG maps, Tron-like, filled with dots or hexagons
 - [quev-dev/tiny-visions](https://github.com/quev-dev/tiny-visions) - A front-end web app aiming to create a modern, minimalistic experience for tarot card readings and quizzes.
 - [abetusk/ResonatorVoyantTarot](https://github.com/abetusk/ResonatorVoyantTarot) - An experiment in creating generative tarot cards.
+- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [Picorims/wav2bar](https://github.com/Picorims/wav2bar) - Wav2Bar is a tool to make custom audio visualization and export production videos for the audio and music industry.
 - [JaneMoroz/astro-ssr](https://github.com/JaneMoroz/astro-ssr) - A simple PWA build with Astro SSR and Strapi CMS.
 - [pronouns/main](https://github.com/pronouns/main) - Share your personal pronouns and stay updated on your friends' pronouns. Pronouny allows you to update your pronouns and send alerts to your friends.
@@ -1122,6 +1132,7 @@
 
 ## Python 
 
+- [alwaysdata/alcli](https://github.com/alwaysdata/alcli) - alwaysdata command line interface
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [zh-plus/openlrc](https://github.com/zh-plus/openlrc) - Transcribe (whisper) and translate (gpt) voice into LRC file. 使用whisper和gpt来转录、翻译你的音频为字幕文件。
 - [simonw/strip-tags](https://github.com/simonw/strip-tags) - CLI tool for stripping tags from HTML
@@ -1270,6 +1281,7 @@
 
 ## Ruby 
 
+- [square/git-fastclone](https://github.com/square/git-fastclone) - git clone --recursive on steroids
 - [github/gemoji](https://github.com/github/gemoji) - Emoji images and names.
 - [opal/opal](https://github.com/opal/opal) - Ruby ♥︎ JavaScript
 - [inoda/journal](https://github.com/inoda/journal) - :notebook: A simple self-hosted journaling app
@@ -1493,6 +1505,7 @@
 
 ## TypeScript 
 
+- [git-emoji/vscode-extension](https://github.com/git-emoji/vscode-extension) - Suggest context based emojis in VS Code
 - [randombits-dev/astro-font-picker](https://github.com/randombits-dev/astro-font-picker) - Astro Dev Toolbar Integration that lets you try out different fonts on your website
 - [files-ui/files-ui-react](https://github.com/files-ui/files-ui-react) - UI components for file uploads with React js. Files UI is a complete library for handling files in the UI. You can validate and upload them. Multilanguage. Server side support.
 - [aminya/astro-plugins](https://github.com/aminya/astro-plugins) - Various astro plugins such as astro-htmlnano to minify Astro files with HTMLNano and CSSNano
@@ -1610,7 +1623,6 @@
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [bejamas/react-redux-blog](https://github.com/bejamas/react-redux-blog) - A frontend blog made with TypeScript, React and Redux Toolkit.
 - [phosphor-icons/react](https://github.com/phosphor-icons/react) - A flexible icon family for React
-- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [strapi/nextjs-corporate-starter](https://github.com/strapi/nextjs-corporate-starter) - Strapi Demo application for Corporate Websites using Next.js
 - [sergiodxa/remix-auth](https://github.com/sergiodxa/remix-auth) - Simple Authentication for Remix
 - [cfortuner/wellknown](https://github.com/cfortuner/wellknown) - A registry of AI Plugins
