@@ -30,6 +30,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
+- [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
@@ -774,7 +775,7 @@
 - [jedrichards/rsyncwrapper](https://github.com/jedrichards/rsyncwrapper) - An async wrapper to the rsync command line utility for Node.js
 - [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
 - [ansnoussi/reactio](https://github.com/ansnoussi/reactio) - react.js web radio player with songs autodetection
-- [erikrichardlarson/unbox](https://github.com/erikrichardlarson/unbox) - Log and display your rekordbox / Serato / Traktor / VirtualDJ / DJUCED / Mixxx tracks as they're played
+- [erikrichardlarson/unbox](https://github.com/erikrichardlarson/unbox) - Log and display your rekordbox / Serato / Traktor / VirtualDJ / DJUCED / Mixxx / djay Pro tracks as they're played
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [nxxcxx/Neural-Network](https://github.com/nxxcxx/Neural-Network) - Abstract visualization of biological neural network
 - [gsavio/player-shoutcast-html5](https://github.com/gsavio/player-shoutcast-html5) - Responsive HMTL5 Web Player for SHOUTCast and Icecast streamings with cover art and lyrics
@@ -848,7 +849,6 @@
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [emazzotta/lighthouse-badges](https://github.com/emazzotta/lighthouse-badges) - 🚦 Generate badges (shields.io) based on Lighthouse performance.
 - [osano/cookieconsent](https://github.com/osano/cookieconsent) - A free solution to the EU, GDPR, and California Cookie Laws
-- [atomiks/moonlight-vscode-theme](https://github.com/atomiks/moonlight-vscode-theme) - A VS Code theme with bubblegum colors on a moonlit background
 - [gnikoloff/text-trail-effect](https://github.com/gnikoloff/text-trail-effect) - using WebGL framebuffers via three.js for advanced graphical effects
 - [V3RS/SoundCloud-Clone](https://github.com/V3RS/SoundCloud-Clone) - I cloned the popular website SoundCloud using React, Redux, Express, and PSQL. It was a great time and I learned a lot through the process!
 - [CoderZ90/confetti](https://github.com/CoderZ90/confetti) - 
@@ -916,6 +916,10 @@
 - [keybase/book-content](https://github.com/keybase/book-content) - 
 - [davestephens/ansible-nas](https://github.com/davestephens/ansible-nas) - Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.
 
+## Julia 
+
+- [fbanning/ardaudiothek-dl](https://github.com/fbanning/ardaudiothek-dl) - A simple Julia script to download audio files from ARD Audiothek
+
 ## Jupyter Notebook 
 
 - [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - 🔉 Youtube Videos Transcription with OpenAI's Whisper
@@ -965,7 +969,7 @@
 
 ## Markdown 
 
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
@@ -1140,6 +1144,8 @@
 
 ## Python 
 
+- [Tonmoy-abc/threads-video-downloader](https://github.com/Tonmoy-abc/threads-video-downloader) - Threads video downloader is a simple python script for downloading threads videos.
+- [dmytrostriletskyi/threads-net](https://github.com/dmytrostriletskyi/threads-net) - Unofficial and reverse-engineered Threads (threads.net) Python API wrapper. Created for academic purposes and is not intended to be used in real software.
 - [alwaysdata/alcli](https://github.com/alwaysdata/alcli) - alwaysdata command line interface
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [zh-plus/openlrc](https://github.com/zh-plus/openlrc) - Transcribe (whisper) and translate (gpt) voice into LRC file. 使用whisper和gpt来转录、翻译你的音频为字幕文件。
@@ -1266,6 +1272,7 @@
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [EdOverflow/can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz) - "Can I take over XYZ?" — a list of services and how to claim (sub)domains with dangling DNS records.
 - [hermanTenuki/ASCII-Generator.site](https://github.com/hermanTenuki/ASCII-Generator.site) - Django website for generating ASCII-arts out of images or text 🎨
+- [atomiks/moonlight-vscode-theme](https://github.com/atomiks/moonlight-vscode-theme) - A VS Code theme with bubblegum colors on a moonlit background
 - [microsoft/fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft
 - [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify playing on your Github profile
 - [sniklaus/3d-ken-burns](https://github.com/sniklaus/3d-ken-burns) - an implementation of 3D Ken Burns Effect from a Single Image using PyTorch
@@ -1513,6 +1520,7 @@
 
 ## TypeScript 
 
+- [junhoyeo/threads-api](https://github.com/junhoyeo/threads-api) - Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Web UI Included.
 - [git-emoji/vscode-extension](https://github.com/git-emoji/vscode-extension) - Suggest context based emojis in VS Code
 - [randombits-dev/astro-font-picker](https://github.com/randombits-dev/astro-font-picker) - Astro Dev Toolbar Integration that lets you try out different fonts on your website
 - [files-ui/files-ui-react](https://github.com/files-ui/files-ui-react) - UI components for file uploads with React js. Files UI is a complete library for handling files in the UI. You can validate and upload them. Multilanguage. Server side support.
@@ -1761,7 +1769,7 @@
 - [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
 - [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can truly self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can "truly" self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
 - [zaki-yama/copy-title-and-url-as-markdown](https://github.com/zaki-yama/copy-title-and-url-as-markdown) - Chrome Extension: Quickly copy the title & url of current tab as Markdown style
 - [windicss/windicss-analysis](https://github.com/windicss/windicss-analysis) - 🔍 A visual analyzer for Windi CSS
 - [heybokeh/pollen](https://github.com/heybokeh/pollen) - The CSS variables build system
