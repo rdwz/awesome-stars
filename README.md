@@ -1521,6 +1521,7 @@
 
 ## TypeScript 
 
+- [sindresorhus/ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
 - [junhoyeo/threads-api](https://github.com/junhoyeo/threads-api) - Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Web UI Included.
 - [git-emoji/vscode-extension](https://github.com/git-emoji/vscode-extension) - Suggest context based emojis in VS Code
 - [randombits-dev/astro-font-picker](https://github.com/randombits-dev/astro-font-picker) - Astro Dev Toolbar Integration that lets you try out different fonts on your website
