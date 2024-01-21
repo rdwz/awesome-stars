@@ -1601,6 +1601,7 @@
 
 ## javascript 
 
+- [sindresorhus/ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
 - [files-ui/files-ui-react](https://github.com/files-ui/files-ui-react) - UI components for file uploads with React js. Files UI is a complete library for handling files in the UI. You can validate and upload them. Multilanguage. Server side support.
 - [nuejs/nue](https://github.com/nuejs/nue) - The Content First Web Framework
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
@@ -2108,6 +2109,7 @@
 
 ## nodejs 
 
+- [sindresorhus/ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
 - [webdiscus/ansis](https://github.com/webdiscus/ansis) - Tiny and fast Node.js lib to colorize text in console output. Allows to use color and style in Node.js console.
