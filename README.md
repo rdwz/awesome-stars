@@ -955,6 +955,7 @@
 
 - [kogakure/website-astro-stefanimhoff.de](https://github.com/kogakure/website-astro-stefanimhoff.de) - My personal website, portfolio, and blog. Build with Astro, Preact, and Tailwind CSS
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [natemoo-re/astro-icon](https://github.com/natemoo-re/astro-icon) - Inline and sprite-based SVGs in Astro made easy!
 - [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
 - [denosaurs/mod.land](https://github.com/denosaurs/mod.land) - 📦 Pretty subdomains for you deno project
@@ -1659,7 +1660,6 @@
 - [hynnot/PERN-stack-boilerplate](https://github.com/hynnot/PERN-stack-boilerplate) - 
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
 - [butterfyme/Sparkable](https://github.com/butterfyme/Sparkable) - Sparkable is a collection of links that have brought lasting new insight to people
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [AstroDraw/AstroChart](https://github.com/AstroDraw/AstroChart) - A free and open-source TypeScript library for generating SVG charts to display planets in astrology.
 - [nwesthoff/shiplog](https://github.com/nwesthoff/shiplog) - Menubar app to keep track of running deploys on Vercel & Netlify
 - [johnbillion/wp-json-schemas](https://github.com/johnbillion/wp-json-schemas) - JSON schemas for WordPress PHP objects and REST  API responses
