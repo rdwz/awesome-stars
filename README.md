@@ -957,6 +957,7 @@
 
 ## MDX 
 
+- [estubmo/learning-threejs](https://github.com/estubmo/learning-threejs) - A simple Astro.js project for learning Three.js with Tailwind CSS, Bun and Biome.
 - [kogakure/website-astro-stefanimhoff.de](https://github.com/kogakure/website-astro-stefanimhoff.de) - My personal website, portfolio, and blog. Build with Astro, Preact, and Tailwind CSS
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
@@ -1533,6 +1534,7 @@
 
 ## TypeScript 
 
+- [NikolaRHristov/AstroBiome](https://github.com/NikolaRHristov/AstroBiome) - 🧬 AstroJS Biome tools. Format, lint and check your Astro website with Biome.
 - [AndreVarandas/sunrise-cli](https://github.com/AndreVarandas/sunrise-cli) - Get the sunrise and sunset for your location, right from your terminal!
 - [styfle/links-awakening](https://github.com/styfle/links-awakening) - 🔗 Recursively check a website for broken links
 - [stellatatech/webanalyzer](https://github.com/stellatatech/webanalyzer) - Web Analyzer is a web analysis CLI built using TypeScript to allow immediate retrieval of website information without a GUI or any type of third-party installation
