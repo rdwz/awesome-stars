@@ -1355,6 +1355,7 @@
 
 ## hacktoberfest 
 
+- [NikolaRHristov/AstroBiome](https://github.com/NikolaRHristov/AstroBiome) - 🧬 AstroJS Biome tools. Format, lint and check your Astro website with Biome.
 - [AndreVarandas/sunrise-cli](https://github.com/AndreVarandas/sunrise-cli) - Get the sunrise and sunset for your location, right from your terminal!
 - [styfle/links-awakening](https://github.com/styfle/links-awakening) - 🔗 Recursively check a website for broken links
 - [files-ui/files-ui-react](https://github.com/files-ui/files-ui-react) - UI components for file uploads with React js. Files UI is a complete library for handling files in the UI. You can validate and upload them. Multilanguage. Server side support.
@@ -1608,6 +1609,7 @@
 
 ## javascript 
 
+- [NikolaRHristov/AstroBiome](https://github.com/NikolaRHristov/AstroBiome) - 🧬 AstroJS Biome tools. Format, lint and check your Astro website with Biome.
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 - [sindresorhus/ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
 - [files-ui/files-ui-react](https://github.com/files-ui/files-ui-react) - UI components for file uploads with React js. Files UI is a complete library for handling files in the UI. You can validate and upload them. Multilanguage. Server side support.
@@ -2256,6 +2258,7 @@
 
 ## others 
 
+- [estubmo/learning-threejs](https://github.com/estubmo/learning-threejs) - A simple Astro.js project for learning Three.js with Tailwind CSS, Bun and Biome.
 - [Nikit-370/Emoji-Rating-and-Feedback](https://github.com/Nikit-370/Emoji-Rating-and-Feedback) - 
 - [ruvnet/guardrail](https://github.com/ruvnet/guardrail) - GuardRail: Advanced tool for data analysis and AI content generation using OpenAI GPT models. Features sentiment analysis, content classification, trend analysis, and tailored GPT model usage. Ideal f
 - [rdwz/remix-shows](https://github.com/rdwz/remix-shows) - TV Show guide built with Remix.
@@ -3608,6 +3611,7 @@
 
 ## typescript 
 
+- [NikolaRHristov/AstroBiome](https://github.com/NikolaRHristov/AstroBiome) - 🧬 AstroJS Biome tools. Format, lint and check your Astro website with Biome.
 - [AndreVarandas/sunrise-cli](https://github.com/AndreVarandas/sunrise-cli) - Get the sunrise and sunset for your location, right from your terminal!
 - [stellatatech/webanalyzer](https://github.com/stellatatech/webanalyzer) - Web Analyzer is a web analysis CLI built using TypeScript to allow immediate retrieval of website information without a GUI or any type of third-party installation
 - [onderonur/remix-shows](https://github.com/onderonur/remix-shows) - TV Show guide built with Remix.
