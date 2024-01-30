@@ -2258,6 +2258,7 @@
 
 ## others 
 
+- [rsheeter/rsheeter.github.io](https://github.com/rsheeter/rsheeter.github.io) - 
 - [estubmo/learning-threejs](https://github.com/estubmo/learning-threejs) - A simple Astro.js project for learning Three.js with Tailwind CSS, Bun and Biome.
 - [Nikit-370/Emoji-Rating-and-Feedback](https://github.com/Nikit-370/Emoji-Rating-and-Feedback) - 
 - [ruvnet/guardrail](https://github.com/ruvnet/guardrail) - GuardRail: Advanced tool for data analysis and AI content generation using OpenAI GPT models. Features sentiment analysis, content classification, trend analysis, and tailored GPT model usage. Ideal f
