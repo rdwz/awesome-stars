@@ -84,7 +84,7 @@
 - [kyr0/turbo-hybrid-astro-on-vercel](https://github.com/kyr0/turbo-hybrid-astro-on-vercel) - Astro 2.0 / turbo monorepo project template featuring hybrid rendering (SSG + SSR). Configured to deploy on Vercel.
 - [yoanbernabeu/LinkTreeFreeClone](https://github.com/yoanbernabeu/LinkTreeFreeClone) - LinkTreeFreeClone is a LinkTree clone built with Astro and Tailwind
 - [talves/astro-flex-components](https://github.com/talves/astro-flex-components) - Astro Starter (Typescript, fast-components)
-- [littlesticks/astro-template-foundation](https://github.com/littlesticks/astro-template-foundation) - An opinionated foundation/starter repo for new Astro themes we create.
+- [bywhitepine/astro-template-foundation](https://github.com/bywhitepine/astro-template-foundation) - An opinionated foundation/starter repo for new Astro themes we create.
 - [netlify-templates/astro-toolbox](https://github.com/netlify-templates/astro-toolbox) - Netlify ❤️ Astro: a simple template to give you the code you need to use Netlify features with Astro.
 - [SpinalCMS/astro-docs-template](https://github.com/SpinalCMS/astro-docs-template) - An Astro + Tailwind CSS theme for your documentation site
 - [withastro/github-pages](https://github.com/withastro/github-pages) - Automatically deploy an Astro site to GitHub Pages
@@ -104,7 +104,7 @@
 - [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 4.0 and Tailwind CSS. Astro starter theme.
 - [jordienr/astro-design-system](https://github.com/jordienr/astro-design-system) - This is a theme/starter project for design systems built in Astro. You can install and import your own component library and document all your design decisions and components.
 - [JonasKruckenberg/tauri-astro-template](https://github.com/JonasKruckenberg/tauri-astro-template) - Tauri, Astro, and Svelte template
-- [littlesticks/simple-blog-astro](https://github.com/littlesticks/simple-blog-astro) - A minimal, modern blog theme using Astro
+- [bywhitepine/simple-blog-astro](https://github.com/bywhitepine/simple-blog-astro) - A minimal, modern blog theme using Astro
 - [codiume/orbit](https://github.com/codiume/orbit) - Collection of useful integrations & components for the Astro ecosystem. ⭐️ Star to support our work!
 - [shim369/Astro-Newt-Site](https://github.com/shim369/Astro-Newt-Site) - Jamstack with headless CMS
 - [magnuswahlstrand/astro-supabase-vercel](https://github.com/magnuswahlstrand/astro-supabase-vercel) - 
