@@ -290,7 +290,7 @@
 - [linuxserver/docker-fleet](https://github.com/linuxserver/docker-fleet) - 
 - [emibcn/badge-action](https://github.com/emibcn/badge-action) - Create a badge using GitHub Actions and GitHub Workflow CPU time (no 3rd parties servers)
 - [SonarSource/docker-sonarqube](https://github.com/SonarSource/docker-sonarqube) - :whale: SonarQube in Docker
-- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2023)
+- [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2024)
 - [linuxserver/docker-booksonic-air](https://github.com/linuxserver/docker-booksonic-air) - 
 - [michellabbe/docker-iperf3](https://github.com/michellabbe/docker-iperf3) - Dockerfile to setup a simple iperf3 server based on Alpine
 - [R0GGER/public-iperf3-servers](https://github.com/R0GGER/public-iperf3-servers) - A list of public iPerf3 servers...
@@ -314,6 +314,7 @@
 
 ## Go 
 
+- [kolesa-team/go-webp](https://github.com/kolesa-team/go-webp) - Simple and fast webp library for golang
 - [isacikgoz/tldr](https://github.com/isacikgoz/tldr) - fast and interactive tldr client written with  go
 - [gwen001/gitlab-subdomains](https://github.com/gwen001/gitlab-subdomains) - Find subdomains on GitLab.
 - [gwen001/github-subdomains](https://github.com/gwen001/github-subdomains) - Find subdomains on GitHub.
@@ -394,7 +395,7 @@
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [jdel/gosspks](https://github.com/jdel/gosspks) - A very simple Synology Package Server written in Go
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Synchronize your DNS to multiple providers from a simple DSL
+- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Infrastructure as code for DNS!
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
 - [augmentable-dev/tickgit](https://github.com/augmentable-dev/tickgit) - Manage your repository's TODOs, tickets and checklists as config in your codebase.
@@ -594,7 +595,7 @@
 - [rugk/awesome-emoji-picker](https://github.com/rugk/awesome-emoji-picker) - Add-on/WebExtension that provides a modern emoji picker that you can use to find and copy/insert emoji into the active web page.
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Open-source multi-user ChatGPT for all LLMs, embedders, and vector databases. Unlimited documents, messages, and users in one privacy-focused app.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs, and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application!
 - [KittyGiraudel/a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog script.
 - [tholman/intense-images](https://github.com/tholman/intense-images) - A simple library to view large images up close using simple mouse interaction, and the full screen.
 - [magneum/youtube-exec](https://github.com/magneum/youtube-exec) - 🔥🎶YouTube-Exec: Unleash the Power of YouTube Downloads!
@@ -1817,7 +1818,7 @@
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A wrapper around YouTube's internal API — reverse engineering InnerTube
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
-- [astro-community/AstroCompress](https://github.com/astro-community/AstroCompress) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more!
+- [astro-community/AstroCompress](https://github.com/astro-community/AstroCompress) - AstroJS compression utilities. 🗜️
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
