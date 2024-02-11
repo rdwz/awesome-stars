@@ -365,7 +365,7 @@
 - [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
 - [denolib/awesome-deno](https://github.com/denolib/awesome-deno) - Curated list of awesome things related to Deno
 - [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
 - [milligram/awesome-milligram](https://github.com/milligram/awesome-milligram) - A curated list of Milligram resources.
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -404,7 +404,7 @@
 - [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker) - :whale: A curated list of Docker resources and projects
 - [denolib/awesome-deno](https://github.com/denolib/awesome-deno) - Curated list of awesome things related to Deno
 - [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [dar5hak/generator-awesome-list](https://github.com/dar5hak/generator-awesome-list) - :sunglasses: Yeoman generator for GitHub awesome lists
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -727,7 +727,7 @@
 - [sparanoid/lightense-images](https://github.com/sparanoid/lightense-images) - A dependency-free pure JavaScript image zooming library less than 2 KB (gzipped). Inspired by tholman/intense-images
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
-- [astro-community/AstroCompress](https://github.com/astro-community/AstroCompress) - 🗜️ AstroJS compression utilities. Compress HTML, CSS, JavaScript and more!
+- [astro-community/AstroCompress](https://github.com/astro-community/AstroCompress) - AstroJS compression utilities. 🗜️ Compress HTML, CSS, JavaScript and more!
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Halfmoon is a highly customizable, drop-in Bootstrap replacement. It comes with three built-in core themes, with dark mode support for all themes and components.
 - [milligram/awesome-milligram](https://github.com/milligram/awesome-milligram) - A curated list of Milligram resources.
@@ -739,7 +739,7 @@
 
 - [ComplianceAsCode/content](https://github.com/ComplianceAsCode/content) - Security automation content in SCAP, Bash, Ansible, and other formats
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 
 ## dart 
 
@@ -1482,7 +1482,7 @@
 - [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [therealsujitk/vercel-badge](https://github.com/therealsujitk/vercel-badge) - Include a Vercel deployment badge in your project's README.md file.
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [JeffreyCA/spotify-recently-played-readme](https://github.com/JeffreyCA/spotify-recently-played-readme) - Display your recently played Spotify tracks on your GitHub profile README.
@@ -1509,6 +1509,7 @@
 
 ## html 
 
+- [Hypercontext/linkifyjs](https://github.com/Hypercontext/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
@@ -1613,7 +1614,9 @@
 
 ## javascript 
 
-- [NikolaRHristov/AstroBiome](https://github.com/NikolaRHristov/AstroBiome) - 🗻 AstroJS Biome tools. Format, lint and check your Astro website with Biome.
+- [g00dv1n/moon-phase-widget](https://github.com/g00dv1n/moon-phase-widget) - Moon phase widget for website in javascript
+- [Hypercontext/linkifyjs](https://github.com/Hypercontext/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
+- [NikolaRHristov/AstroBiome](https://github.com/NikolaRHristov/AstroBiome) - AstroJS Biome tools. 🗻 Format, lint and check your Astro website with Biome.
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 - [sindresorhus/ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
 - [files-ui/files-ui-react](https://github.com/files-ui/files-ui-react) - UI components for file uploads with React js. Files UI is a complete library for handling files in the UI. You can validate and upload them. Multilanguage. Server side support.
@@ -1752,7 +1755,7 @@
 - [markteekman/accessible-astro-starter](https://github.com/markteekman/accessible-astro-starter) - An Accessible Starter Theme for Astro 4.0 including accessibility features such as landmarks, better focus-outline and skip-links navigation. Ships with Tailwind, Prettier and ESLint support.
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
-- [astro-community/AstroCompress](https://github.com/astro-community/AstroCompress) - 🗜️ AstroJS compression utilities. Compress HTML, CSS, JavaScript and more!
+- [astro-community/AstroCompress](https://github.com/astro-community/AstroCompress) - AstroJS compression utilities. 🗜️ Compress HTML, CSS, JavaScript and more!
 - [bradyhouse/house](https://github.com/bradyhouse/house) - Proof of Concept and Research repository.
 - [aFarkas/lazysizes](https://github.com/aFarkas/lazysizes) - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without co
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -1798,6 +1801,8 @@
 
 ## julia 
 
+- [JuliaAstro/JPLEphemeris.jl](https://github.com/JuliaAstro/JPLEphemeris.jl) - JPL ephemerides for Julia
+- [JuliaSpaceMissionDesign/FrameTransformations.jl](https://github.com/JuliaSpaceMissionDesign/FrameTransformations.jl) - A modern, high-performance and comprehensive set of tools for transformations between any standard and user-defined reference frame.
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 
 ## koa 
@@ -2132,6 +2137,7 @@
 
 ## nodejs 
 
+- [Hypercontext/linkifyjs](https://github.com/Hypercontext/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
 - [yisibl/resvg-js](https://github.com/yisibl/resvg-js) - A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs.
 - [AndreVarandas/sunrise-cli](https://github.com/AndreVarandas/sunrise-cli) - Get the sunrise and sunset for your location, right from your terminal!
 - [stellatatech/webanalyzer](https://github.com/stellatatech/webanalyzer) - Web Analyzer is a web analysis CLI built using TypeScript to allow immediate retrieval of website information without a GUI or any type of third-party installation
@@ -2250,7 +2256,7 @@
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [fontsource/fontsource](https://github.com/fontsource/fontsource) - Self-host Open Source fonts in neatly bundled NPM packages.
 - [open-sauced/open-sauced](https://github.com/open-sauced/open-sauced) - 🍕  This is a project to identify your next open source contribution.
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [Sav22999/common-voice-android](https://github.com/Sav22999/common-voice-android) - Repository of "CV Project" app. It's an unofficial app for Mozilla Common Voice, which permits you to contribute to this project via your device.
 - [nextcloud/client_theming](https://github.com/nextcloud/client_theming) - :computer: Nextcloud themed desktop client - Moved over to https://github.com/nextcloud/desktop
 
@@ -2271,6 +2277,13 @@
 
 ## others 
 
+- [m1guelpf/plz-cli](https://github.com/m1guelpf/plz-cli) - Copilot for your terminal
+- [astrological-guru/astro-novas](https://github.com/astrological-guru/astro-novas) - Basic vector astronomy using NOVAS
+- [kiranshila/NOVAS.jl](https://github.com/kiranshila/NOVAS.jl) - Naval Observatory Vector Astronomy Software - Reimplemented in Julia
+- [arturania/human-logic](https://github.com/arturania/human-logic) - Human Logic
+- [bogdaaamn/tracker-radar](https://github.com/bogdaaamn/tracker-radar) - Data set of top third party web domains with rich metadata about them
+- [PerezHz/PlanetaryEphemeris.jl](https://github.com/PerezHz/PlanetaryEphemeris.jl) - Solar System ephemeris Taylor integrator based on JPL DE430/431 dynamical model
+- [alexjc/shadertoy-render](https://github.com/alexjc/shadertoy-render) - Render a ShaderToy script directly to a video file.
 - [seraphgrid/grungegirl](https://github.com/seraphgrid/grungegirl) - grungegirl is the hacker's drug encyclopedia. programmed in python for maximum modularity and ease of configuration.
 - [dhfbk/emoji-transcriptions](https://github.com/dhfbk/emoji-transcriptions) - Transcriptions of emojis in plain text for English, Italian and German
 - [Ornstein89/ephemeris_generic_example](https://github.com/Ornstein89/ephemeris_generic_example) - An example of ephemeris calculation with different toolkits and sources: NASA/NAIF SPICE toolkit with JPL DE440 ephemeris and IAA RAS EPM 2021 ephemeris
@@ -3047,7 +3060,7 @@
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [benbusby/farside](https://github.com/benbusby/farside) - A smart redirecting gateway for various frontend services
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [heiseonline/embetty](https://github.com/heiseonline/embetty) - 🐙 Embetty displays remote content like tweets or YouTube videos without compromising your privacy.
@@ -3185,6 +3198,7 @@
 
 ## react 
 
+- [Hypercontext/linkifyjs](https://github.com/Hypercontext/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 - [onderonur/remix-shows](https://github.com/onderonur/remix-shows) - TV Show guide built with Remix.
 - [files-ui/files-ui-react](https://github.com/files-ui/files-ui-react) - UI components for file uploads with React js. Files UI is a complete library for handling files in the UI. You can validate and upload them. Multilanguage. Server side support.
@@ -3412,7 +3426,7 @@
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [EdOverflow/can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz) - "Can I take over XYZ?" — a list of services and how to claim (sub)domains with dangling DNS records.
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2023
+- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 
@@ -3633,7 +3647,7 @@
 
 ## typescript 
 
-- [NikolaRHristov/AstroBiome](https://github.com/NikolaRHristov/AstroBiome) - 🗻 AstroJS Biome tools. Format, lint and check your Astro website with Biome.
+- [NikolaRHristov/AstroBiome](https://github.com/NikolaRHristov/AstroBiome) - AstroJS Biome tools. 🗻 Format, lint and check your Astro website with Biome.
 - [AndreVarandas/sunrise-cli](https://github.com/AndreVarandas/sunrise-cli) - Get the sunrise and sunset for your location, right from your terminal!
 - [stellatatech/webanalyzer](https://github.com/stellatatech/webanalyzer) - Web Analyzer is a web analysis CLI built using TypeScript to allow immediate retrieval of website information without a GUI or any type of third-party installation
 - [onderonur/remix-shows](https://github.com/onderonur/remix-shows) - TV Show guide built with Remix.
