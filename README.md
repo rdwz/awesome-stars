@@ -93,8 +93,8 @@
 - [TheOtterlord/manual](https://github.com/TheOtterlord/manual) - A feature full Astro documentation template
 - [delucis/hyperdrive-speedometer](https://github.com/delucis/hyperdrive-speedometer) - Speedlify for Astro sites
 - [mesinkasir/astronot-with-astro](https://github.com/mesinkasir/astronot-with-astro) - A starter astro build with astronot css template themes
-- [michael-andreuzza/quickstore](https://github.com/michael-andreuzza/quickstore) - A free and simple theme for Astro where you can embed your Gumroad or lemonsqueezy.
-- [michael-andreuzza/astrosaas](https://github.com/michael-andreuzza/astrosaas) - 
+- [Lexington-Themes/quickstore](https://github.com/Lexington-Themes/quickstore) - A free and simple theme for Astro where you can embed your Gumroad or lemonsqueezy.
+- [Lexington-Themes/astrosaas](https://github.com/Lexington-Themes/astrosaas) - 
 - [SanderGeraedts/Astro-Showcase](https://github.com/SanderGeraedts/Astro-Showcase) - A small project to test out the new dynamic routing API of astro (and tailwind)
 - [shaunchander/astro-pwa-starter](https://github.com/shaunchander/astro-pwa-starter) - ✨ An opinionated Astro starter for building robust static websites.
 - [manuelernestog/astropod](https://github.com/manuelernestog/astropod) - Free and open source self-hosting serverless podcast solution
@@ -732,7 +732,7 @@
 - [nipunadodan/mbti-app](https://github.com/nipunadodan/mbti-app) - Supplimentary tool for MBTI personality enthusiasts. Used Tailwind on React as the CSS framework, with a dark mode and added PWA capability to make the app more versatile. There's no back-end for this
 - [rubynor/bigfive-web](https://github.com/rubynor/bigfive-web) - Website for taking personality tests
 - [PallaviKatari/ReactTraining](https://github.com/PallaviKatari/ReactTraining) - React is an open source, JavaScript library for developing user interface (UI) in web application. React is developed and released by Facebook.
-- [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - browserless is an efficient way to interact with a headless browser built in top of Puppeteer.
+- [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - browserless is an efficient way to interact with a headless browser built on top of puppeteer.
 - [Kikobeats/http-compression](https://github.com/Kikobeats/http-compression) - Adding compression (gzip/brotli) for your HTTP server in Node.js.
 - [standard/semistandard](https://github.com/standard/semistandard) - :icecream: All the goodness of `standard/standard` with semicolons sprinkled on top.
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
@@ -929,7 +929,7 @@
 
 ## Julia 
 
-- [JuliaAstro/JPLEphemeris.jl](https://github.com/JuliaAstro/JPLEphemeris.jl) - JPL ephemerides for Julia
+- [helgee/JPLEphemeris.jl](https://github.com/helgee/JPLEphemeris.jl) - JPL ephemerides for Julia
 - [JuliaSpaceMissionDesign/FrameTransformations.jl](https://github.com/JuliaSpaceMissionDesign/FrameTransformations.jl) - A modern, high-performance and comprehensive set of tools for transformations between any standard and user-defined reference frame.
 - [kiranshila/NOVAS.jl](https://github.com/kiranshila/NOVAS.jl) - Naval Observatory Vector Astronomy Software - Reimplemented in Julia
 - [PerezHz/PlanetaryEphemeris.jl](https://github.com/PerezHz/PlanetaryEphemeris.jl) - Solar System ephemeris Taylor integrator based on JPL DE430/431 dynamical model
@@ -1510,7 +1510,7 @@
 - [ydns/bash-updater](https://github.com/ydns/bash-updater) - YDNS Bash Updater Script
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
-- [imlinus/ascii-font](https://github.com/imlinus/ascii-font) - A tool to generate ascii block text
+- [imlinus/ascii-text](https://github.com/imlinus/ascii-text) - A tool to generate ascii block text
 - [litespeedtech/ols-docker-env](https://github.com/litespeedtech/ols-docker-env) - OpenLiteSpeed Docker Environment
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
 - [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
