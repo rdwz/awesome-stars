@@ -93,8 +93,8 @@
 - [TheOtterlord/manual](https://github.com/TheOtterlord/manual) - A feature full Astro documentation template
 - [delucis/hyperdrive-speedometer](https://github.com/delucis/hyperdrive-speedometer) - Speedlify for Astro sites
 - [mesinkasir/astronot-with-astro](https://github.com/mesinkasir/astronot-with-astro) - A starter astro build with astronot css template themes
-- [Lexington-Themes/quickstore](https://github.com/Lexington-Themes/quickstore) - A free and simple theme for Astro where you can embed your Gumroad or lemonsqueezy.
-- [Lexington-Themes/astrosaas](https://github.com/Lexington-Themes/astrosaas) - 
+- [michael-andreuzza/quickstore](https://github.com/michael-andreuzza/quickstore) - A free and simple theme for Astro where you can embed your Gumroad or lemonsqueezy.
+- [michael-andreuzza/astrosaas](https://github.com/michael-andreuzza/astrosaas) - 
 - [SanderGeraedts/Astro-Showcase](https://github.com/SanderGeraedts/Astro-Showcase) - A small project to test out the new dynamic routing API of astro (and tailwind)
 - [shaunchander/astro-pwa-starter](https://github.com/shaunchander/astro-pwa-starter) - ✨ An opinionated Astro starter for building robust static websites.
 - [manuelernestog/astropod](https://github.com/manuelernestog/astropod) - Free and open source self-hosting serverless podcast solution
@@ -317,6 +317,7 @@
 
 ## Go 
 
+- [keith-turner/ecoji](https://github.com/keith-turner/ecoji) - Encodes (and decodes) data as emojis
 - [kolesa-team/go-webp](https://github.com/kolesa-team/go-webp) - Simple and fast webp library for golang
 - [isacikgoz/tldr](https://github.com/isacikgoz/tldr) - fast and interactive tldr client written with  go
 - [gwen001/gitlab-subdomains](https://github.com/gwen001/gitlab-subdomains) - Find subdomains on GitLab.
@@ -370,7 +371,7 @@
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org) - :lock: Chromium's HSTS preload list submission website.
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite.
 - [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries
 - [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
 - [pulumi/pulumi-kubernetes-crds](https://github.com/pulumi/pulumi-kubernetes-crds) - Typed CustomResources for Kubernetes Operators
@@ -447,6 +448,7 @@
 
 ## HTML 
 
+- [Nyx-177/Trak](https://github.com/Nyx-177/Trak) - A command line application that gathers detailed information about a user across multiple services
 - [g00dv1n/moon-phase-widget](https://github.com/g00dv1n/moon-phase-widget) - Moon phase widget for website in javascript
 - [Nikit-370/Emoji-Rating-and-Feedback](https://github.com/Nikit-370/Emoji-Rating-and-Feedback) - 
 - [learnwithjason/pure-js-drag-n-drop](https://github.com/learnwithjason/pure-js-drag-n-drop) - 
@@ -559,6 +561,7 @@
 
 ## JavaScript 
 
+- [elrumordelaluz/draGGradients](https://github.com/elrumordelaluz/draGGradients) - A simple tool to generate and customize multiple css3 radial gradients.
 - [bogdaaamn/tracker-radar](https://github.com/bogdaaamn/tracker-radar) - Data set of top third party web domains with rich metadata about them
 - [Hypercontext/linkifyjs](https://github.com/Hypercontext/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
 - [rsheeter/rsheeter.github.io](https://github.com/rsheeter/rsheeter.github.io) - 
@@ -601,7 +604,7 @@
 - [rugk/awesome-emoji-picker](https://github.com/rugk/awesome-emoji-picker) - Add-on/WebExtension that provides a modern emoji picker that you can use to find and copy/insert emoji into the active web page.
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs, and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application!
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application!
 - [KittyGiraudel/a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog script.
 - [tholman/intense-images](https://github.com/tholman/intense-images) - A simple library to view large images up close using simple mouse interaction, and the full screen.
 - [magneum/youtube-exec](https://github.com/magneum/youtube-exec) - 🔥🎶YouTube-Exec: Unleash the Power of YouTube Downloads!
@@ -695,7 +698,7 @@
 - [jmisavage/red-snapper](https://github.com/jmisavage/red-snapper) - Package to take snapshots with headless chrome
 - [halvves/shader-doodle](https://github.com/halvves/shader-doodle) - A friendly web-component for writing and rendering shaders.
 - [PaulBratslavsky/strapi-chat-blog-repo](https://github.com/PaulBratslavsky/strapi-chat-blog-repo) - 
-- [lightpohl/podcast-dl](https://github.com/lightpohl/podcast-dl) - CLI for downloading and archiving podcasts.
+- [lightpohl/podcast-dl](https://github.com/lightpohl/podcast-dl) - A humble CLI for downloading and archiving podcasts.
 - [jojeyh/subtitler](https://github.com/jojeyh/subtitler) - 
 - [stripe-samples/subscription-use-cases](https://github.com/stripe-samples/subscription-use-cases) - Create subscriptions with fixed prices or usage based billing.
 - [sindresorhus/pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots
@@ -1125,6 +1128,7 @@
 
 ## PHP 
 
+- [geraldfingburke/plateau-tarot-api](https://github.com/geraldfingburke/plateau-tarot-api) - A simple API for accessing a basic tarot deck
 - [joypixels/emoji-toolkit](https://github.com/joypixels/emoji-toolkit) - The world's largest independent emoji font.
 - [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
 - [phoronix-test-suite/phoronix-test-suite](https://github.com/phoronix-test-suite/phoronix-test-suite) - The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
@@ -1164,6 +1168,7 @@
 
 ## Python 
 
+- [bycloudai/FBCNN-Windows](https://github.com/bycloudai/FBCNN-Windows) - Towards Flexible Blind JPEG Artifacts Removal (FBCNN, ICCV 2021)
 - [Kali-Hac/ChatGPT-MBTI](https://github.com/Kali-Hac/ChatGPT-MBTI) - [EMNLP-2023] Official Codes for “Can ChatGPT Assess Human Personalities? A General Evaluation Framework”
 - [MelinaPl/speech-act-analysis](https://github.com/MelinaPl/speech-act-analysis) - A speech act analysis of offensive language in German Tweets - an annotated datatset.
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
@@ -1554,6 +1559,8 @@
 
 ## TypeScript 
 
+- [thecmdrunner/swiftube-frontend](https://github.com/thecmdrunner/swiftube-frontend) - It's like ChatGPT for videos.
+- [sxy15/font-subset](https://github.com/sxy15/font-subset) - create a font-subset from a font file
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [CodyJasonBennett/four](https://github.com/CodyJasonBennett/four) - 💎 Minimal three.js alternative.
 - [DTStack/molecule](https://github.com/DTStack/molecule) - :rocket: A lightweight Web IDE UI framework.
@@ -1858,6 +1865,7 @@
 
 ## Vue 
 
+- [charlenherv/spongebob-time-cards](https://github.com/charlenherv/spongebob-time-cards) - SpongeBob-Themed Time Card Generator, For Fun and Memes
 - [andreas-stricker/ownlinks](https://github.com/andreas-stricker/ownlinks) - linktree clone – link in bio for instagram social media
 - [orhanemree/link-in-bio](https://github.com/orhanemree/link-in-bio) - 🌲 All-in-one bio link tool. An open source alternative to Linktree, with no registration required.
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
