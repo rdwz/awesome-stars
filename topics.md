@@ -2305,6 +2305,7 @@
 
 ## others 
 
+- [Aleph-Alpha/aleph-alpha-client-rs](https://github.com/Aleph-Alpha/aleph-alpha-client-rs) - 
 - [geraldfingburke/plateau-tarot-api](https://github.com/geraldfingburke/plateau-tarot-api) - A simple API for accessing a basic tarot deck
 - [elrumordelaluz/draGGradients](https://github.com/elrumordelaluz/draGGradients) - A simple tool to generate and customize multiple css3 radial gradients.
 - [sxy15/font-subset](https://github.com/sxy15/font-subset) - create a font-subset from a font file
@@ -2547,7 +2548,7 @@
 - [winkerVSbecks/solarstorm](https://github.com/winkerVSbecks/solarstorm) - 
 - [kevinkhagan/adinkra-icons](https://github.com/kevinkhagan/adinkra-icons) - 
 - [ya-mouse/phpbb-scraper](https://github.com/ya-mouse/phpbb-scraper) - Multithreaded and Multiprocess Scraper for phpBB
-- [henrymaas/AudioSlicer](https://github.com/henrymaas/AudioSlicer) - Audio Slicer that uses silence detection to split .wav audio files into several .wav samples.
+- [henrymaas/AudioSlicer](https://github.com/henrymaas/AudioSlicer) - Audio Slicer that uses silence detection to split .wav audio files into multiple .wav samples.
 - [zachfejes/js-horizons](https://github.com/zachfejes/js-horizons) - JavaScript client wrapper for the JPL Horizons Database
 - [malegetang/AudioGPT](https://github.com/malegetang/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 - [wolfejw86/blog-examples](https://github.com/wolfejw86/blog-examples) - 
