@@ -1094,6 +1094,7 @@
 
 ## font 
 
+- [NotCookey/Quote2Image](https://github.com/NotCookey/Quote2Image) - Quote2Image is a python library for turning text quotes into graphical images
 - [googlefonts/decovar](https://github.com/googlefonts/decovar) - A multistyle decorative variable font by David Berlow
 - [ecomfe/fontmin](https://github.com/ecomfe/fontmin) - Minify font seamlessly
 - [g-cqd/Fonts](https://github.com/g-cqd/Fonts) - A curation of fonts from all over the world.
@@ -1377,6 +1378,7 @@
 
 ## hacktoberfest 
 
+- [IonicaBizau/made-in-brazil](https://github.com/IonicaBizau/made-in-brazil) - 🇧🇷 A list of neat projects made in Brazil.
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 - [AndreVarandas/sunrise-cli](https://github.com/AndreVarandas/sunrise-cli) - Get the sunrise and sunset for your location, right from your terminal!
 - [styfle/links-awakening](https://github.com/styfle/links-awakening) - 🔗 Recursively check a website for broken links
@@ -1592,6 +1594,7 @@
 
 ## image-processing 
 
+- [NotCookey/Quote2Image](https://github.com/NotCookey/Quote2Image) - Quote2Image is a python library for turning text quotes into graphical images
 - [plemeri/transparent-background](https://github.com/plemeri/transparent-background) - This is a background removing tool powered by InSPyReNet (ACCV 2022)
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
 - [calibreapp/image-actions](https://github.com/calibreapp/image-actions) - A Github Action that automatically compresses JPEGs, PNGs and WebPs in Pull Requests.
@@ -3136,6 +3139,7 @@
 
 ## python 
 
+- [NotCookey/Quote2Image](https://github.com/NotCookey/Quote2Image) - Quote2Image is a python library for turning text quotes into graphical images
 - [Nyx-177/Trak](https://github.com/Nyx-177/Trak) - A command line application that gathers detailed information about a user across multiple services
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [jacebrowning/memegen](https://github.com/jacebrowning/memegen) - The free and open source API to generate memes.
