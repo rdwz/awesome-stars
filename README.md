@@ -1021,6 +1021,7 @@
 
 ## Others 
 
+- [IonicaBizau/made-in-brazil](https://github.com/IonicaBizau/made-in-brazil) - 🇧🇷 A list of neat projects made in Brazil.
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [tauri-apps/awesome-tauri](https://github.com/tauri-apps/awesome-tauri) - 🚀 Awesome Tauri Apps, Plugins and Resources
 - [neon-bindings/examples](https://github.com/neon-bindings/examples) - A collection of examples of Neon
@@ -1175,6 +1176,7 @@
 
 ## Python 
 
+- [NotCookey/Quote2Image](https://github.com/NotCookey/Quote2Image) - Quote2Image is a python library for turning text quotes into graphical images
 - [ufal/whisper_streaming](https://github.com/ufal/whisper_streaming) - Whisper realtime streaming for long speech-to-text transcription and translation
 - [bycloudai/FBCNN-Windows](https://github.com/bycloudai/FBCNN-Windows) - Towards Flexible Blind JPEG Artifacts Removal (FBCNN, ICCV 2021)
 - [Kali-Hac/ChatGPT-MBTI](https://github.com/Kali-Hac/ChatGPT-MBTI) - [EMNLP-2023] Official Codes for “Can ChatGPT Assess Human Personalities? A General Evaluation Framework”
