@@ -12,6 +12,7 @@
 - [angular](#angular)
 - [ansible](#ansible)
 - [api](#api)
+- [archlinux](#archlinux)
 - [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
 - [atom](#atom)
@@ -304,6 +305,12 @@
 - [facundoolano/google-play-scraper](https://github.com/facundoolano/google-play-scraper) - Node.js scraper to get data from Google Play
 - [nickname76/telegrambot](https://github.com/nickname76/telegrambot) - Telegram Bot API library in Go, but with more clean code
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A wrapper around YouTube's internal API — reverse engineering InnerTube
+
+## archlinux 
+
+- [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
+- [armbian/community](https://github.com/armbian/community) - Armbian OS Community rolling releases
 
 ## arduino 
 
@@ -2316,6 +2323,8 @@
 
 ## others 
 
+- [AndrewCarterUK/AstroSplash](https://github.com/AndrewCarterUK/AstroSplash) - An app that uses the Astronomy Picture of the Day API provided by NASA and the Zend Expressive framework.
+- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [ufal/whisper_streaming](https://github.com/ufal/whisper_streaming) - Whisper realtime streaming for long speech-to-text transcription and translation
 - [Aleph-Alpha/aleph-alpha-client-rs](https://github.com/Aleph-Alpha/aleph-alpha-client-rs) - 
 - [geraldfingburke/plateau-tarot-api](https://github.com/geraldfingburke/plateau-tarot-api) - A simple API for accessing a basic tarot deck
