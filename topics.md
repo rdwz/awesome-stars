@@ -310,7 +310,7 @@
 
 - [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
-- [armbian/community](https://github.com/armbian/community) - Armbian OS Community rolling releases
+- [armbian/community](https://github.com/armbian/community) - Armbian operating system community releases provides automated builds of community maintained targets
 
 ## arduino 
 
@@ -1921,7 +1921,7 @@
 - [containers/crun](https://github.com/containers/crun) - A fast and lightweight fully featured OCI runtime and C library for running containers
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
-- [armbian/community](https://github.com/armbian/community) - Armbian OS Community rolling releases
+- [armbian/community](https://github.com/armbian/community) - Armbian operating system community releases provides automated builds of community maintained targets
 - [enzo1982/freac](https://github.com/enzo1982/freac) - The fre:ac audio converter project
 - [digimezzo/dopamine](https://github.com/digimezzo/dopamine) - The audio player that keeps it simple
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
@@ -2310,7 +2310,7 @@
 
 ## operating-system 
 
-- [armbian/community](https://github.com/armbian/community) - Armbian OS Community rolling releases
+- [armbian/community](https://github.com/armbian/community) - Armbian operating system community releases provides automated builds of community maintained targets
 
 ## osint 
 
@@ -2866,7 +2866,7 @@
 - [prahaladramji/synology-prometheus](https://github.com/prahaladramji/synology-prometheus) - Setup script to install the prometheus stack on a synology NAS
 - [codibre/anypm](https://github.com/codibre/anypm) - Your favorite package locally and npm ci in the cloud!
 - [jboxberger/synology-gitlab-ce](https://github.com/jboxberger/synology-gitlab-ce) - This is a docker based GitLab CE package for Synology NAS server using the original gitlab/gitlab-ce image from hub.docker.com. The goal of this project is to lower the entry barrier for new GitLab us
-- [sblask/webextension-skip-redirect](https://github.com/sblask/webextension-skip-redirect) - Some web pages use intermediary pages before redirecting to a final page. This add-on tries to extract the final url from the intermediary url and goes there straight away if successful.
+- [sblask-webextensions/webextension-skip-redirect](https://github.com/sblask-webextensions/webextension-skip-redirect) - Some web pages use intermediary pages before redirecting to a final page. This add-on tries to extract the final url from the intermediary url and goes there straight away if successful.
 - [stevepryde/tauri-yew-demo](https://github.com/stevepryde/tauri-yew-demo) - Demo project for the Tauri + Yew tutorial
 - [winget-run/wingetdotrun](https://github.com/winget-run/wingetdotrun) - 📦 Finding winget packages made easy 🔍
 - [open-source-labs/Vno](https://github.com/open-source-labs/Vno) - a build tool for compiling and bundling Vue single-file components
@@ -3808,7 +3808,7 @@
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [davestephens/ansible-nas](https://github.com/davestephens/ansible-nas) - Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.
-- [armbian/community](https://github.com/armbian/community) - Armbian OS Community rolling releases
+- [armbian/community](https://github.com/armbian/community) - Armbian operating system community releases provides automated builds of community maintained targets
 - [avafinger/bananapi-zero-ubuntu-base-minimal](https://github.com/avafinger/bananapi-zero-ubuntu-base-minimal) - BananaPi M2 Zero  - Ubuntu Focal Base Minimal Image (Experimental) - U-Boot 2017.09 / Kernel 4.18.y / Kernel 4.19.y / Kernel 4.20.y / Kernel 5.3.y / Kernel 5.6.y / Kernel 5.7.y / Kernel 5.11.y
 
 ## vim 
