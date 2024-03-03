@@ -135,6 +135,7 @@
 - [monitoring](#monitoring)
 - [music](#music)
 - [mysql](#mysql)
+- [natural-language-processing](#natural-language-processing)
 - [neovim](#neovim)
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
@@ -689,7 +690,7 @@
 
 ## css 
 
-- [Nyx-177/Trak](https://github.com/Nyx-177/Trak) - A command line application that gathers detailed information about a user across multiple services
+- [Nyx-Archives/Trak](https://github.com/Nyx-Archives/Trak) - A command line application that gathers detailed information about a user across multiple services
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
@@ -1535,7 +1536,7 @@
 
 ## html 
 
-- [Nyx-177/Trak](https://github.com/Nyx-177/Trak) - A command line application that gathers detailed information about a user across multiple services
+- [Nyx-Archives/Trak](https://github.com/Nyx-Archives/Trak) - A command line application that gathers detailed information about a user across multiple services
 - [Hypercontext/linkifyjs](https://github.com/Hypercontext/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
@@ -1642,7 +1643,7 @@
 
 ## javascript 
 
-- [Nyx-177/Trak](https://github.com/Nyx-177/Trak) - A command line application that gathers detailed information about a user across multiple services
+- [Nyx-Archives/Trak](https://github.com/Nyx-Archives/Trak) - A command line application that gathers detailed information about a user across multiple services
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [g00dv1n/moon-phase-widget](https://github.com/g00dv1n/moon-phase-widget) - Moon phase widget for website in javascript
 - [Hypercontext/linkifyjs](https://github.com/Hypercontext/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
@@ -2103,6 +2104,13 @@
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 
+## natural-language-processing 
+
+- [RomainStorai/Inappropriate-Language-Classifier](https://github.com/RomainStorai/Inappropriate-Language-Classifier) - Online video games need a better system to detect inappropriate language in chat, and using machine learning models could help create a safer and more enjoyable environment for all players.
+- [adbar/German-NLP](https://github.com/adbar/German-NLP) - Curated list of open-access/open-source/off-the-shelf resources and tools developed with a particular focus on German
+- [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+
 ## neovim 
 
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
@@ -2314,7 +2322,7 @@
 
 ## osint 
 
-- [Nyx-177/Trak](https://github.com/Nyx-177/Trak) - A command line application that gathers detailed information about a user across multiple services
+- [Nyx-Archives/Trak](https://github.com/Nyx-Archives/Trak) - A command line application that gathers detailed information about a user across multiple services
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
 - [Findomain/Findomain](https://github.com/Findomain/Findomain) - The fastest and complete solution for domain recognition. Supports screenshoting, port scan, HTTP check, data import from other tools, subdomain monitoring, alerts via Discord, Slack and Telegram, mul
@@ -2771,7 +2779,6 @@
 - [rdwz/cadmium](https://github.com/rdwz/cadmium) - Transforms the colors of a given image according to a given palette
 - [phusion/holy-build-box](https://github.com/phusion/holy-build-box) - System for building cross-distribution Linux binaries
 - [finzzz/tldr](https://github.com/finzzz/tldr) - Minimalistic TLDR Web Client
-- [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [pulumi/pulumi-kubernetes-crds](https://github.com/pulumi/pulumi-kubernetes-crds) - Typed CustomResources for Kubernetes Operators
 - [smallhadroncollider/brok](https://github.com/smallhadroncollider/brok) - Find broken links in text documents
 - [iongion/podman-desktop-companion](https://github.com/iongion/podman-desktop-companion) - Podman desktop companion
@@ -3149,7 +3156,7 @@
 ## python 
 
 - [NotCookey/Quote2Image](https://github.com/NotCookey/Quote2Image) - Quote2Image is a python library for turning text quotes into graphical images
-- [Nyx-177/Trak](https://github.com/Nyx-177/Trak) - A command line application that gathers detailed information about a user across multiple services
+- [Nyx-Archives/Trak](https://github.com/Nyx-Archives/Trak) - A command line application that gathers detailed information about a user across multiple services
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [jacebrowning/memegen](https://github.com/jacebrowning/memegen) - The free and open source API to generate memes.
 - [zh-plus/openlrc](https://github.com/zh-plus/openlrc) - Transcribe and translate voice into LRC file using Whisper and GPT. 使用whisper和gpt来转录、翻译你的音频为字幕文件。
