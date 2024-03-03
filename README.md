@@ -450,7 +450,7 @@
 ## HTML 
 
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
-- [Nyx-177/Trak](https://github.com/Nyx-177/Trak) - A command line application that gathers detailed information about a user across multiple services
+- [Nyx-Archives/Trak](https://github.com/Nyx-Archives/Trak) - A command line application that gathers detailed information about a user across multiple services
 - [g00dv1n/moon-phase-widget](https://github.com/g00dv1n/moon-phase-widget) - Moon phase widget for website in javascript
 - [Nikit-370/Emoji-Rating-and-Feedback](https://github.com/Nikit-370/Emoji-Rating-and-Feedback) - 
 - [learnwithjason/pure-js-drag-n-drop](https://github.com/learnwithjason/pure-js-drag-n-drop) - 
