@@ -335,7 +335,7 @@
 ## automation 
 
 - [niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting) - Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?
-- [TheSwiftagen/github-selective-downloader](https://github.com/TheSwiftagen/github-selective-downloader) - A repository downloader for GitHub that can download specific paths inside the repository, preventing the need to download the complete GitHub repo if not required.
+- [YashSaxena9/github-selective-downloader](https://github.com/YashSaxena9/github-selective-downloader) - A repository downloader for GitHub that can download specific paths inside the repository, preventing the need to download the complete GitHub repo if not required.
 - [ss-d3v/BotTuber](https://github.com/ss-d3v/BotTuber) - Fully Automated YouTube Channel ▶️with Added Extra Features (Automated Title, Description, Tags, Watermark and much more)
 - [dhohirpradana/Instagram-Automation](https://github.com/dhohirpradana/Instagram-Automation) - [Python, Typescript] Instagram Automation Post Feed and Story, Integrate Data from Facebook Group and Page
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
@@ -1659,7 +1659,7 @@
 - [rkusa/pdfjs](https://github.com/rkusa/pdfjs) - A Portable Document Format (PDF) generation library targeting both the server- and client-side.
 - [lupomontero/psl](https://github.com/lupomontero/psl) - JavaScript domain name parser based on the Public Suffix List
 - [jpmonette/feed](https://github.com/jpmonette/feed) - A RSS, Atom and JSON Feed generator for Node.js, making content syndication simple and intuitive! 🚀
-- [TheSwiftagen/github-selective-downloader](https://github.com/TheSwiftagen/github-selective-downloader) - A repository downloader for GitHub that can download specific paths inside the repository, preventing the need to download the complete GitHub repo if not required.
+- [YashSaxena9/github-selective-downloader](https://github.com/YashSaxena9/github-selective-downloader) - A repository downloader for GitHub that can download specific paths inside the repository, preventing the need to download the complete GitHub repo if not required.
 - [kimmobrunfeldt/progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) - Responsive and slick progress bars
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [tholman/intense-images](https://github.com/tholman/intense-images) - A simple library to view large images up close using simple mouse interaction, and the full screen.
