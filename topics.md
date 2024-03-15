@@ -2513,7 +2513,7 @@
 - [coding-in-public/audio-player](https://github.com/coding-in-public/audio-player) - 
 - [vivekartiste/LinksGram-linktree.alternative](https://github.com/vivekartiste/LinksGram-linktree.alternative) - This is a linktree alternative single landing page based on html, css based code. You can download this and use it according to your usernames.
 - [shaunchander/astro-pwa-starter](https://github.com/shaunchander/astro-pwa-starter) - ✨ An opinionated Astro starter for building robust static websites.
-- [Johnkat-Mj/agency-landing-page-Astrojs](https://github.com/Johnkat-Mj/agency-landing-page-Astrojs) - A simple agency landing page made with astrojs and tailwindcss
+- [unify-ui-dev/agency-landing-page-Astrojs](https://github.com/unify-ui-dev/agency-landing-page-Astrojs) - A simple agency landing page made with astrojs and tailwindcss
 - [advanced-astro/anse](https://github.com/advanced-astro/anse) - Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.
 - [paabloLC/astro-neumorphism](https://github.com/paabloLC/astro-neumorphism) - A simple and responsive template focused on the entire UI design style with neumorphism styles. Built with AstroJS, TypeScript, Preact, and styled with Tailwind CSS.
 - [DennisKidman/dual.my](https://github.com/DennisKidman/dual.my) - Dual.my is a dynamic/static DNS hosting service, designed to offer a user-friendly, ad-free solution for your networking needs. It provides a fantastic alternative to other services like DuckDNS.
