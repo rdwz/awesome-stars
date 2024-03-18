@@ -1755,7 +1755,7 @@
 - [yahiko00/Starfield](https://github.com/yahiko00/Starfield) - Procedural generated 2D Starfield
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [clerk/remix-auth-starter](https://github.com/clerk/remix-auth-starter) - Add sign up, sign in, profile management, and authenticated API routes to your Remix application with the Remix Auth Starter by Clerk.
-- [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
+- [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [yocontra/react-responsive](https://github.com/yocontra/react-responsive) - CSS media queries in react - for responsive design, and more.
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [FranzFlueckiger/Storygram](https://github.com/FranzFlueckiger/Storygram) - Explore and visualize sequential grouping in your data!
