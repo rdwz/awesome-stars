@@ -2329,7 +2329,7 @@
 ## others 
 
 - [AndrewCarterUK/AstroSplash](https://github.com/AndrewCarterUK/AstroSplash) - An app that uses the Astronomy Picture of the Day API provided by NASA and the Zend Expressive framework.
-- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [ufal/whisper_streaming](https://github.com/ufal/whisper_streaming) - Whisper realtime streaming for long speech-to-text transcription and translation
 - [Aleph-Alpha/aleph-alpha-client-rs](https://github.com/Aleph-Alpha/aleph-alpha-client-rs) - 
 - [geraldfingburke/plateau-tarot-api](https://github.com/geraldfingburke/plateau-tarot-api) - A simple API for accessing a basic tarot deck
@@ -2435,7 +2435,7 @@
 - [DeepLcom/openapi](https://github.com/DeepLcom/openapi) - OpenAPI specification of the DeepL API
 - [Debdut/uuid-readable](https://github.com/Debdut/uuid-readable) - Generate Easy to Remember, Readable UUIDs, that are Shakespearean and Grammatically Correct Sentences 🥳
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application!
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application with a built-in LLM!
 - [discourse/discourse_docker](https://github.com/discourse/discourse_docker) - A Docker image for Discourse
 - [KittyGiraudel/a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog script.
 - [leabs/astro-tailwind-flowbite-template](https://github.com/leabs/astro-tailwind-flowbite-template) - A base for projects using Astro, Tailwind, and Flowbite UI components
