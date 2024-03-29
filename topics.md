@@ -391,6 +391,7 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [revoltchat/awesome-revolt](https://github.com/revoltchat/awesome-revolt) - Collection of Revolt libraries, bots, clients and other cool stuff.
 - [738/awesome-url-shortener](https://github.com/738/awesome-url-shortener) - 🔗 A curated list of awesome url shortener
+- [readium/awesome-readium](https://github.com/readium/awesome-readium) - ⭐️ Awesome Readium-related resources
 - [standard/awesome-standard](https://github.com/standard/awesome-standard) - Documenting the explosion of packages in the standard ecosystem!
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
@@ -742,7 +743,7 @@
 - [sparanoid/lightense-images](https://github.com/sparanoid/lightense-images) - A dependency-free pure JavaScript image zooming library less than 2 KB (gzipped). Inspired by tholman/intense-images
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
-- [Playform/AstroCompress](https://github.com/Playform/AstroCompress) - 🗜️ Compress Astro.
+- [Playform/CompressAstro](https://github.com/Playform/CompressAstro) - 🗜️ Compress Astro.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Halfmoon is a highly customizable, drop-in Bootstrap replacement. It comes with three built-in core themes, with dark mode support for all themes and components.
 - [milligram/awesome-milligram](https://github.com/milligram/awesome-milligram) - A curated list of Milligram resources.
@@ -1643,7 +1644,7 @@
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [g00dv1n/moon-phase-widget](https://github.com/g00dv1n/moon-phase-widget) - Moon phase widget for website in javascript
 - [Hypercontext/linkifyjs](https://github.com/Hypercontext/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
-- [Playform/AstroBiome](https://github.com/Playform/AstroBiome) - 🗻 Biome Format.
+- [Playform/BiomeAstro](https://github.com/Playform/BiomeAstro) - 🗻 Biome Format.
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 - [sindresorhus/ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
 - [files-ui/files-ui-react](https://github.com/files-ui/files-ui-react) - UI components for file uploads with React js. Files UI is a complete library for handling files in the UI. You can validate and upload them. Multilanguage. Server side support.
@@ -1782,7 +1783,7 @@
 - [markteekman/accessible-astro-starter](https://github.com/markteekman/accessible-astro-starter) - An Accessible Starter Theme for Astro 4.0 including accessibility features such as landmarks, better focus-outline and skip-links navigation. Ships with Tailwind, Prettier and ESLint support.
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
-- [Playform/AstroCompress](https://github.com/Playform/AstroCompress) - 🗜️ Compress Astro.
+- [Playform/CompressAstro](https://github.com/Playform/CompressAstro) - 🗜️ Compress Astro.
 - [bradyhouse/house](https://github.com/bradyhouse/house) - Proof of Concept and Research repository.
 - [aFarkas/lazysizes](https://github.com/aFarkas/lazysizes) - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without co
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -2525,7 +2526,6 @@
 - [basswavetech/music-browser](https://github.com/basswavetech/music-browser) - An overengineered music browser backend for Bandcamp, Spotify and YT Music
 - [emilia-miki/music-browser](https://github.com/emilia-miki/music-browser) - An overengineered music browser backend for Bandcamp, Spotify and YT Music
 - [jordienr/astro-design-system](https://github.com/jordienr/astro-design-system) - This is a theme/starter project for design systems built in Astro. You can install and import your own component library and document all your design decisions and components.
-- [readium/awesome-readium](https://github.com/readium/awesome-readium) - ⭐️ Awesome Readium-related resources
 - [xaberus/vscode-remote-oss](https://github.com/xaberus/vscode-remote-oss) - Remote development for OSS Builds of VSCode like VSCodium
 - [nbelyh/editsvgcode](https://github.com/nbelyh/editsvgcode) - Online SVG auto-complete code editor based on monaco editor
 - [zachleat/bench-framework-markdown](https://github.com/zachleat/bench-framework-markdown) - A set of scripts to test markdown processing speeds in various site generators/frameworks
@@ -2912,7 +2912,7 @@
 - [christopher-kapic/astro-blanding](https://github.com/christopher-kapic/astro-blanding) - A template for agencies/businesses to get a landing page/website built quickly using Astro, Svelte, and TailwindCSS
 - [electricbookworks/electric-book](https://github.com/electricbookworks/electric-book) - A Jekyll template for creating books in multiple formats
 - [SPGoding/renovate-config-gitmoji](https://github.com/SPGoding/renovate-config-gitmoji) - A Gitmoji compatible Renovate config.
-- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
+- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [optionfactory/digit](https://github.com/optionfactory/digit) - Learn git by visualizing it
 - [nimblemachines/analyzing-iana-root-db](https://github.com/nimblemachines/analyzing-iana-root-db) - Simple scripts to fetch and parse the IANA root zone database (the current set of delegated top-level domains (TLDs)) into one of two forms: Lua tables, or a tab-separated CSV file suitable for conver
 - [samueldobbie/shelf.gg](https://github.com/samueldobbie/shelf.gg) - A pastebin to find and share useful resources 📚
@@ -3715,7 +3715,7 @@
 
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [DTStack/molecule](https://github.com/DTStack/molecule) - :rocket: A lightweight Web IDE UI framework.
-- [Playform/AstroBiome](https://github.com/Playform/AstroBiome) - 🗻 Biome Format.
+- [Playform/BiomeAstro](https://github.com/Playform/BiomeAstro) - 🗻 Biome Format.
 - [AndreVarandas/sunrise-cli](https://github.com/AndreVarandas/sunrise-cli) - Get the sunrise and sunset for your location, right from your terminal!
 - [stellatatech/webanalyzer](https://github.com/stellatatech/webanalyzer) - Web Analyzer is a web analysis CLI built using TypeScript to allow immediate retrieval of website information without a GUI or any type of third-party installation
 - [onderonur/remix-shows](https://github.com/onderonur/remix-shows) - TV Show guide built with Remix.
