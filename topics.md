@@ -3154,7 +3154,7 @@
 - [Helios-Archives/Trak](https://github.com/Helios-Archives/Trak) - A command line application that gathers detailed information about a user across multiple services
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [jacebrowning/memegen](https://github.com/jacebrowning/memegen) - The free and open source API to generate memes.
-- [zh-plus/openlrc](https://github.com/zh-plus/openlrc) - Transcribe and translate voice into LRC file using Whisper and GPT. 使用whisper和gpt来转录、翻译你的音频为字幕文件。
+- [zh-plus/openlrc](https://github.com/zh-plus/openlrc) - Transcribe and translate voice into LRC file using Whisper and LLMs (GPT, Claude, et,al). 使用whisper和LLM(GPT，Claude等)来转录、翻译你的音频为字幕文件。
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [marcolardera/chatgpt-cli](https://github.com/marcolardera/chatgpt-cli) - Simple yet effective command line client for chatting with ChatGPT using the official API
 - [JingShing/AI-image-tag-extractor](https://github.com/JingShing/AI-image-tag-extractor) - A tool to help you get image info.
