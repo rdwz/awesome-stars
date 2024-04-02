@@ -691,6 +691,7 @@
 
 ## css 
 
+- [chrisnager/simple-debug.css](https://github.com/chrisnager/simple-debug.css) - Debug your layouts with one line of CSS
 - [Helios-Archives/Trak](https://github.com/Helios-Archives/Trak) - A command line application that gathers detailed information about a user across multiple services
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
@@ -743,7 +744,7 @@
 - [sparanoid/lightense-images](https://github.com/sparanoid/lightense-images) - A dependency-free pure JavaScript image zooming library less than 2 KB (gzipped). Inspired by tholman/intense-images
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
-- [Playform/CompressAstro](https://github.com/Playform/CompressAstro) - 🗜️ Compress Astro.
+- [Playform/CompressAstro](https://github.com/Playform/CompressAstro) - 🗜️ Compress.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [halfmoonui/halfmoon](https://github.com/halfmoonui/halfmoon) - Halfmoon is a highly customizable, drop-in Bootstrap replacement. It comes with three built-in core themes, with dark mode support for all themes and components.
 - [milligram/awesome-milligram](https://github.com/milligram/awesome-milligram) - A curated list of Milligram resources.
@@ -1278,6 +1279,7 @@
 
 ## golang 
 
+- [7sDream/rikka](https://github.com/7sDream/rikka) - A simple image share system in go.
 - [keith-turner/ecoji](https://github.com/keith-turner/ecoji) - Encodes (and decodes) data as emojis
 - [kolesa-team/go-webp](https://github.com/kolesa-team/go-webp) - Simple and fast webp library for golang
 - [isacikgoz/tldr](https://github.com/isacikgoz/tldr) - fast and interactive tldr client written with  go
@@ -1533,6 +1535,7 @@
 
 ## html 
 
+- [chrisnager/simple-debug.css](https://github.com/chrisnager/simple-debug.css) - Debug your layouts with one line of CSS
 - [Helios-Archives/Trak](https://github.com/Helios-Archives/Trak) - A command line application that gathers detailed information about a user across multiple services
 - [Hypercontext/linkifyjs](https://github.com/Hypercontext/linkifyjs) - JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags.
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
@@ -1784,7 +1787,7 @@
 - [markteekman/accessible-astro-starter](https://github.com/markteekman/accessible-astro-starter) - An Accessible Starter Theme for Astro 4.0 including accessibility features such as landmarks, better focus-outline and skip-links navigation. Ships with Tailwind, Prettier and ESLint support.
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
-- [Playform/CompressAstro](https://github.com/Playform/CompressAstro) - 🗜️ Compress Astro.
+- [Playform/CompressAstro](https://github.com/Playform/CompressAstro) - 🗜️ Compress.
 - [bradyhouse/house](https://github.com/bradyhouse/house) - Proof of Concept and Research repository.
 - [aFarkas/lazysizes](https://github.com/aFarkas/lazysizes) - High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without co
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -2328,6 +2331,7 @@
 
 ## others 
 
+- [is-probably-gay/is-probably-gay](https://github.com/is-probably-gay/is-probably-gay) - Self-service is-probably.gay subdomain registration
 - [AndrewCarterUK/AstroSplash](https://github.com/AndrewCarterUK/AstroSplash) - An app that uses the Astronomy Picture of the Day API provided by NASA and the Zend Expressive framework.
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [ufal/whisper_streaming](https://github.com/ufal/whisper_streaming) - Whisper realtime streaming for long speech-to-text transcription and translation
@@ -3925,6 +3929,7 @@
 
 ## website 
 
+- [7sDream/rikka](https://github.com/7sDream/rikka) - A simple image share system in go.
 - [sergree/whatbpm](https://github.com/sergree/whatbpm) - 💓 Today's Trending Values for EDM Production
 - [mesinkasir/astronot-with-astro](https://github.com/mesinkasir/astronot-with-astro) - A starter astro build with astronot css template themes
 - [Kabanosk/whisper-website](https://github.com/Kabanosk/whisper-website) - Simple web application, which can be used to convert audio to subtitles by OpenAI's Whisper model
