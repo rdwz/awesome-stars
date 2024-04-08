@@ -165,7 +165,7 @@
 - [totoroyyb/Project-Neon](https://github.com/totoroyyb/Project-Neon) - A modern media player made for UWP
 - [deanthecoder/GLSLShaderShrinker](https://github.com/deanthecoder/GLSLShaderShrinker) - Cross-platform tool to Reformat/Remove Dead Code/Optimise/Analyse GLSL shader code.
 - [shaked6540/YoutubePlaylistDownloader](https://github.com/shaked6540/YoutubePlaylistDownloader) - A tool to download whole playlists, channels or single videos from youtube and also optionally convert them to almost any format you would like
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: A better UI for your package managers
+- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers
 - [github/gh-actions-importer](https://github.com/github/gh-actions-importer) - GitHub Actions Importer helps you plan and automate the migration of Azure DevOps, Bamboo, Bitbucket, CircleCI, GitLab, Jenkins, and Travis CI pipelines to GitHub Actions.
 - [n00mkrad/cupscale](https://github.com/n00mkrad/cupscale) - Image Upscaling GUI based on ESRGAN
 - [philipmat/discogs-xml2db](https://github.com/philipmat/discogs-xml2db) - Imports the discogs.com monthly XML dumps into databases
