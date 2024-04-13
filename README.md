@@ -564,6 +564,7 @@
 
 ## JavaScript 
 
+- [ApayRus/direct-link](https://github.com/ApayRus/direct-link) - A downloader, that gets you access to direct links to youtube's:  video (mp4), audio (m4a), captions/subtitles (.vtt), thumbnails (webp).
 - [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Alternative to Netlify/Decap CMS. Modern, fast, lightweight, Git-based headless CMS. Free & open source. UX-driven development. Made with Svelte.
 - [is-probably-gay/is-probably-gay](https://github.com/is-probably-gay/is-probably-gay) - Self-service is-probably.gay subdomain registration
 - [elrumordelaluz/draGGradients](https://github.com/elrumordelaluz/draGGradients) - A simple tool to generate and customize multiple css3 radial gradients.
@@ -608,7 +609,7 @@
 - [rugk/awesome-emoji-picker](https://github.com/rugk/awesome-emoji-picker) - Add-on/WebExtension that provides a modern emoji picker that you can use to find and copy/insert emoji into the active web page.
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - A multi-user ChatGPT for any LLMs and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application with a built-in LLM!
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI application, tool suite, and API for RAG & Agents for Docker & Desktop.
 - [KittyGiraudel/a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog script.
 - [tholman/intense-images](https://github.com/tholman/intense-images) - A simple library to view large images up close using simple mouse interaction, and the full screen.
 - [magneum/youtube-exec](https://github.com/magneum/youtube-exec) - 🔥🎶YouTube-Exec: Unleash the Power of YouTube Downloads!
@@ -1584,7 +1585,7 @@
 - [yisibl/resvg-js](https://github.com/yisibl/resvg-js) - A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [florian-lefebvre/astro-integration-kit](https://github.com/florian-lefebvre/astro-integration-kit) - A package that contains utilities to help you build Astro integrations.
-- [Playform/Format](https://github.com/Playform/Format) - 🗻 Format.
+- [Playform/Format](https://github.com/Playform/Format) - 🗻 Format
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours
 - [AndreVarandas/sunrise-cli](https://github.com/AndreVarandas/sunrise-cli) - Get the sunrise and sunset for your location, right from your terminal!
 - [styfle/links-awakening](https://github.com/styfle/links-awakening) - 🔗 Recursively check a website for broken links
@@ -1866,7 +1867,7 @@
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A wrapper around YouTube's internal API — reverse engineering InnerTube
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
-- [Playform/Compress](https://github.com/Playform/Compress) - 🗜️ Compress.
+- [Playform/Compress](https://github.com/Playform/Compress) - 🗜️ Compress
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
