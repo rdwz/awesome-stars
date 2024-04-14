@@ -186,6 +186,7 @@
 - [spacevim](#spacevim)
 - [sql](#sql)
 - [sqlite](#sqlite)
+- [stable-diffusion](#stable-diffusion)
 - [statistics](#statistics)
 - [storybook](#storybook)
 - [sublime-text](#sublime-text)
@@ -2351,6 +2352,8 @@
 
 ## others 
 
+- [sebastianterleira/astro-spotify-clone](https://github.com/sebastianterleira/astro-spotify-clone) - A Spotify clone made with Astro.js + Spotify API + View Transitions 🚀
+- [umd-mith/webvtt-player](https://github.com/umd-mith/webvtt-player) - A React audio player & transcription viewer.
 - [ApayRus/direct-link](https://github.com/ApayRus/direct-link) - A downloader, that gets you access to direct links to youtube's:  video (mp4), audio (m4a), captions/subtitles (.vtt), thumbnails (webp).
 - [is-probably-gay/is-probably-gay](https://github.com/is-probably-gay/is-probably-gay) - Self-service is-probably.gay subdomain registration
 - [AndrewCarterUK/AstroSplash](https://github.com/AndrewCarterUK/AstroSplash) - An app that uses the Astronomy Picture of the Day API provided by NASA and the Zend Expressive framework.
@@ -3620,6 +3623,15 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite.
 
+## stable-diffusion 
+
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
+- [JingShing/AI-image-tag-extractor](https://github.com/JingShing/AI-image-tag-extractor) - A tool to help you get image info.
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
+- [anse-app/anse](https://github.com/anse-app/anse) - Supercharged experience for multiple models such as ChatGPT, DALL-E and Stable Diffusion.
+- [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
+- [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
+
 ## statistics 
 
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
@@ -3765,7 +3777,6 @@
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
 - [CJex/regulex](https://github.com/CJex/regulex) - :construction: Regular Expression Excited!
 - [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
-- [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 4.0 and Tailwind CSS. Astro starter theme.
 - [codiume/orbit](https://github.com/codiume/orbit) - Collection of useful integrations & components for the Astro ecosystem. ⭐️ Star to support our work!
 - [shim369/Astro-Newt-Site](https://github.com/shim369/Astro-Newt-Site) - Jamstack with headless CMS
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
