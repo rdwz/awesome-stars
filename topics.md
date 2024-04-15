@@ -2352,6 +2352,7 @@
 
 ## others 
 
+- [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) - 
 - [sebastianterleira/astro-spotify-clone](https://github.com/sebastianterleira/astro-spotify-clone) - A Spotify clone made with Astro.js + Spotify API + View Transitions 🚀
 - [umd-mith/webvtt-player](https://github.com/umd-mith/webvtt-player) - A React audio player & transcription viewer.
 - [ApayRus/direct-link](https://github.com/ApayRus/direct-link) - A downloader, that gets you access to direct links to youtube's:  video (mp4), audio (m4a), captions/subtitles (.vtt), thumbnails (webp).
@@ -2678,7 +2679,7 @@
 - [techweber/node-js-whois-query](https://github.com/techweber/node-js-whois-query) - This POC written in Node JS queries WHOIS servers for domains, ip addresses and ASN's
 - [danielnaber/openthesaurus](https://github.com/danielnaber/openthesaurus) - web-based thesaurus search and management
 - [modularscale/modularscale-sass](https://github.com/modularscale/modularscale-sass) - Modular scale calculator built into your Sass
-- [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - browserless is an efficient way to interact with a headless browser built on top of puppeteer.
+- [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - The headless Chrome/Chromium driver on top of Puppeteer.
 - [standard/semistandard](https://github.com/standard/semistandard) - :icecream: All the goodness of `standard/standard` with semicolons sprinkled on top.
 - [FamilySearch/GEDCOM](https://github.com/FamilySearch/GEDCOM) - 
 - [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Get unified metadata from websites using Open Graph, Microdata, RDFa, Twitter Cards, JSON-LD, HTML, and more.
@@ -3978,6 +3979,7 @@
 
 ## windows 
 
+- [Chocobo1/opus-tools_win32-build](https://github.com/Chocobo1/opus-tools_win32-build) - opus-tools Unofficial Builds - Win32 & x64
 - [URUWorks/TeroSubtitler](https://github.com/URUWorks/TeroSubtitler) - Tero Subtitler is an open source, cross-platform, and free subtitle editing software.
 - [simon-knuth/scanner](https://github.com/simon-knuth/scanner) - An all-in-one scanner app built for the Universal Windows Platform
 - [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
