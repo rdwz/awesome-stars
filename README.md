@@ -11,6 +11,7 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [CMake](#cmake)
 - [CSS](#css)
 - [Clojure](#clojure)
 - [Crystal](#crystal)
@@ -216,6 +217,10 @@
 - [bbc/audiowaveform](https://github.com/bbc/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [klangfreund/LUFSMeter](https://github.com/klangfreund/LUFSMeter) - An implementation of the loudness measurement algorithm ITU-R BS.1770
+
+## CMake 
+
+- [Chocobo1/opus-tools_win32-build](https://github.com/Chocobo1/opus-tools_win32-build) - opus-tools Unofficial Builds - Win32 & x64
 
 ## CSS 
 
@@ -741,7 +746,7 @@
 - [nipunadodan/mbti-app](https://github.com/nipunadodan/mbti-app) - Supplimentary tool for MBTI personality enthusiasts. Used Tailwind on React as the CSS framework, with a dark mode and added PWA capability to make the app more versatile. There's no back-end for this
 - [rubynor/bigfive-web](https://github.com/rubynor/bigfive-web) - Website for taking personality tests
 - [PallaviKatari/ReactTraining](https://github.com/PallaviKatari/ReactTraining) - React is an open source, JavaScript library for developing user interface (UI) in web application. React is developed and released by Facebook.
-- [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - browserless is an efficient way to interact with a headless browser built on top of puppeteer.
+- [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - The headless Chrome/Chromium driver on top of Puppeteer.
 - [Kikobeats/http-compression](https://github.com/Kikobeats/http-compression) - Adding compression (gzip/brotli) for your HTTP server in Node.js.
 - [standard/semistandard](https://github.com/standard/semistandard) - :icecream: All the goodness of `standard/standard` with semicolons sprinkled on top.
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
@@ -1474,6 +1479,7 @@
 
 ## Shell 
 
+- [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) - 
 - [marcodallasanta/ssh-scp-deploy](https://github.com/marcodallasanta/ssh-scp-deploy) - This action provide a way to upload your artifact via scp and execute a set of command via ssh before or/and after.
 - [Soroushnk/Astro](https://github.com/Soroushnk/Astro) - a bash script to help you bypass GFW
 - [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
