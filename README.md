@@ -224,6 +224,7 @@
 
 ## CSS 
 
+- [magnetis/astro](https://github.com/magnetis/astro) - An open source design system by Magnetis
 - [mnghsn/google-search-sidebar](https://github.com/mnghsn/google-search-sidebar) - A user script and user style to move Google search tools to sidebar.
 - [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 - [lotabout/static-wiki](https://github.com/lotabout/static-wiki) - 
