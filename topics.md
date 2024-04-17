@@ -1399,6 +1399,7 @@
 
 ## hacktoberfest 
 
+- [magnetis/astro](https://github.com/magnetis/astro) - An open source design system by Magnetis
 - [Sn8z/Poddr](https://github.com/Sn8z/Poddr) - Podcatcher made with Electron and Angular
 - [IonicaBizau/made-in-brazil](https://github.com/IonicaBizau/made-in-brazil) - 🇧🇷 A list of neat projects made in Brazil.
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
