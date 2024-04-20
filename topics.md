@@ -1520,7 +1520,6 @@
 - [danielgtaylor/restish](https://github.com/danielgtaylor/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
 - [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
-- [therealsujitk/vercel-badge](https://github.com/therealsujitk/vercel-badge) - Include a Vercel deployment badge in your project's README.md file.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
@@ -1578,6 +1577,7 @@
 - [serversideup/amplitudejs](https://github.com/serversideup/amplitudejs) - AmplitudeJS: Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.
 - [sparanoid/lightense-images](https://github.com/sparanoid/lightense-images) - A dependency-free pure JavaScript image zooming library less than 2 KB (gzipped). Inspired by tholman/intense-images
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+- [Playform/Compress](https://github.com/Playform/Compress) - 🗜️ Compress —
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
 - [twbs/bootstrap](https://github.com/twbs/bootstrap) - The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
@@ -2964,6 +2964,7 @@
 - [codrops/MorphingBackgroundShapes](https://github.com/codrops/MorphingBackgroundShapes) - A decorative website background effect where SVG shapes morph and transform on scroll.
 - [fengelz/paralaxer](https://github.com/fengelz/paralaxer) - React Paralax npm module
 - [rdwz/personal-astro-theme](https://github.com/rdwz/personal-astro-theme) - Personal AstroJS theme for Stackbit V2
+- [therealsujitk/deploy-badge](https://github.com/therealsujitk/deploy-badge) - Generate a deployment badge for your project's README
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [troybetz/react-soundcloud-widget](https://github.com/troybetz/react-soundcloud-widget) - react.js powered SoundCloud player component
 - [fell-lucas/chrome-extension-template-preact-vite](https://github.com/fell-lucas/chrome-extension-template-preact-vite) - 
