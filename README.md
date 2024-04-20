@@ -1862,7 +1862,7 @@
 - [heybokeh/pollen](https://github.com/heybokeh/pollen) - The CSS variables build system
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [rdwz/personal-astro-theme](https://github.com/rdwz/personal-astro-theme) - Personal AstroJS theme for Stackbit V2
-- [therealsujitk/vercel-badge](https://github.com/therealsujitk/vercel-badge) - Include a Vercel deployment badge in your project's README.md file.
+- [therealsujitk/deploy-badge](https://github.com/therealsujitk/deploy-badge) - Generate a deployment badge for your project's README
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
 - [fell-lucas/chrome-extension-template-preact-vite](https://github.com/fell-lucas/chrome-extension-template-preact-vite) - 
 - [initml/clipdrop-api-samples](https://github.com/initml/clipdrop-api-samples) - Public samples using the ClipDrop API
