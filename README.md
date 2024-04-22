@@ -457,6 +457,7 @@
 
 ## HTML 
 
+- [hyperaudio/hyperaudio-lite](https://github.com/hyperaudio/hyperaudio-lite) - Hyperaudio Lite - a Super-lightweight Interactive Transcript Player
 - [chrisnager/simple-debug.css](https://github.com/chrisnager/simple-debug.css) - Debug your layouts with one line of CSS
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
 - [Helios-Archives/Trak](https://github.com/Helios-Archives/Trak) - A command line application that gathers detailed information about a user across multiple services
@@ -572,6 +573,8 @@
 
 ## JavaScript 
 
+- [yairEO/knobs](https://github.com/yairEO/knobs) - UI knobs controllers for JS/CSS live manipulation of various parameters
+- [harfbuzz/harfbuzzjs](https://github.com/harfbuzz/harfbuzzjs) - Providing HarfBuzz shaping library for client/server side JavaScript projects
 - [scotchfield/party-party-party](https://github.com/scotchfield/party-party-party) - Turn a source image into an animated party emoji
 - [mathdroid/react-moon-toggle](https://github.com/mathdroid/react-moon-toggle) - 🌕🌑 Toggle and animate based on moon phases emoji
 - [umd-mith/webvtt-player](https://github.com/umd-mith/webvtt-player) - A React audio player & transcription viewer.
@@ -986,6 +989,7 @@
 
 ## MDX 
 
+- [astrolicious/astro-tips.dev](https://github.com/astrolicious/astro-tips.dev) - The place for content that isn't suitable for the official docs, for all Astronauts!
 - [estubmo/learning-threejs](https://github.com/estubmo/learning-threejs) - A simple Astro.js project for learning Three.js with Tailwind CSS, Bun and Biome.
 - [kogakure/website-astro-stefanimhoff.de](https://github.com/kogakure/website-astro-stefanimhoff.de) - My personal website, portfolio, and blog. Build with Astro, Preact, and Tailwind CSS
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
