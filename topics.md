@@ -2445,7 +2445,7 @@
 - [itsjenke/itsjenke.github.io](https://github.com/itsjenke/itsjenke.github.io) - JENKE.XYZ Homepage build with react and mantine
 - [kogakure/website-astro-stefanimhoff.de](https://github.com/kogakure/website-astro-stefanimhoff.de) - My personal website, portfolio, and blog. Build with Astro, Preact, and Tailwind CSS
 - [rinturaj/tailwind-material-3](https://github.com/rinturaj/tailwind-material-3) - Tailwind Material 3 is a library that provides ready-to-use UI components for Tailwind CSS users. It includes a range of customizable components such as buttons, cards, and forms, as well as useful ut
-- [rakibdev/material-code](https://github.com/rakibdev/material-code) - Material You dark theme for Visual Studio Code.
+- [rakibdev/material-code](https://github.com/rakibdev/material-code) - Material You | Dynamic theme for Visual Studio Code.
 - [atomiks/tippyjs](https://github.com/atomiks/tippyjs) - Tooltip, popover, dropdown, and menu library
 - [0x727/ObserverWard](https://github.com/0x727/ObserverWard) - 侦查守卫(ObserverWard)指纹识别工具Community web fingerprint identification tool
 - [jakearchibald/svgomg](https://github.com/jakearchibald/svgomg) - Web GUI for SVGO
