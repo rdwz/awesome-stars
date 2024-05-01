@@ -560,6 +560,7 @@
 - [eclipse/openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
 - [google/live-transcribe-speech-engine](https://github.com/google/live-transcribe-speech-engine) - Live Transcribe is an Android application that provides real-time captioning for people who are deaf or hard of hearing. This repository contains the Android client libraries for communicating with Go
 - [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
+- [yorkxin/copy-as-markdown](https://github.com/yorkxin/copy-as-markdown) - Copying Link, Image and Tab(s) as Markdown Much Easier.
 - [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
 - [mdlu/set-game](https://github.com/mdlu/set-game) - backend for an online multiplayer version of the card game Set
 - [burgyl/SelfUpdatingApp](https://github.com/burgyl/SelfUpdatingApp) - An Android Application that can update itself if new releases in GitHub are available.
@@ -874,7 +875,6 @@
 - [optionfactory/digit](https://github.com/optionfactory/digit) - Learn git by visualizing it
 - [cygniv404/rss-feed-reader](https://github.com/cygniv404/rss-feed-reader) - Preact
 - [jstayton/suri](https://github.com/jstayton/suri) - Your own link shortener that's easily deployed as a static site (for free)
-- [yorkxin/copy-as-markdown](https://github.com/yorkxin/copy-as-markdown) - Copying Link, Image and Tab(s) as Markdown Much Easier.
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [EnlighterJS/EnlighterJS](https://github.com/EnlighterJS/EnlighterJS) - :high_brightness: an open source syntax highlighter written in pure javascript
 - [C-o-d-e-C-o-w-b-o-y/matrix-rain-background-react](https://github.com/C-o-d-e-C-o-w-b-o-y/matrix-rain-background-react) - A matrix/digital rain effect in React
@@ -1611,7 +1611,7 @@
 - [yisibl/resvg-js](https://github.com/yisibl/resvg-js) - A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [florian-lefebvre/astro-integration-kit](https://github.com/florian-lefebvre/astro-integration-kit) - A package that contains utilities to help you build Astro integrations.
-- [PlayForm/Format](https://github.com/PlayForm/Format) - 🗻 Format —
+- [PlayForm/Format](https://github.com/PlayForm/Format) - 🗻 — Format —
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours
 - [AndreVarandas/sunrise-cli](https://github.com/AndreVarandas/sunrise-cli) - Get the sunrise and sunset for your location, right from your terminal!
 - [styfle/links-awakening](https://github.com/styfle/links-awakening) - 🔗 Recursively check a website for broken links
@@ -1894,7 +1894,7 @@
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A wrapper around YouTube's internal API — reverse engineering InnerTube
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
-- [PlayForm/Compress](https://github.com/PlayForm/Compress) - 🗜️ Compress —
+- [PlayForm/Compress](https://github.com/PlayForm/Compress) - 🗜️ — Compress —
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
