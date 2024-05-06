@@ -291,6 +291,7 @@
 
 ## Dockerfile 
 
+- [jim60105/docker-whisperX](https://github.com/jim60105/docker-whisperX) - Dockerfile for WhisperX: Automatic Speech Recognition with Word-Level Timestamps and Speaker Diarization (Dockerfile, CI image build and test)
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [mgoltzsche/podman-static](https://github.com/mgoltzsche/podman-static) - static podman binaries and container image
@@ -457,6 +458,9 @@
 
 ## HTML 
 
+- [skills/publish-packages](https://github.com/skills/publish-packages) - Use GitHub Actions to publish your project to a Docker image.
+- [krystonschwarze/coolicons](https://github.com/krystonschwarze/coolicons) - coolicons is a carefully designed collection of 440+ icons with a focus on simplicity and consistency. Perfectly suited for web, application and mobile design.
+- [jacobxperez/atkinson-hyperlegible-pro](https://github.com/jacobxperez/atkinson-hyperlegible-pro) - 222 Extra Glyph's Supporting 102 Languages. Includes an Alternative Flipped Zero, Updated Kerning and Ligatures.
 - [hyperaudio/hyperaudio-lite](https://github.com/hyperaudio/hyperaudio-lite) - Hyperaudio Lite - a Super-lightweight Interactive Transcript Player
 - [chrisnager/simple-debug.css](https://github.com/chrisnager/simple-debug.css) - Debug your layouts with one line of CSS
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
@@ -575,6 +579,7 @@
 
 ## JavaScript 
 
+- [bgrins/TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [seriousme/fastify-openapi-glue](https://github.com/seriousme/fastify-openapi-glue) - A plugin for the Fastify  webserver to autogenerate a Fastify configuration based on a OpenApi(v2/v3) specification.
 - [actions/javascript-action](https://github.com/actions/javascript-action) - Create a JavaScript Action with tests, linting, workflow, publishing, and versioning
@@ -1198,6 +1203,7 @@
 
 ## Python 
 
+- [coreyhu/Urbanist](https://github.com/coreyhu/Urbanist) - Urbanist is a low-contrast, geometric sans-serif inspired by Modernist design and typography.
 - [toptal/top-assist-lab](https://github.com/toptal/top-assist-lab) - The self actualizing documentation framework that heals its knowledge gaps as naturally as a ray of light.
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [NotCookey/Quote2Image](https://github.com/NotCookey/Quote2Image) - Quote2Image is a python library for turning text quotes into graphical images
@@ -1603,6 +1609,10 @@
 
 ## TypeScript 
 
+- [lucia-auth/examples](https://github.com/lucia-auth/examples) - A collection of example projects built with Lucia
+- [astrolicious/astro-theme-provider](https://github.com/astrolicious/astro-theme-provider) - Author themes for Astro like a normal project and export your work as an integration for others to use
+- [LironEr/bundlemon](https://github.com/LironEr/bundlemon) - A free open-source tool that helps you to monitor your bundle size on every commit and alerts you on changes.
+- [coreui/coreui-icons](https://github.com/coreui/coreui-icons) - CoreUI Free Icons -  Premium designed free icon set with marks in SVG, Webfont and raster formats
 - [webclipper/web-clipper](https://github.com/webclipper/web-clipper) - For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute: Node.js enhanced to run TypeScript & ESM
 - [zwelhtetyan/t3-note-taking-app](https://github.com/zwelhtetyan/t3-note-taking-app) - Personal note taking app which supports markdown syntax
