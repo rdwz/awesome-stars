@@ -284,6 +284,7 @@
 
 ## api 
 
+- [masterT/bandcamp-scraper](https://github.com/masterT/bandcamp-scraper) - A scraper for https://bandcamp.com
 - [jacebrowning/memegen](https://github.com/jacebrowning/memegen) - The free and open source API to generate memes.
 - [marcolardera/chatgpt-cli](https://github.com/marcolardera/chatgpt-cli) - Simple yet effective command line client for chatting with ChatGPT using the official API
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG, PNG & Figma UI Icons Available in SVG Sprite, styled-components, NPM & API and 6000 glyphs
@@ -516,6 +517,7 @@
 
 ## chatgpt 
 
+- [oggnimodd/ai-prompt-snippets](https://github.com/oggnimodd/ai-prompt-snippets) - Chrome Extension for creating customizable AI prompt snippets to automate your interactions.
 - [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
 - [tobiasbueschel/search-gpt](https://github.com/tobiasbueschel/search-gpt) - 🌳 Connecting ChatGPT with the Internet
 - [marcolardera/chatgpt-cli](https://github.com/marcolardera/chatgpt-cli) - Simple yet effective command line client for chatting with ChatGPT using the official API
@@ -1413,6 +1415,7 @@
 
 ## hacktoberfest 
 
+- [masterT/bandcamp-scraper](https://github.com/masterT/bandcamp-scraper) - A scraper for https://bandcamp.com
 - [LironEr/bundlemon](https://github.com/LironEr/bundlemon) - A free open-source tool that helps you to monitor your bundle size on every commit and alerts you on changes.
 - [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 - [magnetis/astro](https://github.com/magnetis/astro) - An open source design system by Magnetis
@@ -2384,6 +2387,8 @@
 
 ## others 
 
+- [UKPLab/EasyNMT](https://github.com/UKPLab/EasyNMT) - Easy to use, state-of-the-art Neural Machine Translation for 100+ languages
+- [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [lucia-auth/examples](https://github.com/lucia-auth/examples) - A collection of example projects built with Lucia
 - [astrolicious/astro-theme-provider](https://github.com/astrolicious/astro-theme-provider) - Author themes for Astro like a normal project and export your work as an integration for others to use
 - [jim60105/docker-whisperX](https://github.com/jim60105/docker-whisperX) - Dockerfile for WhisperX: Automatic Speech Recognition with Word-Level Timestamps and Speaker Diarization (Dockerfile, CI image build and test)
@@ -2392,7 +2397,7 @@
 - [toptal/top-assist-lab](https://github.com/toptal/top-assist-lab) - The self actualizing documentation framework that heals its knowledge gaps as naturally as a ray of light.
 - [actions/javascript-action](https://github.com/actions/javascript-action) - Create a JavaScript Action with tests, linting, workflow, publishing, and versioning
 - [yairEO/knobs](https://github.com/yairEO/knobs) - UI knobs controllers for JS/CSS live manipulation of various parameters
-- [astrolicious/astro-tips.dev](https://github.com/astrolicious/astro-tips.dev) - The place for content that isn't suitable for the official docs, for all Astronauts!
+- [astrolicious/astro-tips.dev](https://github.com/astrolicious/astro-tips.dev) - The place for content that goes beyond the official docs, for all Astronauts!
 - [hyperaudio/hyperaudio-lite](https://github.com/hyperaudio/hyperaudio-lite) - Hyperaudio Lite - a Super-lightweight Interactive Transcript Player
 - [scotchfield/party-party-party](https://github.com/scotchfield/party-party-party) - Turn a source image into an animated party emoji
 - [ultimateakash/react-rating-emoji](https://github.com/ultimateakash/react-rating-emoji) - An animated emoji rating component
@@ -2875,7 +2880,7 @@
 - [fruzyna/web-ide-manager](https://github.com/fruzyna/web-ide-manager) - Web server and scripts to manage code-server and jupyter instances.
 - [raphaelbastide/ofont](https://github.com/raphaelbastide/ofont) - Listing fonts? YEAAHRR.
 - [amzn/style-dictionary](https://github.com/amzn/style-dictionary) - A build system for creating cross-platform styles.
-- [StoicDreams/RustWebUI](https://github.com/StoicDreams/RustWebUI) - 
+- [StoicDreams/WebUI](https://github.com/StoicDreams/WebUI) - 
 - [StoicDreams/BlazorUI](https://github.com/StoicDreams/BlazorUI) - UI Framework and component library for Blazor based Websites and Maui projects.
 - [nurpax/c64jasm](https://github.com/nurpax/c64jasm) - C64 6502 assembler in TypeScript
 - [cavi-au/Consent-O-Matic](https://github.com/cavi-au/Consent-O-Matic) - Browser extension that automatically fills out cookie popups based on your preferences
@@ -3338,6 +3343,7 @@
 
 ## react 
 
+- [oggnimodd/ai-prompt-snippets](https://github.com/oggnimodd/ai-prompt-snippets) - Chrome Extension for creating customizable AI prompt snippets to automate your interactions.
 - [thecmdrunner/swiftube-frontend](https://github.com/thecmdrunner/swiftube-frontend) - It's like ChatGPT for videos.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [DTStack/molecule](https://github.com/DTStack/molecule) - :rocket: A lightweight Web IDE UI framework.
