@@ -579,6 +579,7 @@
 
 ## JavaScript 
 
+- [node-formidable/formidable](https://github.com/node-formidable/formidable) - The most used, flexible, fast and streaming parser for multipart form data. Supports uploading to serverless environments, AWS S3, Azure, GCP or the filesystem. Used in production.
 - [masterT/bandcamp-scraper](https://github.com/masterT/bandcamp-scraper) - A scraper for https://bandcamp.com
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [bgrins/TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript
@@ -1283,7 +1284,7 @@
 - [shaikhsajid1111/social-media-profile-scrapers](https://github.com/shaikhsajid1111/social-media-profile-scrapers) - Fetch user's data across social media
 - [dhohirpradana/Instagram-Automation](https://github.com/dhohirpradana/Instagram-Automation) - [Python, Typescript] Instagram Automation Post Feed and Story, Integrate Data from Facebook Group and Page
 - [bugout-dev/mirror](https://github.com/bugout-dev/mirror) - Software project analysis
-- [timrae/spotify_to_tidal](https://github.com/timrae/spotify_to_tidal) - A command line tool for importing your Spotify playlists into Tidal
+- [spotify2tidal/spotify_to_tidal](https://github.com/spotify2tidal/spotify_to_tidal) - A command line tool for importing your Spotify playlists into Tidal
 - [spotipy-dev/spotipy](https://github.com/spotipy-dev/spotipy) - A light weight Python library for the Spotify Web API
 - [googlefonts/noto-emoji](https://github.com/googlefonts/noto-emoji) - Noto Emoji fonts
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
@@ -1522,6 +1523,7 @@
 - [taiki-e/install-action](https://github.com/taiki-e/install-action) - GitHub Action for installing development tools (mainly from GitHub Releases).
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [desertplant/moon-phase-background](https://github.com/desertplant/moon-phase-background) - Change desktop background to a high resolution picture of the current moon phase from NASA
+- [zachleat/bench-framework-markdown](https://github.com/zachleat/bench-framework-markdown) - A set of scripts to test markdown processing speeds in various site generators/frameworks
 - [kodekloudhub/certified-kubernetes-administrator-course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course) - Certified Kubernetes Administrator - CKA Course
 - [bderenzo/tinystatus](https://github.com/bderenzo/tinystatus) - Static status page generator
 - [willianjusten/awesome-audio-visualization](https://github.com/willianjusten/awesome-audio-visualization) - A curated list about Audio Visualization.
@@ -1612,6 +1614,7 @@
 
 ## TypeScript 
 
+- [marcopeocchi/yt-dlp-web-ui](https://github.com/marcopeocchi/yt-dlp-web-ui) - A terrible web ui for yt-dlp 🙄. Designed to be self-hosted.
 - [oggnimodd/ai-prompt-snippets](https://github.com/oggnimodd/ai-prompt-snippets) - Chrome Extension for creating customizable AI prompt snippets to automate your interactions.
 - [lucia-auth/examples](https://github.com/lucia-auth/examples) - A collection of example projects built with Lucia
 - [astrolicious/astro-theme-provider](https://github.com/astrolicious/astro-theme-provider) - Author themes for Astro like a normal project and export your work as an integration for others to use
@@ -1634,7 +1637,7 @@
 - [yisibl/resvg-js](https://github.com/yisibl/resvg-js) - A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs.
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [florian-lefebvre/astro-integration-kit](https://github.com/florian-lefebvre/astro-integration-kit) - A package that contains utilities to help you build Astro integrations.
-- [PlayForm/Format](https://github.com/PlayForm/Format) - 🗻 — Format —
+- [PlayForm/Format](https://github.com/PlayForm/Format) - 🗻 Format —
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours
 - [AndreVarandas/sunrise-cli](https://github.com/AndreVarandas/sunrise-cli) - Get the sunrise and sunset for your location, right from your terminal!
 - [styfle/links-awakening](https://github.com/styfle/links-awakening) - 🔗 Recursively check a website for broken links
@@ -1671,7 +1674,7 @@
 - [IogaMaster/videos](https://github.com/IogaMaster/videos) - Source code of my YouTube videos animated with MotionCanvas
 - [willnguyen1312/zoom-image](https://github.com/willnguyen1312/zoom-image) - A little yet powerful framework agnostic headless library to zoom images on the web
 - [unjs/ufo](https://github.com/unjs/ufo) - 🔗 URL utils for humans
-- [0xsuk/agitcms](https://github.com/0xsuk/agitcms) - A hackable headless CMS for markdown blogs
+- [0xsuk/agitcms](https://github.com/0xsuk/agitcms) - not maintained
 - [netspective-labs/astro-markdown-experience](https://github.com/netspective-labs/astro-markdown-experience) - A collection of remark plugins for an enhanced Astro markdown experience
 - [playcode/does-email-exist](https://github.com/playcode/does-email-exist) - Does email exist?
 - [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) - Beautiful image placeholders, without the hassle.
@@ -1720,7 +1723,6 @@
 - [patrickkfkan/bandcamp-fetch](https://github.com/patrickkfkan/bandcamp-fetch) - Library for scraping Bandcamp content.
 - [xaberus/vscode-remote-oss](https://github.com/xaberus/vscode-remote-oss) - Remote development for OSS Builds of VSCode like VSCodium
 - [anse-app/anse](https://github.com/anse-app/anse) - Supercharged experience for multiple models such as ChatGPT, DALL-E and Stable Diffusion.
-- [zachleat/bench-framework-markdown](https://github.com/zachleat/bench-framework-markdown) - A set of scripts to test markdown processing speeds in various site generators/frameworks
 - [Tarikul-Islam-Anik/linkz](https://github.com/Tarikul-Islam-Anik/linkz) - 🔗 Just a Linktree clone, but simpler and, most importantly, with your own social media reference landing page. Just add your links in data/data.json and you're good to go!
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [nowaythatworked/auth-astro](https://github.com/nowaythatworked/auth-astro) - Community maintained Astro integration of @auth/core
@@ -1913,11 +1915,11 @@
 - [Princesseuh/astro-social-images](https://github.com/Princesseuh/astro-social-images) - Social image generator for Astro
 - [ixartz/Astro-boilerplate](https://github.com/ixartz/Astro-boilerplate) - 🚀 Astro boilerplate with responsive blog and portfolio template using TypeScript and React styled with Tailwind CSS ⚡️ Made with developer experience first: TypeScript + ESLint + Prettier + Husky + Li
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
-- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
+- [novuhq/novu](https://github.com/novuhq/novu) - GitOps based Notification Infrastructure as Code. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A wrapper around YouTube's internal API — reverse engineering InnerTube
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
-- [PlayForm/Compress](https://github.com/PlayForm/Compress) - 🗜️ — Compress —
+- [PlayForm/Compress](https://github.com/PlayForm/Compress) - 🗜️ Compress —
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
