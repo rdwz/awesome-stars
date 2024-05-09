@@ -74,6 +74,7 @@
 
 ## Astro 
 
+- [MatthiesenXYZ/astro-hashnode](https://github.com/MatthiesenXYZ/astro-hashnode) - An Integration to bring your Hashnode Headless Blog content into Astro!
 - [morinokami/astro-integration-template](https://github.com/morinokami/astro-integration-template) - Template for Astro integrations
 - [sebastianterleira/astro-spotify-clone](https://github.com/sebastianterleira/astro-spotify-clone) - A Spotify clone made with Astro.js + Spotify API + View Transitions 🚀
 - [davidwarrington/astro-icon-component](https://github.com/davidwarrington/astro-icon-component) - 
@@ -579,6 +580,8 @@
 
 ## JavaScript 
 
+- [ahmadnassri/benchmark-node-clone](https://github.com/ahmadnassri/benchmark-node-clone) - Node Clone Benchmarks
+- [pablopunk/miny](https://github.com/pablopunk/miny) - The minimal module generator that generated itself
 - [node-formidable/formidable](https://github.com/node-formidable/formidable) - The most used, flexible, fast and streaming parser for multipart form data. Supports uploading to serverless environments, AWS S3, Azure, GCP or the filesystem. Used in production.
 - [masterT/bandcamp-scraper](https://github.com/masterT/bandcamp-scraper) - A scraper for https://bandcamp.com
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
@@ -1614,6 +1617,7 @@
 
 ## TypeScript 
 
+- [JPF3N998/astro-x-aceternityui](https://github.com/JPF3N998/astro-x-aceternityui) - 
 - [marcopeocchi/yt-dlp-web-ui](https://github.com/marcopeocchi/yt-dlp-web-ui) - A terrible web ui for yt-dlp 🙄. Designed to be self-hosted.
 - [oggnimodd/ai-prompt-snippets](https://github.com/oggnimodd/ai-prompt-snippets) - Chrome Extension for creating customizable AI prompt snippets to automate your interactions.
 - [lucia-auth/examples](https://github.com/lucia-auth/examples) - A collection of example projects built with Lucia
