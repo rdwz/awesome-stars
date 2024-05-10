@@ -874,7 +874,7 @@
 - [BretFisher/github-actions-templates](https://github.com/BretFisher/github-actions-templates) - Reusable GitHub Actions workflow examples for cloud native DevOps
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted PaaS for Kubernetes
+- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Application Platform for Kubernetes
 - [undergroundwires/bump-everywhere](https://github.com/undergroundwires/bump-everywhere) - 🚀 Automate versioning, changelog creation, README updates and GitHub releases using GitHub Actions,npm, docker or bash.
 
 ## discord 
@@ -1904,7 +1904,7 @@
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
-- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted PaaS for Kubernetes
+- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Application Platform for Kubernetes
 
 ## language 
 
@@ -2195,6 +2195,7 @@
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
 - [webdiscus/ansis](https://github.com/webdiscus/ansis) - Small and fast Node.js lib to colorize terminal output. Lightweight alternative to Chalk with more features. Supports Bun, Deno, Next.JS.
 - [CardoPixel/md3-nextjs-template](https://github.com/CardoPixel/md3-nextjs-template) - Material Design 3 compliant Next.js website template, including features like: custom theming, Internationalization, PWA, SupaBase for data management, and Vercel for deployment.
+- [willnguyen1312/zoom-image](https://github.com/willnguyen1312/zoom-image) - A little yet powerful framework agnostic headless library to zoom images on the web
 - [fajarhidayatt/whatmovie](https://github.com/fajarhidayatt/whatmovie) - WhatMovie is a website to find information about your favorite movies
 - [AndrejJurkin/create-tw](https://github.com/AndrejJurkin/create-tw) - CLI to scaffold tailwindcss-ready projects
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
@@ -2399,6 +2400,7 @@
 
 ## others 
 
+- [Izzmode/domain-portfolio](https://github.com/Izzmode/domain-portfolio) - 
 - [JPF3N998/astro-x-aceternityui](https://github.com/JPF3N998/astro-x-aceternityui) - 
 - [MatthiesenXYZ/astro-hashnode](https://github.com/MatthiesenXYZ/astro-hashnode) - An Integration to bring your Hashnode Headless Blog content into Astro!
 - [UKPLab/EasyNMT](https://github.com/UKPLab/EasyNMT) - Easy to use, state-of-the-art Neural Machine Translation for 100+ languages
@@ -3248,6 +3250,7 @@
 
 ## python 
 
+- [SynoCommunity/spkrepo](https://github.com/SynoCommunity/spkrepo) - Synology Package Repository
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [NotCookey/Quote2Image](https://github.com/NotCookey/Quote2Image) - Quote2Image is a python library for turning text quotes into graphical images
 - [Helios-Archives/Trak](https://github.com/Helios-Archives/Trak) - A command line application that gathers detailed information about a user across multiple services
@@ -3622,7 +3625,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [davestephens/ansible-nas](https://github.com/davestephens/ansible-nas) - Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.
-- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Self-hosted PaaS for Kubernetes
+- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Application Platform for Kubernetes
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
