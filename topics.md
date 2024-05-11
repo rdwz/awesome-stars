@@ -1507,7 +1507,6 @@
 - [bundesAPI/deutschland](https://github.com/bundesAPI/deutschland) - Die wichtigsten APIs Deutschlands in einem Python Paket.
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [aUnicornDev/tabsMonster](https://github.com/aUnicornDev/tabsMonster) - A Chrome extension to keep a tab on your Browser Tabs
-- [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [flatcar/Flatcar](https://github.com/flatcar/Flatcar) - Flatcar project repository for issue tracking, project documentation, etc.
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
@@ -1678,6 +1677,7 @@
 
 ## javascript 
 
+- [devXprite/wettr](https://github.com/devXprite/wettr) - 🌦 Easy way to  check Weather via the command line.
 - [bgrins/TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [seriousme/fastify-openapi-glue](https://github.com/seriousme/fastify-openapi-glue) - A plugin for the Fastify  webserver to autogenerate a Fastify configuration based on a OpenApi(v2/v3) specification.
@@ -1937,6 +1937,7 @@
 
 ## linux 
 
+- [nashaofu/node-screenshots](https://github.com/nashaofu/node-screenshots) - Zero-dependent. A native nodejs screenshots library for Mac、Windows、Linux.
 - [URUWorks/TeroSubtitler](https://github.com/URUWorks/TeroSubtitler) - Tero Subtitler is an open source, cross-platform, and free subtitle editing software.
 - [Soroushnk/Astro](https://github.com/Soroushnk/Astro) - a bash script to help you bypass GFW
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
@@ -2037,6 +2038,7 @@
 
 ## macos 
 
+- [nashaofu/node-screenshots](https://github.com/nashaofu/node-screenshots) - Zero-dependent. A native nodejs screenshots library for Mac、Windows、Linux.
 - [URUWorks/TeroSubtitler](https://github.com/URUWorks/TeroSubtitler) - Tero Subtitler is an open source, cross-platform, and free subtitle editing software.
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
 - [nixcraft/domain-check-2](https://github.com/nixcraft/domain-check-2) - Domain Expiration Check Shell Script Forked and Maintained by nixCraft
@@ -2060,6 +2062,7 @@
 
 ## markdown 
 
+- [kivikakk/comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [zwelhtetyan/t3-note-taking-app](https://github.com/zwelhtetyan/t3-note-taking-app) - Personal note taking app which supports markdown syntax
 - [MicroWebStacks/astro-examples](https://github.com/MicroWebStacks/astro-examples) - Astro design patterns examples, client-server state management, markdown, caching
@@ -2249,6 +2252,8 @@
 
 ## nodejs 
 
+- [devXprite/wettr](https://github.com/devXprite/wettr) - 🌦 Easy way to  check Weather via the command line.
+- [nashaofu/node-screenshots](https://github.com/nashaofu/node-screenshots) - Zero-dependent. A native nodejs screenshots library for Mac、Windows、Linux.
 - [pablopunk/miny](https://github.com/pablopunk/miny) - The minimal module generator that generated itself
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [harfbuzz/harfbuzzjs](https://github.com/harfbuzz/harfbuzzjs) - Providing HarfBuzz shaping library for client/server side JavaScript projects
@@ -2334,6 +2339,7 @@
 
 ## npm 
 
+- [devXprite/wettr](https://github.com/devXprite/wettr) - 🌦 Easy way to  check Weather via the command line.
 - [pablopunk/miny](https://github.com/pablopunk/miny) - The minimal module generator that generated itself
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [styfle/packagephobia](https://github.com/styfle/packagephobia) - ⚖️ Find the cost of adding a new dependency to your project
@@ -2400,6 +2406,7 @@
 
 ## others 
 
+- [osamahamad/FUZZING](https://github.com/osamahamad/FUZZING) - Collected fuzzing payloads from different resources
 - [Izzmode/domain-portfolio](https://github.com/Izzmode/domain-portfolio) - 
 - [JPF3N998/astro-x-aceternityui](https://github.com/JPF3N998/astro-x-aceternityui) - 
 - [MatthiesenXYZ/astro-hashnode](https://github.com/MatthiesenXYZ/astro-hashnode) - An Integration to bring your Hashnode Headless Blog content into Astro!
@@ -3502,6 +3509,7 @@
 
 ## rust 
 
+- [kivikakk/comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer
 - [sondr3/git-ignore](https://github.com/sondr3/git-ignore) - Quickly and easily list, fetch and generate .gitignore templates
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [neon-bindings/examples](https://github.com/neon-bindings/examples) - A collection of examples of Neon
@@ -4065,6 +4073,7 @@
 
 ## windows 
 
+- [nashaofu/node-screenshots](https://github.com/nashaofu/node-screenshots) - Zero-dependent. A native nodejs screenshots library for Mac、Windows、Linux.
 - [Chocobo1/opus-tools_win32-build](https://github.com/Chocobo1/opus-tools_win32-build) - opus-tools Unofficial Builds - Win32 & x64
 - [URUWorks/TeroSubtitler](https://github.com/URUWorks/TeroSubtitler) - Tero Subtitler is an open source, cross-platform, and free subtitle editing software.
 - [simon-knuth/scanner](https://github.com/simon-knuth/scanner) - An all-in-one scanner app built for the Universal Windows Platform
