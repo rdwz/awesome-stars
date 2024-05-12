@@ -2406,6 +2406,9 @@
 
 ## others 
 
+- [dcf21/star-charter](https://github.com/dcf21/star-charter) - A command-line tool for producing vector-graphics charts of the night sky in SVG, PDF and PNG formats.
+- [binary-manu/static-cross-openssh](https://github.com/binary-manu/static-cross-openssh) - Statically cross-compile sshd and sftp-server
+- [dnaprawa/dockerfile-best-practices](https://github.com/dnaprawa/dockerfile-best-practices) - Dockerfile Best Practices
 - [osamahamad/FUZZING](https://github.com/osamahamad/FUZZING) - Collected fuzzing payloads from different resources
 - [Izzmode/domain-portfolio](https://github.com/Izzmode/domain-portfolio) - 
 - [JPF3N998/astro-x-aceternityui](https://github.com/JPF3N998/astro-x-aceternityui) - 
@@ -2808,7 +2811,7 @@
 - [ifrOSS/ifrOSS](https://github.com/ifrOSS/ifrOSS) - Übersicht und Kategorisierung von Freien Lizenzen
 - [webalys-hq/streamline-vectors](https://github.com/webalys-hq/streamline-vectors) - Free vectors from Streamline
 - [rdwz/benchmark](https://github.com/rdwz/benchmark) - 🏋️ Bash Script which runs several Linux benchmarks (Sysbench, UnixBench and Geekbench)
-- [anishathalye/proof-html](https://github.com/anishathalye/proof-html) - A GitHub Action to validate HTML using HTMLProofer ✅
+- [anishathalye/proof-html](https://github.com/anishathalye/proof-html) - A GitHub Action to validate HTML, check links, and more ✅
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [supabase-community/partner-gallery-example](https://github.com/supabase-community/partner-gallery-example) - Supabase Partner Gallery Example
 - [preactjs/preact-on-the-edge](https://github.com/preactjs/preact-on-the-edge) - Server-rendered Preact using Vercel Edge Functions.
