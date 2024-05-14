@@ -188,6 +188,7 @@
 
 ## C++ 
 
+- [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - A simple one-file way to run various GGML and GGUF models with KoboldAI's UI
 - [Ornstein89/ephemeris_generic_example](https://github.com/Ornstein89/ephemeris_generic_example) - An example of ephemeris calculation with different toolkits and sources: NASA/NAIF SPICE toolkit with JPL DE440 ephemeris and IAA RAS EPM 2021 ephemeris
 - [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 - [aclemons/emailrelay](https://github.com/aclemons/emailrelay) - emailrelay migrated to git (unofficial) - https://svn.code.sf.net/p/emailrelay/code/ mirrored in git
@@ -330,6 +331,7 @@
 
 ## Go 
 
+- [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [7sDream/rikka](https://github.com/7sDream/rikka) - A simple image share system in go.
 - [keith-turner/ecoji](https://github.com/keith-turner/ecoji) - Encodes (and decodes) data as emojis
 - [kolesa-team/go-webp](https://github.com/kolesa-team/go-webp) - Simple and fast webp library for golang
@@ -662,7 +664,6 @@
 - [omaha-consulting/winstall](https://github.com/omaha-consulting/winstall) - A web app for browsing and installing Windows Package Manager apps.
 - [Toinane/colorpicker](https://github.com/Toinane/colorpicker) - A mininal but complete colorpicker desktop app
 - [vsetka/deepl-translator](https://github.com/vsetka/deepl-translator) - This module provides promised methods for translating text using DeepL Translator (https://www.deepl.com/translator) undocumented API.
-- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [katspaugh/fluentcards-extension](https://github.com/katspaugh/fluentcards-extension) - Chrome extension to look up words in a dictionary and save as flashcards.
 - [marwin1991/profile-technology-icons](https://github.com/marwin1991/profile-technology-icons) - 📋 😄 Add icons to your GitHub profile using this generator  😄 📋
 - [hernandez87v/djjosehernandez](https://github.com/hernandez87v/djjosehernandez) - 🎶 DJ Progressive Web App built using 🧬 React, 🔗 APIs.
@@ -1030,6 +1031,7 @@
 
 ## Markdown 
 
+- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea!
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
