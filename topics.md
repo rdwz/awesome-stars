@@ -1262,6 +1262,7 @@
 
 ## go 
 
+- [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [kolesa-team/go-webp](https://github.com/kolesa-team/go-webp) - Simple and fast webp library for golang
 - [gwen001/gitlab-subdomains](https://github.com/gwen001/gitlab-subdomains) - Find subdomains on GitLab.
@@ -1314,6 +1315,7 @@
 
 ## golang 
 
+- [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [marcopeocchi/yt-dlp-web-ui](https://github.com/marcopeocchi/yt-dlp-web-ui) - A terrible web ui for yt-dlp 🙄. Designed to be self-hosted.
 - [7sDream/rikka](https://github.com/7sDream/rikka) - A simple image share system in go.
@@ -2408,6 +2410,7 @@
 
 ## osint 
 
+- [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 - [Helios-Archives/Trak](https://github.com/Helios-Archives/Trak) - A command line application that gathers detailed information about a user across multiple services
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [instaloader/instaloader](https://github.com/instaloader/instaloader) - Download pictures (or videos) along with their captions and other metadata from Instagram.
@@ -2417,6 +2420,7 @@
 
 ## others 
 
+- [florian-lefebvre/astro-integration-template](https://github.com/florian-lefebvre/astro-integration-template) - Check out DELETE_ME.md!
 - [stephenhutchings/typicons.font](https://github.com/stephenhutchings/typicons.font) - 336 pixel perfect, all-purpose vector icons in a web-font kit
 - [dcf21/star-charter](https://github.com/dcf21/star-charter) - A command-line tool for producing vector-graphics charts of the night sky in SVG, PDF and PNG formats.
 - [binary-manu/static-cross-openssh](https://github.com/binary-manu/static-cross-openssh) - Statically cross-compile sshd and sftp-server
