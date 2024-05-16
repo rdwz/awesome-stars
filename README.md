@@ -588,6 +588,7 @@
 
 ## JavaScript 
 
+- [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
 - [devXprite/wettr](https://github.com/devXprite/wettr) - 🌦 Easy way to  check Weather via the command line.
 - [Izzmode/domain-portfolio](https://github.com/Izzmode/domain-portfolio) - 
 - [ahmadnassri/benchmark-node-clone](https://github.com/ahmadnassri/benchmark-node-clone) - Node Clone Benchmarks
