@@ -3278,6 +3278,7 @@
 
 ## python 
 
+- [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [SynoCommunity/spkrepo](https://github.com/SynoCommunity/spkrepo) - Synology Package Repository
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [NotCookey/Quote2Image](https://github.com/NotCookey/Quote2Image) - Quote2Image is a python library for turning text quotes into graphical images
