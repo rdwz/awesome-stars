@@ -2863,7 +2863,7 @@
 - [JOJ0/discodos](https://github.com/JOJ0/discodos) - A CLI tool for DJ's and record collectors based on the discogs.com collection feature
 - [pixers/imaginator](https://github.com/pixers/imaginator) - A web interface to imagemagick.
 - [googlefonts/unbounded](https://github.com/googlefonts/unbounded) - Open source, freely available and on-chain funded font.
-- [aaronpk/webmention.io](https://github.com/aaronpk/webmention.io) - Easily enable webmentions and pingbacks on any web page
+- [aaronpk/webmention.io](https://github.com/aaronpk/webmention.io) - Easily enable webmentions on any web site
 - [eldraco/domain_analyzer](https://github.com/eldraco/domain_analyzer) - Analyze the security of any domain by finding all the information possible. Made in python.
 - [malchata/dnstradamus](https://github.com/malchata/dnstradamus) - A prognosticating client-side DNS prefetcher for outbound links.
 - [rdwz/instagram-bio-link](https://github.com/rdwz/instagram-bio-link) - For better communication in Instagram with your audience, it is better to have a link that audience can get acquainted with our other media and our services. There are sites that give us this link fre
