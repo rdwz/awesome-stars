@@ -226,6 +226,7 @@
 
 ## ai 
 
+- [kyegomez/Gemini](https://github.com/kyegomez/Gemini) - The open source implementation of Gemini, the model that will "eclipse ChatGPT" by Google
 - [URUWorks/TeroSubtitler](https://github.com/URUWorks/TeroSubtitler) - Tero Subtitler is an open source, cross-platform, and free subtitle editing software.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [JingShing/AI-image-tag-extractor](https://github.com/JingShing/AI-image-tag-extractor) - A tool to help you get image info.
@@ -327,6 +328,7 @@
 
 ## artificial-intelligence 
 
+- [kyegomez/Gemini](https://github.com/kyegomez/Gemini) - The open source implementation of Gemini, the model that will "eclipse ChatGPT" by Google
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) - An open-source ChatGPT app with a voice
 - [mafiosnik777/enhancr](https://github.com/mafiosnik777/enhancr) - Video Frame Interpolation & Super Resolution using NVIDIA's TensorRT & Tencent's NCNN inference, beautifully crafted and packaged into a single app
@@ -2035,6 +2037,7 @@
 
 ## machine-learning 
 
+- [kyegomez/Gemini](https://github.com/kyegomez/Gemini) - The open source implementation of Gemini, the model that will "eclipse ChatGPT" by Google
 - [romsto/Inappropriate-Language-Classifier](https://github.com/romsto/Inappropriate-Language-Classifier) - Online video games need a better system to detect inappropriate language in chat, and using machine learning models could help create a safer and more enjoyable environment for all players.
 - [jmisilo/clip-gpt-captioning](https://github.com/jmisilo/clip-gpt-captioning) - CLIPxGPT Captioner is Image Captioning Model based on OpenAI's CLIP and GPT-2.
 - [mayeaux/generate-subtitles](https://github.com/mayeaux/generate-subtitles) - Generate transcripts for audio and video content with a user friendly UI, powered by Open AI's Whisper with automatic translations and download videos automatically with yt-dlp integration
