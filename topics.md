@@ -3556,7 +3556,7 @@
 - [indiscipline/zrtstr](https://github.com/indiscipline/zrtstr) - Check if stereo WAV files have identical channels (faux-stereo) and convert them to mono.
 - [JamieMason/blurhash-to-css](https://github.com/JamieMason/blurhash-to-css) - Convert BlurHashes to CSS Objects using TypeScript, Rust, and WebAssembly.
 - [simbleau/cddns](https://github.com/simbleau/cddns) - A modern, hackable, green DDNS service and cli for Cloudflare.
-- [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)
+- [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)
 - [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
@@ -3675,7 +3675,7 @@
 
 ## server 
 
-- [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)
+- [stalwartlabs/mail-server](https://github.com/stalwartlabs/mail-server) - Secure & Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)
 - [CZ-NIC/knot](https://github.com/CZ-NIC/knot) - A mirrored repository
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 
