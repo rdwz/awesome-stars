@@ -1289,7 +1289,7 @@
 - [deep-floyd/IF](https://github.com/deep-floyd/IF) - 
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
 - [bucaneer/binauralconv](https://github.com/bucaneer/binauralconv) - A script for converting (surround) audio files into binaural stereo.
-- [g-battaglia/kerykeion](https://github.com/g-battaglia/kerykeion) - Kerykeion is a python library for astrology. It can generate SVG charts and extract all data about a birthchart, a composite chart and a transit chart.
+- [g-battaglia/kerykeion](https://github.com/g-battaglia/kerykeion) - Astrology driven by data  💫 Kerykeion is a python library for astrology. It can generate SVG charts  and extract all data about a birthchart, a composite chart and a transit chart.
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [JosephLai241/URS](https://github.com/JosephLai241/URS) - Universal Reddit Scraper - A comprehensive Reddit scraping/archival command-line tool.
 - [themagicalmammal/wikibot](https://github.com/themagicalmammal/wikibot) - A :robot: which provides features from Wikipedia like summary, title searches, location API etc.
@@ -1543,6 +1543,7 @@
 
 ## Shell 
 
+- [franzflasch/gcc-build-tools](https://github.com/franzflasch/gcc-build-tools) - Scripts to ease building gcc (cross) toolchains.
 - [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) - 
 - [marcodallasanta/ssh-scp-deploy](https://github.com/marcodallasanta/ssh-scp-deploy) - This action provide a way to upload your artifact via scp and execute a set of command via ssh before or/and after.
 - [Soroushnk/Astro](https://github.com/Soroushnk/Astro) - a bash script to help you bypass GFW
