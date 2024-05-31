@@ -1954,6 +1954,7 @@
 
 ## linux 
 
+- [franzflasch/gcc-build-tools](https://github.com/franzflasch/gcc-build-tools) - Scripts to ease building gcc (cross) toolchains.
 - [nashaofu/node-screenshots](https://github.com/nashaofu/node-screenshots) - Zero-dependent. A native nodejs screenshots library for Mac、Windows、Linux.
 - [URUWorks/TeroSubtitler](https://github.com/URUWorks/TeroSubtitler) - Tero Subtitler is an open source, cross-platform, and free subtitle editing software.
 - [Soroushnk/Astro](https://github.com/Soroushnk/Astro) - a bash script to help you bypass GFW
@@ -3312,7 +3313,7 @@
 - [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
 - [eggplants/deepl-cli](https://github.com/eggplants/deepl-cli) - DeepL Translator CLI (without API Key)
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
-- [g-battaglia/kerykeion](https://github.com/g-battaglia/kerykeion) - Kerykeion is a python library for astrology. It can generate SVG charts and extract all data about a birthchart, a composite chart and a transit chart.
+- [g-battaglia/kerykeion](https://github.com/g-battaglia/kerykeion) - Astrology driven by data  💫 Kerykeion is a python library for astrology. It can generate SVG charts  and extract all data about a birthchart, a composite chart and a transit chart.
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [JosephLai241/URS](https://github.com/JosephLai241/URS) - Universal Reddit Scraper - A comprehensive Reddit scraping/archival command-line tool.
 - [themagicalmammal/wikibot](https://github.com/themagicalmammal/wikibot) - A :robot: which provides features from Wikipedia like summary, title searches, location API etc.
