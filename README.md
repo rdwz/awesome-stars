@@ -203,7 +203,7 @@
 - [DaGooseYT/FrameGUI](https://github.com/DaGooseYT/FrameGUI) - FrameGUI (frame-gooey) is a free, cross-platform, very easy to use encoding utility featuring AI filters, based on the more comprehensive EncodeGUI encoding tool.
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
-- [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG and WebP formats.   You can quickly reduce the file size (and resolution, if you wan
+- [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG, WebP and TIFF formats.   You can quickly reduce the file size (and resolution, if y
 - [mivion/swisseph](https://github.com/mivion/swisseph) - Swiss Ephemeris binding for node.js
 - [alexkay/spek](https://github.com/alexkay/spek) - Acoustic spectrum analyser
 - [libjxl/libjxl](https://github.com/libjxl/libjxl) - JPEG XL image format reference implementation
