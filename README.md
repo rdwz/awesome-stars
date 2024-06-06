@@ -614,7 +614,7 @@
 - [mathdroid/react-moon-toggle](https://github.com/mathdroid/react-moon-toggle) - 🌕🌑 Toggle and animate based on moon phases emoji
 - [umd-mith/webvtt-player](https://github.com/umd-mith/webvtt-player) - A React audio player & transcription viewer.
 - [ApayRus/direct-link](https://github.com/ApayRus/direct-link) - A downloader, that gets you access to direct links to youtube's:  video (mp4), audio (m4a), captions/subtitles (.vtt), thumbnails (webp).
-- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Alternative to Netlify/Decap CMS. Fast, lightweight, Git-based headless CMS with modern UX/UI & i18n support. Free & open source. Made with Svelte.
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Alternative to Netlify/Decap CMS. Fast, lightweight, Git-based headless CMS with modern UX & i18n support. Open source & free. Made with Svelte.
 - [is-probably-gay/is-probably-gay](https://github.com/is-probably-gay/is-probably-gay) - Self-service is-probably.gay subdomain registration
 - [elrumordelaluz/draGGradients](https://github.com/elrumordelaluz/draGGradients) - A simple tool to generate and customize multiple css3 radial gradients.
 - [bogdaaamn/tracker-radar](https://github.com/bogdaaamn/tracker-radar) - Data set of top third party web domains with rich metadata about them
@@ -715,7 +715,6 @@
 - [free-domains/cli](https://github.com/free-domains/cli) - Register a free subdomain with Free Domains using your command line.
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [modernweb-dev/rocket](https://github.com/modernweb-dev/rocket) - The modern web setup for static sites with a sprinkle of JavaScript
-- [free-domains/register](https://github.com/free-domains/register) - Free subdomains for personal sites, open-source projects, and more.
 - [dschombergii/sounds-local](https://github.com/dschombergii/sounds-local) - https://soundslocal.app
 - [nbelyh/editsvgcode](https://github.com/nbelyh/editsvgcode) - Online SVG auto-complete code editor based on monaco editor
 - [sindresorhus/capture-website-cli](https://github.com/sindresorhus/capture-website-cli) - Capture screenshots of websites from the command-line
@@ -1099,6 +1098,7 @@
 - [opawg/user-agents-v2](https://github.com/opawg/user-agents-v2) - Comprehensive open-source collection of broadly-compatible regular expression patterns to identify and analyze podcast player user agents.
 - [one-tab-group/onetab.group](https://github.com/one-tab-group/onetab.group) - This repo just to collect user feedback.
 - [DennisKidman/dual.my](https://github.com/DennisKidman/dual.my) - Dual.my is a dynamic/static DNS hosting service, designed to offer a user-friendly, ad-free solution for your networking needs. It provides a fantastic alternative to other services like DuckDNS.
+- [free-domains/register](https://github.com/free-domains/register) - Free subdomains for personal sites, open-source projects, and more.
 - [readium/awesome-readium](https://github.com/readium/awesome-readium) - ⭐️ Awesome Readium-related resources
 - [understanding-astro/understanding-astro-book](https://github.com/understanding-astro/understanding-astro-book) - Learn to build remarkably fast websites with Astro ✨
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
