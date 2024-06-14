@@ -473,7 +473,6 @@
 - [stephenhutchings/typicons.font](https://github.com/stephenhutchings/typicons.font) - 336 pixel perfect, all-purpose vector icons in a web-font kit
 - [skills/publish-packages](https://github.com/skills/publish-packages) - Use GitHub Actions to publish your project to a Docker image.
 - [krystonschwarze/coolicons](https://github.com/krystonschwarze/coolicons) - coolicons is a carefully designed collection of 440+ icons with a focus on simplicity and consistency. Perfectly suited for web, application and mobile design.
-- [jacobxperez/atkinson-hyperlegible-pro](https://github.com/jacobxperez/atkinson-hyperlegible-pro) - 222 Extra Glyph's Supporting 102 Languages. Includes an Alternative Flipped Zero, Updated Kerning and Ligatures.
 - [hyperaudio/hyperaudio-lite](https://github.com/hyperaudio/hyperaudio-lite) - Hyperaudio Lite - a Super-lightweight Interactive Transcript Player
 - [chrisnager/simple-debug.css](https://github.com/chrisnager/simple-debug.css) - Debug your layouts with one line of CSS
 - [IonicaBizau/git-stats](https://github.com/IonicaBizau/git-stats) - 🍀 Local git statistics including GitHub-like contributions calendars.
