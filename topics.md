@@ -365,7 +365,7 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [revoltchat/awesome-revolt](https://github.com/revoltchat/awesome-revolt) - Collection of Revolt libraries, bots, clients and other cool stuff.
 - [738/awesome-url-shortener](https://github.com/738/awesome-url-shortener) - 🔗 A curated list of awesome url shortener
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - move to https://spacevim.org/git/repos/SpaceVim/
 - [standard/awesome-standard](https://github.com/standard/awesome-standard) - Documenting the explosion of packages in the standard ecosystem!
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [MarketingPipeline/Awesome-Repo-Template](https://github.com/MarketingPipeline/Awesome-Repo-Template) - An awesome repo template packed with tons of tools & more to kick-start your next project / repo!
@@ -2030,7 +2030,7 @@
 
 ## lua 
 
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - move to https://spacevim.org/git/repos/SpaceVim/
 - [AstroNvim/astrotheme](https://github.com/AstroNvim/astrotheme) - The default colorscheme used by AstroNvim
 - [spotify/annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
 - [tarantool/tarantool](https://github.com/tarantool/tarantool) - Get your data in RAM. Get compute close to data. Enjoy the performance.
@@ -2197,7 +2197,7 @@
 
 ## neovim 
 
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - move to https://spacevim.org/git/repos/SpaceVim/
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 - [AstroNvim/astrotheme](https://github.com/AstroNvim/astrotheme) - The default colorscheme used by AstroNvim
 - [David-Else/developer-workstation-setup-script](https://github.com/David-Else/developer-workstation-setup-script) - Post-install script for Fedora and RHEL 9 clones to create your ultimate development environment
@@ -3743,7 +3743,7 @@
 
 ## spacevim 
 
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - move to https://spacevim.org/git/repos/SpaceVim/
 
 ## sql 
 
@@ -4004,7 +4004,7 @@
 - [ttytm/german-scroll.code](https://github.com/ttytm/german-scroll.code) - VSCode/Codium extension. Vim-like scrolling that obeys to the rules. Preserves folds and respects scrollOff.
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - move to https://spacevim.org/git/repos/SpaceVim/
 - [AstroNvim/astrotheme](https://github.com/AstroNvim/astrotheme) - The default colorscheme used by AstroNvim
 - [David-Else/developer-workstation-setup-script](https://github.com/David-Else/developer-workstation-setup-script) - Post-install script for Fedora and RHEL 9 clones to create your ultimate development environment
 - [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
