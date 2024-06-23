@@ -1391,7 +1391,7 @@
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [amueller/word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
 - [ericdaat/webradio-to-spotify](https://github.com/ericdaat/webradio-to-spotify) - Scraping songs playing on various classic rock radios and upload them to my Spotify Playlist.
-- [7x11x13/free-bandcamp-downloader](https://github.com/7x11x13/free-bandcamp-downloader) - Get free/name your price music from Bandcamp
+- [7x11x13/free-bandcamp-downloader](https://github.com/7x11x13/free-bandcamp-downloader) - Get free/name your price music from Bandcamp in lossless quality
 
 ## QML 
 
