@@ -3149,7 +3149,7 @@
 - [tests-always-included/mo](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
 - [mdlu/set-game](https://github.com/mdlu/set-game) - backend for an online multiplayer version of the card game Set
 - [jberg/butterchurn](https://github.com/jberg/butterchurn) - Butterchurn is a WebGL implementation of the Milkdrop Visualizer
-- [7x11x13/free-bandcamp-downloader](https://github.com/7x11x13/free-bandcamp-downloader) - Get free/name your price music from Bandcamp
+- [7x11x13/free-bandcamp-downloader](https://github.com/7x11x13/free-bandcamp-downloader) - Get free/name your price music from Bandcamp in lossless quality
 - [mozilla/mozjpeg](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder.
 - [GoogleChrome/lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
 - [CTemplar/android](https://github.com/CTemplar/android) - Android and F-Droid clients for CTemplar's encrypted email service.
