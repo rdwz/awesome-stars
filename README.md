@@ -64,6 +64,7 @@
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
+- [Vim Script](#vim-script)
 - [Vue](#vue)
 - [XSLT](#xslt)
 - [Zig](#zig)
@@ -293,7 +294,7 @@
 
 - [Antoinegtir/instagram-threads](https://github.com/Antoinegtir/instagram-threads) - Fully functional clone of Threads
 - [flutter/samples](https://github.com/flutter/samples) - A collection of Flutter examples and demos
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
 - [eniscakircali/2-Match](https://github.com/eniscakircali/2-Match) - An application that matches users by their character types
 - [Codelessly/ResponsiveFramework](https://github.com/Codelessly/ResponsiveFramework) - Easily make Flutter apps responsive. Automatically adapt UI to different screen sizes. Responsiveness made simple. Demo: https://gallery.codelessly.com/flutterwebsites/minimal/
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
@@ -1101,7 +1102,6 @@
 - [free-domains/register](https://github.com/free-domains/register) - Free subdomains for personal sites, open-source projects, and more.
 - [readium/awesome-readium](https://github.com/readium/awesome-readium) - ⭐️ Awesome Readium-related resources
 - [understanding-astro/understanding-astro-book](https://github.com/understanding-astro/understanding-astro-book) - Learn to build remarkably fast websites with Astro ✨
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - move to https://spacevim.org/git/repos/SpaceVim/
 - [FrontenderMagazine/convince-others-against-dark-patterns](https://github.com/FrontenderMagazine/convince-others-against-dark-patterns) - How To Convince Others Not To Use Dark Patterns — Smashing Magazine
 - [protesilaos/iosevka-comfy](https://github.com/protesilaos/iosevka-comfy) - Custom build of Iosevka with different style and metrics than the default.
 - [standard/awesome-standard](https://github.com/standard/awesome-standard) - Documenting the explosion of packages in the standard ecosystem!
@@ -1972,6 +1972,10 @@
 - [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia) - High-performance React Native Graphics using Skia
 - [xbrowsersync/api](https://github.com/xbrowsersync/api) - Server-side REST API that serves requests from xBrowserSync client apps
 - [heiseonline/embetty](https://github.com/heiseonline/embetty) - 🐙 Embetty displays remote content like tweets or YouTube videos without compromising your privacy.
+
+## Vim Script 
+
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
 
 ## Vue 
 
