@@ -1232,6 +1232,9 @@
 
 ## Python 
 
+- [MichaelMarav/RealTimeDetectionYoutube](https://github.com/MichaelMarav/RealTimeDetectionYoutube) - Takes a youtube video/livestream and performs object detection by using the YOLO or SSD algorithm
+- [numz/sd-wav2lip-uhq](https://github.com/numz/sd-wav2lip-uhq) - Wav2Lip UHQ extension for Automatic1111
+- [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
 - [mozilla/fxemoji](https://github.com/mozilla/fxemoji) - FxEmojis - a friendly emoji set from Mozilla
 - [kyegomez/Gemini](https://github.com/kyegomez/Gemini) - The open source implementation of Gemini, the model that will "eclipse ChatGPT" by Google
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
