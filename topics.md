@@ -826,6 +826,7 @@
 
 ## deep-learning 
 
+- [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
 - [romsto/Inappropriate-Language-Classifier](https://github.com/romsto/Inappropriate-Language-Classifier) - Online video games need a better system to detect inappropriate language in chat, and using machine learning models could help create a safer and more enjoyable environment for all players.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [jmisilo/clip-gpt-captioning](https://github.com/jmisilo/clip-gpt-captioning) - CLIPxGPT Captioner is Image Captioning Model based on OpenAI's CLIP and GPT-2.
@@ -2046,6 +2047,7 @@
 
 ## machine-learning 
 
+- [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
 - [kyegomez/Gemini](https://github.com/kyegomez/Gemini) - The open source implementation of Gemini, the model that will "eclipse ChatGPT" by Google
 - [romsto/Inappropriate-Language-Classifier](https://github.com/romsto/Inappropriate-Language-Classifier) - Online video games need a better system to detect inappropriate language in chat, and using machine learning models could help create a safer and more enjoyable environment for all players.
 - [jmisilo/clip-gpt-captioning](https://github.com/jmisilo/clip-gpt-captioning) - CLIPxGPT Captioner is Image Captioning Model based on OpenAI's CLIP and GPT-2.
@@ -2432,6 +2434,8 @@
 
 ## others 
 
+- [MichaelMarav/RealTimeDetectionYoutube](https://github.com/MichaelMarav/RealTimeDetectionYoutube) - Takes a youtube video/livestream and performs object detection by using the YOLO or SSD algorithm
+- [numz/sd-wav2lip-uhq](https://github.com/numz/sd-wav2lip-uhq) - Wav2Lip UHQ extension for Automatic1111
 - [cncf/svg-autocrop](https://github.com/cncf/svg-autocrop) - 🚗🌽🔳An NPM module to autocrop and slim down SVGs
 - [mozilla/fxemoji](https://github.com/mozilla/fxemoji) - FxEmojis - a friendly emoji set from Mozilla
 - [cogdog/voicemixer](https://github.com/cogdog/voicemixer) - SPLOTish tool for creating mixes of different voices reading the same original text
