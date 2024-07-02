@@ -1232,6 +1232,9 @@
 
 ## Python 
 
+- [batuhanerenler/JARVIS-OpenAI-Voice-Assistant](https://github.com/batuhanerenler/JARVIS-OpenAI-Voice-Assistant) - Jarvis is a voice-enabled chatbot powered by OpenAI's GPT-3.5-turbo. It leverages state-of-the-art natural language processing to deliver intelligent and conversational interactions.
+- [AlexandreSajus/JARVIS](https://github.com/AlexandreSajus/JARVIS) - Your own personal voice assistant: Voice to Text to LLM to Speech, displayed in a web interface
+- [samkeet/google-photos-takeout](https://github.com/samkeet/google-photos-takeout) - A project where I want to analyze, organize and cleanup my Google Photos Takeout exports worth 200+ Gigs
 - [MichaelMarav/RealTimeDetectionYoutube](https://github.com/MichaelMarav/RealTimeDetectionYoutube) - Takes a youtube video/livestream and performs object detection by using the YOLO or SSD algorithm
 - [numz/sd-wav2lip-uhq](https://github.com/numz/sd-wav2lip-uhq) - Wav2Lip UHQ extension for Automatic1111
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
@@ -1695,7 +1698,7 @@
 - [tomaskebrle/astro-og-image](https://github.com/tomaskebrle/astro-og-image) - An astro integration to generate static Open Graph images, at build time
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 - [marmelab/greenframe-cli](https://github.com/marmelab/greenframe-cli) - Estimate the carbon footprint of a user scenario on a web application
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic & real user monitoring platform  🏓
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic platform  🏓
 - [sindresorhus/ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
 - [junhoyeo/threads-api](https://github.com/junhoyeo/threads-api) - Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Web UI Included.
 - [git-emoji/vscode-extension](https://github.com/git-emoji/vscode-extension) - Suggest context based emojis in VS Code
