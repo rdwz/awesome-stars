@@ -2007,6 +2007,7 @@
 
 ## llm 
 
+- [AlexandreSajus/JARVIS](https://github.com/AlexandreSajus/JARVIS) - Your own personal voice assistant: Voice to Text to LLM to Speech, displayed in a web interface
 - [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - A simple one-file way to run various GGML and GGUF models with KoboldAI's UI
 - [Ngz91/Eunomia](https://github.com/Ngz91/Eunomia) - Analyze your code locally using a GPT LLM.
 - [kharvd/gpt-cli](https://github.com/kharvd/gpt-cli) - Command-line interface for ChatGPT, Claude and Bard
@@ -2144,7 +2145,7 @@
 
 ## monitoring 
 
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic & real user monitoring platform  🏓
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic platform  🏓
 - [devforth/hothost](https://github.com/devforth/hothost) - Lightweight and minimalistic open-source Servers and HTTP monitor
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [Cyclenerd/static_status](https://github.com/Cyclenerd/static_status) - 🚦Bash script to generate a static status page.
@@ -2221,7 +2222,7 @@
 
 - [zwelhtetyan/t3-note-taking-app](https://github.com/zwelhtetyan/t3-note-taking-app) - Personal note taking app which supports markdown syntax
 - [thecmdrunner/swiftube-frontend](https://github.com/thecmdrunner/swiftube-frontend) - It's like ChatGPT for videos.
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic & real user monitoring platform  🏓
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic platform  🏓
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
 - [webdiscus/ansis](https://github.com/webdiscus/ansis) - Small and fast Node.js CJS/ESM lib to colorize terminal output. Lightweight alternative to Chalk with more features. Supports Bun, Deno, Next.JS.
 - [CardoPixel/md3-nextjs-template](https://github.com/CardoPixel/md3-nextjs-template) - Material Design 3 compliant Next.js website template, including features like: custom theming, Internationalization, PWA, SupaBase for data management, and Vercel for deployment.
@@ -2388,7 +2389,7 @@
 
 - [URUWorks/TeroSubtitler](https://github.com/URUWorks/TeroSubtitler) - Tero Subtitler is an open source, cross-platform, and free subtitle editing software.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
-- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic & real user monitoring platform  🏓
+- [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic platform  🏓
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
 - [desertplant/moon-phase-background](https://github.com/desertplant/moon-phase-background) - Change desktop background to a high resolution picture of the current moon phase from NASA
@@ -2434,6 +2435,8 @@
 
 ## others 
 
+- [batuhanerenler/JARVIS-OpenAI-Voice-Assistant](https://github.com/batuhanerenler/JARVIS-OpenAI-Voice-Assistant) - Jarvis is a voice-enabled chatbot powered by OpenAI's GPT-3.5-turbo. It leverages state-of-the-art natural language processing to deliver intelligent and conversational interactions.
+- [samkeet/google-photos-takeout](https://github.com/samkeet/google-photos-takeout) - A project where I want to analyze, organize and cleanup my Google Photos Takeout exports worth 200+ Gigs
 - [MichaelMarav/RealTimeDetectionYoutube](https://github.com/MichaelMarav/RealTimeDetectionYoutube) - Takes a youtube video/livestream and performs object detection by using the YOLO or SSD algorithm
 - [numz/sd-wav2lip-uhq](https://github.com/numz/sd-wav2lip-uhq) - Wav2Lip UHQ extension for Automatic1111
 - [cncf/svg-autocrop](https://github.com/cncf/svg-autocrop) - 🚗🌽🔳An NPM module to autocrop and slim down SVGs
@@ -3307,6 +3310,7 @@
 
 ## python 
 
+- [AlexandreSajus/JARVIS](https://github.com/AlexandreSajus/JARVIS) - Your own personal voice assistant: Voice to Text to LLM to Speech, displayed in a web interface
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [SynoCommunity/spkrepo](https://github.com/SynoCommunity/spkrepo) - Synology Package Repository
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
