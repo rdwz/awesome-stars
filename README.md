@@ -177,7 +177,7 @@
 - [totoroyyb/Project-Neon](https://github.com/totoroyyb/Project-Neon) - A modern media player made for UWP
 - [deanthecoder/GLSLShaderShrinker](https://github.com/deanthecoder/GLSLShaderShrinker) - Cross-platform tool to Reformat/Remove Dead Code/Optimise/Analyse GLSL shader code.
 - [shaked6540/YoutubePlaylistDownloader](https://github.com/shaked6540/YoutubePlaylistDownloader) - A tool to download whole playlists, channels or single videos from youtube and also optionally convert them to almost any format you would like
-- [marticliment/WingetUI](https://github.com/marticliment/WingetUI) - WingetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+- [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [github/gh-actions-importer](https://github.com/github/gh-actions-importer) - GitHub Actions Importer helps you plan and automate the migration of Azure DevOps, Bamboo, Bitbucket, CircleCI, GitLab, Jenkins, and Travis CI pipelines to GitHub Actions.
 - [n00mkrad/cupscale](https://github.com/n00mkrad/cupscale) - Image Upscaling GUI based on ESRGAN
 - [philipmat/discogs-xml2db](https://github.com/philipmat/discogs-xml2db) - Imports the discogs.com monthly XML dumps into databases
@@ -704,7 +704,7 @@
 - [nico3333fr/van11y-accessible-modal-window-aria](https://github.com/nico3333fr/van11y-accessible-modal-window-aria) - ES2015 accessible modal window system, using ARIA
 - [NTag/colivings](https://github.com/NTag/colivings) - Map of the best colivings in Europe
 - [code-charity/ultimate-REGEX-extension](https://github.com/code-charity/ultimate-REGEX-extension) - ctrl+shift+F Text multi-tool browser extension  with familiar Ctrl+F visuals.  **need contributors to be the best & complete**
-- [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video web-extension] Enrich your experience & choice! 🧰100+clever features📌set&forget📌Longest-standing(yet rare&tough alone. Please help/join🧩us👨‍👩‍👧‍👧) ..⋮ {playback|content dis
+- [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video web-extension] Enrich your experience & choice! 🧰180+ options & clever features📌set+forget📌Longest-standing(yet rare&tough alone. Please help/join🧩us👨‍👩‍👧‍👧) ..⋮ {playback|
 - [april/laboratory](https://github.com/april/laboratory) - Because good website security shouldn't only be available to mad scientists!
 - [adamPatrick12/study-beats-fm](https://github.com/adamPatrick12/study-beats-fm) - An online music player where you can listen to popular Youtube radio livestreams
 - [librariesio/github_companion](https://github.com/librariesio/github_companion) - :pushpin: Chrome Extension to see dependency health on GitHub as you browse.
@@ -836,7 +836,6 @@
 - [luxocrates/viciious](https://github.com/luxocrates/viciious) - A Commodore 64 emulator in JavaScript
 - [carlnewton/digital-rain](https://github.com/carlnewton/digital-rain) - An emulation of the digital rain visual effect from The Matrix
 - [internet4000/media-now](https://github.com/internet4000/media-now) - Get media information from YouTube and Vimeo videos, Spotify tracks and Discogs releases.
-- [muxinc/media-chrome](https://github.com/muxinc/media-chrome) - Custom elements (web components) for making audio and video player controls that look great in your website or app.
 - [larsenwork/postcss-easing-gradients](https://github.com/larsenwork/postcss-easing-gradients) - PostCSS plugin to create smooth linear-gradients that approximate easing functions.
 - [alekspopovic/radio](https://github.com/alekspopovic/radio) - 
 - [dvdn/webradios](https://github.com/dvdn/webradios) - A web page to group and play all your favorite webradios !
@@ -1873,6 +1872,7 @@
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [Yqnn/svg-path-editor](https://github.com/Yqnn/svg-path-editor) - Online editor to create and manipulate SVG paths
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
+- [muxinc/media-chrome](https://github.com/muxinc/media-chrome) - Custom elements (web components) for making audio and video player controls that look great in your website or app.
 - [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler) - Open source browser extension for finding, editing, exporting, optimizing, and managing SVG content.
 - [Ernxst/subfont](https://github.com/Ernxst/subfont) - A plugin to purge unused glyphs from your font files to minimise bundle size
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
