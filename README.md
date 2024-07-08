@@ -1459,7 +1459,7 @@
 - [ZmoleCristian/gptube-cli](https://github.com/ZmoleCristian/gptube-cli) - Summarize videos from the command line
 - [orhnk/RASCII](https://github.com/orhnk/RASCII) - Advanced image to ASCII art tool & crate written in Rust 🦀🚀
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
-- [0x727/ObserverWard](https://github.com/0x727/ObserverWard) - 侦查守卫(ObserverWard)指纹识别工具Community web fingerprint identification tool
+- [emo-crab/observer_ward](https://github.com/emo-crab/observer_ward) - 侦查守卫(ObserverWard)指纹识别工具Community web fingerprint identification tool
 - [mozilla/grcov](https://github.com/mozilla/grcov) - Rust tool to collect and aggregate code coverage data for multiple source files
 - [james-d12/Apm](https://github.com/james-d12/Apm) - Agnostic Package Manager
 - [indiscipline/zrtstr](https://github.com/indiscipline/zrtstr) - Check if stereo WAV files have identical channels (faux-stereo) and convert them to mono.
