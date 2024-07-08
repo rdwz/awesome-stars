@@ -2545,7 +2545,7 @@
 - [rinturaj/tailwind-material-3](https://github.com/rinturaj/tailwind-material-3) - Tailwind Material 3 is a library that provides ready-to-use UI components for Tailwind CSS users. It includes a range of customizable components such as buttons, cards, and forms, as well as useful ut
 - [rakibdev/material-code](https://github.com/rakibdev/material-code) - Material You | Dynamic theme for Visual Studio Code.
 - [atomiks/tippyjs](https://github.com/atomiks/tippyjs) - Tooltip, popover, dropdown, and menu library
-- [0x727/ObserverWard](https://github.com/0x727/ObserverWard) - 侦查守卫(ObserverWard)指纹识别工具Community web fingerprint identification tool
+- [emo-crab/observer_ward](https://github.com/emo-crab/observer_ward) - 侦查守卫(ObserverWard)指纹识别工具Community web fingerprint identification tool
 - [jakearchibald/svgomg](https://github.com/jakearchibald/svgomg) - Web GUI for SVGO
 - [lotabout/static-wiki](https://github.com/lotabout/static-wiki) - 
 - [shishkin/astro-pagefind](https://github.com/shishkin/astro-pagefind) - Astro integration for Pagefind static site search.
