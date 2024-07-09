@@ -1052,7 +1052,7 @@
 ## Mustache 
 
 - [mend/renovate-ce-ee](https://github.com/mend/renovate-ce-ee) - Mend Renovate Documentation & Examples
-- [redkubes/otomi-core](https://github.com/redkubes/otomi-core) - Application Platform for Kubernetes
+- [linode/apl-core](https://github.com/linode/apl-core) - Application Platform for LKE (and any other conformant K8s)
 
 ## Nim 
 
