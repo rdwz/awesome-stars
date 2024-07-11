@@ -268,7 +268,6 @@
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 - [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2024
 - [UniversalGUI/UGUI](https://github.com/UniversalGUI/UGUI) - Universal Graphical User Interface
-- [domaindumper/domain-statistics](https://github.com/domaindumper/domain-statistics) - Domain Dumper daily domains states, You can get states of all registered domains from 1 January 1990. We cover 900 plus zone and update on every 24 hours
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [johnggli/linktree](https://github.com/johnggli/linktree) - Simple site to group all my profiles on social networks in one place. A free Linktree alternative.
 - [MagicLike/galaxy](https://github.com/MagicLike/galaxy) - A LittleLink Custom Theme. Galaxy is a dark mode only, minimalist theme. The background consists of a parallax pure CSS animation with a dark gradient and white contrasting elements.
@@ -639,7 +638,7 @@
 - [chengyin/WhatFont-Bookmarklet](https://github.com/chengyin/WhatFont-Bookmarklet) - The core of WhatFont Tool
 - [nuejs/nue](https://github.com/nuejs/nue) - A content first web framework. Perfect for UX developers.
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
-- [webdiscus/ansis](https://github.com/webdiscus/ansis) - Small and fast Node.js CJS/ESM lib to colorize terminal output. Lightweight alternative to Chalk with more features. Supports Bun, Deno, Next.JS.
+- [webdiscus/ansis](https://github.com/webdiscus/ansis) - Small and fast Node.js CJS/ESM lib to colorize terminal output. Lightweight alternative to Chalk with more features. Supports Bun, Deno, Next.JS. Fallback to supported color space.
 - [fontello/wawoff2](https://github.com/fontello/wawoff2) - WebAssembly build of Google's woff2
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [abbrcode/abbreviations-in-code](https://github.com/abbrcode/abbreviations-in-code) - The list of common abbreviations in program codes.
@@ -1909,6 +1908,7 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
+- [domaindumper/domain-statistics](https://github.com/domaindumper/domain-statistics) - Domain Dumper daily domains states, You can get states of all registered domains from 1 January 1990. We cover 900 plus zone and update on every 24 hours
 - [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
 - [bugbakery/audapolis](https://github.com/bugbakery/audapolis) - an editor for spoken-word audio with automatic transcription
 - [antfu-collective/sponsorkit](https://github.com/antfu-collective/sponsorkit) - 💖 Toolkit for generating sponsors images 😄
