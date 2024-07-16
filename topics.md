@@ -2017,7 +2017,7 @@
 ## llm 
 
 - [AlexandreSajus/JARVIS](https://github.com/AlexandreSajus/JARVIS) - Your own personal voice assistant: Voice to Text to LLM to Speech, displayed in a web interface
-- [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - A simple one-file way to run various GGML and GGUF models with KoboldAI's UI
+- [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - A simple one-file way to run various GGML and GGUF models with a KoboldAI UI
 - [Ngz91/Eunomia](https://github.com/Ngz91/Eunomia) - Analyze your code locally using a GPT LLM.
 - [kharvd/gpt-cli](https://github.com/kharvd/gpt-cli) - Command-line interface for ChatGPT, Claude and Bard
 - [mindflowai/mindflow](https://github.com/mindflowai/mindflow) - 🧠 AI-powered CLI git wrapper, boilerplate code generator, chat history manager, and code search engine to streamline your dev workflow 🌊
@@ -3039,7 +3039,7 @@
 - [linuxserver/docker-booksonic-air](https://github.com/linuxserver/docker-booksonic-air) - 
 - [VSCodium/vscodium-insiders](https://github.com/VSCodium/vscodium-insiders) - binary releases of VS Code (Insiders) without MS branding/telemetry/licensing
 - [EndeavourOS-Community-Editions/worm](https://github.com/EndeavourOS-Community-Editions/worm) - Worm CE for EndeavourOS
-- [endeavouros-team/endeavouros-DE-fixes](https://github.com/endeavouros-team/endeavouros-DE-fixes) - fixes for DE vanilla installs on EndeabvourOS
+- [endeavouros-team/endeavouros-DE-fixes](https://github.com/endeavouros-team/endeavouros-DE-fixes) - fixes for DE vanilla installs on EndeavourOS
 - [Stability-AI/awesome-stability](https://github.com/Stability-AI/awesome-stability) - Awesome Stability List
 - [htacg/tidy-html5](https://github.com/htacg/tidy-html5) - The granddaddy of HTML tools, with support for modern standards
 - [ydns/bash-updater](https://github.com/ydns/bash-updater) - YDNS Bash Updater Script
