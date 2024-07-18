@@ -596,6 +596,7 @@
 
 ## JavaScript 
 
+- [mxrah10/toxicity-censor](https://github.com/mxrah10/toxicity-censor) - A chrome extension that filters out any negative or toxic content on your page, while you are browsing, and actively gives a warning if your own messages or content has toxic or negative content.
 - [cncf/svg-autocrop](https://github.com/cncf/svg-autocrop) - 🚗🌽🔳An NPM module to autocrop and slim down SVGs
 - [cogdog/voicemixer](https://github.com/cogdog/voicemixer) - SPLOTish tool for creating mixes of different voices reading the same original text
 - [jaywcjlove/colors-cli](https://github.com/jaywcjlove/colors-cli) - ಠ_ಠ  Terminal string styling done right.
@@ -1228,6 +1229,8 @@
 
 ## Python 
 
+- [minhd-vu/toxicity-filter](https://github.com/minhd-vu/toxicity-filter) - Natural language processing API to detect toxic chat.
+- [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [ORB-HD/deface](https://github.com/ORB-HD/deface) - Video anonymization by face detection
 - [batuhanerenler/JARVIS-OpenAI-Voice-Assistant](https://github.com/batuhanerenler/JARVIS-OpenAI-Voice-Assistant) - Jarvis is a voice-enabled chatbot powered by OpenAI's GPT-3.5-turbo. It leverages state-of-the-art natural language processing to deliver intelligent and conversational interactions.
 - [AlexandreSajus/JARVIS](https://github.com/AlexandreSajus/JARVIS) - Your own personal voice assistant: Voice to Text to LLM to Speech, displayed in a web interface
