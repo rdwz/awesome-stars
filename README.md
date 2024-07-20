@@ -335,6 +335,7 @@
 
 ## Go 
 
+- [porjo/youtubeuploader](https://github.com/porjo/youtubeuploader) - Scripted uploads to Youtube
 - [a8m/s3tree](https://github.com/a8m/s3tree) - s3tree is a tree command for Amazon S3
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
@@ -1554,6 +1555,7 @@
 
 ## Shell 
 
+- [learnbyexample/learn_gnused](https://github.com/learnbyexample/learn_gnused) - Example based guide to mastering GNU sed
 - [franzflasch/gcc-build-tools](https://github.com/franzflasch/gcc-build-tools) - Scripts to ease building gcc (cross) toolchains.
 - [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) - 
 - [marcodallasanta/ssh-scp-deploy](https://github.com/marcodallasanta/ssh-scp-deploy) - This action provide a way to upload your artifact via scp and execute a set of command via ssh before or/and after.
@@ -1680,7 +1682,7 @@
 - [Sn8z/Poddr](https://github.com/Sn8z/Poddr) - Podcatcher made with Electron and Angular
 - [thecmdrunner/swiftube-frontend](https://github.com/thecmdrunner/swiftube-frontend) - It's like ChatGPT for videos.
 - [sxy15/font-subset](https://github.com/sxy15/font-subset) - create a font-subset from a font file
-- [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
+- [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [CodyJasonBennett/four](https://github.com/CodyJasonBennett/four) - 💎 Minimal three.js alternative.
 - [DTStack/molecule](https://github.com/DTStack/molecule) - :rocket: A lightweight Web IDE UI framework.
 - [arturania/human-logic](https://github.com/arturania/human-logic) - Human Logic
