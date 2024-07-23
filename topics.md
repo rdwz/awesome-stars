@@ -887,7 +887,7 @@
 - [xemantic/shader-web-background](https://github.com/xemantic/shader-web-background) - Displays GLSL fragment shaders as a website background. Supports offscreen buffers and floating point textures on almost any browser and hardware. Compatible with Shadertoy.
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [Scosh/fonts](https://github.com/Scosh/fonts) - A collection of rad, open-source typefaces that everyone needs in their lives.
-- [greenmagenta/web-avant-gardes](https://github.com/greenmagenta/web-avant-gardes) - 💇‍♀️ Collection of experimental, radical, or unorthodox websites
+- [gsbm/web-avant-gardes](https://github.com/gsbm/web-avant-gardes) - 💇‍♀️ Collection of experimental, radical, or unorthodox websites
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [jakobsen/fluid-typography](https://github.com/jakobsen/fluid-typography) - Find the perfect CSS values for your fluid heading, and control how it scales across different viewport widths.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
@@ -4088,7 +4088,7 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [xemantic/shader-web-background](https://github.com/xemantic/shader-web-background) - Displays GLSL fragment shaders as a website background. Supports offscreen buffers and floating point textures on almost any browser and hardware. Compatible with Shadertoy.
 - [mediathekview/mediathekviewweb](https://github.com/mediathekview/mediathekviewweb) - Eine Weboberfläche als Alternative zum Java-Client
-- [greenmagenta/web-avant-gardes](https://github.com/greenmagenta/web-avant-gardes) - 💇‍♀️ Collection of experimental, radical, or unorthodox websites
+- [gsbm/web-avant-gardes](https://github.com/gsbm/web-avant-gardes) - 💇‍♀️ Collection of experimental, radical, or unorthodox websites
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [liberapay/liberapay.com](https://github.com/liberapay/liberapay.com) - Source code of the recurrent donations platform Liberapay
 - [GoogleChromeLabs/AutoWebPerf](https://github.com/GoogleChromeLabs/AutoWebPerf) - AutoWebPerf provides a flexible and scalable framework for running web performance audits with arbitrary audit tools including PageSpeedInsights, WebPageTest and more.
