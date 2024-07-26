@@ -1051,7 +1051,7 @@
 ## Mustache 
 
 - [mend/renovate-ce-ee](https://github.com/mend/renovate-ce-ee) - Mend Renovate Documentation & Examples
-- [linode/apl-core](https://github.com/linode/apl-core) - Application Platform for LKE (and any other conformant K8s)
+- [linode/apl-core](https://github.com/linode/apl-core) - Application Platform for Linode Kubernetes Engine (and any other conformant K8s)
 
 ## Nim 
 
