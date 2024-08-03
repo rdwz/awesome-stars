@@ -1205,7 +1205,7 @@
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [filegator/filegator](https://github.com/filegator/filegator) - Powerful Multi-User File Manager
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-- [ssddanbrown/rss](https://github.com/ssddanbrown/rss) - A simple twitter-feed-style RSS aggregator written in PHP, Laravel, Inertia.js, Tailwind and Vue.js
+- [ssddanbrown/rss](https://github.com/ssddanbrown/rss) - PROJECT MIGRATED TO CODEBERG -- A simple twitter-feed-style RSS aggregator written in PHP, Laravel, Inertia.js, Tailwind and Vue.js
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [Rudloff/alltube](https://github.com/Rudloff/alltube) - Web GUI for youtube-dl
 - [juanv911/SocialCounters](https://github.com/juanv911/SocialCounters) - jQuery/PHP - Collection of Social Media APIs that display number of your social media fans. Facebook Likes, Twitter Followers, Instagram Followers, YouTube Subscribers, etc..
@@ -1912,7 +1912,7 @@
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
-- [domaindumper/domain-statistics](https://github.com/domaindumper/domain-statistics) - Domain Dumper provides daily domain states for all registered domains since January 1, 1990. Our coverage extends to over 900 zones and we update every 24 hours.
+- [domaindumper/domain-statistics](https://github.com/domaindumper/domain-statistics) - Domain Dumper delivers daily updates on the statistics of all registered domains across 900+ zones, with records dating back to January 1, 1990.
 - [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
 - [bugbakery/audapolis](https://github.com/bugbakery/audapolis) - an editor for spoken-word audio with automatic transcription
 - [antfu-collective/sponsorkit](https://github.com/antfu-collective/sponsorkit) - 💖 Toolkit for generating sponsors images 😄
