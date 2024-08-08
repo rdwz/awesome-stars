@@ -1728,7 +1728,7 @@
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 - [sindresorhus/ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
 - [files-ui/files-ui-react](https://github.com/files-ui/files-ui-react) - UI components for file uploads with React js. Files UI is a complete library for handling files in the UI. You can validate and upload them. Multilanguage. Server side support.
-- [nuejs/nue](https://github.com/nuejs/nue) - A content first web framework. Perfect for UX developers.
+- [nuejs/nue](https://github.com/nuejs/nue) - A web framework for UX developers
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [webdiscus/ansis](https://github.com/webdiscus/ansis) - Small and fast Node.js CJS/ESM lib to colorize terminal output. Lightweight alternative to Chalk with more features. Supports Bun, Deno, Next.JS. Fallback to supported color space.
 - [orhanemree/link-in-bio](https://github.com/orhanemree/link-in-bio) - 🌲 All-in-one bio link tool. An open source alternative to Linktree, with no registration required.
@@ -2449,6 +2449,7 @@
 
 ## others 
 
+- [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
 - [jdecked/twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone.
 - [mxrah10/toxicity-censor](https://github.com/mxrah10/toxicity-censor) - A chrome extension that filters out any negative or toxic content on your page, while you are browsing, and actively gives a warning if your own messages or content has toxic or negative content.
 - [ORB-HD/deface](https://github.com/ORB-HD/deface) - Video anonymization by face detection
