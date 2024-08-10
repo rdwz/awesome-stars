@@ -346,6 +346,7 @@
 
 ## automation 
 
+- [dhamaniasad/HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - A list of (almost) all headless web browsers in existence
 - [niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting) - Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?
 - [ss-d3v/BotTuber](https://github.com/ss-d3v/BotTuber) - Fully Automated YouTube Channel ▶️with Added Extra Features (Automated Title, Description, Tags, Watermark and much more)
 - [dhohirpradana/Instagram-Automation](https://github.com/dhohirpradana/Instagram-Automation) - [Python, Typescript] Instagram Automation Post Feed and Story, Integrate Data from Facebook Group and Page
@@ -1485,7 +1486,7 @@
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [stormwarning/tailwindcss-capsize](https://github.com/stormwarning/tailwindcss-capsize) - ✂️ Tailwind CSS utility classes for trimming whitespace above & below capital letters.
 - [AstroNvim/astrotheme](https://github.com/AstroNvim/astrotheme) - The default colorscheme used by AstroNvim
-- [Tenpi/soundcloud.ts](https://github.com/Tenpi/soundcloud.ts) - Wrapper for the Soundcloud API with typings
+- [Moebits/soundcloud.ts](https://github.com/Moebits/soundcloud.ts) - Wrapper for the Soundcloud API with typings
 - [forsti0506/a11y-sitechecker](https://github.com/forsti0506/a11y-sitechecker) - Automatic accessibility checker with website crawling + screenshots for easy use
 - [Kabanosk/whisper-website](https://github.com/Kabanosk/whisper-website) - Simple web application, which can be used to convert audio to subtitles by OpenAI's Whisper model
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
@@ -1500,7 +1501,7 @@
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [rubynor/bigfive-web](https://github.com/rubynor/bigfive-web) - Website for taking personality tests
-- [Tenpi/waifu2x](https://github.com/Tenpi/waifu2x) - waifu2x image upscaling in Node.js
+- [Moebits/waifu2x](https://github.com/Moebits/waifu2x) - waifu2x image upscaling in Node.js
 - [xperimental/linky](https://github.com/xperimental/linky) - Simple and fast link checker
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [wesbos/eslint-config-wesbos](https://github.com/wesbos/eslint-config-wesbos) - No-Sweat™ Eslint and Prettier Setup - with or without VS Code
@@ -3897,6 +3898,7 @@
 
 ## testing 
 
+- [dhamaniasad/HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - A list of (almost) all headless web browsers in existence
 - [phoronix-test-suite/phoronix-test-suite](https://github.com/phoronix-test-suite/phoronix-test-suite) - The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
