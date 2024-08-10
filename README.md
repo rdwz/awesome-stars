@@ -1075,6 +1075,7 @@
 
 ## Others 
 
+- [dhamaniasad/HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - A list of (almost) all headless web browsers in existence
 - [pew/hitchhikers-guide](https://github.com/pew/hitchhikers-guide) - just a bunch of things I always manage to forget
 - [brunopulis/awesome-a11y](https://github.com/brunopulis/awesome-a11y) - A curate list about A11Y
 - [dnaprawa/dockerfile-best-practices](https://github.com/dnaprawa/dockerfile-best-practices) - Dockerfile Best Practices
@@ -1795,7 +1796,7 @@
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [rewbs/butterchurn-recorder](https://github.com/rewbs/butterchurn-recorder) - 
 - [formkit/formkit](https://github.com/formkit/formkit) - Vue Forms ⚡️ Supercharged
-- [Tenpi/soundcloud.ts](https://github.com/Tenpi/soundcloud.ts) - Wrapper for the Soundcloud API with typings
+- [Moebits/soundcloud.ts](https://github.com/Moebits/soundcloud.ts) - Wrapper for the Soundcloud API with typings
 - [forsti0506/a11y-sitechecker](https://github.com/forsti0506/a11y-sitechecker) - Automatic accessibility checker with website crawling + screenshots for easy use
 - [jwagner/simplex-noise.js](https://github.com/jwagner/simplex-noise.js) - A fast simplex noise implementation in Javascript / Typescript.
 - [xsalazar/fluent-emoji](https://github.com/xsalazar/fluent-emoji) - 🚀 This repository contains the website source code for https://fluentemoji.com. This website allows for browsing Microsoft's "familiar, friendly, and modern emoji". Including additional features such 
@@ -1833,7 +1834,7 @@
 - [rubynor/bigfive-web](https://github.com/rubynor/bigfive-web) - Website for taking personality tests
 - [nwesthoff/shiplog](https://github.com/nwesthoff/shiplog) - Menubar app to keep track of running deploys on Vercel & Netlify
 - [johnbillion/wp-json-schemas](https://github.com/johnbillion/wp-json-schemas) - JSON schemas for WordPress PHP objects and REST  API responses
-- [Tenpi/waifu2x](https://github.com/Tenpi/waifu2x) - waifu2x image upscaling in Node.js
+- [Moebits/waifu2x](https://github.com/Moebits/waifu2x) - waifu2x image upscaling in Node.js
 - [blove/typescript-express-starter](https://github.com/blove/typescript-express-starter) - TypeScript 2 + Express + Node.js
 - [heysagnik/Linkees](https://github.com/heysagnik/Linkees) - Awesome Linktree clone made with React ⚛️
 - [sergiodxa/remix-utils](https://github.com/sergiodxa/remix-utils) - A set of utility functions and types to use with Remix.run
