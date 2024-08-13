@@ -562,6 +562,7 @@
 
 ## chrome 
 
+- [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux) - Brings Apple's vibrant emojis to your Linux experience
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
@@ -582,7 +583,7 @@
 - [katspaugh/fluentcards-extension](https://github.com/katspaugh/fluentcards-extension) - Chrome extension to look up words in a dictionary and save as flashcards.
 - [rossmoody/link-roamer](https://github.com/rossmoody/link-roamer) - A browser extension for gathering, organizing, and inspecting all the links on a page.
 - [code-charity/ultimate-REGEX-extension](https://github.com/code-charity/ultimate-REGEX-extension) - ctrl+shift+F Text multi-tool browser extension  with familiar Ctrl+F visuals.  **need contributors to be the best & complete**
-- [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video web-extension] Enrich your experience & choice! 🧰180+ options & clever features📌set+forget📌Longest-standing(yet rare&tough alone. Please help/join🧩us👨‍👩‍👧‍👧) ..⋮ {playback|
+- [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video web-extension] Enrich your experience & choice! 🧰180+ options & clever features📌set+forget📌Longest-standing(been tough). Please join🧩us👨‍👩‍👧‍👧 ..⋮ {playback|content discove
 - [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
 - [one-tab-group/onetab.group](https://github.com/one-tab-group/onetab.group) - This repo just to collect user feedback.
 - [thegreenwebfoundation/web-extension](https://github.com/thegreenwebfoundation/web-extension) - The Green Web Addon based on Web Extensions
@@ -1053,6 +1054,7 @@
 
 ## emoji 
 
+- [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux) - Brings Apple's vibrant emojis to your Linux experience
 - [nathanielw/party-ify](https://github.com/nathanielw/party-ify) - Website that turns any image into party-parrot style animated GIF
 - [keith-turner/ecoji](https://github.com/keith-turner/ecoji) - Encodes (and decodes) data as emojis
 - [git-emoji/vscode-extension](https://github.com/git-emoji/vscode-extension) - Suggest context based emojis in VS Code
@@ -1122,6 +1124,7 @@
 
 ## firefox 
 
+- [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux) - Brings Apple's vibrant emojis to your Linux experience
 - [rugk/awesome-emoji-picker](https://github.com/rugk/awesome-emoji-picker) - Add-on/WebExtension that provides a modern emoji picker that you can use to find and copy/insert emoji into the active web page.
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
@@ -1156,6 +1159,7 @@
 
 ## font 
 
+- [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux) - Brings Apple's vibrant emojis to your Linux experience
 - [coreui/coreui-icons](https://github.com/coreui/coreui-icons) - CoreUI Free Icons -  Premium designed free icon set with marks in SVG, Webfont and raster formats
 - [coreyhu/Urbanist](https://github.com/coreyhu/Urbanist) - Urbanist is a low-contrast, geometric sans-serif inspired by Modernist design and typography.
 - [NotCookey/Quote2Image](https://github.com/NotCookey/Quote2Image) - Quote2Image is a python library for turning text quotes into graphical images
@@ -1257,7 +1261,7 @@
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
 - [buttons/github-buttons](https://github.com/buttons/github-buttons) - :octocat: Unofficial github:buttons
-- [tarampampam/free-domains](https://github.com/tarampampam/free-domains) - 🌐 Grab your own subdomain (for personal sites, open-source projects, and more) for free
+- [tarampampam/domains](https://github.com/tarampampam/domains) - 🌐 DNS configuration for some of my domains
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [ineo6/git-master](https://github.com/ineo6/git-master) - Git Master Extension for git file tree, support GitHub、GitLab 、 Gitee、Gitea、Gogs
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
@@ -1971,6 +1975,8 @@
 
 ## linux 
 
+- [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
+- [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux) - Brings Apple's vibrant emojis to your Linux experience
 - [learnbyexample/learn_gnused](https://github.com/learnbyexample/learn_gnused) - Example based guide to mastering GNU sed
 - [franzflasch/gcc-build-tools](https://github.com/franzflasch/gcc-build-tools) - Scripts to ease building gcc (cross) toolchains.
 - [nashaofu/node-screenshots](https://github.com/nashaofu/node-screenshots) - Zero-dependent. A native nodejs screenshots library for Mac、Windows、Linux.
@@ -2450,6 +2456,9 @@
 
 ## others 
 
+- [GoogleChromeLabs/text-app](https://github.com/GoogleChromeLabs/text-app) - A text editor for ChromeOS and Chrome
+- [webrecorder/archiveweb.page](https://github.com/webrecorder/archiveweb.page) - A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers!
+- [zhdsmy/apple-emoji](https://github.com/zhdsmy/apple-emoji) - Apple Color Emoji for Linux / Windows
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
 - [jdecked/twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone.
 - [mxrah10/toxicity-censor](https://github.com/mxrah10/toxicity-censor) - A chrome extension that filters out any negative or toxic content on your page, while you are browsing, and actively gives a warning if your own messages or content has toxic or negative content.
@@ -3327,6 +3336,7 @@
 
 ## python 
 
+- [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 - [minhd-vu/toxicity-filter](https://github.com/minhd-vu/toxicity-filter) - Natural language processing API to detect toxic chat.
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [AlexandreSajus/JARVIS](https://github.com/AlexandreSajus/JARVIS) - Your own personal voice assistant: Voice to Text to LLM to Speech, displayed in a web interface
@@ -4149,6 +4159,7 @@
 
 ## windows 
 
+- [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 - [nashaofu/node-screenshots](https://github.com/nashaofu/node-screenshots) - Zero-dependent. A native nodejs screenshots library for Mac、Windows、Linux.
 - [Chocobo1/opus-tools_win32-build](https://github.com/Chocobo1/opus-tools_win32-build) - opus-tools Unofficial Builds - Win32 & x64
 - [URUWorks/TeroSubtitler](https://github.com/URUWorks/TeroSubtitler) - Tero Subtitler is an open source, cross-platform, and free subtitle editing software.
