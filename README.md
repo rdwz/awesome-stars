@@ -335,6 +335,7 @@
 
 ## Go 
 
+- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, smart, & global CDN for modern(es2015+) web development.
 - [porjo/youtubeuploader](https://github.com/porjo/youtubeuploader) - Scripted uploads to Youtube
 - [a8m/s3tree](https://github.com/a8m/s3tree) - s3tree is a tree command for Amazon S3
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
@@ -1667,6 +1668,10 @@
 
 ## TypeScript 
 
+- [GitSquared/node-geolite2-redist](https://github.com/GitSquared/node-geolite2-redist) - Redistribution of MaxMind GeoLite2 GeoIP databases as an npm library
+- [kiabq/hyperslice](https://github.com/kiabq/hyperslice) - A Link shortener built using Astro + Koa. Deployed on Coolify with Docker.
+- [flamrdevs/astrolinkt](https://github.com/flamrdevs/astrolinkt) - Link in Bio Template using Astro, React & TailwindCSS
+- [ixkaito/astro-relative-links](https://github.com/ixkaito/astro-relative-links) - Build Astro with relative links.
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
 - [dofiltra/browser-manager](https://github.com/dofiltra/browser-manager) - 
 - [rdwz/template-helloworld](https://github.com/rdwz/template-helloworld) - Starting point for a new Remotion project. Run `npm init video` to get this template!
