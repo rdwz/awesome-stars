@@ -1307,7 +1307,7 @@
 - [rsheeter/Bungee](https://github.com/rsheeter/Bungee) - A chromatic signage typeface for vertical and horizontal setting.
 - [ioistired/timecard-cli](https://github.com/ioistired/timecard-cli) - generates spongebob-style timecards
 - [deep-floyd/IF](https://github.com/deep-floyd/IF) - 
-- [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: An API store for LLMs
+- [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
 - [bucaneer/binauralconv](https://github.com/bucaneer/binauralconv) - A script for converting (surround) audio files into binaural stereo.
 - [g-battaglia/kerykeion](https://github.com/g-battaglia/kerykeion) - Data driven Astrology 💫 Kerykeion is a python library for astrology. It can generate SVG charts  and extract all data about a birthchart, a composite chart and a transit chart.
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
