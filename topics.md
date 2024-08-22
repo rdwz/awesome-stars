@@ -30,6 +30,7 @@
 - [bot](#bot)
 - [bugbounty](#bugbounty)
 - [c](#c)
+- [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
 - [chrome](#chrome)
@@ -533,6 +534,17 @@
 - [bradyhouse/house](https://github.com/bradyhouse/house) - Proof of Concept and Research repository.
 - [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
 - [xiph/flac](https://github.com/xiph/flac) - Free Lossless Audio Codec
+
+## c-plus-plus 
+
+- [martinrotter/rssguard](https://github.com/martinrotter/rssguard) - Feed reader (and podcast player) which supports RSS/ATOM/JSON and many web-based feed services.
+- [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
+- [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
+- [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
+- [spotify/annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
+- [enzo1982/freac](https://github.com/enzo1982/freac) - The fre:ac audio converter project
+- [bbc/audiowaveform](https://github.com/bbc/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files
+- [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
 
 ## chatgpt 
 
@@ -2570,7 +2582,7 @@
 - [unlayer/playgrounds](https://github.com/unlayer/playgrounds) - Unlayer Playgrounds
 - [chengyin/WhatFont-Bookmarklet](https://github.com/chengyin/WhatFont-Bookmarklet) - The core of WhatFont Tool
 - [randombits-dev/astro-font-picker](https://github.com/randombits-dev/astro-font-picker) - Astro Dev Toolbar Integration that lets you try out different fonts on your website
-- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell.
 - [simonw/strip-tags](https://github.com/simonw/strip-tags) - CLI tool for stripping tags from HTML
 - [learnwithjason/pure-js-drag-n-drop](https://github.com/learnwithjason/pure-js-drag-n-drop) - 
 - [aminya/astro-plugins](https://github.com/aminya/astro-plugins) - Various astro plugins such as astro-htmlnano to minify Astro files with HTMLNano and CSSNano
@@ -3168,7 +3180,6 @@
 - [sarcadass/granim.js](https://github.com/sarcadass/granim.js) - Create fluid and interactive gradient animations with this small javascript library.
 - [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
 - [traccar/traccar-docker](https://github.com/traccar/traccar-docker) - Traccar Docker
-- [bbc/audiowaveform](https://github.com/bbc/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files
 - [sirxemic/jquery.ripples](https://github.com/sirxemic/jquery.ripples) - Add a water ripple effect to your background using WebGL.
 - [mauleyzaola/issue-tracker](https://github.com/mauleyzaola/issue-tracker) - Issue tracker that mimics Jira functionality written in Go
 - [usmannasir/cyberpanel](https://github.com/usmannasir/cyberpanel) - Cyber Panel - The hosting control panel for OpenLiteSpeed
