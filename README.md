@@ -587,7 +587,7 @@
 - [eclipse/openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
 - [google/live-transcribe-speech-engine](https://github.com/google/live-transcribe-speech-engine) - Live Transcribe is an Android application that provides real-time captioning for people who are deaf or hard of hearing. This repository contains the Android client libraries for communicating with Go
 - [google/closure-compiler](https://github.com/google/closure-compiler) - A JavaScript checker and optimizer.
-- [yorkxin/copy-as-markdown](https://github.com/yorkxin/copy-as-markdown) - Copying Link, Image and Tab(s) as Markdown Much Easier.
+- [yorkxin/copy-as-markdown](https://github.com/yorkxin/copy-as-markdown) - A browser extension to copy tabs and links as Markdown
 - [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
 - [mdlu/set-game](https://github.com/mdlu/set-game) - backend for an online multiplayer version of the card game Set
 - [burgyl/SelfUpdatingApp](https://github.com/burgyl/SelfUpdatingApp) - An Android Application that can update itself if new releases in GitHub are available.
@@ -609,9 +609,7 @@
 - [jaywcjlove/colors-cli](https://github.com/jaywcjlove/colors-cli) - ಠ_ಠ  Terminal string styling done right.
 - [hikarock/n7m](https://github.com/hikarock/n7m) - 💇‍♂️ n7m is numeronym 💇‍♀️
 - [tomayac/SVGcode](https://github.com/tomayac/SVGcode) - Convert color bitmap images to color SVG vector images.
-- [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
 - [devXprite/wettr](https://github.com/devXprite/wettr) - 🌦 Easy way to  check Weather via the command line.
-- [Izzmode/domain-portfolio](https://github.com/Izzmode/domain-portfolio) - 
 - [ahmadnassri/benchmark-node-clone](https://github.com/ahmadnassri/benchmark-node-clone) - Node Clone Benchmarks
 - [pablopunk/miny](https://github.com/pablopunk/miny) - The minimal module generator that generated itself
 - [node-formidable/formidable](https://github.com/node-formidable/formidable) - The most used, flexible, fast and streaming parser for multipart form data. Supports uploading to serverless environments, AWS S3, Azure, GCP or the filesystem. Used in production.
@@ -854,6 +852,7 @@
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
 - [finzzz/tldr](https://github.com/finzzz/tldr) - Minimalistic TLDR Web Client
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [browserslist/browserslist](https://github.com/browserslist/browserslist) - 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
 - [CulturalMe/meteor-slingshot](https://github.com/CulturalMe/meteor-slingshot) - Upload files directly to AWS S3, Google Cloud Storage and others in meteor
 - [fazt/github-client](https://github.com/fazt/github-client) - A Frontend Application using Pure Javascript and Github API
@@ -1679,6 +1678,7 @@
 - [dofiltra/browser-manager](https://github.com/dofiltra/browser-manager) - 
 - [rdwz/template-helloworld](https://github.com/rdwz/template-helloworld) - Starting point for a new Remotion project. Run `npm init video` to get this template!
 - [remotion-dev/template-helloworld](https://github.com/remotion-dev/template-helloworld) - Starting point for a new Remotion project. Run `npm init video` to get this template!
+- [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
 - [JPF3N998/astro-x-aceternityui](https://github.com/JPF3N998/astro-x-aceternityui) - 
 - [oggnimodd/ai-prompt-snippets](https://github.com/oggnimodd/ai-prompt-snippets) - Chrome Extension for creating customizable AI prompt snippets to automate your interactions.
 - [lucia-auth/examples](https://github.com/lucia-auth/examples) - A collection of example projects built with Lucia
@@ -1903,7 +1903,6 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [magidoc-org/magidoc](https://github.com/magidoc-org/magidoc) - Autogenerate static GraphQL API documentation
 - [LekoArts/gatsby-starter-portfolio-jodie](https://github.com/LekoArts/gatsby-starter-portfolio-jodie) - Image-heavy photography portfolio with colorful accents & customizable pages. Includes adaptive image grids powered by CSS grid and automatic image integration into projects.
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [iongion/podman-desktop-companion](https://github.com/iongion/podman-desktop-companion) - Podman desktop companion
 - [contributor-assistant/contributor-assistant](https://github.com/contributor-assistant/contributor-assistant) - The Contributor Assistant supports and simplifies Open Source collaboration.
 - [JulianCataldo/web-garden](https://github.com/JulianCataldo/web-garden) - Building blocks for making progressive and future-proof websites. Components collection features Astro, HTML, SCSS, JS, TS… Configurations features ESLint, Prettier, Stylelint…
