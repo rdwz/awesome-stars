@@ -1238,6 +1238,7 @@
 
 ## Python 
 
+- [caseychu/spotify-backup](https://github.com/caseychu/spotify-backup) - A Python script that exports all of your Spotify playlists.
 - [bluesky-social/cookbook](https://github.com/bluesky-social/cookbook) - A collection of example projects and scripts for atproto development.
 - [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 - [zhdsmy/apple-emoji](https://github.com/zhdsmy/apple-emoji) - Apple Color Emoji for Linux / Windows
@@ -1906,7 +1907,7 @@
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [magidoc-org/magidoc](https://github.com/magidoc-org/magidoc) - Autogenerate static GraphQL API documentation
 - [LekoArts/gatsby-starter-portfolio-jodie](https://github.com/LekoArts/gatsby-starter-portfolio-jodie) - Image-heavy photography portfolio with colorful accents & customizable pages. Includes adaptive image grids powered by CSS grid and automatic image integration into projects.
-- [iongion/podman-desktop-companion](https://github.com/iongion/podman-desktop-companion) - Podman desktop companion
+- [iongion/container-desktop](https://github.com/iongion/container-desktop) - Podman desktop companion
 - [contributor-assistant/contributor-assistant](https://github.com/contributor-assistant/contributor-assistant) - The Contributor Assistant supports and simplifies Open Source collaboration.
 - [JulianCataldo/web-garden](https://github.com/JulianCataldo/web-garden) - Building blocks for making progressive and future-proof websites. Components collection features Astro, HTML, SCSS, JS, TS… Configurations features ESLint, Prettier, Stylelint…
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
@@ -2010,6 +2011,7 @@
 
 ## Vue 
 
+- [alfg/ffmpeg-commander](https://github.com/alfg/ffmpeg-commander) - 🛠️ FFmpeg Command Generator Web UI
 - [charlenherv/spongebob-time-cards](https://github.com/charlenherv/spongebob-time-cards) - SpongeBob-Themed Time Card Generator, For Fun and Memes
 - [andreas-stricker/ownlinks](https://github.com/andreas-stricker/ownlinks) - linktree clone – link in bio for instagram social media
 - [orhanemree/link-in-bio](https://github.com/orhanemree/link-in-bio) - 🌲 All-in-one bio link tool. An open source alternative to Linktree, with no registration required.
