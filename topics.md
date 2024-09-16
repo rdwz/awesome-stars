@@ -2601,7 +2601,7 @@
 - [marmelab/greenframe-cli](https://github.com/marmelab/greenframe-cli) - Estimate the carbon footprint of a user scenario on a web application
 - [fbanning/ardaudiothek-dl](https://github.com/fbanning/ardaudiothek-dl) - A simple Julia script to download audio files from ARD Audiothek
 - [crystalcommunication/crystalcommunication](https://github.com/crystalcommunication/crystalcommunication) - Profile README
-- [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainer=@Lassulus]
+- [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime]
 - [chrillefkr/disko-images](https://github.com/chrillefkr/disko-images) - Create disk image files from NixOS + disko configuration.
 - [davidwarrington/astro-icon-component](https://github.com/davidwarrington/astro-icon-component) - 
 - [tmthydvnprt/aggregit](https://github.com/tmthydvnprt/aggregit) - Aggregate all of a GitHub user's data.
