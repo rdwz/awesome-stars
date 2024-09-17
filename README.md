@@ -1238,6 +1238,7 @@
 
 ## Python 
 
+- [Psyhackological/ytxt](https://github.com/Psyhackological/ytxt) - :video_camera: Convert YouTube video subtitles to clean text! Downloads and processes .vtt files into readable .txt.
 - [caseychu/spotify-backup](https://github.com/caseychu/spotify-backup) - A Python script that exports all of your Spotify playlists.
 - [bluesky-social/cookbook](https://github.com/bluesky-social/cookbook) - A collection of example projects and scripts for atproto development.
 - [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
@@ -1673,6 +1674,7 @@
 
 ## TypeScript 
 
+- [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub) - LinksHub aims to provide developers with access to a wide range of free resources and tools that they can use in their work. These resources include links to free software, libraries, frameworks, and 
 - [GitSquared/node-geolite2-redist](https://github.com/GitSquared/node-geolite2-redist) - Redistribution of MaxMind GeoLite2 GeoIP databases as an npm library
 - [kiabq/hyperslice](https://github.com/kiabq/hyperslice) - A Link shortener built using Astro + Koa. Deployed on Coolify with Docker.
@@ -1971,7 +1973,7 @@
 - [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
 - [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and analytics tool you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and product analytics you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
 - [zaki-yama/copy-title-and-url-as-markdown](https://github.com/zaki-yama/copy-title-and-url-as-markdown) - Chrome Extension: Quickly copy the title & url of current tab as Markdown style
 - [windicss/windicss-analysis](https://github.com/windicss/windicss-analysis) - 🔍 A visual analyzer for Windi CSS
 - [hyperfocalHQ/pollen](https://github.com/hyperfocalHQ/pollen) - The CSS variables build system
