@@ -153,6 +153,7 @@
 - [nodejs](#nodejs)
 - [npm](#npm)
 - [open-source](#open-source)
+- [openai](#openai)
 - [opengl](#opengl)
 - [operating-system](#operating-system)
 - [osint](#osint)
@@ -1372,7 +1373,7 @@
 
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
-- [marcopeocchi/yt-dlp-web-ui](https://github.com/marcopeocchi/yt-dlp-web-ui) - A terrible web ui for yt-dlp. Designed to be self-hosted.
+- [marcopeocchi/yt-dlp-web-ui](https://github.com/marcopeocchi/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
 - [7sDream/rikka](https://github.com/7sDream/rikka) - A simple image share system in go.
 - [keith-turner/ecoji](https://github.com/keith-turner/ecoji) - Encodes (and decodes) data as emojis
 - [kolesa-team/go-webp](https://github.com/kolesa-team/go-webp) - Simple and fast webp library for golang
@@ -2493,6 +2494,27 @@
 - [Sav22999/common-voice-android](https://github.com/Sav22999/common-voice-android) - Repository of "CV Project" app. It's an unofficial app for Mozilla Common Voice, which permits you to contribute to this project via your device.
 - [nextcloud/client_theming](https://github.com/nextcloud/client_theming) - :computer: Nextcloud themed desktop client - Moved over to https://github.com/nextcloud/desktop
 
+## openai 
+
+- [AlexandreSajus/JARVIS](https://github.com/AlexandreSajus/JARVIS) - Your own personal voice assistant: Voice to Text to LLM to Speech, displayed in a web interface
+- [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt) - Curated list of awesome tools, demos, docs for ChatGPT and GPT-3
+- [thecmdrunner/swiftube-frontend](https://github.com/thecmdrunner/swiftube-frontend) - It's like ChatGPT for videos.
+- [marcolardera/chatgpt-cli](https://github.com/marcolardera/chatgpt-cli) - Simple yet effective command line client for chatting with ChatGPT using the official API
+- [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
+- [kharvd/gpt-cli](https://github.com/kharvd/gpt-cli) - Command-line interface for ChatGPT, Claude and Bard
+- [mindflowai/mindflow](https://github.com/mindflowai/mindflow) - 🧠 AI-powered CLI git wrapper, boilerplate code generator, chat history manager, and code search engine to streamline your dev workflow 🌊
+- [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
+- [anse-app/anse](https://github.com/anse-app/anse) - Supercharged experience for multiple models such as ChatGPT, DALL-E and Stable Diffusion.
+- [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+- [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
+- [supabase-community/deno-fresh-openai-doc-search](https://github.com/supabase-community/deno-fresh-openai-doc-search) - Template for building your own custom ChatGPT style doc search powered by Fresh, Deno, OpenAI, and Supabase.
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
+- [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
+- [Kabanosk/whisper-website](https://github.com/Kabanosk/whisper-website) - Simple web application, which can be used to convert audio to subtitles by OpenAI's Whisper model
+- [m1guelpf/yt-whisper](https://github.com/m1guelpf/yt-whisper) - Using OpenAI's Whisper to automatically generate YouTube subtitles
+- [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
+
 ## opengl 
 
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
@@ -2782,7 +2804,6 @@
 - [BuilderIO/qwik-tw-vercel-starter-kit](https://github.com/BuilderIO/qwik-tw-vercel-starter-kit) - A starter kit for Qwik on Vercel
 - [andwin/pagespeed-benchmark](https://github.com/andwin/pagespeed-benchmark) - A tool to run lighthouse pagespeed test multiple times on multiple urls and display statistics
 - [sotanakamura/winui3-command-line](https://github.com/sotanakamura/winui3-command-line) - Building WinUI 3 apps with commnad line tools
-- [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [flutter/samples](https://github.com/flutter/samples) - A collection of Flutter examples and demos
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [DaGooseYT/FrameGUI](https://github.com/DaGooseYT/FrameGUI) - FrameGUI (frame-gooey) is a free, cross-platform, very easy to use encoding utility featuring AI filters, based on the more comprehensive EncodeGUI encoding tool.
@@ -2818,7 +2839,6 @@
 - [jmisavage/red-snapper](https://github.com/jmisavage/red-snapper) - Package to take snapshots with headless chrome
 - [PaulBratslavsky/strapi-chat-blog-repo](https://github.com/PaulBratslavsky/strapi-chat-blog-repo) - 
 - [joorjeh/subtitler](https://github.com/joorjeh/subtitler) - 
-- [m1guelpf/yt-whisper](https://github.com/m1guelpf/yt-whisper) - Using OpenAI's Whisper to automatically generate YouTube subtitles
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - 🔉 Youtube Videos Transcription with OpenAI's Whisper
 - [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments) - Clone, deploy, and fully customize a SaaS subscription application with Next.js.
@@ -3741,7 +3761,7 @@
 
 ## self-hosted 
 
-- [marcopeocchi/yt-dlp-web-ui](https://github.com/marcopeocchi/yt-dlp-web-ui) - A terrible web ui for yt-dlp. Designed to be self-hosted.
+- [marcopeocchi/yt-dlp-web-ui](https://github.com/marcopeocchi/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [ChristopherHX/github-act-runner](https://github.com/ChristopherHX/github-act-runner) - act as self-hosted runner
