@@ -630,6 +630,7 @@
 
 ## cli 
 
+- [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [Psyhackological/ytxt](https://github.com/Psyhackological/ytxt) - :video_camera: Convert YouTube video subtitles to clean text! Downloads and processes .vtt files into readable .txt.
 - [jaywcjlove/colors-cli](https://github.com/jaywcjlove/colors-cli) - ಠ_ಠ  Terminal string styling done right.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -1370,6 +1371,7 @@
 
 ## golang 
 
+- [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [marcopeocchi/yt-dlp-web-ui](https://github.com/marcopeocchi/yt-dlp-web-ui) - A terrible web ui and RPC server for yt-dlp. Designed to be self-hosted.
@@ -1484,6 +1486,7 @@
 
 ## hacktoberfest 
 
+- [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [alfg/ffmpeg-commander](https://github.com/alfg/ffmpeg-commander) - 🛠️ FFmpeg Command Generator Web UI
 - [masterT/bandcamp-scraper](https://github.com/masterT/bandcamp-scraper) - A scraper for https://bandcamp.com
@@ -1793,6 +1796,7 @@
 - [jpmonette/feed](https://github.com/jpmonette/feed) - A RSS, Atom and JSON Feed generator for Node.js, making content syndication simple and intuitive! 🚀
 - [kimmobrunfeldt/progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) - Responsive and slick progress bars
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
+- [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that makes your heart warm
 - [tholman/intense-images](https://github.com/tholman/intense-images) - A simple library to view large images up close using simple mouse interaction, and the full screen.
 - [tommoor/tinycon](https://github.com/tommoor/tinycon) - A small library for manipulating the favicon, in particular adding alert bubbles and changing images.
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
@@ -2534,6 +2538,8 @@
 
 ## others 
 
+- [faissaloo/SponSkrub](https://github.com/faissaloo/SponSkrub) - Strip advertisements from downloaded YouTube videos
+- [GMartigny/crop-node-cli](https://github.com/GMartigny/crop-node-cli) - ✂️ CLI version of crop-node
 - [blynn/gitmagic](https://github.com/blynn/gitmagic) - A guide to using Git
 - [caseychu/spotify-backup](https://github.com/caseychu/spotify-backup) - A Python script that exports all of your Spotify playlists.
 - [bluesky-social/cookbook](https://github.com/bluesky-social/cookbook) - A collection of example projects and scripts for atproto development.
@@ -2689,7 +2695,6 @@
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 - [fidian/ansi](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
-- [evanwashere/mitata](https://github.com/evanwashere/mitata) - cross-runtime benchmarking lib and cli
 - [jabacchetta/vscode-essentials](https://github.com/jabacchetta/vscode-essentials) - Turn VSCode into a supercharged IDE.
 - [shibumi/Podcast-dl](https://github.com/shibumi/Podcast-dl) - Download famous german podcasts
 - [total-typescript/total-typescript-book](https://github.com/total-typescript/total-typescript-book) - The companion repo for the upcoming Total TypeScript book
