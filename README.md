@@ -481,6 +481,7 @@
 
 ## HTML 
 
+- [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
 - [jdecked/twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone.
 - [stephenhutchings/typicons.font](https://github.com/stephenhutchings/typicons.font) - 336 pixel perfect, all-purpose vector icons in a web-font kit
 - [skills/publish-packages](https://github.com/skills/publish-packages) - Use GitHub Actions to publish your project to a Docker image.
@@ -625,7 +626,7 @@
 - [masterT/bandcamp-scraper](https://github.com/masterT/bandcamp-scraper) - A scraper for https://bandcamp.com
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [bgrins/TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
 - [seriousme/fastify-openapi-glue](https://github.com/seriousme/fastify-openapi-glue) - A plugin for the Fastify  webserver to autogenerate a Fastify configuration based on a OpenApi(v2/v3) specification.
 - [actions/javascript-action](https://github.com/actions/javascript-action) - Create a JavaScript Action with tests, linting, workflow, publishing, and versioning
 - [dariusk/corpora](https://github.com/dariusk/corpora) - A collection of small corpuses of interesting data for the creation of bots and similar stuff.
@@ -674,7 +675,7 @@
 - [kimmobrunfeldt/progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) - Responsive and slick progress bars
 - [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert) - 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding).
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-- [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that makes your heart warm
+- [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
 - [rugk/awesome-emoji-picker](https://github.com/rugk/awesome-emoji-picker) - Add-on/WebExtension that provides a modern emoji picker that you can use to find and copy/insert emoji into the active web page.
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
@@ -826,6 +827,7 @@
 - [words/automated-readability](https://github.com/words/automated-readability) - Formula to detect ease of reading according to the Automated Readability Index (1967)
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
 - [johnsorrentino/favicon.js](https://github.com/johnsorrentino/favicon.js) - Given a HTML5 canvas return an ICO formatted favicon.
+- [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [buttons/github-buttons](https://github.com/buttons/github-buttons) - :octocat: Unofficial github:buttons
 - [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
 - [Sanix-Darker/zzollo](https://github.com/Sanix-Darker/zzollo) - A simple Search Engine for Open-sources projects on Github, GitLab and Bitbucket in one place !
@@ -1667,7 +1669,6 @@
 - [tbdsux/koyo](https://github.com/tbdsux/koyo) - Website screenshot service api on Deta Space
 - [catchspider2002/svelte-svg-patterns](https://github.com/catchspider2002/svelte-svg-patterns) - Create seamless patterns in SVG to use as website backgrounds, header images, stationery design and package design
 - [AleksandrHovhannisyan/fluid-type-scale-calculator](https://github.com/AleksandrHovhannisyan/fluid-type-scale-calculator) - Generate font size variables for a fluid type scale with CSS clamp.
-- [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [swyxio/swyxdotio](https://github.com/swyxio/swyxdotio) - This is the repo for swyx's blog - Blog content is created in github issues, then posted on swyx.io as blog pages! Comment/watch to follow along my blog within GitHub
 - [christopher-kapic/astro-devblog](https://github.com/christopher-kapic/astro-devblog) - A 🔥blazingly fast🔥 developer blog template built with Astro, NetlifyCMS, TailwindCSS, and Prisma that can automatically publish to Medium and Dev.to.
