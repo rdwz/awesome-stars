@@ -140,6 +140,7 @@
 
 ## C 
 
+- [kddnewton/tree](https://github.com/kddnewton/tree) - Implementations of the unix tree command
 - [dcf21/star-charter](https://github.com/dcf21/star-charter) - A command-line tool for producing vector-graphics charts of the night sky in SVG, PDF and PNG formats.
 - [astrological-guru/astro-novas](https://github.com/astrological-guru/astro-novas) - Basic vector astronomy using NOVAS
 - [FreeRADIUS/freeradius-server](https://github.com/FreeRADIUS/freeradius-server) - FreeRADIUS - A multi-protocol policy server.
@@ -482,6 +483,7 @@
 
 ## HTML 
 
+- [coravacav/pleaseusecodeblocks](https://github.com/coravacav/pleaseusecodeblocks) - A simple website to help those in need of, well, using code blocks.
 - [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
 - [jdecked/twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone.
 - [stephenhutchings/typicons.font](https://github.com/stephenhutchings/typicons.font) - 336 pixel perfect, all-purpose vector icons in a web-font kit
@@ -829,7 +831,6 @@
 - [words/automated-readability](https://github.com/words/automated-readability) - Formula to detect ease of reading according to the Automated Readability Index (1967)
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
 - [johnsorrentino/favicon.js](https://github.com/johnsorrentino/favicon.js) - Given a HTML5 canvas return an ICO formatted favicon.
-- [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [buttons/github-buttons](https://github.com/buttons/github-buttons) - :octocat: Unofficial github:buttons
 - [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
 - [Sanix-Darker/zzollo](https://github.com/Sanix-Darker/zzollo) - A simple Search Engine for Open-sources projects on Github, GitLab and Bitbucket in one place !
@@ -1671,6 +1672,7 @@
 - [tbdsux/koyo](https://github.com/tbdsux/koyo) - Website screenshot service api on Deta Space
 - [catchspider2002/svelte-svg-patterns](https://github.com/catchspider2002/svelte-svg-patterns) - Create seamless patterns in SVG to use as website backgrounds, header images, stationery design and package design
 - [AleksandrHovhannisyan/fluid-type-scale-calculator](https://github.com/AleksandrHovhannisyan/fluid-type-scale-calculator) - Generate font size variables for a fluid type scale with CSS clamp.
+- [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [swyxio/swyxdotio](https://github.com/swyxio/swyxdotio) - This is the repo for swyx's blog - Blog content is created in github issues, then posted on swyx.io as blog pages! Comment/watch to follow along my blog within GitHub
 - [christopher-kapic/astro-devblog](https://github.com/christopher-kapic/astro-devblog) - A 🔥blazingly fast🔥 developer blog template built with Astro, NetlifyCMS, TailwindCSS, and Prisma that can automatically publish to Medium and Dev.to.
