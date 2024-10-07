@@ -2556,6 +2556,7 @@
 
 ## others 
 
+- [callumlocke/json-formatter](https://github.com/callumlocke/json-formatter) - Makes JSON easy to read.
 - [unjs/giget](https://github.com/unjs/giget) - ✨ Download templates and git repositories with pleasure!
 - [vorillaz/tabsub](https://github.com/vorillaz/tabsub) - A tiny Pub/Sub library for modern browsers.
 - [kddnewton/tree](https://github.com/kddnewton/tree) - Implementations of the unix tree command
