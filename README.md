@@ -313,7 +313,6 @@
 - [mgoltzsche/podman-static](https://github.com/mgoltzsche/podman-static) - static podman binaries and container image
 - [renovatebot/docker-renovate](https://github.com/renovatebot/docker-renovate) - Renovate docker slim image
 - [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
-- [truecharts/containers](https://github.com/truecharts/containers) - TrueCharts container repository
 - [BretFisher/github-actions-templates](https://github.com/BretFisher/github-actions-templates) - Reusable GitHub Actions workflow examples for cloud native DevOps
 - [linuxserver/docker-fleet](https://github.com/linuxserver/docker-fleet) - 
 - [emibcn/badge-action](https://github.com/emibcn/badge-action) - Create a badge using GitHub Actions and GitHub Workflow CPU time (no 3rd parties servers)
