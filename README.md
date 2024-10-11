@@ -342,6 +342,7 @@
 
 ## Go 
 
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, smart, & global CDN for modern(es2015+) web development.
@@ -612,6 +613,7 @@
 
 ## JavaScript 
 
+- [igorshubovych/markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli) - MarkdownLint Command Line Interface
 - [vorillaz/tabsub](https://github.com/vorillaz/tabsub) - A tiny Pub/Sub library for modern browsers.
 - [Moustachauve/cookie-editor](https://github.com/Moustachauve/cookie-editor) - A powerful browser extension to create, edit and delete cookies
 - [GMartigny/crop-node-cli](https://github.com/GMartigny/crop-node-cli) - ✂️ CLI version of crop-node
@@ -663,7 +665,6 @@
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [abbrcode/abbreviations-in-code](https://github.com/abbrcode/abbreviations-in-code) - The list of common abbreviations in program codes.
 - [rinturaj/tailwind-material-3](https://github.com/rinturaj/tailwind-material-3) - Tailwind Material 3 is a library that provides ready-to-use UI components for Tailwind CSS users. It includes a range of customizable components such as buttons, cards, and forms, as well as useful ut
-- [rakibdev/material-code](https://github.com/rakibdev/material-code) - Material You | Dynamic theme for Visual Studio Code.
 - [code-farmer-i/vue-markdown-editor](https://github.com/code-farmer-i/vue-markdown-editor) - A markdown editor built on Vue
 - [atomiks/tippyjs](https://github.com/atomiks/tippyjs) - Tooltip, popover, dropdown, and menu library
 - [jakearchibald/svgomg](https://github.com/jakearchibald/svgomg) - Web GUI for SVGO
@@ -1075,7 +1076,7 @@
 
 ## Nix 
 
-- [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime]
+- [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht]
 - [chrillefkr/disko-images](https://github.com/chrillefkr/disko-images) - Create disk image files from NixOS + disko configuration.
 
 ## Nunjucks 
@@ -1463,6 +1464,8 @@
 
 ## Rust 
 
+- [fltk-rs/fltk-rs](https://github.com/fltk-rs/fltk-rs) - Rust bindings for the FLTK GUI library.
+- [AllenDang/PngOptimizier](https://github.com/AllenDang/PngOptimizier) - Cross platform, tiny but ultra fast PNG optimizer
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [mufeedvh/pdfrip](https://github.com/mufeedvh/pdfrip) - A multi-threaded PDF password cracking utility equipped with commonly encountered password format builders and dictionary attacks.
 - [CrossCopy/tauri-plugin-clipboard](https://github.com/CrossCopy/tauri-plugin-clipboard) - A Tauri clipboard plugin with text, files, html, RTF, and image support. Clipboard content update monitoring is also supported.
@@ -1748,6 +1751,7 @@
 - [ttytm/german-scroll.code](https://github.com/ttytm/german-scroll.code) - VSCode/Codium extension. Vim-like scrolling that obeys to the rules. Preserves folds and respects scrollOff.
 - [LibreService/my_font_converter](https://github.com/LibreService/my_font_converter) - Convert ttf/woff2 fonts.
 - [CardoPixel/md3-nextjs-template](https://github.com/CardoPixel/md3-nextjs-template) - Material Design 3 compliant Next.js website template, including features like: custom theming, Internationalization, PWA, SupaBase for data management, and Vercel for deployment.
+- [rakibdev/material-code](https://github.com/rakibdev/material-code) - Material You | Dynamic theme for Visual Studio Code.
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [nimiq/qr-scanner](https://github.com/nimiq/qr-scanner) - Lightweight Javascript QR Code Scanner
 - [advanced-astro/astro-compress](https://github.com/advanced-astro/astro-compress) - 🗜️ AstroJS compression utilities. Compress CSS, HTML, JavaScript and more.
