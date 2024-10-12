@@ -611,7 +611,7 @@
 - [katspaugh/fluentcards-extension](https://github.com/katspaugh/fluentcards-extension) - Chrome extension to look up words in a dictionary and save as flashcards.
 - [rossmoody/link-roamer](https://github.com/rossmoody/link-roamer) - A browser extension for gathering, organizing, and inspecting all the links on a page.
 - [code-charity/ultimate-REGEX-extension](https://github.com/code-charity/ultimate-REGEX-extension) - ctrl+shift+F Text multi-tool browser extension  with familiar Ctrl+F visuals.  **need contributors to be the best & complete**
-- [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video web-extension] Enrich your experience & choice! 🧰180+ options & clever features📌set+forget📌Longest-standing(been tough). Please join🧩us👨‍👩‍👧‍👧 ..⋮ {playback|content discove
+- [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video browser-extension] - Enrich your experience & choice! 🧰180+ options & clever features 📌set+forget📌Longest-standing(been tough). Please join🧩us👨‍👩‍👧‍👧 ..⋮ {playback|content 
 - [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
 - [one-tab-group/onetab.group](https://github.com/one-tab-group/onetab.group) - This repo just to collect user feedback.
 - [thegreenwebfoundation/web-extension](https://github.com/thegreenwebfoundation/web-extension) - The Green Web Addon based on Web Extensions
@@ -2871,7 +2871,7 @@
 - [divriots/starter-open-props](https://github.com/divriots/starter-open-props) - Open-props https://open-props.style
 - [SchoonLabs/CasterKit](https://github.com/SchoonLabs/CasterKit) - A resource for aspiring podcasters
 - [PhobiaCide/cascading-waves](https://github.com/PhobiaCide/cascading-waves) - 
-- [ashugeo/set-game](https://github.com/ashugeo/set-game) - Set – Visual card game
+- [hugosaintemarie/set-game](https://github.com/hugosaintemarie/set-game) - Set – Visual card game
 - [radicle-dev/heartwood](https://github.com/radicle-dev/heartwood) - ❤️🪵 Radicle Heartwood Protocol & Stack
 - [norinorin/linktree](https://github.com/norinorin/linktree) - Simple linktree w/ Tailwind CSS; a learning project.
 - [jmisavage/red-snapper](https://github.com/jmisavage/red-snapper) - Package to take snapshots with headless chrome
