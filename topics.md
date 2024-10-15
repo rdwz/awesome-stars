@@ -1038,6 +1038,7 @@
 
 ## dotfiles 
 
+- [rakibdev/material-code](https://github.com/rakibdev/material-code) - Material You | Dynamic theme for Visual Studio Code.
 - [Kab1r/dotfiles](https://github.com/Kab1r/dotfiles) - Some of my DotFiles
 
 ## dotnet 
@@ -2693,7 +2694,6 @@
 - [ZmoleCristian/gptube-cli](https://github.com/ZmoleCristian/gptube-cli) - Summarize videos from the command line
 - [fontello/wawoff2](https://github.com/fontello/wawoff2) - WebAssembly build of Google's woff2
 - [itsjenke/itsjenke.github.io](https://github.com/itsjenke/itsjenke.github.io) - JENKE.XYZ Homepage build with react and mantine
-- [rakibdev/material-code](https://github.com/rakibdev/material-code) - Material You | Dynamic theme for Visual Studio Code.
 - [atomiks/tippyjs](https://github.com/atomiks/tippyjs) - Tooltip, popover, dropdown, and menu library
 - [emo-crab/observer_ward](https://github.com/emo-crab/observer_ward) - 侦查守卫(observer_ward)Web应用和服务指纹识别工具
 - [jakearchibald/svgomg](https://github.com/jakearchibald/svgomg) - Web GUI for SVGO
