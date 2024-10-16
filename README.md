@@ -413,7 +413,6 @@
 - [toboshii/hajimari](https://github.com/toboshii/hajimari) - Hajimari is a beautiful & customizable browser startpage/dashboard with Kubernetes application discovery.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [nrdcg/porkbun](https://github.com/nrdcg/porkbun) - Go library for accessing the Porkbun API.
-- [pmaterer/goporkbun](https://github.com/pmaterer/goporkbun) - Go client for Porkbun API
 - [thestrukture/IDE](https://github.com/thestrukture/IDE) - A Go code editor. With debugging and Autocomplete. 一个 Go 代码编辑器，具有 DEBUGGING 和 AUTOCOMPLETE
 - [coder/tailscale](https://github.com/coder/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [google/crfs](https://github.com/google/crfs) - CRFS: Container Registry Filesystem
