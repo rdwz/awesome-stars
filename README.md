@@ -618,7 +618,6 @@
 - [GMartigny/crop-node-cli](https://github.com/GMartigny/crop-node-cli) - ✂️ CLI version of crop-node
 - [sindresorhus/trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and folders to the trash
 - [GoogleChromeLabs/text-app](https://github.com/GoogleChromeLabs/text-app) - A text editor for ChromeOS and Chrome
-- [webrecorder/archiveweb.page](https://github.com/webrecorder/archiveweb.page) - A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers!
 - [mxrah10/toxicity-censor](https://github.com/mxrah10/toxicity-censor) - A chrome extension that filters out any negative or toxic content on your page, while you are browsing, and actively gives a warning if your own messages or content has toxic or negative content.
 - [cncf/svg-autocrop](https://github.com/cncf/svg-autocrop) - 🚗🌽🔳An NPM module to autocrop and slim down SVGs
 - [cogdog/voicemixer](https://github.com/cogdog/voicemixer) - SPLOTish tool for creating mixes of different voices reading the same original text
@@ -1697,6 +1696,7 @@
 - [kiabq/hyperslice](https://github.com/kiabq/hyperslice) - A Link shortener built using Astro + Koa. Deployed on Coolify with Docker.
 - [flamrdevs/astrolinkt](https://github.com/flamrdevs/astrolinkt) - Link in Bio Template using Astro, React & TailwindCSS
 - [ixkaito/astro-relative-links](https://github.com/ixkaito/astro-relative-links) - Build Astro with relative links.
+- [webrecorder/archiveweb.page](https://github.com/webrecorder/archiveweb.page) - A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers!
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
 - [dofiltra/browser-manager](https://github.com/dofiltra/browser-manager) - 
 - [rdwz/template-helloworld](https://github.com/rdwz/template-helloworld) - Starting point for a new Remotion project. Run `npm init video` to get this template!
