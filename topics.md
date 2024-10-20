@@ -2566,6 +2566,7 @@
 
 ## others 
 
+- [shssoichiro/oxipng](https://github.com/shssoichiro/oxipng) - Multithreaded PNG optimizer written in Rust
 - [fltk-rs/fltk-rs](https://github.com/fltk-rs/fltk-rs) - Rust bindings for the FLTK GUI library.
 - [AllenDang/PngOptimizier](https://github.com/AllenDang/PngOptimizier) - Cross platform, tiny but ultra fast PNG optimizer
 - [callumlocke/json-formatter](https://github.com/callumlocke/json-formatter) - Makes JSON easy to read.
@@ -2991,7 +2992,7 @@
 - [words/automated-readability](https://github.com/words/automated-readability) - Formula to detect ease of reading according to the Automated Readability Index (1967)
 - [golangci/golangci-web](https://github.com/golangci/golangci-web) - Web for GolangCI
 - [haya14busa/action-bumpr](https://github.com/haya14busa/action-bumpr) - 💥 Bump semantic version tag on merging Pull Requests with specific lables.
-- [ifrOSS/ifrOSS](https://github.com/ifrOSS/ifrOSS) - Übersicht und Kategorisierung von Freien Lizenzen
+- [ifrOSS/ifrOSS](https://github.com/ifrOSS/ifrOSS) - ifrOSS Knowledge Center
 - [webalys-hq/streamline-vectors](https://github.com/webalys-hq/streamline-vectors) - Free vectors from Streamline
 - [rdwz/benchmark](https://github.com/rdwz/benchmark) - 🏋️ Bash Script which runs several Linux benchmarks (Sysbench, UnixBench and Geekbench)
 - [anishathalye/proof-html](https://github.com/anishathalye/proof-html) - A GitHub Action to validate HTML, check links, and more ✅
