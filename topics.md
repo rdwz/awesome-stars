@@ -2566,6 +2566,7 @@
 
 ## others 
 
+- [madmaze/pytesseract](https://github.com/madmaze/pytesseract) - A Python wrapper for Google Tesseract
 - [shssoichiro/oxipng](https://github.com/shssoichiro/oxipng) - Multithreaded PNG optimizer written in Rust
 - [fltk-rs/fltk-rs](https://github.com/fltk-rs/fltk-rs) - Rust bindings for the FLTK GUI library.
 - [AllenDang/PngOptimizier](https://github.com/AllenDang/PngOptimizier) - Cross platform, tiny but ultra fast PNG optimizer
