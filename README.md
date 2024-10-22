@@ -1066,7 +1066,6 @@
 ## Mustache 
 
 - [mend/renovate-ce-ee](https://github.com/mend/renovate-ce-ee) - Mend Renovate Documentation & Examples
-- [linode/apl-core](https://github.com/linode/apl-core) - Application Platform for Linode Kubernetes Engine (or any other K8s)
 
 ## Nim 
 
@@ -1664,6 +1663,7 @@
 
 - [isaron/gitea-kubernetes](https://github.com/isaron/gitea-kubernetes) - Setup Gitea on Kubernetes
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
+- [linode/apl-core](https://github.com/linode/apl-core) - Application Platform for Linode Kubernetes Engine (or any other K8s)
 
 ## Starlark 
 
