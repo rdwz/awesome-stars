@@ -2566,6 +2566,7 @@
 
 ## others 
 
+- [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) - A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful
 - [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, 
 - [ThivaV/image_to_audio](https://github.com/ThivaV/image_to_audio) - image_to_audio
 - [rhysd/wain](https://github.com/rhysd/wain) - WebAssembly implementation from scratch in Safe Rust with zero dependencies
