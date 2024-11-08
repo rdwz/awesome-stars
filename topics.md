@@ -797,7 +797,7 @@
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [larsenwork/postcss-easing-gradients](https://github.com/larsenwork/postcss-easing-gradients) - PostCSS plugin to create smooth linear-gradients that approximate easing functions.
 - [ingram-projects/animxyz](https://github.com/ingram-projects/animxyz) - The first truly composable CSS animation library. Built for Vue, React, SCSS, and CSS, AnimXYZ will bring your website to life.
-- [Benja-media/Ulink](https://github.com/Benja-media/Ulink) - Ulink (Formerly InstaLink) is an open source bio link generator. Ulink uses a simple json file to create a fast biolink! Ulink is a Static site generator that provides your links in a clean Bio link
+- [longitude-digital/Ulink](https://github.com/longitude-digital/Ulink) - Ulink (Formerly InstaLink) is an open source bio link generator. Ulink uses a simple json file to create a fast biolink! Ulink is a Static site generator that provides your links in a clean Bio link
 - [jakobsen/fluid-typography](https://github.com/jakobsen/fluid-typography) - Find the perfect CSS values for your fluid heading, and control how it scales across different viewport widths.
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
 - [JulianCataldo/web-garden](https://github.com/JulianCataldo/web-garden) - Building blocks for making progressive and future-proof websites. Components collection features Astro, HTML, SCSS, JS, TS… Configurations features ESLint, Prettier, Stylelint…
@@ -1754,7 +1754,7 @@
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [soheyldaliraan/instagram_follower_bot_remover](https://github.com/soheyldaliraan/instagram_follower_bot_remover) - Python Script for detecting and blocking Instagram Sub Bots / Fake Followers
 - [NasserToghiri/instagram-bio-link](https://github.com/NasserToghiri/instagram-bio-link) - For better communication in Instagram with your audience, it is better to have a link that audience can get acquainted with our other media and our services. There are sites that give us this link fre
-- [Benja-media/Ulink](https://github.com/Benja-media/Ulink) - Ulink (Formerly InstaLink) is an open source bio link generator. Ulink uses a simple json file to create a fast biolink! Ulink is a Static site generator that provides your links in a clean Bio link
+- [longitude-digital/Ulink](https://github.com/longitude-digital/Ulink) - Ulink (Formerly InstaLink) is an open source bio link generator. Ulink uses a simple json file to create a fast biolink! Ulink is a Static site generator that provides your links in a clean Bio link
 - [juanv911/SocialCounters](https://github.com/juanv911/SocialCounters) - jQuery/PHP - Collection of Social Media APIs that display number of your social media fans. Facebook Likes, Twitter Followers, Instagram Followers, YouTube Subscribers, etc..
 
 ## ios 
@@ -1799,7 +1799,7 @@
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [seriousme/fastify-openapi-glue](https://github.com/seriousme/fastify-openapi-glue) - A plugin for the Fastify  webserver to autogenerate a Fastify configuration based on a OpenApi(v2/v3) specification.
 - [harfbuzz/harfbuzzjs](https://github.com/harfbuzz/harfbuzzjs) - Providing HarfBuzz shaping library for client/server side JavaScript projects
-- [thednp/svg-path-commander](https://github.com/thednp/svg-path-commander) - Typescript tools for advanced processing of SVG path data.
+- [thednp/svg-path-commander](https://github.com/thednp/svg-path-commander) - 🛹 Typescript tools for advanced processing of SVG path data.
 - [play-dl/play-dl](https://github.com/play-dl/play-dl) - Mainly used for Discord js Bots to play music.
 - [Helios-Archives/Trak](https://github.com/Helios-Archives/Trak) - A command line application that gathers detailed information about a user across multiple services
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
@@ -2768,7 +2768,7 @@
 - [jee-r/astro-decap-cms](https://github.com/jee-r/astro-decap-cms) - Integration to add Netlify CMS’s admin dashboard to any Astro project
 - [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨
 - [mauamy/ard2rss](https://github.com/mauamy/ard2rss) - A small api that creates rss feeds for ARD Audiothek shows
-- [ACP-CODE/astro-robots](https://github.com/ACP-CODE/astro-robots) - The lightweight robots.txt generator makes it simple to create compliant robots.txt files specifically for Astro integrations, with zero-config support, an intuitive JSDoc API, and always up-to-date v
+- [ACP-CODE/astro-robots](https://github.com/ACP-CODE/astro-robots) - A reliable robots.txt generator for Astro projects, offering zero-config setup and Verified Bots support.
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [ai-mastering/phaselimiter-gui](https://github.com/ai-mastering/phaselimiter-gui) - 
 - [talves/astro-flex-components](https://github.com/talves/astro-flex-components) - Astro Starter (Typescript, fast-components)
@@ -4085,7 +4085,7 @@
 - [Bazooo/svg-sprite-maker](https://github.com/Bazooo/svg-sprite-maker) - Application to create/edit SVG sprites
 - [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 - [zwelhtetyan/t3-note-taking-app](https://github.com/zwelhtetyan/t3-note-taking-app) - Personal note taking app which supports markdown syntax
-- [thednp/svg-path-commander](https://github.com/thednp/svg-path-commander) - Typescript tools for advanced processing of SVG path data.
+- [thednp/svg-path-commander](https://github.com/thednp/svg-path-commander) - 🛹 Typescript tools for advanced processing of SVG path data.
 - [play-dl/play-dl](https://github.com/play-dl/play-dl) - Mainly used for Discord js Bots to play music.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [DTStack/molecule](https://github.com/DTStack/molecule) - :rocket: A lightweight Web IDE UI framework.
