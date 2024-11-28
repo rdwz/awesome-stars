@@ -126,6 +126,7 @@
 - [themefisher/northendlab-light-astro](https://github.com/themefisher/northendlab-light-astro) - Northendlab is a highly customizable Astro theme designed specifically personal blog.
 - [jpaddeo/treelink](https://github.com/jpaddeo/treelink) - Personal link tree
 - [delucis/astro-badge](https://github.com/delucis/astro-badge) - Badges for Astro projects
+- [sondr3/astro-compressor](https://github.com/sondr3/astro-compressor) - A gzip and brotli compressor for Astro
 - [t3-oss/init.tips](https://github.com/t3-oss/init.tips) - 
 - [Destiner/astro-analytics](https://github.com/Destiner/astro-analytics) - Astro components for site analytics
 - [RocketCommunicationsInc/astro-www](https://github.com/RocketCommunicationsInc/astro-www) - The source code for the Astro UXDS website
@@ -341,6 +342,7 @@
 
 ## Go 
 
+- [kevinburke/tss](https://github.com/kevinburke/tss) - Go port of moreutils/ts
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
@@ -1249,6 +1251,7 @@
 
 ## Python 
 
+- [bulletmark/edir](https://github.com/bulletmark/edir) - Program to rename, remove, and copy files and directories using your editor
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) - A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful
 - [ThivaV/image_to_audio](https://github.com/ThivaV/image_to_audio) - image_to_audio
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
@@ -1898,7 +1901,6 @@
 - [AnWeber/dot-icons](https://github.com/AnWeber/dot-icons) - File Icon Extension for VSCode or VSCodium
 - [originjs/webpack-to-vite](https://github.com/originjs/webpack-to-vite) - Convert a webpack/vue-cli project to vite project. 将 webpack/vue-cli 项目转换为 vite 项目。
 - [aarol/variable-font-helper](https://github.com/aarol/variable-font-helper) - Self host variable fonts from Google Fonts
-- [sondr3/astro-compressor](https://github.com/sondr3/astro-compressor) - A gzip and brotli compressor for Astro
 - [marcolink/contentful-remix-starter-blog](https://github.com/marcolink/contentful-remix-starter-blog) - Remix starter for a Contentful blog (template) project
 - [JustinBeckwith/linkinator](https://github.com/JustinBeckwith/linkinator) - 🐿 Scurry around your site and find all those broken links.
 - [meilisearch/meilisearch-js-plugins](https://github.com/meilisearch/meilisearch-js-plugins) - The search client to use Meilisearch with InstantSearch.
