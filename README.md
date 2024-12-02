@@ -78,6 +78,7 @@
 
 ## Astro 
 
+- [fulldotdev/ui](https://github.com/fulldotdev/ui) - The Astro UI library to build content sites
 - [DBozhinovski/astro-ltree](https://github.com/DBozhinovski/astro-ltree) - A self-hosted Linktree _and_ Linkinbio rolled in one, using Astro and TinaCMS.
 - [florian-lefebvre/astro-integration-template](https://github.com/florian-lefebvre/astro-integration-template) - Check out DELETE_ME.md!
 - [MatthiesenXYZ/astro-hashnode](https://github.com/MatthiesenXYZ/astro-hashnode) - An Integration to bring your Hashnode Headless Blog content into Astro!
@@ -143,7 +144,6 @@
 ## C 
 
 - [kddnewton/tree](https://github.com/kddnewton/tree) - Implementations of the unix tree command
-- [ad-si/Perspec](https://github.com/ad-si/Perspec) - Scriptable desktop app to correct the perspective of images
 - [dcf21/star-charter](https://github.com/dcf21/star-charter) - A command-line tool for producing vector-graphics charts of the night sky in SVG, PDF and PNG formats.
 - [astrological-guru/astro-novas](https://github.com/astrological-guru/astro-novas) - Basic vector astronomy using NOVAS
 - [FreeRADIUS/freeradius-server](https://github.com/FreeRADIUS/freeradius-server) - FreeRADIUS - A multi-protocol policy server.
@@ -484,6 +484,8 @@
 
 ## HTML 
 
+- [jcs/no_color](https://github.com/jcs/no_color) - Website data for no-color.org
+- [bili123/cli-help](https://github.com/bili123/cli-help) - Praktische Hilfe für CLI-Tools - auf Deutsch, im Terminal, mit curl
 - [coravacav/pleaseusecodeblocks](https://github.com/coravacav/pleaseusecodeblocks) - A simple website to help those in need of, well, using code blocks.
 - [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
 - [jdecked/twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone.
@@ -580,6 +582,7 @@
 
 ## Haskell 
 
+- [ad-si/Perspec](https://github.com/ad-si/Perspec) - Scriptable desktop app to correct the perspective of images
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
 - [smallhadroncollider/brok](https://github.com/smallhadroncollider/brok) - Find broken links in text documents
@@ -615,6 +618,7 @@
 
 ## JavaScript 
 
+- [xiangnanscu/degit](https://github.com/xiangnanscu/degit) - Straightforward project scaffolding
 - [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
 - [igorshubovych/markdownlint-cli](https://github.com/igorshubovych/markdownlint-cli) - MarkdownLint Command Line Interface
 - [vorillaz/tabsub](https://github.com/vorillaz/tabsub) - A tiny Pub/Sub library for modern browsers.
@@ -1043,6 +1047,7 @@
 
 ## MDX 
 
+- [bitsundbaeume/publication2023](https://github.com/bitsundbaeume/publication2023) - Publication 2023
 - [astrolicious/astro-tips.dev](https://github.com/astrolicious/astro-tips.dev) - The place for content that goes beyond the official docs, for all Astronauts!
 - [estubmo/learning-threejs](https://github.com/estubmo/learning-threejs) - A simple Astro.js project for learning Three.js with Tailwind CSS, Bun and Biome.
 - [kogakure/website-astro-stefanimhoff.de](https://github.com/kogakure/website-astro-stefanimhoff.de) - My personal website, portfolio, and blog. Build with Astro and Tailwind CSS
@@ -1251,6 +1256,8 @@
 
 ## Python 
 
+- [ilyachch/md_docs-trans-app](https://github.com/ilyachch/md_docs-trans-app) - Application for translation documentation in MD format
+- [ivandokov/phockup](https://github.com/ivandokov/phockup) - Media sorting tool to organize photos and videos from your camera in folders by year, month and day.
 - [bulletmark/edir](https://github.com/bulletmark/edir) - Program to rename, remove, and copy files and directories using your editor
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) - A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful
 - [ThivaV/image_to_audio](https://github.com/ThivaV/image_to_audio) - image_to_audio
@@ -1471,6 +1478,8 @@
 
 ## Rust 
 
+- [sysid/bkmr](https://github.com/sysid/bkmr) - Super fast CLI bookmark manager and launcher
+- [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [alexpasmantier/grip-grab](https://github.com/alexpasmantier/grip-grab) - Hold on tight
 - [rhysd/wain](https://github.com/rhysd/wain) - WebAssembly implementation from scratch in Safe Rust with zero dependencies
 - [shssoichiro/oxipng](https://github.com/shssoichiro/oxipng) - Multithreaded PNG optimizer written in Rust
@@ -1591,6 +1600,7 @@
 
 ## Shell 
 
+- [mickeys/grc_generic_colouriser](https://github.com/mickeys/grc_generic_colouriser) - make command-line work with scrolling output that much less crazy-making
 - [ThatOneCalculator/NerdFetch](https://github.com/ThatOneCalculator/NerdFetch) - A POSIX *nix fetch script using Nerdfonts
 - [andsens/homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash
 - [learnbyexample/learn_gnused](https://github.com/learnbyexample/learn_gnused) - Example based guide to mastering GNU sed
@@ -1702,6 +1712,7 @@
 
 ## TypeScript 
 
+- [PrimeDeviation/chatgpt-advanced](https://github.com/PrimeDeviation/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 - [samuherek/backup-codepen-cli](https://github.com/samuherek/backup-codepen-cli) - CLI tool for backing up your codepen pens into files on your computer. (using puppeteer)
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications
 - [vadimdemedes/ink-ui](https://github.com/vadimdemedes/ink-ui) - 💄 Ink-redible command-line interfaces made easy
@@ -1845,7 +1856,7 @@
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [stormwarning/tailwindcss-capsize](https://github.com/stormwarning/tailwindcss-capsize) - ✂️ Tailwind CSS utility classes for trimming whitespace above & below capital letters.
-- [mcansh/remix-fastify](https://github.com/mcansh/remix-fastify) - Fastify server request handler for Remix
+- [mcansh/remix-fastify](https://github.com/mcansh/remix-fastify) - Fastify server request handler for Remix & React Router
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [rewbs/butterchurn-recorder](https://github.com/rewbs/butterchurn-recorder) - 
 - [formkit/formkit](https://github.com/formkit/formkit) - Vue Forms ⚡️ Supercharged
