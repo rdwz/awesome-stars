@@ -620,6 +620,7 @@
 
 ## JavaScript 
 
+- [anuj-kosambi/autosvg](https://github.com/anuj-kosambi/autosvg) - Autosvg is tracing tool, which can convert image format like (jpg,png,gif) into vector
 - [AleshaOleg/holy-grail-markup](https://github.com/AleshaOleg/holy-grail-markup) - All CSS methodologies compared examples at one place.
 - [xiangnanscu/degit](https://github.com/xiangnanscu/degit) - Straightforward project scaffolding
 - [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
@@ -1015,7 +1016,6 @@
 
 ## Jupyter Notebook 
 
-- [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, 
 - [romsto/Inappropriate-Language-Classifier](https://github.com/romsto/Inappropriate-Language-Classifier) - Online video games need a better system to detect inappropriate language in chat, and using machine learning models could help create a safer and more enjoyable environment for all players.
 - [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - 🔉 Youtube Videos Transcription with OpenAI's Whisper
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
@@ -1263,6 +1263,7 @@
 - [ivandokov/phockup](https://github.com/ivandokov/phockup) - Media sorting tool to organize photos and videos from your camera in folders by year, month and day.
 - [bulletmark/edir](https://github.com/bulletmark/edir) - Program to rename, remove, and copy files and directories using your editor
 - [chaiNNer-org/chaiNNer](https://github.com/chaiNNer-org/chaiNNer) - A node-based image processing GUI aimed at making chaining image processing tasks easy and customizable. Born as an AI upscaling application, chaiNNer has grown into an extremely flexible and powerful
+- [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, 
 - [ThivaV/image_to_audio](https://github.com/ThivaV/image_to_audio) - image_to_audio
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
