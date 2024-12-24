@@ -2592,6 +2592,7 @@
 
 ## others 
 
+- [anuj-kosambi/autosvg](https://github.com/anuj-kosambi/autosvg) - Autosvg is tracing tool, which can convert image format like (jpg,png,gif) into vector
 - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [rr-n4p5t3r/neofetch](https://github.com/rr-n4p5t3r/neofetch) - A commandline system information written in bash. Fork by Alexia Stein. Traditional version.
 - [Tencent/HunyuanVideo](https://github.com/Tencent/HunyuanVideo) - HunyuanVideo: A Systematic Framework For Large Video Generation Model
