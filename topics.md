@@ -2592,6 +2592,8 @@
 
 ## others 
 
+- [intel/openvino-plugins-ai-audacity](https://github.com/intel/openvino-plugins-ai-audacity) - A set of AI-enabled effects, generators, and analyzers for Audacity®.
+- [haoheliu/versatile_audio_super_resolution](https://github.com/haoheliu/versatile_audio_super_resolution) - Versatile audio super resolution (any -&gt; 48kHz) with AudioSR.
 - [anuj-kosambi/autosvg](https://github.com/anuj-kosambi/autosvg) - Autosvg is tracing tool, which can convert image format like (jpg,png,gif) into vector
 - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [rr-n4p5t3r/neofetch](https://github.com/rr-n4p5t3r/neofetch) - A commandline system information written in bash. Fork by Alexia Stein. Traditional version.
