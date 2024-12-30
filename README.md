@@ -349,7 +349,7 @@
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
-- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - The no-build CDN for modern web development.
+- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A no-build CDN for modern web development.
 - [porjo/youtubeuploader](https://github.com/porjo/youtubeuploader) - Scripted uploads to Youtube
 - [a8m/s3tree](https://github.com/a8m/s3tree) - s3tree is a tree command for Amazon S3
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
@@ -621,6 +621,7 @@
 
 ## JavaScript 
 
+- [WebReflection/geo2city](https://github.com/WebReflection/geo2city) - Basic offline reverse geocode
 - [anuj-kosambi/autosvg](https://github.com/anuj-kosambi/autosvg) - Autosvg is tracing tool, which can convert image format like (jpg,png,gif) into vector
 - [AleshaOleg/holy-grail-markup](https://github.com/AleshaOleg/holy-grail-markup) - All CSS methodologies compared examples at one place.
 - [xiangnanscu/degit](https://github.com/xiangnanscu/degit) - Straightforward project scaffolding
@@ -1228,7 +1229,7 @@
 - [libretime/libretime](https://github.com/libretime/libretime) - LibreTime: Radio Broadcast & Automation Platform
 - [adamsilverstein/modern-images-wp](https://github.com/adamsilverstein/modern-images-wp) - 
 - [femto-code/Raspberry-Pi-Dashboard](https://github.com/femto-code/Raspberry-Pi-Dashboard) - Web-App Dashboard to monitor Raspberry Pi hardware and software status. Nothing more than Webserver + PHP required.
-- [agorakit/agorakit](https://github.com/agorakit/agorakit) - Organization tool for citizens' collectives
+- [agorakit/agorakit](https://github.com/agorakit/agorakit) - Groupware for citizens to organize on the Web
 - [MagicLike/readme-typing-svg](https://github.com/MagicLike/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your Github profile readme or repository.
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [filegator/filegator](https://github.com/filegator/filegator) - Powerful Multi-User File Manager
@@ -1258,6 +1259,7 @@
 
 ## Python 
 
+- [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Comprehensive Gradio WebUI for audio processing, powered by Whisper engines (Whisper, Faster-Whisper, Whisper-Timestamped). Features Voice Changer, zero-shot Voice Cloning (E2, F5-TTS), YouTube downlo
 - [haoheliu/versatile_audio_super_resolution](https://github.com/haoheliu/versatile_audio_super_resolution) - Versatile audio super resolution (any -&gt; 48kHz) with AudioSR.
 - [Tencent/HunyuanVideo](https://github.com/Tencent/HunyuanVideo) - HunyuanVideo: A Systematic Framework For Large Video Generation Model
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
@@ -1323,7 +1325,7 @@
 - [kharvd/gpt-cli](https://github.com/kharvd/gpt-cli) - Command-line interface for ChatGPT, Claude and Bard
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [googlefonts/decovar](https://github.com/googlefonts/decovar) - A multistyle decorative variable font by David Berlow
-- [mindflowai/mindflow](https://github.com/mindflowai/mindflow) - 🧠 AI-powered CLI git wrapper, boilerplate code generator, chat history manager, and code search engine to streamline your dev workflow 🌊
+- [mindflowai/mindflow](https://github.com/mindflowai/mindflow) - 🧠 code-awareness
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [DeepLcom/openapi](https://github.com/DeepLcom/openapi) - OpenAPI specification of the DeepL API
@@ -1721,6 +1723,10 @@
 
 ## TypeScript 
 
+- [wobsoriano/bun-wifi-name](https://github.com/wobsoriano/bun-wifi-name) - Get current wifi name in Bun/Node
+- [wobsoriano/blipgloss](https://github.com/wobsoriano/blipgloss) - Style definitions for nice terminal layouts 👄
+- [kyr0/quality-prompts-js](https://github.com/kyr0/quality-prompts-js) - Write Quality Prompts - TypeScript/JavaScript edition. Use and evaluate prompting techniques quickly.
+- [kyr0/offline-geocode-city](https://github.com/kyr0/offline-geocode-city) - 217 kB, tiny offline reverse geocoding library that works anywhere, browser, Node.js, web worker. High performance (S2 cell based). Looks up country and nearest city, given GPS coordinates
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [PrimeDeviation/chatgpt-advanced](https://github.com/PrimeDeviation/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 - [samuherek/backup-codepen-cli](https://github.com/samuherek/backup-codepen-cli) - CLI tool for backing up your codepen pens into files on your computer. (using puppeteer)
@@ -1797,7 +1803,7 @@
 - [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) - Web App: Download just a sub directory from a GitHub repo.
 - [jpmonette/feed](https://github.com/jpmonette/feed) - A RSS, Atom and JSON Feed generator for Node.js, making content syndication simple and intuitive! 🚀
 - [telegraf/telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node.js
-- [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
+- [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [delucis/astro-auto-import](https://github.com/delucis/astro-auto-import) - Auto-import components in Astro projects
 - [IogaMaster/videos](https://github.com/IogaMaster/videos) - Source code of my YouTube videos animated with MotionCanvas
 - [willnguyen1312/zoom-image](https://github.com/willnguyen1312/zoom-image) - A little yet powerful framework agnostic headless library to zoom images on the web
@@ -1859,7 +1865,7 @@
 - [Revenciel/Tina-Astro-Starter](https://github.com/Revenciel/Tina-Astro-Starter) - My Astro + Tina CMS sandbox to build generic features and components that I can reuse for future projects.
 - [advanced-astro/chatgpt-demo](https://github.com/advanced-astro/chatgpt-demo) - Minimal web UI for ChatGPT.
 - [Dogtiti/AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
-- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
+- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini/Claude LLM 应用。
 - [BuilderIO/qwik-tw-vercel-starter-kit](https://github.com/BuilderIO/qwik-tw-vercel-starter-kit) - A starter kit for Qwik on Vercel
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [KonradSzwarc/devscard](https://github.com/KonradSzwarc/devscard) - A fully customizable template to create your online (and paper) resume without writing a single line of code.
