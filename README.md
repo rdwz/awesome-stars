@@ -78,6 +78,7 @@
 
 ## Astro 
 
+- [renovate-bot/jrichy1-_-astro-supabase-starter](https://github.com/renovate-bot/jrichy1-_-astro-supabase-starter) - 
 - [fulldotdev/ui](https://github.com/fulldotdev/ui) - The Astro UI library to build content sites
 - [DBozhinovski/astro-ltree](https://github.com/DBozhinovski/astro-ltree) - A self-hosted Linktree _and_ Linkinbio rolled in one, using Astro and TinaCMS.
 - [florian-lefebvre/astro-integration-template](https://github.com/florian-lefebvre/astro-integration-template) - Check out DELETE_ME.md!
@@ -110,7 +111,7 @@
 - [SanderGeraedts/Astro-Showcase](https://github.com/SanderGeraedts/Astro-Showcase) - A small project to test out the new dynamic routing API of astro (and tailwind)
 - [shaunchander/astro-pwa-starter](https://github.com/shaunchander/astro-pwa-starter) - ✨ An opinionated Astro starter for building robust static websites.
 - [manuelernestog/astropod](https://github.com/manuelernestog/astropod) - Free and open source self-hosting serverless podcast solution
-- [unify-ui-dev/agency-landing-page-Astrojs](https://github.com/unify-ui-dev/agency-landing-page-Astrojs) - A simple agency landing page made with astrojs and tailwindcss
+- [unoforge/agency-landing-page-Astrojs](https://github.com/unoforge/agency-landing-page-Astrojs) - A simple agency landing page made with astrojs and tailwindcss
 - [paabloLC/astro-neumorphism](https://github.com/paabloLC/astro-neumorphism) - A simple and responsive template focused on the entire UI design style with neumorphism styles. Built with AstroJS, TypeScript, Preact, and styled with Tailwind CSS.
 - [ericrisco/astro-cloudinary-image](https://github.com/ericrisco/astro-cloudinary-image) - This Astro component makes it easy to wrap the Cloudinary URL Generator library to dynamically generate and optimize images from the Cloudinary service.
 - [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 5 and Tailwind CSS. Astro starter theme.
@@ -149,7 +150,7 @@
 - [aubio/aubio](https://github.com/aubio/aubio) - a library for audio and music analysis
 - [rsms/markdown-wasm](https://github.com/rsms/markdown-wasm) - Very fast Markdown parser and HTML generator implemented in WebAssembly, based on md4c
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
-- [CZ-NIC/knot-resolver](https://github.com/CZ-NIC/knot-resolver) - Knot Resolver - resolve DNS names like it's 2024
+- [CZ-NIC/knot-resolver](https://github.com/CZ-NIC/knot-resolver) - Knot Resolver - resolve DNS names like it's 2025
 - [raylabpro/old-radio-sound](https://github.com/raylabpro/old-radio-sound) - The server to emulate old warm AM radio sound (like Fallout styled)
 - [kornelski/pngquant](https://github.com/kornelski/pngquant) - Lossy PNG compressor — pngquant command based on libimagequant library
 - [autotrace/autotrace](https://github.com/autotrace/autotrace) - bitmap to vector graphics converter
@@ -271,7 +272,7 @@
 - [longitude-digital/Ulink](https://github.com/longitude-digital/Ulink) - Ulink (Formerly InstaLink) is an open source bio link generator. Ulink uses a simple json file to create a fast biolink! Ulink is a Static site generator that provides your links in a clean Bio link
 - [chinchang/hint.css](https://github.com/chinchang/hint.css) - A CSS only tooltip library for your lovely websites.
 - [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
-- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2024
+- [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2025
 - [UniversalGUI/UGUI](https://github.com/UniversalGUI/UGUI) - Universal Graphical User Interface
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [johnggli/linktree](https://github.com/johnggli/linktree) - Simple site to group all my profiles on social networks in one place. A free Linktree alternative.
@@ -486,6 +487,7 @@
 
 ## HTML 
 
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [jcs/no_color](https://github.com/jcs/no_color) - Website data for no-color.org
 - [bili123/cli-help](https://github.com/bili123/cli-help) - Praktische Hilfe für CLI-Tools - auf Deutsch, im Terminal, mit curl
 - [coravacav/pleaseusecodeblocks](https://github.com/coravacav/pleaseusecodeblocks) - A simple website to help those in need of, well, using code blocks.
@@ -1260,6 +1262,7 @@
 
 ## Python 
 
+- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Comprehensive Gradio WebUI for audio processing, powered by Whisper engines (Whisper, Faster-Whisper, Whisper-Timestamped). Features Voice Changer, zero-shot Voice Cloning (E2, F5-TTS), YouTube downlo
 - [haoheliu/versatile_audio_super_resolution](https://github.com/haoheliu/versatile_audio_super_resolution) - Versatile audio super resolution (any -&gt; 48kHz) with AudioSR.
 - [Tencent/HunyuanVideo](https://github.com/Tencent/HunyuanVideo) - HunyuanVideo: A Systematic Framework For Large Video Generation Model
@@ -1487,6 +1490,7 @@
 
 ## Rust 
 
+- [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build portable, modular & lightweight Fullstack Agents
 - [drone-1x/acm](https://github.com/drone-1x/acm) - A dead-simple AI-powered CLI tool for effortlessly crafting meaningful Git commit messages
@@ -1725,6 +1729,7 @@
 
 ## TypeScript 
 
+- [scttcper/tinycolor](https://github.com/scttcper/tinycolor) - 🎨 Color manipulation and conversion
 - [microsoft/tui-test](https://github.com/microsoft/tui-test) - An end-to-end terminal testing framework for CLI and TUI experiences
 - [wobsoriano/bun-wifi-name](https://github.com/wobsoriano/bun-wifi-name) - Get current wifi name in Bun/Node
 - [wobsoriano/blipgloss](https://github.com/wobsoriano/blipgloss) - Style definitions for nice terminal layouts 👄
