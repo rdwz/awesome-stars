@@ -1490,10 +1490,10 @@
 
 ## Rust 
 
+- [juhaku/utoipa](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
 - [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build portable, modular & lightweight Fullstack Agents
-- [drone-1x/acm](https://github.com/drone-1x/acm) - A dead-simple AI-powered CLI tool for effortlessly crafting meaningful Git commit messages
 - [DevinR528/cargo-sort](https://github.com/DevinR528/cargo-sort) - Check if tables and items in a .toml file are lexically sorted
 - [sysid/bkmr](https://github.com/sysid/bkmr) - Super fast CLI bookmark manager and launcher
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
