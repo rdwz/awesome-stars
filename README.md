@@ -81,7 +81,7 @@
 - [renovate-bot/jrichy1-_-astro-supabase-starter](https://github.com/renovate-bot/jrichy1-_-astro-supabase-starter) - 
 - [fulldotdev/ui](https://github.com/fulldotdev/ui) - The Astro UI library to build content sites
 - [DBozhinovski/astro-ltree](https://github.com/DBozhinovski/astro-ltree) - A self-hosted Linktree _and_ Linkinbio rolled in one, using Astro and TinaCMS.
-- [florian-lefebvre/astro-integration-template](https://github.com/florian-lefebvre/astro-integration-template) - Check out DELETE_ME.md!
+- [florian-lefebvre/astro-integration-template](https://github.com/florian-lefebvre/astro-integration-template) - Publish integrations within minutes.
 - [MatthiesenXYZ/astro-hashnode](https://github.com/MatthiesenXYZ/astro-hashnode) - An Integration to bring your Hashnode Headless Blog content into Astro!
 - [morinokami/astro-integration-template](https://github.com/morinokami/astro-integration-template) - Template for Astro integrations
 - [sebastianterleira/astro-spotify-clone](https://github.com/sebastianterleira/astro-spotify-clone) - A Spotify clone made with Astro.js + Spotify API + View Transitions 🚀
@@ -304,7 +304,7 @@
 
 - [Antoinegtir/instagram-threads](https://github.com/Antoinegtir/instagram-threads) - Fully functional clone of Threads
 - [flutter/samples](https://github.com/flutter/samples) - A collection of Flutter examples and demos
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [eniscakircali/2-Match](https://github.com/eniscakircali/2-Match) - An application that matches users by their character types
 - [Codelessly/ResponsiveFramework](https://github.com/Codelessly/ResponsiveFramework) - Easily make Flutter apps responsive. Automatically adapt UI to different screen sizes. Responsiveness made simple. Demo: https://gallery.codelessly.com/flutterwebsites/minimal/
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
@@ -534,7 +534,7 @@
 - [5t3ph/course-structure](https://github.com/5t3ph/course-structure) - A template to manage lessons for a related course using yarn workspaces.
 - [Misfits-Rebels-Outcasts/WebAssemblyMan](https://github.com/Misfits-Rebels-Outcasts/WebAssemblyMan) - WebAssemblyMan website
 - [shadawck/awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks) - Collection of tools to build beautiful command line interface in different languages
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [spdx/license-list-data](https://github.com/spdx/license-list-data) - Various data formats for the SPDX License List including RDFa, HTML, Text, and JSON
 - [SampurnaC/chrome_extension_fcc](https://github.com/SampurnaC/chrome_extension_fcc) - 
@@ -656,7 +656,7 @@
 - [mathdroid/react-moon-toggle](https://github.com/mathdroid/react-moon-toggle) - 🌕🌑 Toggle and animate based on moon phases emoji
 - [umd-mith/webvtt-player](https://github.com/umd-mith/webvtt-player) - A React audio player & transcription viewer.
 - [ApayRus/direct-link](https://github.com/ApayRus/direct-link) - A downloader, that gets you access to direct links to youtube's:  video (mp4), audio (m4a), captions/subtitles (.vtt), thumbnails (webp).
-- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Netlify/Decap CMS alternative. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support among hundreds of improvements. Open source & free. Made with Svelte.
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Netlify/Decap CMS alternative. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support among 100s of improvements. Open source & free. Made with Svelte.
 - [is-probably-gay/is-probably-gay](https://github.com/is-probably-gay/is-probably-gay) - Self-service is-probably.gay subdomain registration
 - [elrumordelaluz/draGGradients](https://github.com/elrumordelaluz/draGGradients) - A simple tool to generate and customize multiple css3 radial gradients.
 - [bogdaaamn/tracker-radar](https://github.com/bogdaaamn/tracker-radar) - Data set of top third party web domains with rich metadata about them
@@ -913,7 +913,7 @@
 - [BrowserSync/browser-sync](https://github.com/BrowserSync/browser-sync) - Keep multiple browsers & devices in sync when building websites. https://browsersync.io
 - [Sav22999/emoji](https://github.com/Sav22999/emoji) - "Emoji" is a Firefox add-on where you can find emojis and copy them with a single click.
 - [wesbos/awesome-uses](https://github.com/wesbos/awesome-uses) - A list of /uses pages detailing developer setups, gear, software and configs.
-- [fastify/benchmarks](https://github.com/fastify/benchmarks) - Fast and low overhead web framework fastify benchmarks.
+- [fastify/benchmarks](https://github.com/fastify/benchmarks) - Fast and low overhead web framework fastify benchmarks
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 - [AsyncBanana/microdiff](https://github.com/AsyncBanana/microdiff) - A fast, zero dependency object and array comparison library. Significantly faster than most other deep comparison libraries and has full TypeScript support.
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
@@ -1315,7 +1315,7 @@
 - [Zeeshanahmad4/Threads-Scraper](https://github.com/Zeeshanahmad4/Threads-Scraper) - A Social media scraper for threads.net , The scraper allows you to collect various information about threads and users on Threads.
 - [dmytrostriletskyi/threads-net](https://github.com/dmytrostriletskyi/threads-net) - Unofficial and reverse-engineered Threads (threads.net) Python API wrapper. Created for academic purposes and is not intended to be used in real software.
 - [alwaysdata/alcli](https://github.com/alwaysdata/alcli) - alwaysdata command line interface
-- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell.
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [zh-plus/openlrc](https://github.com/zh-plus/openlrc) - Transcribe and translate voice into LRC file using Whisper and LLMs (GPT, Claude, et,al). 使用whisper和LLM(GPT，Claude等)来转录、翻译你的音频为字幕文件。
 - [simonw/strip-tags](https://github.com/simonw/strip-tags) - CLI tool for stripping tags from HTML
 - [Ngz91/Eunomia](https://github.com/Ngz91/Eunomia) - Analyze your code locally using a GPT LLM.
@@ -1393,7 +1393,7 @@
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [soheyldaliraan/instagram_follower_bot_remover](https://github.com/soheyldaliraan/instagram_follower_bot_remover) - Python Script for detecting and blocking Instagram Sub Bots / Fake Followers
 - [julianps/kontrolx1](https://github.com/julianps/kontrolx1) - Ableton Live Control Surface for NI Kontrol X1 (MKI)
-- [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best source for dashboard icons.
+- [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - The best source for dashboard icons.
 - [rbsec/dnscan](https://github.com/rbsec/dnscan) - 
 - [buildbot/buildbot](https://github.com/buildbot/buildbot) - Python-based continuous integration testing framework; your pull requests are more than welcome!
 - [liberapay/liberapay.com](https://github.com/liberapay/liberapay.com) - Source code of the recurrent donations platform Liberapay
@@ -1490,6 +1490,11 @@
 
 ## Rust 
 
+- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
+- [svg-rust/svgo-rs](https://github.com/svg-rust/svgo-rs) - Speedy SVGO rewritten in Rust 🦀. Tool for optimizing SVG files.
+- [kornelski/cavif-rs](https://github.com/kornelski/cavif-rs) - AVIF image creator in pure Rust
+- [jondot/devstart](https://github.com/jondot/devstart) - Devstart: run dev tasks without thinking
+- [1070rik/svgo-rs](https://github.com/1070rik/svgo-rs) - Speedy SVGO rewrite in Rust
 - [juhaku/utoipa](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
 - [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
@@ -1662,7 +1667,7 @@
 - [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
 - [carloscuesta/materialshell](https://github.com/carloscuesta/materialshell) - A material design theme for your terminal. ✨
 - [PowerDNS/pdns-builder](https://github.com/PowerDNS/pdns-builder) - Infrastructure for creating Dockerfiles for package building
-- [drwetter/testssl.sh](https://github.com/drwetter/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
+- [testssl/testssl.sh](https://github.com/testssl/testssl.sh) - Testing TLS/SSL encryption anywhere on any port
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [raylee/tldr-sh-client](https://github.com/raylee/tldr-sh-client) - Simplified and community-driven man pages
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
@@ -1729,6 +1734,7 @@
 
 ## TypeScript 
 
+- [hudy9x/huditor](https://github.com/hudy9x/huditor) - A simple code editor wrote by Rust and Reactjs
 - [scttcper/tinycolor](https://github.com/scttcper/tinycolor) - 🎨 Color manipulation and conversion
 - [microsoft/tui-test](https://github.com/microsoft/tui-test) - An end-to-end terminal testing framework for CLI and TUI experiences
 - [wobsoriano/bun-wifi-name](https://github.com/wobsoriano/bun-wifi-name) - Get current wifi name in Bun/Node
