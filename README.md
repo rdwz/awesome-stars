@@ -94,6 +94,7 @@
 - [EmaSuriano/astro-art-portfolio](https://github.com/EmaSuriano/astro-art-portfolio) - Minimalistic Art showcase built with Astro and connected with Notion API
 - [leabs/astro-tailwind-flowbite-template](https://github.com/leabs/astro-tailwind-flowbite-template) - A base for projects using Astro, Tailwind, and Flowbite UI components
 - [netlify-templates/astro-quickstart](https://github.com/netlify-templates/astro-quickstart) - A bare-bones Astro template to get you deployed to Netlify fast!
+- [astro-reactive/astro-reactive](https://github.com/astro-reactive/astro-reactive) - Let your data build your UI, with Astro components
 - [yoanbernabeu/LinkTreeFreeClone](https://github.com/yoanbernabeu/LinkTreeFreeClone) - LinkTreeFreeClone is a LinkTree clone built with Astro and Tailwind
 - [talves/astro-flex-components](https://github.com/talves/astro-flex-components) - Astro Starter (Typescript, fast-components)
 - [treefarmstudio/astro-template-foundation](https://github.com/treefarmstudio/astro-template-foundation) - An opinionated foundation/starter repo for new Astro themes we create.
@@ -142,6 +143,7 @@
 
 ## C 
 
+- [neurobin/shc](https://github.com/neurobin/shc) - Shell script compiler
 - [kddnewton/tree](https://github.com/kddnewton/tree) - Implementations of the unix tree command
 - [dcf21/star-charter](https://github.com/dcf21/star-charter) - A command-line tool for producing vector-graphics charts of the night sky in SVG, PDF and PNG formats.
 - [astrological-guru/astro-novas](https://github.com/astrological-guru/astro-novas) - Basic vector astronomy using NOVAS
@@ -343,6 +345,8 @@
 
 ## Go 
 
+- [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
+- [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [raystack/meteor](https://github.com/raystack/meteor) - Meteor is an easy-to-use, plugin-driven metadata collection framework to extract data from different sources and sink to any data catalog.
 - [kevinburke/tss](https://github.com/kevinburke/tss) - Go port of moreutils/ts
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -1627,6 +1631,7 @@
 
 ## Shell 
 
+- [lukechilds/zsh-better-npm-completion](https://github.com/lukechilds/zsh-better-npm-completion) - Better completion for npm
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 385 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [zma/usefulscripts](https://github.com/zma/usefulscripts) - Useful shell scripts for Linux and macOS
 - [rr-n4p5t3r/neofetch](https://github.com/rr-n4p5t3r/neofetch) - A commandline system information written in bash. Fork by Alexia Stein. Traditional version.
@@ -1740,6 +1745,8 @@
 
 ## TypeScript 
 
+- [marionebl/term-schemes](https://github.com/marionebl/term-schemes) - Parse and normalize common terminal emulator color schemes
+- [holbrookdev/ok-color-picker](https://github.com/holbrookdev/ok-color-picker) - 🎨 Pick colors using the Okhsv and Okhsl color spaces (based on Oklab).
 - [jsheaven/easybuild](https://github.com/jsheaven/easybuild) - Super-fast and simple IIFE, ESM and CJS bundler for JavaScript and TypeScript. Comes with an easy API and CLI. One file in, one file out. Supports node and browser output. Generates .map and .d.ts fil
 - [hudy9x/huditor](https://github.com/hudy9x/huditor) - A simple code editor wrote by Rust and Reactjs
 - [scttcper/tinycolor](https://github.com/scttcper/tinycolor) - 🎨 Color manipulation and conversion
@@ -1886,7 +1893,7 @@
 - [Revenciel/Tina-Astro-Starter](https://github.com/Revenciel/Tina-Astro-Starter) - My Astro + Tina CMS sandbox to build generic features and components that I can reuse for future projects.
 - [advanced-astro/chatgpt-demo](https://github.com/advanced-astro/chatgpt-demo) - Minimal web UI for ChatGPT.
 - [Dogtiti/AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
-- [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini/Claude LLM 应用。
+- [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Local and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [BuilderIO/qwik-tw-vercel-starter-kit](https://github.com/BuilderIO/qwik-tw-vercel-starter-kit) - A starter kit for Qwik on Vercel
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [KonradSzwarc/devscard](https://github.com/KonradSzwarc/devscard) - A fully customizable template to create your online (and paper) resume without writing a single line of code.
