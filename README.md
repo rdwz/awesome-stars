@@ -155,7 +155,6 @@
 - [raylabpro/old-radio-sound](https://github.com/raylabpro/old-radio-sound) - The server to emulate old warm AM radio sound (like Fallout styled)
 - [kornelski/pngquant](https://github.com/kornelski/pngquant) - Lossy PNG compressor — pngquant command based on libimagequant library
 - [autotrace/autotrace](https://github.com/autotrace/autotrace) - bitmap to vector graphics converter
-- [Unreal-Dan/RekordBoxSongExporter](https://github.com/Unreal-Dan/RekordBoxSongExporter) - A hack for Rekordbox on Windows x64 to export track information for realtime integration with OBS
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [fontforge/fontforge](https://github.com/fontforge/fontforge) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux
 - [CZ-NIC/knot](https://github.com/CZ-NIC/knot) - A mirrored repository
@@ -221,6 +220,7 @@
 - [cloudinary/ssimulacra2](https://github.com/cloudinary/ssimulacra2) - SSIMULACRA 2. Perceptual metric.
 - [mozilla/bergamot-translator](https://github.com/mozilla/bergamot-translator) - INACTIVE - Bergamot translator
 - [vc64web/virtualc64web](https://github.com/vc64web/virtualc64web) - vc64web - Commodore C64  Emulator for iPad iPhone Android and the Web with CSDb access for thousands of demos at your fingertip.
+- [Unreal-Dan/RekordBoxSongExporter](https://github.com/Unreal-Dan/RekordBoxSongExporter) - A hack for Rekordbox on Windows x64 to export track information for realtime integration with OBS
 - [Vhonowslend/StreamFX-Public](https://github.com/Vhonowslend/StreamFX-Public) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here
 - [spotify/annoy](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
 - [PowerDNS/pdns](https://github.com/PowerDNS/pdns) - PowerDNS Authoritative, PowerDNS Recursor, dnsdist
@@ -331,7 +331,6 @@
 
 ## Elixir 
 
-- [benbusby/farside](https://github.com/benbusby/farside) - A smart redirecting gateway for various frontend services
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
 ## GLSL 
@@ -347,6 +346,7 @@
 
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [raystack/meteor](https://github.com/raystack/meteor) - Meteor is an easy-to-use, plugin-driven metadata collection framework to extract data from different sources and sink to any data catalog.
 - [kevinburke/tss](https://github.com/kevinburke/tss) - Go port of moreutils/ts
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -461,6 +461,7 @@
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
+- [benbusby/farside](https://github.com/benbusby/farside) - A smart redirecting gateway for various frontend services
 - [nextdns/nextdns](https://github.com/nextdns/nextdns) - NextDNS CLI client (DoH Proxy)
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
 - [d3mondev/puredns](https://github.com/d3mondev/puredns) - Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
@@ -625,6 +626,7 @@
 
 ## JavaScript 
 
+- [deepakness/putout](https://github.com/deepakness/putout) - PutOut is an open-source, self-hosted solution that turns your ebook chapters into beautiful, responsive websites.
 - [sindresorhus/open-cli](https://github.com/sindresorhus/open-cli) - Open stuff like URLs, files, executables. Cross-platform.
 - [WebReflection/geo2city](https://github.com/WebReflection/geo2city) - Basic offline reverse geocode
 - [anuj-kosambi/autosvg](https://github.com/anuj-kosambi/autosvg) - Autosvg is tracing tool, which can convert image format like (jpg,png,gif) into vector
@@ -643,7 +645,7 @@
 - [jaywcjlove/colors-cli](https://github.com/jaywcjlove/colors-cli) - ಠ_ಠ  Terminal string styling done right.
 - [hikarock/n7m](https://github.com/hikarock/n7m) - 💇‍♂️ n7m is numeronym 💇‍♀️
 - [tomayac/SVGcode](https://github.com/tomayac/SVGcode) - Convert color bitmap images to color SVG vector images.
-- [devXprite/wettr](https://github.com/devXprite/wettr) - 🌦 Easy way to  check Weather via the command line.
+- [devxprite/wettr](https://github.com/devxprite/wettr) - 🌦 Easy way to  check Weather via the command line.
 - [ahmadnassri/benchmark-node-clone](https://github.com/ahmadnassri/benchmark-node-clone) - Node Clone Benchmarks
 - [pablopunk/miny](https://github.com/pablopunk/miny) - The minimal module generator that generated itself
 - [node-formidable/formidable](https://github.com/node-formidable/formidable) - The most used, flexible, fast and streaming parser for multipart form data. Supports uploading to serverless environments, AWS S3, Azure, GCP or the filesystem. Used in production.
@@ -675,7 +677,7 @@
 - [infokiller/web-search-navigator](https://github.com/infokiller/web-search-navigator) - Web extension that adds keyboard shortcuts to Google, YouTube, Github, Amazon, and others (Chrome/Firefox/Edge/Safari)
 - [unlayer/playgrounds](https://github.com/unlayer/playgrounds) - Unlayer Playgrounds
 - [chengyin/WhatFont-Bookmarklet](https://github.com/chengyin/WhatFont-Bookmarklet) - The core of WhatFont Tool
-- [nuejs/nue](https://github.com/nuejs/nue) - The Design Engineering Framework for the Web
+- [nuejs/nue](https://github.com/nuejs/nue) - Standards first web framework
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [webdiscus/ansis](https://github.com/webdiscus/ansis) - ANSI Colors in Node.js. Small and fast CJS/ESM module to colorize terminal output. Supports Bun, Deno, Next.JS.
 - [fontello/wawoff2](https://github.com/fontello/wawoff2) - WebAssembly build of Google's woff2
@@ -1024,6 +1026,7 @@
 ## Jupyter Notebook 
 
 - [romsto/Inappropriate-Language-Classifier](https://github.com/romsto/Inappropriate-Language-Classifier) - Online video games need a better system to detect inappropriate language in chat, and using machine learning models could help create a safer and more enjoyable environment for all players.
+- [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - 🔉 Youtube Videos Transcription with OpenAI's Whisper
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
@@ -1106,6 +1109,7 @@
 
 ## Others 
 
+- [Jieiku/zola-themes-benchmarks](https://github.com/Jieiku/zola-themes-benchmarks) - 
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [adrianlarion/useful-sed](https://github.com/adrianlarion/useful-sed) - Useful sed scripts & patterns.
 - [leobeeson/llm_benchmarks](https://github.com/leobeeson/llm_benchmarks) - A collection of benchmarks and datasets for evaluating LLM.
@@ -1153,7 +1157,7 @@
 - [Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template) - An awesome README template for your projects!
 - [alvessteve/awesome-green-it](https://github.com/alvessteve/awesome-green-it) - An awesome list of sites/books about green IT. Because ecology matters !!
 - [thomkrupa/awesome-climate-tech](https://github.com/thomkrupa/awesome-climate-tech) - A collection of awesome things regarding the Climate tech ecosystem.
-- [thegreenwebfoundation/carbon.txt](https://github.com/thegreenwebfoundation/carbon.txt) - A proposed convention for making it possible demonstrate that your infrastucture uses green power
+- [thegreenwebfoundation/carbon.txt](https://github.com/thegreenwebfoundation/carbon.txt) - Where we manage the syntax and specification for the carbon.txt project
 - [deta/awesome-deta](https://github.com/deta/awesome-deta) - Awesome Deta Stuff
 - [dendronhq/awesome-dendron](https://github.com/dendronhq/awesome-dendron) - A big list of Dendron docs, talks, tools, examples, articles, extensions, vaults, showcases, and more that the internet has to offer.
 - [bigdatabysumitm/NotesOfYouTubeSQLSeries](https://github.com/bigdatabysumitm/NotesOfYouTubeSQLSeries) - 
@@ -1267,6 +1271,8 @@
 
 ## Python 
 
+- [bit-team/backintime](https://github.com/bit-team/backintime) - A comfortable and well-configurable graphical Frontend for incremental backups, with a command-line version also available. Modified files are transferred, while unchanged files are linked to the new 
+- [Gutenberg-Labo/Otomanopee](https://github.com/Gutenberg-Labo/Otomanopee) - オとマのペ / Otomanopee (original designed Japanese font) for Google Fonts
 - [ietf-tools/svgcheck](https://github.com/ietf-tools/svgcheck) - Check SVG against RFC schema
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
 - [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
@@ -1352,7 +1358,6 @@
 - [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - Make bilingual epub books Using AI translate
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [ahmetoner/whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice) - OpenAI Whisper ASR Webservice API
-- [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [rsheeter/colorize](https://github.com/rsheeter/colorize) - Random acts of hacking on color fonts
 - [rsheeter/Bungee](https://github.com/rsheeter/Bungee) - A chromatic signage typeface for vertical and horizontal setting.
@@ -1499,6 +1504,7 @@
 
 ## Rust 
 
+- [rssblue/tools](https://github.com/rssblue/tools) - 
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [svg-rust/svgo-rs](https://github.com/svg-rust/svgo-rs) - Speedy SVGO rewritten in Rust 🦀. Tool for optimizing SVG files.
 - [kornelski/cavif-rs](https://github.com/kornelski/cavif-rs) - AVIF image creator in pure Rust
@@ -1595,7 +1601,7 @@
 - [realaravinth/gitpad](https://github.com/realaravinth/gitpad) - Self-Hosted alternative to GitHub Gists
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search API that fits effortlessly into your apps, websites, and workflow
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [dominikwilkowski/cfonts](https://github.com/dominikwilkowski/cfonts) - Sexy fonts for the console
 - [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
@@ -1631,6 +1637,8 @@
 
 ## Shell 
 
+- [Sushrut1101/GoFile-Upload](https://github.com/Sushrut1101/GoFile-Upload) - A Simple Script to upload Files to gofile.io via Terminal (CLI). Written in Bash.
+- [matthewlarkin/bare.sh](https://github.com/matthewlarkin/bare.sh) - bare.sh is a collection of bare bones shell scripts for simplifying various tasks such as API calls (OpenAI, Stripe, Postmark, etc), video and audio processing, and much more.
 - [lukechilds/zsh-better-npm-completion](https://github.com/lukechilds/zsh-better-npm-completion) - Better completion for npm
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 385 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [zma/usefulscripts](https://github.com/zma/usefulscripts) - Useful shell scripts for Linux and macOS
@@ -1745,6 +1753,7 @@
 
 ## TypeScript 
 
+- [rafalzawadzki/spellbook-forge](https://github.com/rafalzawadzki/spellbook-forge) - ✨ Make your LLM prompts executable and version controlled. ✨
 - [marionebl/term-schemes](https://github.com/marionebl/term-schemes) - Parse and normalize common terminal emulator color schemes
 - [holbrookdev/ok-color-picker](https://github.com/holbrookdev/ok-color-picker) - 🎨 Pick colors using the Okhsv and Okhsl color spaces (based on Oklab).
 - [jsheaven/easybuild](https://github.com/jsheaven/easybuild) - Super-fast and simple IIFE, ESM and CJS bundler for JavaScript and TypeScript. Comes with an easy API and CLI. One file in, one file out. Supports node and browser output. Generates .map and .d.ts fil
@@ -1755,7 +1764,6 @@
 - [wobsoriano/blipgloss](https://github.com/wobsoriano/blipgloss) - Style definitions for nice terminal layouts 👄
 - [kyr0/quality-prompts-js](https://github.com/kyr0/quality-prompts-js) - Write Quality Prompts - TypeScript/JavaScript edition. Use and evaluate prompting techniques quickly.
 - [kyr0/offline-geocode-city](https://github.com/kyr0/offline-geocode-city) - 217 kB, tiny offline reverse geocoding library that works anywhere, browser, Node.js, web worker. High performance (S2 cell based). Looks up country and nearest city, given GPS coordinates
-- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [PrimeDeviation/chatgpt-advanced](https://github.com/PrimeDeviation/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 - [samuherek/backup-codepen-cli](https://github.com/samuherek/backup-codepen-cli) - CLI tool for backing up your codepen pens into files on your computer. (using puppeteer)
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications
