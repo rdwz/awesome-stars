@@ -353,7 +353,7 @@
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
-- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A no-build CDN for modern web development.
+- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A nobuild content delivery network(CDN) for modern web development.
 - [porjo/youtubeuploader](https://github.com/porjo/youtubeuploader) - Scripted uploads to Youtube
 - [a8m/s3tree](https://github.com/a8m/s3tree) - s3tree is a tree command for Amazon S3
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
