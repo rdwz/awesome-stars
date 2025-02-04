@@ -4433,7 +4433,6 @@
 
 ## web 
 
-- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A no-build CDN for modern web development.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [ServiceStack/ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
@@ -4468,6 +4467,7 @@
 
 ## web-development 
 
+- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A nobuild content delivery network(CDN) for modern web development.
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
 - [xemantic/shader-web-background](https://github.com/xemantic/shader-web-background) - Displays GLSL fragment shaders as a website background. Supports offscreen buffers and floating point textures on almost any browser and hardware. Compatible with Shadertoy.
 - [mdn/content](https://github.com/mdn/content) - The content behind MDN Web Docs
