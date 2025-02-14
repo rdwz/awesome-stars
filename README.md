@@ -133,7 +133,7 @@
 - [RocketCommunicationsInc/astro-www](https://github.com/RocketCommunicationsInc/astro-www) - The source code for the Astro UXDS website
 - [christopher-kapic/astro-blanding](https://github.com/christopher-kapic/astro-blanding) - A template for agencies/businesses to get a landing page/website built quickly using Astro, Svelte, and TailwindCSS
 - [delucis/astro-embed](https://github.com/delucis/astro-embed) - Low-JavaScript embed components for Astro websites
-- [markteekman/accessible-astro-starter](https://github.com/markteekman/accessible-astro-starter) - An Accessible Starter Theme for Astro 5.0 including accessibility features such as landmarks, better focus-outline and skip-links navigation. Ships with Tailwind, Prettier and ESLint support.
+- [incluud/accessible-astro-starter](https://github.com/incluud/accessible-astro-starter) - An Accessible Starter Theme for Astro 5+ including accessibility features such as landmarks, better focus-outline and skip-links navigation. Ships with Tailwind, Prettier and ESLint support.
 - [mhyfritz/astro-landing-page](https://github.com/mhyfritz/astro-landing-page) - An Astro + Tailwind CSS Example/Template for Landing Pages
 - [aFuzzyBear/astro-academy](https://github.com/aFuzzyBear/astro-academy) - 
 
@@ -681,7 +681,7 @@
 - [chengyin/WhatFont-Bookmarklet](https://github.com/chengyin/WhatFont-Bookmarklet) - The core of WhatFont Tool
 - [nuejs/nue](https://github.com/nuejs/nue) - Standards first web framework
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
-- [webdiscus/ansis](https://github.com/webdiscus/ansis) - A Node.js library for terminal styling with ANSI colors, supporting both CJS and ESM. Compatible with Bun, Deno, Next.JS.
+- [webdiscus/ansis](https://github.com/webdiscus/ansis) - CJS/ESM library for applying ANSI colors in terminal or Chromium-based browser console. Compatible with Bun, Deno, Next.JS.
 - [fontello/wawoff2](https://github.com/fontello/wawoff2) - WebAssembly build of Google's woff2
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [rinturaj/tailwind-material-3](https://github.com/rinturaj/tailwind-material-3) - Tailwind Material 3 is a library that provides ready-to-use UI components for Tailwind CSS users. It includes a range of customizable components such as buttons, cards, and forms, as well as useful ut
