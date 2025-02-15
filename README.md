@@ -1096,7 +1096,7 @@
 
 ## Nix 
 
-- [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht]
+- [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=Lassulus Enzime iFreilicht Mic92 phaer]
 - [chrillefkr/disko-images](https://github.com/chrillefkr/disko-images) - Create disk image files from NixOS + disko configuration.
 
 ## Nunjucks 
