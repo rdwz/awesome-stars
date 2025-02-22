@@ -324,7 +324,7 @@
 - [emibcn/badge-action](https://github.com/emibcn/badge-action) - Create a badge using GitHub Actions and GitHub Workflow CPU time (no 3rd parties servers)
 - [SonarSource/docker-sonarqube](https://github.com/SonarSource/docker-sonarqube) - :whale: SonarQube in Docker
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
-- [linuxserver/docker-booksonic-air](https://github.com/linuxserver/docker-booksonic-air) - 
+- [linuxserver-archive/docker-booksonic-air](https://github.com/linuxserver-archive/docker-booksonic-air) - 
 - [michellabbe/docker-iperf3](https://github.com/michellabbe/docker-iperf3) - Dockerfile to setup a simple iperf3 server based on Alpine
 - [techno-tim/launchpad](https://github.com/techno-tim/launchpad) - A collection of quick starters for ansible, kubernetes, docker, linux, windows, and more.  Great for HomeLabs!
 - [vitalets/docker-tizen-webos-sdk](https://github.com/vitalets/docker-tizen-webos-sdk) - Docker image with Samsung Tizen CLI and LG webOS CLI
@@ -1427,7 +1427,7 @@
 - [huashengdun/webssh](https://github.com/huashengdun/webssh) - :seedling: Web based ssh client
 - [kr-g/gitonic](https://github.com/kr-g/gitonic) - gitonic simplifies working with multiple git repositories
 - [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software
-- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
+- [geldata/gel](https://github.com/geldata/gel) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [Faldrian/bandcamp-scraper](https://github.com/Faldrian/bandcamp-scraper) - Will scrape bandcamp for Creative Commons music
 - [blockdiag/nwdiag](https://github.com/blockdiag/nwdiag) - 
 - [flatcar/Flatcar](https://github.com/flatcar/Flatcar) - Flatcar project repository for issue tracking, project documentation, etc.
@@ -1682,7 +1682,7 @@
 - [shef-er/gitea-woodpecker](https://github.com/shef-er/gitea-woodpecker) - 
 - [YunoHost-Apps/forgejo_ynh](https://github.com/YunoHost-Apps/forgejo_ynh) - Forgejo package for YunoHost
 - [ameer1234567890/tinifier](https://github.com/ameer1234567890/tinifier) - Compress images using tinify.com API
-- [zechris/asciinema-rec_script](https://github.com/zechris/asciinema-rec_script) - Record 💭 comments and ❯ commands from from shell scripts in addition to their output.
+- [yertto/asciinema-rec_script](https://github.com/yertto/asciinema-rec_script) - Record 💭 comments and ❯ commands from from shell scripts in addition to their output.
 - [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor) - Free & Open source macOS Cursors.
 - [Botspot/pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
 - [OctoPrint/CustoPiZer](https://github.com/OctoPrint/CustoPiZer) - A customization tool for Raspberry Pi OS images like OctoPi
