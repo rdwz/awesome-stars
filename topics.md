@@ -264,7 +264,7 @@
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
 - [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - "Unmask Your Traffic" - UAParser.js: The Essential Web Development Tool for User-Agent Detection
 - [Destiner/astro-analytics](https://github.com/Destiner/astro-analytics) - Astro components for site analytics
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and product analytics you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
@@ -275,7 +275,7 @@
 - [skydoves/TheMovies2](https://github.com/skydoves/TheMovies2) - 🎬 A demo project using The Movie DB based on Kotlin MVVM architecture and material design & animations.
 - [elegantapp/pwa-asset-generator](https://github.com/elegantapp/pwa-asset-generator) - Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. Updates manifest.json and index.html files with the generated i
 - [Slion/Fulguris](https://github.com/Slion/Fulguris) - ⚡Web Browser
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [metabrainz/listenbrainz-android](https://github.com/metabrainz/listenbrainz-android) - Official Android App of ListenBrainz
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [rashidRizvi98/YourPersonality](https://github.com/rashidRizvi98/YourPersonality) - An android app to let know users their MBTI personality type
@@ -295,7 +295,7 @@
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and product analytics you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [bradyhouse/house](https://github.com/bradyhouse/house) - Proof of Concept and Research repository.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 
@@ -481,7 +481,7 @@
 
 ## backend 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 
 ## bash 
@@ -902,7 +902,7 @@
 - [campvanilla/casualdb](https://github.com/campvanilla/casualdb) - Simple JSON "database" for Deno with type-safety! ⚡️
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
 - [Budibase/plugins](https://github.com/Budibase/plugins) - A curated list of Budibase plugins 🔌 including data sources and components.
-- [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
+- [geldata/gel](https://github.com/geldata/gel) - Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more.
 - [tarantool/tarantool](https://github.com/tarantool/tarantool) - Get your data in RAM. Get compute close to data. Enjoy the performance.
 - [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
 - [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb) - Peer-to-Peer Databases for the Decentralized Web
@@ -1000,7 +1000,7 @@
 - [simbleau/cddns](https://github.com/simbleau/cddns) - A modern, hackable, green DDNS service and cli for Cloudflare.
 - [ChristopherHX/github-act-runner](https://github.com/ChristopherHX/github-act-runner) - act as self-hosted runner
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [eggplants/deepl-cli](https://github.com/eggplants/deepl-cli) - DeepL Translator CLI (without API Key)
 - [ahmetoner/whisper-asr-webservice](https://github.com/ahmetoner/whisper-asr-webservice) - OpenAI Whisper ASR Webservice API
 - [ryuphi/astrology-api](https://github.com/ryuphi/astrology-api) - Astrology API Rest
@@ -1203,7 +1203,7 @@
 - [thecmdrunner/swiftube-frontend](https://github.com/thecmdrunner/swiftube-frontend) - It's like ChatGPT for videos.
 - [Antoinegtir/instagram-threads](https://github.com/Antoinegtir/instagram-threads) - Fully functional clone of Threads
 - [orhanemree/link-in-bio](https://github.com/orhanemree/link-in-bio) - 🌲 All-in-one bio link tool. An open source alternative to Linktree, with no registration required.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [themagicalmammal/wikibot](https://github.com/themagicalmammal/wikibot) - A :robot: which provides features from Wikipedia like summary, title searches, location API etc.
 
 ## firefox 
@@ -1231,7 +1231,7 @@
 ## flutter 
 
 - [Antoinegtir/instagram-threads](https://github.com/Antoinegtir/instagram-threads) - Fully functional clone of Threads
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [eniscakircali/2-Match](https://github.com/eniscakircali/2-Match) - An application that matches users by their character types
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [Codelessly/ResponsiveFramework](https://github.com/Codelessly/ResponsiveFramework) - Easily make Flutter apps responsive. Automatically adapt UI to different screen sizes. Responsiveness made simple. Demo: https://gallery.codelessly.com/flutterwebsites/minimal/
@@ -1319,7 +1319,7 @@
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [olivierlacan/keep-a-changelog](https://github.com/olivierlacan/keep-a-changelog) - If you build software, keep a changelog.
 - [download-directory/download-directory.github.io](https://github.com/download-directory/download-directory.github.io) - Web App: Download just a sub directory from a GitHub repo.
-- [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - 🤫 Easy access to gitignore boilerplates
+- [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - Easy access to gitignore boilerplates
 - [mindflowai/mindflow](https://github.com/mindflowai/mindflow) - 🧠 code-awareness
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
@@ -1597,7 +1597,7 @@
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [AndrejJurkin/create-tw](https://github.com/AndrejJurkin/create-tw) - CLI to scaffold tailwindcss-ready projects
 - [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [IonicaBizau/ama](https://github.com/IonicaBizau/ama) - :speech_balloon: Ask me anything!
 - [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
@@ -1682,7 +1682,7 @@
 - [ThereOHM/playlist_scraper](https://github.com/ThereOHM/playlist_scraper) - Python online webradio playlist scraper
 - [mailcow/mailcow-dockerized](https://github.com/mailcow/mailcow-dockerized) - mailcow: dockerized - 🐮 + 🐋 = 💕
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
-- [linuxserver/docker-booksonic-air](https://github.com/linuxserver/docker-booksonic-air) - 
+- [linuxserver-archive/docker-booksonic-air](https://github.com/linuxserver-archive/docker-booksonic-air) - 
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
@@ -1827,12 +1827,12 @@
 ## ios 
 
 - [elegantapp/pwa-asset-generator](https://github.com/elegantapp/pwa-asset-generator) - Automates PWA asset generation and image declaration. Automatically generates icon and splash screen images, favicons and mstile images. Updates manifest.json and index.html files with the generated i
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [gph4ppy/Taroter](https://github.com/gph4ppy/Taroter) - A Tarot Cards scanning application.
 - [vc64web/virtualc64web](https://github.com/vc64web/virtualc64web) - vc64web - Commodore C64  Emulator for iPad iPhone Android and the Web with CSDb access for thousands of demos at your fingertip.
 - [Codelessly/ResponsiveFramework](https://github.com/Codelessly/ResponsiveFramework) - Easily make Flutter apps responsive. Automatically adapt UI to different screen sizes. Responsiveness made simple. Demo: https://gallery.codelessly.com/flutterwebsites/minimal/
 - [alphacep/vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and product analytics you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 
 ## iot 
 
@@ -1901,7 +1901,7 @@
 - [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
 - [sheldhur/cross-browser-extension-boilerplate](https://github.com/sheldhur/cross-browser-extension-boilerplate) - Supports TypeScript, React, PostCSS, Manifest V3 and Manifest V2. Cross browser building for Chrome, Firefox, Safari, Edge, etc.
 - [francoischalifour/medium-zoom](https://github.com/francoischalifour/medium-zoom) - 🔎🖼 A JavaScript library for zooming images like Medium
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [opentypejs/opentype.js](https://github.com/opentypejs/opentype.js) - Read and write OpenType fonts using JavaScript.
 - [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js) - The lightweight library for manipulating and animating SVG
 - [iamhectorsosa/astrofordocs](https://github.com/iamhectorsosa/astrofordocs) - Is it possible to ship ZERO JavaScript and still deliver a functional website?
@@ -1999,7 +1999,7 @@
 - [oslabs-beta/fflow](https://github.com/oslabs-beta/fflow) - fflow is an easy-to-use open-source tool for all developers to create their React application.
 - [cygniv404/rss-feed-reader](https://github.com/cygniv404/rss-feed-reader) - Preact
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and product analytics you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [EnlighterJS/EnlighterJS](https://github.com/EnlighterJS/EnlighterJS) - :high_brightness: an open source syntax highlighter written in pure javascript
 - [GoogleChrome/web.dev](https://github.com/GoogleChrome/web.dev) - The frontend, backend, and content source code for web.dev
 - [emazzotta/lighthouse-badges](https://github.com/emazzotta/lighthouse-badges) - 🚦 Generate badges (shields.io) based on Lighthouse performance.
@@ -2187,7 +2187,7 @@
 - [Ngz91/Eunomia](https://github.com/Ngz91/Eunomia) - Analyze your code locally using a GPT LLM.
 - [kharvd/gpt-cli](https://github.com/kharvd/gpt-cli) - Command-line interface for ChatGPT, Claude and Bard
 - [mindflowai/mindflow](https://github.com/mindflowai/mindflow) - 🧠 code-awareness
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
@@ -2409,7 +2409,7 @@
 - [willnguyen1312/zoom-image](https://github.com/willnguyen1312/zoom-image) - A little yet powerful framework agnostic headless library to zoom images on the web
 - [fajarhidayatt/whatmovie](https://github.com/fajarhidayatt/whatmovie) - WhatMovie is a website to find information about your favorite movies
 - [AndrejJurkin/create-tw](https://github.com/AndrejJurkin/create-tw) - CLI to scaffold tailwindcss-ready projects
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [nextauthjs/next-auth-example](https://github.com/nextauthjs/next-auth-example) - Example showing how to use NextAuth.js with Next.js
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
@@ -2418,7 +2418,7 @@
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and product analytics you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -2489,7 +2489,7 @@
 - [ScribeMD/.github](https://github.com/ScribeMD/.github) - GitHub Actions Starter Workflows and Default Community Health Files
 - [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
@@ -2668,7 +2668,7 @@
 - [scttcper/tinycolor](https://github.com/scttcper/tinycolor) - 🎨 Color manipulation and conversion
 - [adrianlarion/useful-sed](https://github.com/adrianlarion/useful-sed) - Useful sed scripts & patterns.
 - [leobeeson/llm_benchmarks](https://github.com/leobeeson/llm_benchmarks) - A collection of benchmarks and datasets for evaluating LLM.
-- [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Comprehensive Gradio WebUI for audio processing, powered by Whisper engines (Whisper, Faster-Whisper, Whisper-Timestamped). Features Voice Changer(RVC), zero-shot Voice Cloning (E2, F5-TTS), YouTube d
+- [abus-aikorea/voice-pro](https://github.com/abus-aikorea/voice-pro) - Gradio WebUI for audio processing, powered by Whisper (OpenAI-Whisper, Faster-Whisper, Whisper-Timestamped). Features Voice Changer(RVC), zero-shot Voice Cloning (E2, F5-TTS, CosyVoice), YouTube downl
 - [kyr0/quality-prompts-js](https://github.com/kyr0/quality-prompts-js) - Write Quality Prompts - TypeScript/JavaScript edition. Use and evaluate prompting techniques quickly.
 - [WebReflection/geo2city](https://github.com/WebReflection/geo2city) - Basic offline reverse geocode
 - [kyr0/offline-geocode-city](https://github.com/kyr0/offline-geocode-city) - 217 kB, tiny offline reverse geocoding library that works anywhere, browser, Node.js, web worker. High performance (S2 cell based). Looks up country and nearest city, given GPS coordinates
@@ -2799,7 +2799,7 @@
 - [marmelab/greenframe-cli](https://github.com/marmelab/greenframe-cli) - Estimate the carbon footprint of a user scenario on a web application
 - [fbanning/ardaudiothek-dl](https://github.com/fbanning/ardaudiothek-dl) - A simple Julia script to download audio files from ARD Audiothek
 - [crystalcommunication/crystalcommunication](https://github.com/crystalcommunication/crystalcommunication) - Profile README
-- [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht]
+- [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=Lassulus Enzime iFreilicht Mic92 phaer]
 - [chrillefkr/disko-images](https://github.com/chrillefkr/disko-images) - Create disk image files from NixOS + disko configuration.
 - [davidwarrington/astro-icon-component](https://github.com/davidwarrington/astro-icon-component) - 
 - [tmthydvnprt/aggregit](https://github.com/tmthydvnprt/aggregit) - Aggregate all of a GitHub user's data.
@@ -3706,7 +3706,7 @@
 - [sheldhur/cross-browser-extension-boilerplate](https://github.com/sheldhur/cross-browser-extension-boilerplate) - Supports TypeScript, React, PostCSS, Manifest V3 and Manifest V2. Cross browser building for Chrome, Firefox, Safari, Edge, etc.
 - [alibaba/ChatUI](https://github.com/alibaba/ChatUI) - The UI design language and React library for Conversational UI
 - [hernandez87v/djjosehernandez](https://github.com/hernandez87v/djjosehernandez) - 🎶 DJ Progressive Web App built using 🧬 React, 🔗 APIs.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
@@ -3755,7 +3755,7 @@
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [oslabs-beta/fflow](https://github.com/oslabs-beta/fflow) - fflow is an easy-to-use open-source tool for all developers to create their React application.
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and product analytics you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [octokatherine/readme.so](https://github.com/octokatherine/readme.so) - An online drag-and-drop editor to easily build READMEs
 - [pmndrs/drei](https://github.com/pmndrs/drei) - 🥉 useful helpers for react-three-fiber
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -3767,10 +3767,10 @@
 
 ## react-native 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and product analytics you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia) - High-performance React Native Graphics using Skia
 
 ## reactjs 
@@ -3969,7 +3969,7 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [ChristopherHX/github-act-runner](https://github.com/ChristopherHX/github-act-runner) - act as self-hosted runner
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
 - [manuelernestog/astropod](https://github.com/manuelernestog/astropod) - Free and open source self-hosting serverless podcast solution
 - [tycrek/degoogle](https://github.com/tycrek/degoogle) - A huge list of alternatives to Google products. Privacy tips, tricks, and links.
@@ -4010,7 +4010,7 @@
 
 - [node-formidable/formidable](https://github.com/node-formidable/formidable) - The most used, flexible, fast and streaming parser for multipart form data. Supports uploading to serverless environments, AWS S3, Azure, GCP or the filesystem. Used in production.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [microfeed/microfeed](https://github.com/microfeed/microfeed) - a lightweight cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
 - [manuelernestog/astropod](https://github.com/manuelernestog/astropod) - Free and open source self-hosting serverless podcast solution
 - [cstate/cstate](https://github.com/cstate/cstate) - 🔥 Open source static (serverless) status page. Uses hyperfast Go & Hugo, minimal HTML/CSS/JS, customizable, outstanding browser support (IE8+), preloaded CMS, read-only API, badges & more.
@@ -4031,7 +4031,7 @@
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
-- [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - 🤫 Easy access to gitignore boilerplates
+- [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - Easy access to gitignore boilerplates
 - [nixcraft/domain-check-2](https://github.com/nixcraft/domain-check-2) - Domain Expiration Check Shell Script Forked and Maintained by nixCraft
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
@@ -4128,12 +4128,12 @@
 - [ravenclaw900/DietPi-Dashboard](https://github.com/ravenclaw900/DietPi-Dashboard) - A lightweight, standalone web dashboard for DietPi
 - [anirbanmu/Vizl](https://github.com/anirbanmu/Vizl) - Vizl - SoundCloud® music visualizer via WebGL, WebAudio, Svelte & Typescript.
 - [swyxio/swyxdotio](https://github.com/swyxio/swyxdotio) - This is the repo for swyx's blog - Blog content is created in github issues, then posted on swyx.io as blog pages! Comment/watch to follow along my blog within GitHub
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and product analytics you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 
 ## swift 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [gph4ppy/Taroter](https://github.com/gph4ppy/Taroter) - A Tarot Cards scanning application.
 
 ## swiftui 
@@ -4212,7 +4212,7 @@
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [alexeyraspopov/picocolors](https://github.com/alexeyraspopov/picocolors) - The tiniest and the fastest library for terminal output formatting with ANSI colors
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
-- [zechris/asciinema-rec_script](https://github.com/zechris/asciinema-rec_script) - Record 💭 comments and ❯ commands from from shell scripts in addition to their output.
+- [yertto/asciinema-rec_script](https://github.com/yertto/asciinema-rec_script) - Record 💭 comments and ❯ commands from from shell scripts in addition to their output.
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
@@ -4347,7 +4347,7 @@
 - [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and product analytics you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
 - [ixartz/Astro-boilerplate](https://github.com/ixartz/Astro-boilerplate) - 🚀 Astro boilerplate with responsive blog and portfolio template using TypeScript and React styled with Tailwind CSS ⚡️ Made with developer experience first: TypeScript + ESLint + Prettier + Husky + Li
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
@@ -4414,7 +4414,7 @@
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - Chrome extension that records your browser interactions and generates a Playwright or Puppeteer script.
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
 - [tutaru99/Internet-Radio-Player-Vue](https://github.com/tutaru99/Internet-Radio-Player-Vue) - Internet Radio Player with an Audio Visualizer made using VueJS, Vuetify & Howler.JS frameworks. The Player has a bunch of radio stations. Check out the demo below.
-- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay and product analytics you can self-host. Ideal for reproducing issues, co-browsing with users and optimizing your product.
+- [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 
 ## vuejs 
 
@@ -4437,7 +4437,7 @@
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting) - Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [xemantic/shader-web-background](https://github.com/xemantic/shader-web-background) - Displays GLSL fragment shaders as a website background. Supports offscreen buffers and floating point textures on almost any browser and hardware. Compatible with Shadertoy.
 - [mediathekview/mediathekviewweb](https://github.com/mediathekview/mediathekviewweb) - Eine Weboberfläche als Alternative zum Java-Client
 - [gsbm/web-avant-gardes](https://github.com/gsbm/web-avant-gardes) - 💇‍♀️ Collection of experimental, radical, or unorthodox websites
