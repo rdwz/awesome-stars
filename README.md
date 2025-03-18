@@ -131,7 +131,6 @@
 - [t3-oss/init.tips](https://github.com/t3-oss/init.tips) - 
 - [Destiner/astro-analytics](https://github.com/Destiner/astro-analytics) - Astro components for site analytics
 - [RocketCommunicationsInc/astro-www](https://github.com/RocketCommunicationsInc/astro-www) - The source code for the Astro UXDS website
-- [christopher-kapic/astro-blanding](https://github.com/christopher-kapic/astro-blanding) - A template for agencies/businesses to get a landing page/website built quickly using Astro, Svelte, and TailwindCSS
 - [delucis/astro-embed](https://github.com/delucis/astro-embed) - Low-JavaScript embed components for Astro websites
 - [incluud/accessible-astro-starter](https://github.com/incluud/accessible-astro-starter) - An Accessible Starter Theme for Astro 5+ including accessibility features such as landmarks, better focus-outline and skip-links navigation. Ships with Tailwind, Prettier and ESLint support.
 - [mhyfritz/astro-landing-page](https://github.com/mhyfritz/astro-landing-page) - An Astro + Tailwind CSS Example/Template for Landing Pages
@@ -538,7 +537,6 @@
 - [5t3ph/course-structure](https://github.com/5t3ph/course-structure) - A template to manage lessons for a related course using yarn workspaces.
 - [Misfits-Rebels-Outcasts/WebAssemblyMan](https://github.com/Misfits-Rebels-Outcasts/WebAssemblyMan) - WebAssemblyMan website
 - [shadawck/awesome-cli-frameworks](https://github.com/shadawck/awesome-cli-frameworks) - Collection of tools to build beautiful command line interface in different languages
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [spdx/license-list-data](https://github.com/spdx/license-list-data) - Various data formats for the SPDX License List including RDFa, HTML, Text, and JSON
 - [SampurnaC/chrome_extension_fcc](https://github.com/SampurnaC/chrome_extension_fcc) - 
@@ -846,6 +844,7 @@
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
 - [ngryman/cz-emoji](https://github.com/ngryman/cz-emoji) - Commitizen adapter formatting commit messages using emojis.
 - [thegreenwebfoundation/co2.js](https://github.com/thegreenwebfoundation/co2.js) - An npm module for accessing the green web API, and estimating the carbon emissions from using digital services
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [words/automated-readability](https://github.com/words/automated-readability) - Formula to detect ease of reading according to the Automated Readability Index (1967)
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
 - [johnsorrentino/favicon.js](https://github.com/johnsorrentino/favicon.js) - Given a HTML5 canvas return an ICO formatted favicon.
@@ -1070,6 +1069,7 @@
 
 ## Makefile 
 
+- [0xType/0xProto](https://github.com/0xType/0xProto) - A programming font focused on source code legibility
 - [blynn/gitmagic](https://github.com/blynn/gitmagic) - A guide to using Git
 - [binary-manu/static-cross-openssh](https://github.com/binary-manu/static-cross-openssh) - Statically cross-compile sshd and sftp-server
 - [golang-templates/seed](https://github.com/golang-templates/seed) - Go application GitHub repository template.
