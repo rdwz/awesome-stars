@@ -87,6 +87,7 @@
 - [sebastianterleira/astro-spotify-clone](https://github.com/sebastianterleira/astro-spotify-clone) - A Spotify clone made with Astro.js + Spotify API + View Transitions 🚀
 - [davidwarrington/astro-icon-component](https://github.com/davidwarrington/astro-icon-component) - 
 - [miguelgargallo/tauri-astro-app](https://github.com/miguelgargallo/tauri-astro-app) - ¿What if the god of perfect language, Rust, and the god of the web, Typescript, had a baby? Well, this is it, Tauri + Astro, the perfect combination to make the web a whole new world.
+- [aminya/astro-plugins](https://github.com/aminya/astro-plugins) - Various astro plugins such as astro-htmlnano to minify Astro files with HTMLNano and CSSNano
 - [kevinzunigacuellar/astro-supabase](https://github.com/kevinzunigacuellar/astro-supabase) - Astro and Supabase auth and database demo
 - [shishkin/astro-pagefind](https://github.com/shishkin/astro-pagefind) - Astro integration for Pagefind static site search.
 - [aFuzzyBear/astro-ui](https://github.com/aFuzzyBear/astro-ui) - MonoRepo to house the collective distribution for Astro Components, Hoping this turns out to be a community led effort where Astro UI Components can be stored and accessed
@@ -427,7 +428,7 @@
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [ossf/scorecard](https://github.com/ossf/scorecard) - OpenSSF Scorecard - Security health metrics for Open Source
 - [twiny/spidy](https://github.com/twiny/spidy) - Domain names collector - Crawl websites and collect domain names along with their availability status.
-- [imthaghost/goclone](https://github.com/imthaghost/goclone) - Website Cloner - Utilizes powerful Go routines to clone websites to your computer within seconds.
+- [goclone-dev/goclone](https://github.com/goclone-dev/goclone) - Website Cloner - Utilizes powerful Go routines to clone websites to your computer within seconds.
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [cactus/go-camo](https://github.com/cactus/go-camo) - A secure image proxy server
@@ -1645,7 +1646,7 @@
 - [Sushrut1101/GoFile-Upload](https://github.com/Sushrut1101/GoFile-Upload) - A Simple Script to upload Files to gofile.io via Terminal (CLI). Written in Bash.
 - [matthewlarkin/bare.sh](https://github.com/matthewlarkin/bare.sh) - bare.sh is a collection of bare bones shell scripts for simplifying various tasks such as API calls (OpenAI, Stripe, Postmark, etc), video and audio processing, and much more.
 - [lukechilds/zsh-better-npm-completion](https://github.com/lukechilds/zsh-better-npm-completion) - Better completion for npm
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 385 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 400 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [zma/usefulscripts](https://github.com/zma/usefulscripts) - Useful shell scripts for Linux and macOS
 - [rr-n4p5t3r/neofetch](https://github.com/rr-n4p5t3r/neofetch) - A commandline system information written in bash. Fork by Alexia Stein. Traditional version.
 - [mickeys/grc_generic_colouriser](https://github.com/mickeys/grc_generic_colouriser) - make command-line work with scrolling output that much less crazy-making
@@ -1825,7 +1826,6 @@
 - [git-emoji/vscode-extension](https://github.com/git-emoji/vscode-extension) - Suggest context based emojis in VS Code
 - [randombits-dev/astro-font-picker](https://github.com/randombits-dev/astro-font-picker) - Astro Dev Toolbar Integration that lets you try out different fonts on your website
 - [files-ui/files-ui-react](https://github.com/files-ui/files-ui-react) - UI components for file uploads with React js. Files UI is a complete library for handling files in the UI. You can validate and upload them. Multilanguage. Server side support.
-- [aminya/astro-plugins](https://github.com/aminya/astro-plugins) - Various astro plugins such as astro-htmlnano to minify Astro files with HTMLNano and CSSNano
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
 - [nico-i/psi-svg](https://github.com/nico-i/psi-svg) - Performs a Google PageSpeed Insights analysis on a given webpage and returns the result as an SVG.
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - AI agent stdlib that works with any LLM and TypeScript AI SDK.
