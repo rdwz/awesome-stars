@@ -1641,7 +1641,7 @@
 
 ## Shell 
 
-- [zx0r/VSCodium-Configuration](https://github.com/zx0r/VSCodium-Configuration) - 🚀 A curated setup for VSCodium, the open-source build of Visual Studio Code. This repository provides pre-configured settings, custom keybindings, and a curated list of extensions to enhance your codi
+- [px4r/VSCodium-Configuration](https://github.com/px4r/VSCodium-Configuration) - 🚀 A curated setup for VSCodium, the open-source build of Visual Studio Code. This repository provides pre-configured settings, custom keybindings, and a curated list of extensions to enhance your codi
 - [coderofsalvation/powscript](https://github.com/coderofsalvation/powscript) - transpiler written in bash: painless shellscript, indentbased, coffee for the shell with hipster-sparkles v1 BETA LANDED 🎉🎉🎉🎉 thanks fcard!
 - [Sushrut1101/GoFile-Upload](https://github.com/Sushrut1101/GoFile-Upload) - A Simple Script to upload Files to gofile.io via Terminal (CLI). Written in Bash.
 - [matthewlarkin/bare.sh](https://github.com/matthewlarkin/bare.sh) - bare.sh is a collection of bare bones shell scripts for simplifying various tasks such as API calls (OpenAI, Stripe, Postmark, etc), video and audio processing, and much more.
