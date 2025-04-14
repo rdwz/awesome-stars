@@ -59,6 +59,7 @@
 - [deno](#deno)
 - [deployment](#deployment)
 - [design](#design)
+- [development](#development)
 - [devops](#devops)
 - [discord](#discord)
 - [django](#django)
@@ -886,7 +887,7 @@
 
 ## data-science 
 
-- [g-battaglia/kerykeion](https://github.com/g-battaglia/kerykeion) - Data-Driven Astrology 💫 Kerykeion is a Python library for astrology. It generates SVG charts and extracts detailed data for birth charts, synastry, transits, and composite charts.
+- [g-battaglia/kerykeion](https://github.com/g-battaglia/kerykeion) - Data-Driven Astrology 💫 Kerykeion is a Python library for astrology. It generates SVG charts and extracts detailed data for birth charts, synastry, transits, composite charts and more.
 - [JosephLai241/URS](https://github.com/JosephLai241/URS) - Universal Reddit Scraper - A comprehensive Reddit scraping/archival command-line tool.
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
@@ -969,6 +970,16 @@
 - [jakobsen/fluid-typography](https://github.com/jakobsen/fluid-typography) - Find the perfect CSS values for your fluid heading, and control how it scales across different viewport widths.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
+## development 
+
+- [standard/awesome-standard](https://github.com/standard/awesome-standard) - Documenting the explosion of packages in the standard ecosystem!
+- [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers
+- [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
+- [standard/standard](https://github.com/standard/standard) - 🌟 JavaScript Style Guide, with linter & automatic code fixer
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+- [koding/koding](https://github.com/koding/koding) - The Simplest Way to Manage Your Entire Dev Infrastructure!
+
 ## devops 
 
 - [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
@@ -995,7 +1006,7 @@
 
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing and converting remote images
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
-- [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) - The simplest and most complete UI for your private registry
+- [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) - The simplest and most complete UI for your private docker registry v2 and v3
 - [skills/publish-packages](https://github.com/skills/publish-packages) - Use GitHub Actions to publish your project to a Docker image.
 - [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 - [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
@@ -1375,7 +1386,7 @@
 
 ## github-api 
 
-- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Netlify/Decap CMS alternative. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support + 100s of improvements. Open source & free. Made with Svelte.
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Netlify/Decap CMS alternative. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support, mobile support + 100s of improvements. Open source & free.
 - [fazt/github-client](https://github.com/fazt/github-client) - A Frontend Application using Pure Javascript and Github API
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [axelmy318/react-github-scraper](https://github.com/axelmy318/react-github-scraper) - Provides multiple customizable components to automatically load and display GitHub repositories data by just passing the targeted repository!
@@ -1972,7 +1983,7 @@
 - [hanabi1224/Programming-Language-Benchmarks](https://github.com/hanabi1224/Programming-Language-Benchmarks) - Yet another implementation of computer language benchmarks game
 - [automata/awesome-jamstack](https://github.com/automata/awesome-jamstack) - Carefully curated list of awesome Jamstack resources
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
-- [privatenumber/minification-benchmarks](https://github.com/privatenumber/minification-benchmarks) - 🏃‍♂️🏃‍♀️🏃 JS minification benchmarks: babel-minify, esbuild, terser, uglify-js, swc, google closure compiler, tdewolff/minify
+- [privatenumber/minification-benchmarks](https://github.com/privatenumber/minification-benchmarks) - 🏃‍♂️🏃‍♀️🏃 JS minification benchmarks: babel-minify, esbuild, terser, uglify-js, swc, google closure compiler, tdewolff/minify, oxc-minify
 - [axelmy318/react-github-scraper](https://github.com/axelmy318/react-github-scraper) - Provides multiple customizable components to automatically load and display GitHub repositories data by just passing the targeted repository!
 - [aUnicornDev/tabsMonster](https://github.com/aUnicornDev/tabsMonster) - A Chrome extension to keep a tab on your Browser Tabs
 - [webtorrent/bittorrent-dht](https://github.com/webtorrent/bittorrent-dht) - 🕸 Simple, robust, BitTorrent DHT implementation
@@ -2685,7 +2696,7 @@
 - [Tencent/HunyuanVideo](https://github.com/Tencent/HunyuanVideo) - HunyuanVideo: A Systematic Framework For Large Video Generation Model
 - [raystack/meteor](https://github.com/raystack/meteor) - Meteor is an easy-to-use, plugin-driven metadata collection framework to extract data from different sources and sink to any data catalog.
 - [DevinR528/cargo-sort](https://github.com/DevinR528/cargo-sort) - Check if tables and items in a .toml file are lexically sorted
-- [sysid/bkmr](https://github.com/sysid/bkmr) - Super fast CLI bookmark manager and launcher
+- [sysid/bkmr](https://github.com/sysid/bkmr) - A Unified CLI Tool for Bookmark, Snippet, and Knowledge Management
 - [jcs/no_color](https://github.com/jcs/no_color) - Website data for no-color.org
 - [bitsundbaeume/publication2023](https://github.com/bitsundbaeume/publication2023) - Publication 2023
 - [PrimeDeviation/chatgpt-advanced](https://github.com/PrimeDeviation/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
@@ -3110,7 +3121,7 @@
 - [radicle-dev/radicle-cli](https://github.com/radicle-dev/radicle-cli) - Radicle CLI
 - [alwaysdata/autodeploy-git-hook](https://github.com/alwaysdata/autodeploy-git-hook) - A simple bash script to deploy on production using Git hooks
 - [meilisearch/docs-scraper](https://github.com/meilisearch/docs-scraper) - Scrape documentation into Meilisearch
-- [spdx/license-list-XML](https://github.com/spdx/license-list-XML) - This is the repository for the master files that comprise the  SPDX License List
+- [spdx/license-list-XML](https://github.com/spdx/license-list-XML) - Source XML and test text files for the SPDX License List
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [dnstwister/dnstwister](https://github.com/dnstwister/dnstwister) - Domain name permutation as a service
 - [mend/renovate-ce-ee](https://github.com/mend/renovate-ce-ee) - Mend Renovate Documentation & Examples
@@ -3156,7 +3167,7 @@
 - [vdechenaux/bootable-matrix-rain](https://github.com/vdechenaux/bootable-matrix-rain) - Boot on USB to a reproduction of the "Matrix digital rain" !
 - [carlnewton/digital-rain](https://github.com/carlnewton/digital-rain) - An emulation of the digital rain visual effect from The Matrix
 - [Yqnn/svg-path-editor](https://github.com/Yqnn/svg-path-editor) - Online editor to create and manipulate SVG paths
-- [JOJ0/discodos](https://github.com/JOJ0/discodos) - DJ and record collectors' toolbox for Discogs
+- [JOJ0/discodos](https://github.com/JOJ0/discodos) - DJ and record collector's toolbox for Discogs
 - [pixers/imaginator](https://github.com/pixers/imaginator) - A web interface to imagemagick.
 - [googlefonts/unbounded](https://github.com/googlefonts/unbounded) - Open source, freely available and on-chain funded font.
 - [aaronpk/webmention.io](https://github.com/aaronpk/webmention.io) - Easily enable webmentions on any web site
@@ -3407,7 +3418,6 @@
 - [bootchk/resynthesizer](https://github.com/bootchk/resynthesizer) - Suite of gimp plugins for texture synthesis
 - [xbrowsersync/api](https://github.com/xbrowsersync/api) - Server-side REST API that serves requests from xBrowserSync client apps
 - [ChrisTitusTech/win10script](https://github.com/ChrisTitusTech/win10script) - This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github.
-- [koding/koding](https://github.com/koding/koding) - The Simplest Way to Manage Your Entire Dev Infrastructure!
 - [amueller/word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
 - [tests-always-included/mo](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
 - [mdlu/set-game](https://github.com/mdlu/set-game) - backend for an online multiplayer version of the card game Set
@@ -3604,7 +3614,7 @@
 - [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
 - [eggplants/deepl-cli](https://github.com/eggplants/deepl-cli) - DeepL Translator CLI (without API Key)
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
-- [g-battaglia/kerykeion](https://github.com/g-battaglia/kerykeion) - Data-Driven Astrology 💫 Kerykeion is a Python library for astrology. It generates SVG charts and extracts detailed data for birth charts, synastry, transits, and composite charts.
+- [g-battaglia/kerykeion](https://github.com/g-battaglia/kerykeion) - Data-Driven Astrology 💫 Kerykeion is a Python library for astrology. It generates SVG charts and extracts detailed data for birth charts, synastry, transits, composite charts and more.
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [JosephLai241/URS](https://github.com/JosephLai241/URS) - Universal Reddit Scraper - A comprehensive Reddit scraping/archival command-line tool.
 - [themagicalmammal/wikibot](https://github.com/themagicalmammal/wikibot) - A :robot: which provides features from Wikipedia like summary, title searches, location API etc.
@@ -4108,7 +4118,7 @@
 ## svelte 
 
 - [Bazooo/svg-sprite-maker](https://github.com/Bazooo/svg-sprite-maker) - Application to create/edit SVG sprites
-- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Netlify/Decap CMS alternative. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support + 100s of improvements. Open source & free. Made with Svelte.
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Netlify/Decap CMS alternative. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support, mobile support + 100s of improvements. Open source & free.
 - [willnguyen1312/zoom-image](https://github.com/willnguyen1312/zoom-image) - A little yet powerful framework agnostic headless library to zoom images on the web
 - [AndrejJurkin/create-tw](https://github.com/AndrejJurkin/create-tw) - CLI to scaffold tailwindcss-ready projects
 - [anup-a/meshy](https://github.com/anup-a/meshy) - 🧞‍♂️ MESH·Y is a design tool to generate beautiful & colorful mesh gradients.
@@ -4493,7 +4503,7 @@
 - [originjs/webpack-to-vite](https://github.com/originjs/webpack-to-vite) - Convert a webpack/vue-cli project to vite project. 将 webpack/vue-cli 项目转换为 vite 项目。
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [fazt/github-client](https://github.com/fazt/github-client) - A Frontend Application using Pure Javascript and Github API
-- [privatenumber/minification-benchmarks](https://github.com/privatenumber/minification-benchmarks) - 🏃‍♂️🏃‍♀️🏃 JS minification benchmarks: babel-minify, esbuild, terser, uglify-js, swc, google closure compiler, tdewolff/minify
+- [privatenumber/minification-benchmarks](https://github.com/privatenumber/minification-benchmarks) - 🏃‍♂️🏃‍♀️🏃 JS minification benchmarks: babel-minify, esbuild, terser, uglify-js, swc, google closure compiler, tdewolff/minify, oxc-minify
 - [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 
 ## website 
