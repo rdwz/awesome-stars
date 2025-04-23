@@ -209,6 +209,7 @@
 - [swiftui](#swiftui)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
+- [telegram-bot](#telegram-bot)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [termux](#termux)
@@ -281,6 +282,7 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [metabrainz/listenbrainz-android](https://github.com/metabrainz/listenbrainz-android) - Official Android App of ListenBrainz
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
+- [rashidRizvi98/YourPersonality](https://github.com/rashidRizvi98/YourPersonality) - An android app to let know users their MBTI personality type
 - [aghontpi/ad-silence](https://github.com/aghontpi/ad-silence) - Mute Ad/promotions from Accuradio, Spotify, Soundcloud, TIDAL & Pandora Android. Minimal, extensible & lightweight under 150kb.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [Codelessly/ResponsiveFramework](https://github.com/Codelessly/ResponsiveFramework) - Easily make Flutter apps responsive. Automatically adapt UI to different screen sizes. Responsiveness made simple. Demo: https://gallery.codelessly.com/flutterwebsites/minimal/
@@ -1861,6 +1863,7 @@
 
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or loca
+- [rashidRizvi98/YourPersonality](https://github.com/rashidRizvi98/YourPersonality) - An android app to let know users their MBTI personality type
 - [hanabi1224/Programming-Language-Benchmarks](https://github.com/hanabi1224/Programming-Language-Benchmarks) - Yet another implementation of computer language benchmarks game
 - [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
 - [burgyl/SelfUpdatingApp](https://github.com/burgyl/SelfUpdatingApp) - An Android Application that can update itself if new releases in GitHub are available.
@@ -2620,7 +2623,6 @@
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [open-sauced/open-sauced](https://github.com/open-sauced/open-sauced) - 🍕  This is a project to identify your next open source contribution.
 - [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2024
-- [multiavatar/Multiavatar](https://github.com/multiavatar/Multiavatar) - Multicultural Avatar Generator in JavaScript
 - [Sav22999/common-voice-android](https://github.com/Sav22999/common-voice-android) - Repository of "CV Project" app. It's an unofficial app for Mozilla Common Voice, which permits you to contribute to this project via your device.
 - [nextcloud/client_theming](https://github.com/nextcloud/client_theming) - :computer: Nextcloud themed desktop client - Moved over to https://github.com/nextcloud/desktop
 
@@ -3431,6 +3433,7 @@
 - [KatamariJr/split-landing](https://github.com/KatamariJr/split-landing) - A landing page theme made for Hugo
 - [Moonbase59/loudgain](https://github.com/Moonbase59/loudgain) - ReplayGain 2.0 loudness normalizer based on the EBU R128/ITU BS.1770 standard (-18 LUFS, FLAC, Ogg, MP2, MP3, MP4, M4A, AAC, ALAC, Opus, ASF, WMA, WAV, AIFF, WavPack, APE)
 - [AzuraCast/AzuraCast](https://github.com/AzuraCast/AzuraCast) - A self-hosted web radio management suite, including turnkey installer tools for the full radio software stack and a modern, easy-to-use web app to manage your stations.
+- [multiavatar/Multiavatar](https://github.com/multiavatar/Multiavatar) - Multicultural Avatar Generator in JavaScript
 - [pimusicbox/pimusicbox](https://github.com/pimusicbox/pimusicbox) - An image (SD-card) to turn the Raspberry Pi into an easy to use MusicBox with Spotify playback and AirTunes streaming
 - [btford/write-good](https://github.com/btford/write-good) - Naive linter for English prose
 - [beefproject/beef](https://github.com/beefproject/beef) - The Browser Exploitation Framework Project
@@ -4087,6 +4090,7 @@
 ## sqlite 
 
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
+- [rashidRizvi98/YourPersonality](https://github.com/rashidRizvi98/YourPersonality) - An android app to let know users their MBTI personality type
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, distributed relational database built on SQLite.
 
@@ -4195,6 +4199,13 @@
 - [telegraf/telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node.js
 - [themagicalmammal/wikibot](https://github.com/themagicalmammal/wikibot) - A :robot: which provides features from Wikipedia like summary, title searches, location API etc.
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
+- [nickname76/telegrambot](https://github.com/nickname76/telegrambot) - Telegram Bot API library in Go, but with more clean code
+
+## telegram-bot 
+
+- [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
+- [telegraf/telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node.js
+- [themagicalmammal/wikibot](https://github.com/themagicalmammal/wikibot) - A :robot: which provides features from Wikipedia like summary, title searches, location API etc.
 - [nickname76/telegrambot](https://github.com/nickname76/telegrambot) - Telegram Bot API library in Go, but with more clean code
 
 ## tensorflow 
