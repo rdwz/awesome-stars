@@ -83,7 +83,7 @@
 - [DBozhinovski/astro-ltree](https://github.com/DBozhinovski/astro-ltree) - A self-hosted Linktree _and_ Linkinbio rolled in one, using Astro and TinaCMS.
 - [florian-lefebvre/astro-integration-template](https://github.com/florian-lefebvre/astro-integration-template) - Publish integrations within minutes.
 - [MatthiesenXYZ/astro-hashnode](https://github.com/MatthiesenXYZ/astro-hashnode) - An Integration to bring your Hashnode Headless Blog content into Astro!
-- [morinokami/astro-integration-template](https://github.com/morinokami/astro-integration-template) - Template for Astro integrations
+- [morinokami/astro-integration-template](https://github.com/morinokami/astro-integration-template) - My opinionated template for Astro integrations
 - [sebastianterleira/astro-spotify-clone](https://github.com/sebastianterleira/astro-spotify-clone) - A Spotify clone made with Astro.js + Spotify API + View Transitions 🚀
 - [davidwarrington/astro-icon-component](https://github.com/davidwarrington/astro-icon-component) - 
 - [miguelgargallo/tauri-astro-app](https://github.com/miguelgargallo/tauri-astro-app) - ¿What if the god of perfect language, Rust, and the god of the web, Typescript, had a baby? Well, this is it, Tauri + Astro, the perfect combination to make the web a whole new world.
@@ -2007,7 +2007,7 @@
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [malchata/dnstradamus](https://github.com/malchata/dnstradamus) - A prognosticating client-side DNS prefetcher for outbound links.
 - [SamKirkland/FTP-Deploy-Action](https://github.com/SamKirkland/FTP-Deploy-Action) - Deploys a GitHub project to a FTP server using GitHub actions
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
+- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by modern marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
 - [gregjacobs/js-to-ts-converter](https://github.com/gregjacobs/js-to-ts-converter) - Small utility to fix common js-&gt;ts issues in order to assist in migrating a codebase
 - [burhan-syed/WebRoll](https://github.com/burhan-syed/WebRoll) - A place to submit and discover creations on the internet.
 - [remusao/tldts](https://github.com/remusao/tldts) - JavaScript Library to extract domains, subdomains and public suffixes from complex URIs.
