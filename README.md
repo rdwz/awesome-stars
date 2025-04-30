@@ -1070,7 +1070,6 @@
 
 ## Makefile 
 
-- [0xType/0xProto](https://github.com/0xType/0xProto) - A programming font focused on source code legibility
 - [blynn/gitmagic](https://github.com/blynn/gitmagic) - A guide to using Git
 - [binary-manu/static-cross-openssh](https://github.com/binary-manu/static-cross-openssh) - Statically cross-compile sshd and sftp-server
 - [golang-templates/seed](https://github.com/golang-templates/seed) - Go application GitHub repository template.
@@ -1164,7 +1163,7 @@
 - [dendronhq/awesome-dendron](https://github.com/dendronhq/awesome-dendron) - A big list of Dendron docs, talks, tools, examples, articles, extensions, vaults, showcases, and more that the internet has to offer.
 - [bigdatabysumitm/NotesOfYouTubeSQLSeries](https://github.com/bigdatabysumitm/NotesOfYouTubeSQLSeries) - 
 - [capaj/vscode-standardjs-snippets](https://github.com/capaj/vscode-standardjs-snippets) - a complete set of Javascript snippets for Visual Studio Code
-- [johnjago/awesome-uncopyright](https://github.com/johnjago/awesome-uncopyright) - Curated list of all things public domain
+- [johnjago/awesome-uncopyright](https://github.com/johnjago/awesome-uncopyright) - Curated list of all things public domain.
 - [cybercon/jobs](https://github.com/cybercon/jobs) - Wir brauchen eine Stellenanzeige, oder mehrere
 - [jwobith/docker-gitea](https://github.com/jwobith/docker-gitea) - Docker Gitea Service
 - [emilebosch/awesome-fediverse](https://github.com/emilebosch/awesome-fediverse) - A curated, collaborative list of awesome Fediverse resources
@@ -1273,6 +1272,7 @@
 
 ## Python 
 
+- [0xType/0xProto](https://github.com/0xType/0xProto) - A programming font focused on source code legibility
 - [jstrieb/just.sh](https://github.com/jstrieb/just.sh) - Compile Justfiles to portable shell scripts
 - [bit-team/backintime](https://github.com/bit-team/backintime) - A comfortable and well-configurable graphical Frontend for incremental backups, with a command-line version also available. Modified files are transferred, while unchanged files are linked to the new 
 - [Gutenberg-Labo/Otomanopee](https://github.com/Gutenberg-Labo/Otomanopee) - オとマのペ / Otomanopee (original designed Japanese font) for Google Fonts
@@ -2006,7 +2006,7 @@
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [malchata/dnstradamus](https://github.com/malchata/dnstradamus) - A prognosticating client-side DNS prefetcher for outbound links.
 - [SamKirkland/FTP-Deploy-Action](https://github.com/SamKirkland/FTP-Deploy-Action) - Deploys a GitHub project to a FTP server using GitHub actions
-- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by modern marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
+- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
 - [gregjacobs/js-to-ts-converter](https://github.com/gregjacobs/js-to-ts-converter) - Small utility to fix common js-&gt;ts issues in order to assist in migrating a codebase
 - [burhan-syed/WebRoll](https://github.com/burhan-syed/WebRoll) - A place to submit and discover creations on the internet.
 - [remusao/tldts](https://github.com/remusao/tldts) - JavaScript Library to extract domains, subdomains and public suffixes from complex URIs.
