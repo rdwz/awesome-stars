@@ -219,6 +219,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui-design](#ui-design)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [vpn](#vpn)
@@ -4398,6 +4399,10 @@
 - [davestephens/ansible-nas](https://github.com/davestephens/ansible-nas) - Build a full-featured home server or NAS replacement with an Ubuntu box and this playbook.
 - [armbian/community](https://github.com/armbian/community) - Armbian operating system community releases provides automated builds of community maintained targets
 - [avafinger/bananapi-zero-ubuntu-base-minimal](https://github.com/avafinger/bananapi-zero-ubuntu-base-minimal) - BananaPi M2 Zero  - Ubuntu Focal Base Minimal Image (Experimental) - U-Boot 2017.09 / Kernel 4.18.y / Kernel 4.19.y / Kernel 4.20.y / Kernel 5.3.y / Kernel 5.6.y / Kernel 5.7.y / Kernel 5.11.y
+
+## ui-design 
+
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 ## vim 
 
