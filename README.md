@@ -133,7 +133,7 @@
 - [Destiner/astro-analytics](https://github.com/Destiner/astro-analytics) - Astro components for site analytics
 - [RocketCommunicationsInc/astro-www](https://github.com/RocketCommunicationsInc/astro-www) - The source code for the Astro UXDS website
 - [delucis/astro-embed](https://github.com/delucis/astro-embed) - Low-JavaScript embed components for Astro websites
-- [incluud/accessible-astro-starter](https://github.com/incluud/accessible-astro-starter) - An Accessible Starter Theme for Astro 5+ including accessibility features such as landmarks, better focus-outline and skip-links navigation. Ships with Tailwind, Prettier and ESLint support.
+- [incluud/accessible-astro-starter](https://github.com/incluud/accessible-astro-starter) - An Accessible Starter Theme for Astro 5+ including accessibility features such as landmarks, better focus-outline and skip-links navigation. Ships with Tailwind 4, Prettier and ESLint support.
 - [mhyfritz/astro-landing-page](https://github.com/mhyfritz/astro-landing-page) - An Astro + Tailwind CSS Example/Template for Landing Pages
 - [aFuzzyBear/astro-academy](https://github.com/aFuzzyBear/astro-academy) - 
 
