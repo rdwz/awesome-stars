@@ -207,6 +207,7 @@
 - [svelte](#svelte)
 - [swift](#swift)
 - [swiftui](#swiftui)
+- [tailwind](#tailwind)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [telegram-bot](#telegram-bot)
@@ -219,6 +220,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui](#ui)
 - [ui-design](#ui-design)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
@@ -2706,7 +2708,6 @@
 - [bitsundbaeume/publication2023](https://github.com/bitsundbaeume/publication2023) - Publication 2023
 - [PrimeDeviation/chatgpt-advanced](https://github.com/PrimeDeviation/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 - [bili123/cli-help](https://github.com/bili123/cli-help) - Praktische Hilfe für CLI-Tools - auf Deutsch, im Terminal, mit curl
-- [fulldotdev/ui](https://github.com/fulldotdev/ui) - The Astro UI library to build content sites
 - [ilyachch/md_docs-trans-app](https://github.com/ilyachch/md_docs-trans-app) - Application for translation documentation in MD format
 - [xiangnanscu/degit](https://github.com/xiangnanscu/degit) - Straightforward project scaffolding
 - [ivandokov/phockup](https://github.com/ivandokov/phockup) - Media sorting tool to organize photos and videos from your camera in folders by year, month and day.
@@ -2928,7 +2929,6 @@
 - [HassanCorrigan/soundcloud-player](https://github.com/HassanCorrigan/soundcloud-player) - A SoundCloud styled audio player, with completely custom design controls and interface.
 - [FossPrime/webcontainer-api-starter-gh-pages](https://github.com/FossPrime/webcontainer-api-starter-gh-pages) - A repro repo. I can deploy any branch including PRs to wc.42x.app
 - [FossPrime/feathers](https://github.com/FossPrime/feathers) - The API and real-time application framework
-- [mobalti/open-props-interfaces](https://github.com/mobalti/open-props-interfaces) - A collection of customizable and responsive interfaces built with Open Props.
 - [shishkin/astro-asciidoc](https://github.com/shishkin/astro-asciidoc) - Support AsciiDoc pages in Astro
 - [a11yproject/a11yproject.com](https://github.com/a11yproject/a11yproject.com) - The A11Y Project is a community-driven effort to make digital accessibility easier.
 - [nico3333fr/van11y-accessible-modal-window-aria](https://github.com/nico3333fr/van11y-accessible-modal-window-aria) - ES2015 accessible modal window system, using ARIA
@@ -2938,7 +2938,6 @@
 - [april/laboratory](https://github.com/april/laboratory) - Because good website security shouldn't only be available to mad scientists!
 - [withastro/github-pages](https://github.com/withastro/github-pages) - Automatically deploy an Astro site to GitHub Pages
 - [librariesio/github_companion](https://github.com/librariesio/github_companion) - :pushpin: Chrome Extension to see dependency health on GitHub as you browse.
-- [robinparisi/tingle](https://github.com/robinparisi/tingle) - ⚡ 2kB vanilla modal plugin, no dependencies and easy-to-use
 - [gaplo917/load-balancer-benchmark](https://github.com/gaplo917/load-balancer-benchmark) - Apache Httpd vs Nginx vs Traefik vs HAProxy
 - [tom-james-watson/apod-scraper](https://github.com/tom-james-watson/apod-scraper) - A Node script for scraping all images from NASA Astronomy Picture of the DAy
 - [delucis/hyperdrive-speedometer](https://github.com/delucis/hyperdrive-speedometer) - Speedlify for Astro sites
@@ -3022,7 +3021,6 @@
 - [PhobiaCide/cascading-waves](https://github.com/PhobiaCide/cascading-waves) - 
 - [hugosaintemarie/set-game](https://github.com/hugosaintemarie/set-game) - Set – Visual card game
 - [radicle-dev/heartwood](https://github.com/radicle-dev/heartwood) - ❤️🪵 Radicle Heartwood Protocol & Stack
-- [norinorin/linktree](https://github.com/norinorin/linktree) - Simple linktree w/ Tailwind CSS; a learning project.
 - [jmisavage/red-snapper](https://github.com/jmisavage/red-snapper) - Package to take snapshots with headless chrome
 - [PaulBratslavsky/strapi-chat-blog-repo](https://github.com/PaulBratslavsky/strapi-chat-blog-repo) - 
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
@@ -4157,6 +4155,16 @@
 
 - [gph4ppy/Taroter](https://github.com/gph4ppy/Taroter) - A Tarot Cards scanning application.
 
+## tailwind 
+
+- [flamrdevs/astrolinkt](https://github.com/flamrdevs/astrolinkt) - Link in Bio Template using Astro, React & TailwindCSS
+- [leabs/astro-tailwind-flowbite-template](https://github.com/leabs/astro-tailwind-flowbite-template) - A base for projects using Astro, Tailwind, and Flowbite UI components
+- [onwidget/astrowind](https://github.com/onwidget/astrowind) - ⭕️ AstroWind: A free template using Astro 5 and Tailwind CSS. Astro starter theme.
+- [norinorin/linktree](https://github.com/norinorin/linktree) - Simple linktree w/ Tailwind CSS; a learning project.
+- [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, solid-styled-components, stitches and goober) at build time.
+- [nipunadodan/mbti-app](https://github.com/nipunadodan/mbti-app) - Supplimentary tool for MBTI personality enthusiasts. Used Tailwind on React as the CSS framework, with a dark mode and added PWA capability to make the app more versatile. There's no back-end for this
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
+
 ## tailwindcss 
 
 - [deepakness/putout](https://github.com/deepakness/putout) - PutOut is an open-source, self-hosted solution that turns your ebook chapters into beautiful, responsive websites.
@@ -4400,6 +4408,19 @@
 - [armbian/community](https://github.com/armbian/community) - Armbian operating system community releases provides automated builds of community maintained targets
 - [avafinger/bananapi-zero-ubuntu-base-minimal](https://github.com/avafinger/bananapi-zero-ubuntu-base-minimal) - BananaPi M2 Zero  - Ubuntu Focal Base Minimal Image (Experimental) - U-Boot 2017.09 / Kernel 4.18.y / Kernel 4.19.y / Kernel 4.20.y / Kernel 5.3.y / Kernel 5.6.y / Kernel 5.7.y / Kernel 5.11.y
 
+## ui 
+
+- [fulldotdev/ui](https://github.com/fulldotdev/ui) - The Astro UI library to build content sites
+- [vadimdemedes/ink-ui](https://github.com/vadimdemedes/ink-ui) - 💄 Ink-redible command-line interfaces made easy
+- [tholman/intense-images](https://github.com/tholman/intense-images) - A simple library to view large images up close using simple mouse interaction, and the full screen.
+- [alibaba/ChatUI](https://github.com/alibaba/ChatUI) - The UI design language and React library for Conversational UI
+- [mobalti/open-props-interfaces](https://github.com/mobalti/open-props-interfaces) - A collection of customizable and responsive interfaces built with Open Props.
+- [robinparisi/tingle](https://github.com/robinparisi/tingle) - ⚡ 2kB vanilla modal plugin, no dependencies and easy-to-use
+- [Tailus-UI/astro-theme](https://github.com/Tailus-UI/astro-theme) - Home page template built with astro and tailwindcss using tailus blocks
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
+- [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
+
 ## ui-design 
 
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
@@ -4555,7 +4576,7 @@
 - [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG, WebP and TIFF formats.   You can quickly reduce the file size (and resolution, if y
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
-- [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!
+- [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the Web.
 - [ful1e5/apple_cursor](https://github.com/ful1e5/apple_cursor) - Free & Open source macOS Cursors.
 - [Vhonowslend/StreamFX-Public](https://github.com/Vhonowslend/StreamFX-Public) - StreamFX is a plugin for OBS® Studio which adds many new effects, filters, sources, transitions and encoders! Be it 3D Transform, Blur, complex Masking, or even custom shaders, you'll find it all here
 - [SYQEL/SYQEL-VJ-Releases](https://github.com/SYQEL/SYQEL-VJ-Releases) - SYQEL VJ Desktop Application enables users to visualize their desktop audio feed and/or microphone audio input. Ideal for DJ's looking to visualize their music while streaming online. Compatible with 
