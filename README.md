@@ -1847,7 +1847,7 @@
 - [IogaMaster/videos](https://github.com/IogaMaster/videos) - Source code of my YouTube videos animated with MotionCanvas
 - [willnguyen1312/zoom-image](https://github.com/willnguyen1312/zoom-image) - A little yet powerful framework agnostic headless library to zoom images on the web
 - [unjs/ufo](https://github.com/unjs/ufo) - 🔗 URL utils for humans
-- [0xsuk/agitcms](https://github.com/0xsuk/agitcms) - Headless CMS for developers
+- [0xsuk/agitcms](https://github.com/0xsuk/agitcms) - 
 - [netspective-labs/astro-markdown-experience](https://github.com/netspective-labs/astro-markdown-experience) - A collection of remark plugins for an enhanced Astro markdown experience
 - [playcode/does-email-exist](https://github.com/playcode/does-email-exist) - Does email exist?
 - [joe-bell/plaiceholder](https://github.com/joe-bell/plaiceholder) - Beautiful image placeholders, without the hassle.
