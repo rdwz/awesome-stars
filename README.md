@@ -740,7 +740,7 @@
 - [nico3333fr/van11y-accessible-modal-window-aria](https://github.com/nico3333fr/van11y-accessible-modal-window-aria) - ES2015 accessible modal window system, using ARIA
 - [NTag/colivings](https://github.com/NTag/colivings) - Map of the best colivings in Europe
 - [code-charity/ultimate-REGEX-extension](https://github.com/code-charity/ultimate-REGEX-extension) - ctrl+shift+F Text multi-tool browser extension  with familiar Ctrl+F visuals.  **need contributors to be the best & complete**
-- [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video browser-extension] - Enrich your experience & choice! 🧰185+ options & clever features 📌set+forget📌Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|ex
+- [code-charity/youtube](https://github.com/code-charity/youtube) - [top~1 open YouTube & Video browser-extension] - Enrich your experience & choice! 🧰250+ options & clever features 📌set+forget📌Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|ex
 - [april/laboratory](https://github.com/april/laboratory) - Because good website security shouldn't only be available to mad scientists!
 - [adamPatrick12/study-beats-fm](https://github.com/adamPatrick12/study-beats-fm) - An online music player where you can listen to popular Youtube radio livestreams
 - [librariesio/github_companion](https://github.com/librariesio/github_companion) - :pushpin: Chrome Extension to see dependency health on GitHub as you browse.
@@ -1639,7 +1639,7 @@
 
 ## Shell 
 
-- [zx0r/ZeroTrustIDE](https://github.com/zx0r/ZeroTrustIDE) - Privacy, telemetry-free development environment that puts security at the core.
+- [zx0r/VSCodium-Setup](https://github.com/zx0r/VSCodium-Setup) - Privacy, telemetry-free development environment that puts security at the core.
 - [coderofsalvation/powscript](https://github.com/coderofsalvation/powscript) - transpiler written in bash: painless shellscript, indentbased, coffee for the shell with hipster-sparkles v1 BETA LANDED 🎉🎉🎉🎉 thanks fcard!
 - [Sushrut1101/GoFile-Upload](https://github.com/Sushrut1101/GoFile-Upload) - A Simple Script to upload Files to gofile.io via Terminal (CLI). Written in Bash.
 - [matthewlarkin/bare.sh](https://github.com/matthewlarkin/bare.sh) - bare.sh is a collection of bare bones shell scripts for simplifying various tasks such as API calls (OpenAI, Stripe, Postmark, etc), video and audio processing, and much more.
