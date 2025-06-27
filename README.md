@@ -248,7 +248,6 @@
 
 - [ultimateakash/react-rating-emoji](https://github.com/ultimateakash/react-rating-emoji) - An animated emoji rating component
 - [mnghsn/google-search-sidebar](https://github.com/mnghsn/google-search-sidebar) - A user script and user style to move Google search tools to sidebar.
-- [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 - [lotabout/static-wiki](https://github.com/lotabout/static-wiki) - 
 - [dohliam/dropin-minimal-css](https://github.com/dohliam/dropin-minimal-css) - Drop-in switcher for previewing minimal CSS frameworks
 - [fontuni/boonjot](https://github.com/fontuni/boonjot) - BoonJot Font
@@ -1460,7 +1459,7 @@
 - [garabik/grc](https://github.com/garabik/grc) - generic colouriser
 - [chrissimpkins/codeface](https://github.com/chrissimpkins/codeface) - Typefaces for source code beautification
 - [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [amueller/word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
 - [ericdaat/webradio-to-spotify](https://github.com/ericdaat/webradio-to-spotify) - Scraping songs playing on various classic rock radios and upload them to my Spotify Playlist.
 - [7x11x13/free-bandcamp-downloader](https://github.com/7x11x13/free-bandcamp-downloader) - Get free/name your price music from Bandcamp in lossless quality
@@ -1831,6 +1830,7 @@
 - [ttytm/german-scroll.code](https://github.com/ttytm/german-scroll.code) - VSCode/Codium extension. Vim-like scrolling that obeys to the rules. Preserves folds and respects scrollOff.
 - [LibreService/my_font_converter](https://github.com/LibreService/my_font_converter) - Convert ttf/woff2 fonts.
 - [abbrcode/abbreviations-in-code](https://github.com/abbrcode/abbreviations-in-code) - The list of common abbreviations in program codes.
+- [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 - [CardoPixel/md3-nextjs-template](https://github.com/CardoPixel/md3-nextjs-template) - Material Design 3 compliant Next.js website template, including features like: custom theming, Internationalization, PWA, SupaBase for data management, and Vercel for deployment.
 - [rakibdev/material-code](https://github.com/rakibdev/material-code) - Material You | Dynamic theme for Visual Studio Code.
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
