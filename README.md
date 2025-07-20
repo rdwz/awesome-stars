@@ -444,7 +444,7 @@
 - [jdel/gosspks](https://github.com/jdel/gosspks) - A very simple Synology Package Server written in Go
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Infrastructure as code for DNS!
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
-- [coder/coder](https://github.com/coder/coder) - Provision remote development environments via Terraform
+- [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 - [augmentable-dev/tickgit](https://github.com/augmentable-dev/tickgit) - Manage your repository's TODOs, tickets and checklists as config in your codebase.
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
