@@ -128,7 +128,7 @@
 - [themefisher/northendlab-light-astro](https://github.com/themefisher/northendlab-light-astro) - Northendlab is a highly customizable Astro theme designed specifically personal blog.
 - [jpaddeo/treelink](https://github.com/jpaddeo/treelink) - Personal link tree
 - [delucis/astro-badge](https://github.com/delucis/astro-badge) - Badges for Astro projects
-- [sondr3/astro-compressor](https://github.com/sondr3/astro-compressor) - A gzip and brotli compressor for Astro
+- [sondr3/astro-compressor](https://github.com/sondr3/astro-compressor) - A gzip, brotli and zstd compressor for Astro
 - [t3-oss/init.tips](https://github.com/t3-oss/init.tips) - 
 - [Destiner/astro-analytics](https://github.com/Destiner/astro-analytics) - Astro components for site analytics
 - [RocketCommunicationsInc/astro-www](https://github.com/RocketCommunicationsInc/astro-www) - The source code for the Astro UXDS website
@@ -679,6 +679,7 @@
 - [webdiscus/ansis](https://github.com/webdiscus/ansis) - CJS/ESM ANSI color library for terminals, CI and Chromium-based browser consoles. Compatible with Bun, Deno, Next.JS.
 - [fontello/wawoff2](https://github.com/fontello/wawoff2) - WebAssembly build of Google's woff2
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
+- [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 - [rinturaj/tailwind-material-3](https://github.com/rinturaj/tailwind-material-3) - Tailwind Material 3 is a library that provides ready-to-use UI components for Tailwind CSS users. It includes a range of customizable components such as buttons, cards, and forms, as well as useful ut
 - [code-farmer-i/vue-markdown-editor](https://github.com/code-farmer-i/vue-markdown-editor) - A markdown editor built on Vue
 - [atomiks/tippyjs](https://github.com/atomiks/tippyjs) - Tooltip, popover, dropdown, and menu library
@@ -1822,14 +1823,13 @@
 - [files-ui/files-ui-react](https://github.com/files-ui/files-ui-react) - UI components for file uploads with React js. Files UI is a complete library for handling files in the UI. You can validate and upload them. Multilanguage. Server side support.
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
 - [nico-i/psi-svg](https://github.com/nico-i/psi-svg) - Performs a Google PageSpeed Insights analysis on a given webpage and returns the result as an SVG.
-- [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Agentic is RapidAPI for LLM Tools. Your API ⇒ Paid MCP. Instantly.
+- [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Your API ⇒ Paid MCP. Instantly.
 - [Kakulukian/youtube-transcript](https://github.com/Kakulukian/youtube-transcript) - Fetch transcript from a youtube video
 - [JohannLai/gptcli](https://github.com/JohannLai/gptcli) - 🔥 All in one ChatGPT CLI, build your own AI cli tools just like GitHub Actions workflow gptcli.  内置 AI commmit（自动生成 commit message）、AI Command（自然语言转命令行）、翻译、gitmoji 等插件。秒级创建任意自定义 ChatGPT CLI 工具，就像创建一个 
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [ttytm/german-scroll.code](https://github.com/ttytm/german-scroll.code) - VSCode/Codium extension. Vim-like scrolling that obeys to the rules. Preserves folds and respects scrollOff.
 - [LibreService/my_font_converter](https://github.com/LibreService/my_font_converter) - Convert ttf/woff2 fonts.
 - [abbrcode/abbreviations-in-code](https://github.com/abbrcode/abbreviations-in-code) - The list of common abbreviations in program codes.
-- [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
 - [CardoPixel/md3-nextjs-template](https://github.com/CardoPixel/md3-nextjs-template) - Material Design 3 compliant Next.js website template, including features like: custom theming, Internationalization, PWA, SupaBase for data management, and Vercel for deployment.
 - [rakibdev/material-code](https://github.com/rakibdev/material-code) - Material You | Dynamic theme for Visual Studio Code.
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
