@@ -322,7 +322,7 @@
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 - [linuxserver-archive/docker-booksonic-air](https://github.com/linuxserver-archive/docker-booksonic-air) - 
 - [michellabbe/docker-iperf3](https://github.com/michellabbe/docker-iperf3) - Dockerfile to setup a simple iperf3 server based on Alpine
-- [techno-tim/launchpad](https://github.com/techno-tim/launchpad) - A collection of quick starters for ansible, kubernetes, docker, linux, windows, and more.  Great for HomeLabs!
+- [timothystewart6/launchpad](https://github.com/timothystewart6/launchpad) - A collection of quick starters for ansible, kubernetes, docker, linux, windows, and more.  Great for HomeLabs!
 - [vitalets/docker-tizen-webos-sdk](https://github.com/vitalets/docker-tizen-webos-sdk) - Docker image with Samsung Tizen CLI and LG webOS CLI
 - [fluent/fluentd-docker-image](https://github.com/fluent/fluentd-docker-image) - Docker image for Fluentd
 
@@ -817,7 +817,7 @@
 - [siddharthvp/toolforge-node-app-base](https://github.com/siddharthvp/toolforge-node-app-base) - Base for creating a node.js app hosted on Toolforge
 - [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) - 🛍️ Typescript E-commerce Platform
 - [dendronhq/dendron-site](https://github.com/dendronhq/dendron-site) - Getting started with Dendron
-- [techno-tim/littlelink-server](https://github.com/techno-tim/littlelink-server) - A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container!
+- [timothystewart6/littlelink-server](https://github.com/timothystewart6/littlelink-server) - A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container!
 - [techweber/node-js-whois-query](https://github.com/techweber/node-js-whois-query) - This POC written in Node JS queries WHOIS servers for domains, ip addresses and ASN's
 - [nipunadodan/mbti-app](https://github.com/nipunadodan/mbti-app) - Supplimentary tool for MBTI personality enthusiasts. Used Tailwind on React as the CSS framework, with a dark mode and added PWA capability to make the app more versatile. There's no back-end for this
 - [PallaviKatari/ReactTraining](https://github.com/PallaviKatari/ReactTraining) - React is an open source, JavaScript library for developing user interface (UI) in web application. React is developed and released by Facebook.
