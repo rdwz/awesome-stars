@@ -262,7 +262,7 @@
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [JingShing/AI-image-tag-extractor](https://github.com/JingShing/AI-image-tag-extractor) - A tool to help you get image info.
 - [transitive-bullshit/agentic](https://github.com/transitive-bullshit/agentic) - Your API ⇒ Paid MCP. Instantly.
-- [JohannLai/gptcli](https://github.com/JohannLai/gptcli) - 🔥 All in one ChatGPT CLI, build your own AI cli tools just like GitHub Actions workflow gptcli.  内置 AI commmit（自动生成 commit message）、AI Command（自然语言转命令行）、翻译、gitmoji 等插件。秒级创建任意自定义 ChatGPT CLI 工具，就像创建一个 
+- [JohannLai/gptcli](https://github.com/JohannLai/gptcli) - 🔥 All-in-one ChatGPT CLI - Build custom AI tools like GitHub Actions. Features AI commit, natural language commands, translation, and gitmoji. Create powerful CLI tools in seconds, bridging natural la
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [SociallyIneptWeeb/AICoverGen](https://github.com/SociallyIneptWeeb/AICoverGen) - A WebUI to create song covers with any RVC v2 trained AI voice from YouTube videos or audio files.
 - [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
@@ -610,7 +610,7 @@
 - [tobiasbueschel/search-gpt](https://github.com/tobiasbueschel/search-gpt) - 🌳 Connecting ChatGPT with the Internet
 - [marcolardera/chatgpt-cli](https://github.com/marcolardera/chatgpt-cli) - Simple yet effective command line client for chatting with ChatGPT using the official API
 - [kharvd/gpt-cli](https://github.com/kharvd/gpt-cli) - Command-line interface for ChatGPT, Claude and Bard
-- [JohannLai/gptcli](https://github.com/JohannLai/gptcli) - 🔥 All in one ChatGPT CLI, build your own AI cli tools just like GitHub Actions workflow gptcli.  内置 AI commmit（自动生成 commit message）、AI Command（自然语言转命令行）、翻译、gitmoji 等插件。秒级创建任意自定义 ChatGPT CLI 工具，就像创建一个 
+- [JohannLai/gptcli](https://github.com/JohannLai/gptcli) - 🔥 All-in-one ChatGPT CLI - Build custom AI tools like GitHub Actions. Features AI commit, natural language commands, translation, and gitmoji. Create powerful CLI tools in seconds, bridging natural la
 - [Joabutt/gptnegative](https://github.com/Joabutt/gptnegative) - A GPTZero bypasser
 - [anse-app/anse](https://github.com/anse-app/anse) - Supercharged experience for multiple models such as ChatGPT, DALL-E and Stable Diffusion.
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
@@ -1866,7 +1866,7 @@
 - [NotCookey/Quote2Image](https://github.com/NotCookey/Quote2Image) - Quote2Image is a python library for turning text quotes into graphical images
 - [plemeri/transparent-background](https://github.com/plemeri/transparent-background) - This is a background removing tool powered by InSPyReNet (ACCV 2022)
 - [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter) - A cross-platform command-line tool to convert images into ascii art and print them on the console. Now supports braille art!
-- [calibreapp/image-actions](https://github.com/calibreapp/image-actions) - A Github Action that automatically compresses JPEGs, PNGs and WebPs in Pull Requests.
+- [calibreapp/image-actions](https://github.com/calibreapp/image-actions) - A Github Action that automatically compresses JPEGs, PNGs, WebPs & AVIFs in Pull Requests.
 
 ## information-gathering 
 
@@ -3056,7 +3056,7 @@
 - [FrontenderMagazine/convince-others-against-dark-patterns](https://github.com/FrontenderMagazine/convince-others-against-dark-patterns) - How To Convince Others Not To Use Dark Patterns — Smashing Magazine
 - [deep-floyd/IF](https://github.com/deep-floyd/IF) - 
 - [bucaneer/binauralconv](https://github.com/bucaneer/binauralconv) - A script for converting (surround) audio files into binaural stereo.
-- [thuliteio/bolt](https://github.com/thuliteio/bolt) - Minimal blog theme based on Bolt.css
+- [thuliteio/bolt](https://github.com/thuliteio/bolt) - Minimal blog theme based on Bolt.css.
 - [ShanonPearce/ASH-IR-Dataset](https://github.com/ShanonPearce/ASH-IR-Dataset) - An impulse response dataset for binaural synthesis of spatial audio systems on headphones
 - [mozilla/observatory-cli](https://github.com/mozilla/observatory-cli) - 
 - [mmarquez76/AstrologyClock](https://github.com/mmarquez76/AstrologyClock) - Displays time and astrological data (moon phases, positions of planets & celestial points in zodiac)
