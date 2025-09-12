@@ -133,7 +133,7 @@
 - [Destiner/astro-analytics](https://github.com/Destiner/astro-analytics) - Astro components for site analytics
 - [RocketCommunicationsInc/astro-www](https://github.com/RocketCommunicationsInc/astro-www) - The source code for the Astro UXDS website
 - [delucis/astro-embed](https://github.com/delucis/astro-embed) - Low-JavaScript embed components for Astro websites
-- [incluud/accessible-astro-starter](https://github.com/incluud/accessible-astro-starter) - An Accessible Starter Theme for Astro 5+ including accessibility features such as landmarks, better focus-outline and skip-links navigation. Ships with Tailwind 4, Prettier and ESLint support.
+- [incluud/accessible-astro-starter](https://github.com/incluud/accessible-astro-starter) - An Accessible, WCAG compliant Starter Theme for Astro 5+ including several accessibility features such as, better focus-outline, landmarks, semantics, interactive components and skip-link navigation. 
 - [mhyfritz/astro-landing-page](https://github.com/mhyfritz/astro-landing-page) - An Astro + Tailwind CSS Example/Template for Landing Pages
 - [aFuzzyBear/astro-academy](https://github.com/aFuzzyBear/astro-academy) - 
 
@@ -1482,7 +1482,6 @@
 - [square/git-fastclone](https://github.com/square/git-fastclone) - git clone --recursive on steroids
 - [github/gemoji](https://github.com/github/gemoji) - Emoji images and names.
 - [opal/opal](https://github.com/opal/opal) - Ruby ♥︎ JavaScript
-- [inoda/journal](https://github.com/inoda/journal) - :notebook: A simple self-hosted journaling app
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [siteinspector/siteinspector](https://github.com/siteinspector/siteinspector) - A tool for catching spelling errors, grammatical errors, broken links, and other errors on websites.
 - [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
