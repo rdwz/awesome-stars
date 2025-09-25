@@ -1725,7 +1725,7 @@
 
 - [isaron/gitea-kubernetes](https://github.com/isaron/gitea-kubernetes) - Setup Gitea on Kubernetes
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
-- [linode/apl-core](https://github.com/linode/apl-core) - Akamai App Platform for LKE
+- [linode/apl-core](https://github.com/linode/apl-core) - App Platform for Linode Kubernetes Engine
 
 ## Starlark 
 
