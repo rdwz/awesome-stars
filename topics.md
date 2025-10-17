@@ -7,6 +7,7 @@
 
 - [3d](#3d)
 - [ai](#ai)
+- [ai-agents](#ai-agents)
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
@@ -234,6 +235,7 @@
 - [ui-design](#ui-design)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
+- [visualization](#visualization)
 - [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
@@ -247,6 +249,7 @@
 - [wordpress](#wordpress)
 - [xcode](#xcode)
 - [xml](#xml)
+- [youtube](#youtube)
 - [zig](#zig)
 - [zsh](#zsh)
 
@@ -277,11 +280,16 @@
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 
+## ai-agents 
+
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+
 ## analytics 
 
 - [sergree/whatbpm](https://github.com/sergree/whatbpm) - 💓 Today's Trending Values for EDM Production
 - [arp242/goatcounter](https://github.com/arp242/goatcounter) - Easy web analytics. No tracking of personal data.
-- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - The most comprehensive, compact, and up-to-date JavaScript library to detect user's browser, OS, CPU, and device type/model. Also detect bots, apps, and more. Runs seamlessly in the browser (client-si
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - Detect Browsers, OS, Devices, Bots, AI Crawlers, Apps, and more. Run in Browser (client-side) or Node.js (server-side).
 - [Destiner/astro-analytics](https://github.com/Destiner/astro-analytics) - Astro components for site analytics
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -406,7 +414,7 @@
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - This repository has been moved to https://codeberg.org/janikvonrotz/awesome-powershell. Please visit the new location for the latest updates.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [revoltchat/awesome-revolt](https://github.com/revoltchat/awesome-revolt) - Collection of Revolt libraries, bots, clients and other cool stuff.
+- [stoatchat/awesome-stoat](https://github.com/stoatchat/awesome-stoat) - Collection of Stoat libraries, bots, clients and other cool stuff.
 - [738/awesome-url-shortener](https://github.com/738/awesome-url-shortener) - 🔗 A curated list of awesome url shortener
 - [standard/awesome-standard](https://github.com/standard/awesome-standard) - Documenting the explosion of packages in the standard ecosystem!
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
@@ -445,7 +453,7 @@
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - This repository has been moved to https://codeberg.org/janikvonrotz/awesome-powershell. Please visit the new location for the latest updates.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [revoltchat/awesome-revolt](https://github.com/revoltchat/awesome-revolt) - Collection of Revolt libraries, bots, clients and other cool stuff.
+- [stoatchat/awesome-stoat](https://github.com/stoatchat/awesome-stoat) - Collection of Stoat libraries, bots, clients and other cool stuff.
 - [738/awesome-url-shortener](https://github.com/738/awesome-url-shortener) - 🔗 A curated list of awesome url shortener
 - [readium/awesome-readium](https://github.com/readium/awesome-readium) - ⭐️ Awesome Readium-related resources
 - [standard/awesome-standard](https://github.com/standard/awesome-standard) - Documenting the explosion of packages in the standard ecosystem!
@@ -619,7 +627,7 @@
 - [anse-app/anse](https://github.com/anse-app/anse) - Supercharged experience for multiple models such as ChatGPT, DALL-E and Stable Diffusion.
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla) - Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
 - [supabase-community/deno-fresh-openai-doc-search](https://github.com/supabase-community/deno-fresh-openai-doc-search) - Template for building your own custom ChatGPT style doc search powered by Fresh, Deno, OpenAI, and Supabase.
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt) - An open-source ChatGPT app with a voice
@@ -1010,7 +1018,7 @@
 
 - [0xType/0xProto](https://github.com/0xType/0xProto) - A programming font focused on source code legibility
 - [Bazooo/svg-sprite-maker](https://github.com/Bazooo/svg-sprite-maker) - Application to create/edit SVG sprites
-- [nuejs/nue](https://github.com/nuejs/nue) - Standards first web framework taking HTML, CSS, JS, and WASM to their peak
+- [nuejs/nue](https://github.com/nuejs/nue) - Fastest way to build modern websites
 - [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
 - [anup-a/meshy](https://github.com/anup-a/meshy) - 🧞‍♂️ MESH·Y is a design tool to generate beautiful & colorful mesh gradients.
 - [xemantic/shader-web-background](https://github.com/xemantic/shader-web-background) - Displays GLSL fragment shaders as a website background. Supports offscreen buffers and floating point textures on almost any browser and hardware. Compatible with Shadertoy.
@@ -1181,7 +1189,7 @@
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
 - [Toinane/colorpicker](https://github.com/Toinane/colorpicker) - A mininal but complete colorpicker desktop app
 - [ReclaimApp/Reclaim](https://github.com/ReclaimApp/Reclaim) - A hub for your personal data
-- [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd) - YouTube Music Desktop App bundled with custom plugins
+- [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
 - [mafiosnik777/enhancr](https://github.com/mafiosnik777/enhancr) - Video Frame Interpolation & Super Resolution using NVIDIA's TensorRT & Tencent's NCNN inference, beautifully crafted and packaged into a single app
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
@@ -1356,7 +1364,7 @@
 
 ## framework 
 
-- [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
+- [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim Framework: The Zsh configuration framework with blazing speed and modular extensions.
 - [miguelgargallo/tauri-astro-app](https://github.com/miguelgargallo/tauri-astro-app) - ¿What if the god of perfect language, Rust, and the god of the web, Typescript, had a baby? Well, this is it, Tauri + Astro, the perfect combination to make the web a whole new world.
 - [ServiceStack/ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
@@ -1646,7 +1654,6 @@
 
 ## hacktoberfest 
 
-- [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
@@ -1671,7 +1678,6 @@
 - [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
-- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) - 🛡 Allows users to more easily use Octicons and their own icons and logos on shields.io badges
 - [rugk/awesome-emoji-picker](https://github.com/rugk/awesome-emoji-picker) - Add-on/WebExtension that provides a modern emoji picker that you can use to find and copy/insert emoji into the active web page.
 - [grantholle/moviedb-promise](https://github.com/grantholle/moviedb-promise) - Interact with themoviedb.org's api with Node... now in TypeScript!
@@ -1687,6 +1693,7 @@
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [stormwarning/tailwindcss-capsize](https://github.com/stormwarning/tailwindcss-capsize) - ✂️ Tailwind CSS utility classes for trimming whitespace above & below capital letters.
 - [AstroNvim/astrotheme](https://github.com/AstroNvim/astrotheme) - The default colorscheme used by AstroNvim
+- [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [forsti0506/a11y-sitechecker](https://github.com/forsti0506/a11y-sitechecker) - Automatic accessibility checker with website crawling + screenshots for easy use
 - [Kabanosk/whisper-website](https://github.com/Kabanosk/whisper-website) - Simple web application, which can be used to convert audio to subtitles by OpenAI's Whisper model
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
@@ -1738,6 +1745,7 @@
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [aUnicornDev/tabsMonster](https://github.com/aUnicornDev/tabsMonster) - A Chrome extension to keep a tab on your Browser Tabs
 - [flatcar/Flatcar](https://github.com/flatcar/Flatcar) - Flatcar project repository for issue tracking, project documentation, etc.
+- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
@@ -1838,7 +1846,7 @@
 - [erfjs/ejbank](https://github.com/erfjs/ejbank) - 
 - [michaeldzjap/waveplayer](https://github.com/michaeldzjap/waveplayer) - An HTML5 based audio player with a waveform view
 - [vc64web/virtualc64web](https://github.com/vc64web/virtualc64web) - vc64web - Commodore C64  Emulator for iPad iPhone Android and the Web with CSDb access for thousands of demos at your fingertip.
-- [anirbanmu/Vizl](https://github.com/anirbanmu/Vizl) - Vizl - SoundCloud® music visualizer via WebGL, WebAudio, Svelte & Typescript.
+- [anirbanmu/vizl](https://github.com/anirbanmu/vizl) - Vizl - SoundCloud® music visualizer via WebGL, WebAudio, Svelte & Typescript.
 - [serversideup/amplitudejs](https://github.com/serversideup/amplitudejs) - AmplitudeJS: Open Source HTML5 Web Audio Library. Design your web audio player, the way you want. No dependencies required.
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [mediaelement/mediaelement](https://github.com/mediaelement/mediaelement) - HTML5 &lt;audio&gt; or &lt;video&gt; player with support for MP4, WebM, and MP3 as well as HLS, Dash, YouTube, Facebook, SoundCloud and others with a common HTML5 MediaElement API, enabling a consiste
@@ -1952,7 +1960,7 @@
 - [decaporg/decap-cms](https://github.com/decaporg/decap-cms) - A Git-based CMS for Static Site Generators
 - [sindresorhus/ow](https://github.com/sindresorhus/ow) - Function argument validation for humans
 - [files-ui/files-ui-react](https://github.com/files-ui/files-ui-react) - UI components for file uploads with React js. Files UI is a complete library for handling files in the UI. You can validate and upload them. Multilanguage. Server side support.
-- [nuejs/nue](https://github.com/nuejs/nue) - Standards first web framework taking HTML, CSS, JS, and WASM to their peak
+- [nuejs/nue](https://github.com/nuejs/nue) - Fastest way to build modern websites
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [webdiscus/ansis](https://github.com/webdiscus/ansis) - CJS/ESM ANSI color library for terminals, CI and Chromium-based browser consoles. Compatible with Bun, Deno, Next.JS.
 - [orhanemree/link-in-bio](https://github.com/orhanemree/link-in-bio) - 🌲 All-in-one bio link tool. An open source alternative to Linktree, with no registration required.
@@ -2066,7 +2074,7 @@
 - [myxvisual/react-uwp](https://github.com/myxvisual/react-uwp) - 📱⌨ React Components that Implement Microsoft's UWP Design & Fluent Design.
 - [undergroundwires/safe-email](https://github.com/undergroundwires/safe-email) - 🛡️📧 Protect e-mails against spam and scraping bots
 - [AwesomeWebProjects/react-player](https://github.com/AwesomeWebProjects/react-player) - One audio player built with ReactJS, Web Audio API and Web Worker API
-- [anirbanmu/Vizl](https://github.com/anirbanmu/Vizl) - Vizl - SoundCloud® music visualizer via WebGL, WebAudio, Svelte & Typescript.
+- [anirbanmu/vizl](https://github.com/anirbanmu/vizl) - Vizl - SoundCloud® music visualizer via WebGL, WebAudio, Svelte & Typescript.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [suptejas/volt](https://github.com/suptejas/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
 - [webkul/coolhue](https://github.com/webkul/coolhue) - Coolest Gradient Hues and Swatches
@@ -2219,8 +2227,8 @@
 - [phoronix-test-suite/phoronix-test-suite](https://github.com/phoronix-test-suite/phoronix-test-suite) - The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
 - [desertplant/moon-phase-background](https://github.com/desertplant/moon-phase-background) - Change desktop background to a high resolution picture of the current moon phase from NASA
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
-- [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd) - YouTube Music Desktop App bundled with custom plugins
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
+- [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
 - [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automati
 - [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG, WebP and TIFF formats.   You can quickly reduce the file size (and resolution, if y
@@ -2295,7 +2303,7 @@
 ## mac 
 
 - [Moustachauve/cookie-editor](https://github.com/Moustachauve/cookie-editor) - A powerful browser extension to create, edit and delete cookies
-- [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd) - YouTube Music Desktop App bundled with custom plugins
+- [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [openaudible/openaudible](https://github.com/openaudible/openaudible) - Audiobook Manager for Audible Users
 - [digimezzo/dopamine](https://github.com/digimezzo/dopamine) - The audio player that keeps it simple
@@ -2328,7 +2336,7 @@
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
 - [nixcraft/domain-check-2](https://github.com/nixcraft/domain-check-2) - Domain Expiration Check Shell Script Forked and Maintained by nixCraft
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
 - [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG, WebP and TIFF formats.   You can quickly reduce the file size (and resolution, if y
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
@@ -2423,7 +2431,7 @@
 - [mahshidaln/AI-for-music](https://github.com/mahshidaln/AI-for-music) - Resources on AI applications in the music domain
 - [sergree/whatbpm](https://github.com/sergree/whatbpm) - 💓 Today's Trending Values for EDM Production
 - [adamPatrick12/study-beats-fm](https://github.com/adamPatrick12/study-beats-fm) - An online music player where you can listen to popular Youtube radio livestreams
-- [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd) - YouTube Music Desktop App bundled with custom plugins
+- [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [aubio/aubio](https://github.com/aubio/aubio) - a library for audio and music analysis
@@ -2437,7 +2445,7 @@
 - [cdown/mack](https://github.com/cdown/mack) - An opinionated, fast music organiser.
 - [metabrainz/picard](https://github.com/metabrainz/picard) - Picard is a cross-platform music tagger powered by the MusicBrainz database
 - [digimezzo/dopamine](https://github.com/digimezzo/dopamine) - The audio player that keeps it simple
-- [anirbanmu/Vizl](https://github.com/anirbanmu/Vizl) - Vizl - SoundCloud® music visualizer via WebGL, WebAudio, Svelte & Typescript.
+- [anirbanmu/vizl](https://github.com/anirbanmu/vizl) - Vizl - SoundCloud® music visualizer via WebGL, WebAudio, Svelte & Typescript.
 - [ironsmile/euterpe](https://github.com/ironsmile/euterpe) - Self-hosted music streaming server 🎶 with RESTful API and Web interface. Think of it as your very own Spotify! ☁️🎧
 - [ericdaat/webradio-to-spotify](https://github.com/ericdaat/webradio-to-spotify) - Scraping songs playing on various classic rock radios and upload them to my Spotify Playlist.
 - [SYQEL/SYQEL-Radio-Releases](https://github.com/SYQEL/SYQEL-Radio-Releases) - SYQEL Radio Windows desktop application enables user to enjoy a fully immersive radio listening experience which is visualized with the SYQEL Music Visualizer.
@@ -2445,7 +2453,7 @@
 
 ## mysql 
 
-- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
+- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 
@@ -2494,7 +2502,7 @@
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [realvjy/nxt-lnk](https://github.com/realvjy/nxt-lnk) - Custom bio links for creatives who love coding. A perfect custom alternative for linktree, bio and other shortner platform.
 - [DataStax-Examples/astra-next.js-starter](https://github.com/DataStax-Examples/astra-next.js-starter) - ⚡️ A sample Next.js + DataStax Astra starter app that leverages the AstraDB REST API to manage a character database.
-- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
+- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
@@ -2536,7 +2544,7 @@
 - [neon-bindings/examples](https://github.com/neon-bindings/examples) - A collection of examples of Neon
 - [evanwashere/mitata](https://github.com/evanwashere/mitata) - benchmark tooling that loves you ❤️
 - [vsetka/deepl-translator](https://github.com/vsetka/deepl-translator) - This module provides promised methods for translating text using DeepL Translator (https://www.deepl.com/translator) undocumented API.
-- [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd) - YouTube Music Desktop App bundled with custom plugins
+- [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [timothystewart6/littlelink-server](https://github.com/timothystewart6/littlelink-server) - A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container!
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [magidoc-org/magidoc](https://github.com/magidoc-org/magidoc) - Autogenerate static GraphQL API documentation
@@ -2690,7 +2698,7 @@
 - [thegreenwebfoundation/co2.js](https://github.com/thegreenwebfoundation/co2.js) - An npm module for accessing the green web API, and estimating the carbon emissions from using digital services
 - [bagder/uncurled](https://github.com/bagder/uncurled) - Uncurled - everything I know and learned about running and maintaining Open Source projects for three decades.
 - [mautic/mautic](https://github.com/mautic/mautic) - Mautic: Open Source Marketing Automation Software.
-- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
+- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and MacOS, free and open-source (FOSS)
@@ -2745,6 +2753,7 @@
 
 ## others 
 
+- [l2xu/shopping-analyzer](https://github.com/l2xu/shopping-analyzer) - 
 - [brave-intl/themis-rfcc](https://github.com/brave-intl/themis-rfcc) - Repository with resources for the THEMIS RFC&C
 - [mislav/rfc](https://github.com/mislav/rfc) - Pretty RFC indexes and reformats RFC documents for easier discovery and viewing.
 - [davidar/bootsh](https://github.com/davidar/bootsh) - Bootstrappable, self-hosting POSIX shell
@@ -2812,7 +2821,6 @@
 - [ORB-HD/deface](https://github.com/ORB-HD/deface) - Video anonymization by face detection
 - [batuhanerenler/JARVIS-OpenAI-Voice-Assistant](https://github.com/batuhanerenler/JARVIS-OpenAI-Voice-Assistant) - Jarvis is a voice-enabled chatbot powered by OpenAI's GPT-3.5-turbo. It leverages state-of-the-art natural language processing to deliver intelligent and conversational interactions.
 - [samkeet/google-photos-takeout](https://github.com/samkeet/google-photos-takeout) - A project where I want to analyze, organize and cleanup my Google Photos Takeout exports worth 200+ Gigs
-- [MichaelMarav/RealTimeDetectionYoutube](https://github.com/MichaelMarav/RealTimeDetectionYoutube) - Takes a youtube video/livestream and performs object detection by using the YOLO or SSD algorithm
 - [numz/sd-wav2lip-uhq](https://github.com/numz/sd-wav2lip-uhq) - Wav2Lip UHQ extension for Automatic1111
 - [cncf/svg-autocrop](https://github.com/cncf/svg-autocrop) - 🚗🌽🔳An NPM module to autocrop and slim down SVGs
 - [mozilla/fxemoji](https://github.com/mozilla/fxemoji) - FxEmojis - a friendly emoji set from Mozilla
@@ -2852,7 +2860,6 @@
 - [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) - 
 - [sebastianterleira/astro-spotify-clone](https://github.com/sebastianterleira/astro-spotify-clone) - A Spotify clone made with Astro.js + Spotify API + View Transitions 🚀
 - [umd-mith/webvtt-player](https://github.com/umd-mith/webvtt-player) - A React audio player & transcription viewer.
-- [ApayRus/direct-link](https://github.com/ApayRus/direct-link) - A downloader, that gets you access to direct links to youtube's:  video (mp4), audio (m4a), captions/subtitles (.vtt), thumbnails (webp).
 - [possibly-is-gay/possibly-is-gay](https://github.com/possibly-is-gay/possibly-is-gay) - Self-service possibly-is.gay subdomain registration
 - [AndrewCarterUK/AstroSplash](https://github.com/AndrewCarterUK/AstroSplash) - An app that uses the Astronomy Picture of the Day API provided by NASA and the Zend Expressive framework.
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
@@ -2931,7 +2938,6 @@
 - [withastro/automation](https://github.com/withastro/automation) - Centralized repo for GitHub actions for the `withastro` org
 - [joelacus/Cobalt](https://github.com/joelacus/Cobalt) - A very customisable widget based start page browser extension/website
 - [delucis/astro-auto-import](https://github.com/delucis/astro-auto-import) - Auto-import components in Astro projects
-- [IogaMaster/videos](https://github.com/IogaMaster/videos) - Source code of my YouTube videos animated with MotionCanvas
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [unjs/ufo](https://github.com/unjs/ufo) - 🔗 URL utils for humans
 - [aFuzzyBear/astro-ui](https://github.com/aFuzzyBear/astro-ui) - MonoRepo to house the collective distribution for Astro Components, Hoping this turns out to be a community led effort where Astro UI Components can be stored and accessed
@@ -2957,7 +2963,6 @@
 - [discourse/discourse_docker](https://github.com/discourse/discourse_docker) - A Docker image for Discourse
 - [KittyGiraudel/a11y-dialog](https://github.com/KittyGiraudel/a11y-dialog) - A very lightweight and flexible accessible modal dialog script.
 - [sharplab/epub-translator](https://github.com/sharplab/epub-translator) - An utility to translate epub books with DeepL
-- [magneum/youtube-exec](https://github.com/magneum/youtube-exec) - 🔥🎶YouTube-Exec: Unleash the Power of YouTube Downloads!
 - [ecomfe/fonteditor](https://github.com/ecomfe/fonteditor) - 在线字体编辑器
 - [hail2u/mn](https://github.com/hail2u/mn) - The monospace fonts from the Google Fonts directory
 - [jonathantneal/directory-fonts-complete](https://github.com/jonathantneal/directory-fonts-complete) - Generate a complete list of fonts and their sources from a directory
@@ -3076,7 +3081,7 @@
 - [rewbs/butterchurn-recorder](https://github.com/rewbs/butterchurn-recorder) - 
 - [free-music-by-eatme/Milkdrop-Butterchurn-for-Web-v2.6.7.1e-complete-by-Geiss-Flexi-JBerg-EatMe](https://github.com/free-music-by-eatme/Milkdrop-Butterchurn-for-Web-v2.6.7.1e-complete-by-Geiss-Flexi-JBerg-EatMe) - Butterchurn is a WebGL implementation of the Milkdrop Visualizer
 - [winkerVSbecks/solarstorm](https://github.com/winkerVSbecks/solarstorm) - 
-- [Moebits/soundcloud.ts](https://github.com/Moebits/soundcloud.ts) - Wrapper for the Soundcloud API with typings
+- [Moestash/soundcloud.ts](https://github.com/Moestash/soundcloud.ts) - Wrapper for the Soundcloud API with typings
 - [kevinkhagan/adinkra-icons](https://github.com/kevinkhagan/adinkra-icons) - 
 - [ya-mouse/phpbb-scraper](https://github.com/ya-mouse/phpbb-scraper) - Multithreaded and Multiprocess Scraper for phpBB
 - [henrymaas/AudioSlicer](https://github.com/henrymaas/AudioSlicer) - Audio Slicer that uses silence detection to split .wav audio files into multiple .wav samples.
@@ -3093,7 +3098,6 @@
 - [jmisavage/red-snapper](https://github.com/jmisavage/red-snapper) - Package to take snapshots with headless chrome
 - [PaulBratslavsky/strapi-chat-blog-repo](https://github.com/PaulBratslavsky/strapi-chat-blog-repo) - 
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
-- [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - 🔉 Youtube Videos Transcription with OpenAI's Whisper
 - [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments) - Clone, deploy, and fully customize a SaaS subscription application with Next.js.
 - [stripe-samples/subscription-use-cases](https://github.com/stripe-samples/subscription-use-cases) - Create subscriptions with fixed prices or usage based billing.
 - [remix-run/blues-stack](https://github.com/remix-run/blues-stack) - The Remix Stack for deploying to Fly with PostgreSQL, authentication, testing, linting, formatting, etc.
@@ -3108,7 +3112,6 @@
 - [katyo/aubio-rs](https://github.com/katyo/aubio-rs) - Rust bindings for Aubio library
 - [astrofox-io/astrofox](https://github.com/astrofox-io/astrofox) - Astrofox is a motion graphics program that lets you turn audio into amazing videos.
 - [bugout-dev/mirror](https://github.com/bugout-dev/mirror) - Software project analysis
-- [shaked6540/YoutubePlaylistDownloader](https://github.com/shaked6540/YoutubePlaylistDownloader) - A tool to download whole playlists, channels or single videos from youtube and also optionally convert them to almost any format you would like
 - [bluulo/joplin-plugin-code-clipboard](https://github.com/bluulo/joplin-plugin-code-clipboard) - Copy the content of a code block to the clipboard
 - [aaranxu/adidoks](https://github.com/aaranxu/adidoks) - AdiDoks is a mordern documentation theme, which is a port of the Hugo theme Doks for Zola.
 - [ineffyble/genders.wtf](https://github.com/ineffyble/genders.wtf) - 
@@ -3153,7 +3156,7 @@
 - [microlinkhq/browserless](https://github.com/microlinkhq/browserless) - The headless Chrome/Chromium driver on top of Puppeteer.
 - [standard/semistandard](https://github.com/standard/semistandard) - :icecream: All the goodness of `standard/standard` with semicolons sprinkled on top.
 - [FamilySearch/GEDCOM](https://github.com/FamilySearch/GEDCOM) - 
-- [Moebits/waifu2x](https://github.com/Moebits/waifu2x) - waifu2x image upscaling in Node.js
+- [Moebytes/waifu2x](https://github.com/Moebytes/waifu2x) - waifu2x image upscaling in Node.js
 - [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) - Get unified metadata from websites using Open Graph, Microdata, RDFa, Twitter Cards, JSON-LD, HTML, and more.
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [blove/typescript-express-starter](https://github.com/blove/typescript-express-starter) - TypeScript 2 + Express + Node.js
@@ -3321,7 +3324,6 @@
 - [bronson/geolocal](https://github.com/bronson/geolocal) - Geocode an IP address with a single if statement.  No network access, no context switches, no waiting.
 - [WebCrateApp/webcrate](https://github.com/WebCrateApp/webcrate) - 📦🔗 Organize your web with WebCrate, a modern and beautiful bookmarking tool
 - [peter-evans/create-issue-from-file](https://github.com/peter-evans/create-issue-from-file) - A GitHub action to create an issue using content from a file
-- [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
 - [badgen/badgen.net](https://github.com/badgen/badgen.net) - Fast badge service
 - [amoutonbrady/solid-heroicons](https://github.com/amoutonbrady/solid-heroicons) - 
 - [UniversalGUI/UGUI](https://github.com/UniversalGUI/UGUI) - Universal Graphical User Interface
@@ -3489,7 +3491,6 @@
 - [amueller/word_cloud](https://github.com/amueller/word_cloud) - A little word cloud generator in Python
 - [tests-always-included/mo](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
 - [mdlu/set-game](https://github.com/mdlu/set-game) - backend for an online multiplayer version of the card game Set
-- [jberg/butterchurn](https://github.com/jberg/butterchurn) - Butterchurn is a WebGL implementation of the Milkdrop Visualizer
 - [7x11x13/free-bandcamp-downloader](https://github.com/7x11x13/free-bandcamp-downloader) - Get free/name your price music from Bandcamp in lossless quality
 - [mozilla/mozjpeg](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder.
 - [GoogleChrome/lighthouse-ci](https://github.com/GoogleChrome/lighthouse-ci) - Automate running Lighthouse for every commit, viewing the changes, and preventing regressions
@@ -3970,7 +3971,7 @@
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
 - [JosephLai241/URS](https://github.com/JosephLai241/URS) - Universal Reddit Scraper - A comprehensive Reddit scraping/archival command-line tool.
 - [valmisson/tauri-app-template](https://github.com/valmisson/tauri-app-template) - A template for building desktop applications with Tauri
 - [TimSusa/montauri-editor](https://github.com/TimSusa/montauri-editor) - A light weight simple crossplatform text editor based on Monaco Editor and build on Tauri.
@@ -4224,7 +4225,7 @@
 - [TheComputerM/awesome-svelte](https://github.com/TheComputerM/awesome-svelte) - ⚡ A curated list of awesome Svelte resources
 - [novacbn/svelte-in-motion](https://github.com/novacbn/svelte-in-motion) - Remotion clone, but in Svelte!
 - [ravenclaw900/DietPi-Dashboard](https://github.com/ravenclaw900/DietPi-Dashboard) - A lightweight, standalone web dashboard for DietPi
-- [anirbanmu/Vizl](https://github.com/anirbanmu/Vizl) - Vizl - SoundCloud® music visualizer via WebGL, WebAudio, Svelte & Typescript.
+- [anirbanmu/vizl](https://github.com/anirbanmu/vizl) - Vizl - SoundCloud® music visualizer via WebGL, WebAudio, Svelte & Typescript.
 - [swyxio/swyxdotio](https://github.com/swyxio/swyxdotio) - This is the repo for swyx's blog - Blog content is created in github issues, then posted on swyx.io as blog pages! Comment/watch to follow along my blog within GitHub
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Ideal for reproducing issues and iterating on your product.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -4275,7 +4276,7 @@
 - [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, solid-styled-components, stitches and goober) at build time.
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [surjithctly/neat-starter](https://github.com/surjithctly/neat-starter) - Starter Template for Netlify CMS, Eleventy, Alpine JS & Tailwind CSS
-- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
+- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [burhan-syed/WebRoll](https://github.com/burhan-syed/WebRoll) - A place to submit and discover creations on the internet.
 - [swyxio/swyxdotio](https://github.com/swyxio/swyxdotio) - This is the repo for swyx's blog - Blog content is created in github issues, then posted on swyx.io as blog pages! Comment/watch to follow along my blog within GitHub
 - [hyperfocalHQ/pollen](https://github.com/hyperfocalHQ/pollen) - The CSS variables build system
@@ -4445,7 +4446,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler) - Open source browser extension for finding, editing, exporting, optimizing, and managing SVG content.
-- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
+- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [remusao/tldts](https://github.com/remusao/tldts) - JavaScript Library to extract domains, subdomains and public suffixes from complex URIs.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [magidoc-org/magidoc](https://github.com/magidoc-org/magidoc) - Autogenerate static GraphQL API documentation
@@ -4463,7 +4464,7 @@
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
 - [myxvisual/react-uwp](https://github.com/myxvisual/react-uwp) - 📱⌨ React Components that Implement Microsoft's UWP Design & Fluent Design.
 - [ravenclaw900/DietPi-Dashboard](https://github.com/ravenclaw900/DietPi-Dashboard) - A lightweight, standalone web dashboard for DietPi
-- [anirbanmu/Vizl](https://github.com/anirbanmu/Vizl) - Vizl - SoundCloud® music visualizer via WebGL, WebAudio, Svelte & Typescript.
+- [anirbanmu/vizl](https://github.com/anirbanmu/vizl) - Vizl - SoundCloud® music visualizer via WebGL, WebAudio, Svelte & Typescript.
 - [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
@@ -4525,6 +4526,15 @@
 
 - [golang-templates/seed](https://github.com/golang-templates/seed) - Go application GitHub repository template.
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
+
+## visualization 
+
+- [BrokenSource/ShaderFlow](https://github.com/BrokenSource/ShaderFlow) - 🔥 Modular shader engine designed for simplicity and speed
+- [derlin/docker-compose-viz-mermaid](https://github.com/derlin/docker-compose-viz-mermaid) - Generate beautiful visuals from docker-compose files. The mermaid graph can be exported to PNG, SVG, or edited directly in https://mermaid.live.
+- [projectM-visualizer/frontend-sdl-rust](https://github.com/projectM-visualizer/frontend-sdl-rust) - Rust | SDL-based standalone application that turns your desktop audio into awesome visuals.
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
+- [jberg/butterchurn](https://github.com/jberg/butterchurn) - Butterchurn is a WebGL implementation of the Milkdrop Visualizer
+- [SYQEL/SYQEL-Radio-Releases](https://github.com/SYQEL/SYQEL-Radio-Releases) - SYQEL Radio Windows desktop application enables user to enjoy a fully immersive radio listening experience which is visualized with the SYQEL Music Visualizer.
 
 ## vpn 
 
@@ -4651,8 +4661,8 @@
 - [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 🤱🏻 一键打包网页生成轻量桌面应用。
-- [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd) - YouTube Music Desktop App bundled with custom plugins
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
+- [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
 - [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG, WebP and TIFF formats.   You can quickly reduce the file size (and resolution, if y
@@ -4698,6 +4708,37 @@
 - [ServiceStack/ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 
+## youtube 
+
+- [Psyhackological/ytxt](https://github.com/Psyhackological/ytxt) - :video_camera: Convert YouTube video subtitles to clean text! Downloads and processes .vtt files into readable .txt.
+- [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
+- [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
+- [MichaelMarav/RealTimeDetectionYoutube](https://github.com/MichaelMarav/RealTimeDetectionYoutube) - Takes a youtube video/livestream and performs object detection by using the YOLO or SSD algorithm
+- [ApayRus/direct-link](https://github.com/ApayRus/direct-link) - A downloader, that gets you access to direct links to youtube's:  video (mp4), audio (m4a), captions/subtitles (.vtt), thumbnails (webp).
+- [play-dl/play-dl](https://github.com/play-dl/play-dl) - Mainly used for Discord js Bots to play music.
+- [infokiller/web-search-navigator](https://github.com/infokiller/web-search-navigator) - Web extension that adds keyboard shortcuts to Google, YouTube, Github, Amazon, and others (Chrome/Firefox/Edge/Safari)
+- [IogaMaster/videos](https://github.com/IogaMaster/videos) - Source code of my YouTube videos animated with MotionCanvas
+- [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
+- [magneum/youtube-exec](https://github.com/magneum/youtube-exec) - 🔥🎶YouTube-Exec: Unleash the Power of YouTube Downloads!
+- [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube & Video browser-extension [top~1] Enrich your experience&choice!🧰200+options; clever features📌set&forget📌Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|extra butt
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
+- [xcodian/youtube-dl-web](https://github.com/xcodian/youtube-dl-web) - A good web interface for youtube-dl that allows you to download arbitrary mixes of audio and video, including up to the highest quality such as 8K.
+- [m1guelpf/yt-whisper](https://github.com/m1guelpf/yt-whisper) - Using OpenAI's Whisper to automatically generate YouTube subtitles
+- [ArthurFDLR/whisper-youtube](https://github.com/ArthurFDLR/whisper-youtube) - 🔉 Youtube Videos Transcription with OpenAI's Whisper
+- [valerebron/usetube](https://github.com/valerebron/usetube) - search & get datas from youtube no google account needed
+- [sam5epi0l/BotTuber](https://github.com/sam5epi0l/BotTuber) - Fully Automated YouTube Channel ▶️with Added Extra Features (Automated Title, Description, Tags, Watermark and much more)
+- [shaked6540/YoutubePlaylistDownloader](https://github.com/shaked6540/YoutubePlaylistDownloader) - A tool to download whole playlists, channels or single videos from youtube and also optionally convert them to almost any format you would like
+- [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
+- [digitalblossom/alternative-frontends](https://github.com/digitalblossom/alternative-frontends) - 🔐🌐 Privacy-respecting web frontends for popular services
+- [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
+- [delucis/astro-embed](https://github.com/delucis/astro-embed) - Low-JavaScript embed components for Astro websites
+- [cosmoduende/r-youtube-personal-history-analysis](https://github.com/cosmoduende/r-youtube-personal-history-analysis) - Explore your activity on YouTube with R: How to analyze and visualize your personal pata history. Find out how you consume YouTube using a copy of your personal data from Google Takeout.
+- [timothystewart6/launchpad](https://github.com/timothystewart6/launchpad) - A collection of quick starters for ansible, kubernetes, docker, linux, windows, and more.  Great for HomeLabs!
+- [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's private API, known as InnerTube.
+- [Rudloff/alltube](https://github.com/Rudloff/alltube) - Web GUI for youtube-dl
+- [juanv911/SocialCounters](https://github.com/juanv911/SocialCounters) - jQuery/PHP - Collection of Social Media APIs that display number of your social media fans. Facebook Likes, Twitter Followers, Instagram Followers, YouTube Subscribers, etc..
+
 ## zig 
 
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
@@ -4706,7 +4747,7 @@
 
 - [lukechilds/zsh-better-npm-completion](https://github.com/lukechilds/zsh-better-npm-completion) - Better completion for npm
 - [neurobin/shc](https://github.com/neurobin/shc) - Shell script compiler
-- [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim: Modular, customizable, and blazing fast Zsh framework
+- [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim Framework: The Zsh configuration framework with blazing speed and modular extensions.
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
