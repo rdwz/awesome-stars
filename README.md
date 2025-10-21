@@ -1317,7 +1317,6 @@
 - [MelinaPl/speech-act-analysis](https://github.com/MelinaPl/speech-act-analysis) - A speech act analysis of offensive language in German Tweets - an annotated datatset.
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [alexjc/shadertoy-render](https://github.com/alexjc/shadertoy-render) - Render a ShaderToy script directly to a video file.
-- [seraphgrid/aexa](https://github.com/seraphgrid/aexa) - aexa is the hacker's drug encyclopedia. programmed in python for maximum modularity and ease of configuration.
 - [jacebrowning/memegen](https://github.com/jacebrowning/memegen) - The free and open source API to generate memes.
 - [Yik-Wee/wikitas](https://github.com/Yik-Wee/wikitas) - Wikipedia Speedrun bot with attempts at multi-threading and word-similarity optimizations
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -1592,7 +1591,7 @@
 - [stevepryde/tauri-yew-demo](https://github.com/stevepryde/tauri-yew-demo) - Demo project for the Tauri + Yew tutorial
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [untitaker/hyperlink](https://github.com/untitaker/hyperlink) - Very fast link checker for CI.
-- [ravenclaw900/DietPi-Dashboard](https://github.com/ravenclaw900/DietPi-Dashboard) - A lightweight, standalone web dashboard for DietPi
+- [nonnorm/DietPi-Dashboard](https://github.com/nonnorm/DietPi-Dashboard) - A lightweight, standalone web dashboard for DietPi
 - [suptejas/volt](https://github.com/suptejas/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
 - [realaravinth/gitpad](https://github.com/realaravinth/gitpad) - Self-Hosted alternative to GitHub Gists
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
