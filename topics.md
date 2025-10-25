@@ -1662,7 +1662,6 @@
 - [ad-si/Perspec](https://github.com/ad-si/Perspec) - Scriptable desktop app to correct the perspective of images
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
-- [alfg/ffmpeg-commander](https://github.com/alfg/ffmpeg-commander) - 🛠️ FFmpeg Command Generator Web UI
 - [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub) - LinksHub aims to provide developers with access to a wide range of free resources and tools that they can use in their work. These resources include links to free software, libraries, frameworks, and 
 - [masterT/bandcamp-scraper](https://github.com/masterT/bandcamp-scraper) - A scraper for https://bandcamp.com
 - [LironEr/bundlemon](https://github.com/LironEr/bundlemon) - A free open-source tool that helps you to monitor your bundle size on every commit and alerts you on changes.
@@ -1944,7 +1943,7 @@
 
 - [shelljs/shelljs](https://github.com/shelljs/shelljs) - :shell: Portable Unix shell commands for Node.js
 - [jsheaven/easybuild](https://github.com/jsheaven/easybuild) - Super-fast and simple IIFE, ESM and CJS bundler for JavaScript and TypeScript. Comes with an easy API and CLI. One file in, one file out. Supports node and browser output. Generates .map and .d.ts fil
-- [alfg/ffmpeg-commander](https://github.com/alfg/ffmpeg-commander) - 🛠️ FFmpeg Command Generator Web UI
+- [alfg/ffmpeg-commander](https://github.com/alfg/ffmpeg-commander) - A web-based GUI for quickly generating common FFmpeg command-line operations.
 - [devxprite/wettr](https://github.com/devxprite/wettr) - 🌦 Easy way to  check Weather via the command line.
 - [bgrins/TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -2891,7 +2890,7 @@
 - [tomaskebrle/astro-og-image](https://github.com/tomaskebrle/astro-og-image) - An astro integration to generate static Open Graph images, at build time
 - [hygraph/sveltekit-hygraph-spacex-starter](https://github.com/hygraph/sveltekit-hygraph-spacex-starter) - Starter project built with GraphCMS, SvelteKit and Tailwind with DaisyUI
 - [andreas-stricker/ownlinks](https://github.com/andreas-stricker/ownlinks) - linktree clone – link in bio for instagram social media
-- [Zeeshanahmad4/Threads-Scraper](https://github.com/Zeeshanahmad4/Threads-Scraper) - A Social media scraper for threads.net , The scraper allows you to collect various information about threads and users on Threads.
+- [Zeeshanahmad4/Threads-Scraper](https://github.com/Zeeshanahmad4/Threads-Scraper) - Threads scrapper for data extraction
 - [marmelab/greenframe-cli](https://github.com/marmelab/greenframe-cli) - Estimate the carbon footprint of a user scenario on a web application
 - [fbanning/ardaudiothek-dl](https://github.com/fbanning/ardaudiothek-dl) - A simple Julia script to download audio files from ARD Audiothek
 - [crystalcommunication/crystalcommunication](https://github.com/crystalcommunication/crystalcommunication) - Profile README
@@ -4542,7 +4541,7 @@
 
 ## vue 
 
-- [alfg/ffmpeg-commander](https://github.com/alfg/ffmpeg-commander) - 🛠️ FFmpeg Command Generator Web UI
+- [alfg/ffmpeg-commander](https://github.com/alfg/ffmpeg-commander) - A web-based GUI for quickly generating common FFmpeg command-line operations.
 - [LibreService/my_font_converter](https://github.com/LibreService/my_font_converter) - Convert ttf/woff2 fonts.
 - [code-farmer-i/vue-markdown-editor](https://github.com/code-farmer-i/vue-markdown-editor) - A markdown editor built on Vue
 - [willnguyen1312/zoom-image](https://github.com/willnguyen1312/zoom-image) - A little yet powerful framework agnostic headless library to zoom images on the web
