@@ -1321,7 +1321,7 @@
 - [Yik-Wee/wikitas](https://github.com/Yik-Wee/wikitas) - Wikipedia Speedrun bot with attempts at multi-threading and word-similarity optimizations
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [ruvnet/guardrail](https://github.com/ruvnet/guardrail) - GuardRail: Advanced tool for data analysis and AI content generation using OpenAI GPT models. Features sentiment analysis, content classification, trend analysis, and tailored GPT model usage. Ideal f
-- [Zeeshanahmad4/Threads-Scraper](https://github.com/Zeeshanahmad4/Threads-Scraper) - A Social media scraper for threads.net , The scraper allows you to collect various information about threads and users on Threads.
+- [Zeeshanahmad4/Threads-Scraper](https://github.com/Zeeshanahmad4/Threads-Scraper) - Threads scrapper for data extraction
 - [dmytrostriletskyi/threads-net](https://github.com/dmytrostriletskyi/threads-net) - Unofficial and reverse-engineered Threads (threads.net) Python API wrapper. Created for academic purposes and is not intended to be used in real software.
 - [alwaysdata/alcli](https://github.com/alwaysdata/alcli) - alwaysdata command line interface
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
@@ -2116,7 +2116,7 @@
 
 ## Vue 
 
-- [alfg/ffmpeg-commander](https://github.com/alfg/ffmpeg-commander) - 🛠️ FFmpeg Command Generator Web UI
+- [alfg/ffmpeg-commander](https://github.com/alfg/ffmpeg-commander) - A web-based GUI for quickly generating common FFmpeg command-line operations.
 - [charlenherv/spongebob-time-cards](https://github.com/charlenherv/spongebob-time-cards) - SpongeBob-Themed Time Card Generator, For Fun and Memes
 - [andreas-stricker/ownlinks](https://github.com/andreas-stricker/ownlinks) - linktree clone – link in bio for instagram social media
 - [orhanemree/link-in-bio](https://github.com/orhanemree/link-in-bio) - 🌲 All-in-one bio link tool. An open source alternative to Linktree, with no registration required.
