@@ -1686,6 +1686,7 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [IonicaBizau/ama](https://github.com/IonicaBizau/ama) - :speech_balloon: Ask me anything!
 - [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube & Video browser-extension [top~1] Enrich your experience&choice!🧰200+options; clever features📌set&forget📌Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|extra butt
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
 - [modernweb-dev/rocket](https://github.com/modernweb-dev/rocket) - The modern web setup for static sites with a sprinkle of JavaScript
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -3571,7 +3572,6 @@
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [remix-pwa/rockspec-stack](https://github.com/remix-pwa/rockspec-stack) - A fully configurable & customizable Remix PWA stack.
-- [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) - 🛍️ Typescript E-commerce Platform
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [practicajs/practica](https://github.com/practicajs/practica) - Node.js solution starter boilerplate that is production-ready, packed with ✅  best practices and built with simplicity in mind
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -3883,7 +3883,6 @@
 - [Klarr-Agency/Circum-Icons](https://github.com/Klarr-Agency/Circum-Icons) - Circum is a open source icon library following Google Material Design principles. Every icon was made using a 24x24 grid.
 - [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, solid-styled-components, stitches and goober) at build time.
 - [phosphor-icons/react](https://github.com/phosphor-icons/react) - A flexible icon family for React
-- [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) - 🛍️ Typescript E-commerce Platform
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [timothystewart6/littlelink-server](https://github.com/timothystewart6/littlelink-server) - A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container!
 - [nipunadodan/mbti-app](https://github.com/nipunadodan/mbti-app) - Supplimentary tool for MBTI personality enthusiasts. Used Tailwind on React as the CSS framework, with a dark mode and added PWA capability to make the app more versatile. There's no back-end for this
@@ -4428,6 +4427,7 @@
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [bejamas/react-redux-blog](https://github.com/bejamas/react-redux-blog) - A frontend blog made with TypeScript, React and Redux Toolkit.
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
+- [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) - 🛍️ Typescript E-commerce Platform
 - [johnbillion/wp-json-schemas](https://github.com/johnbillion/wp-json-schemas) - JSON schemas for WordPress PHP objects and REST  API responses
 - [AleksandrHovhannisyan/fluid-type-scale-calculator](https://github.com/AleksandrHovhannisyan/fluid-type-scale-calculator) - Generate font size variables for a fluid type scale with CSS clamp.
 - [standard/ts-standard](https://github.com/standard/ts-standard) - Typescript style guide, linter, and formatter using StandardJS
