@@ -1373,7 +1373,7 @@
 - [m1guelpf/yt-whisper](https://github.com/m1guelpf/yt-whisper) - Using OpenAI's Whisper to automatically generate YouTube subtitles
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [techleadhd/chatgpt-retrieval](https://github.com/techleadhd/chatgpt-retrieval) - 
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 - [sam5epi0l/BotTuber](https://github.com/sam5epi0l/BotTuber) - Fully Automated YouTube Channel ▶️with Added Extra Features (Automated Title, Description, Tags, Watermark and much more)
 - [spotDL/spotify-downloader](https://github.com/spotDL/spotify-downloader) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder) - Home of StarCoder: fine-tuning & inference!
