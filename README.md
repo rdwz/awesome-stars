@@ -1367,7 +1367,7 @@
 - [malegetang/AudioGPT](https://github.com/malegetang/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 - [suchindrac/audio_subliminal_msgs](https://github.com/suchindrac/audio_subliminal_msgs) - 
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
-- [Kabanosk/whisper-website](https://github.com/Kabanosk/whisper-website) - Simple web application, which can be used to convert audio to subtitles by OpenAI's Whisper model
+- [Kabanosk/whisper-website](https://github.com/Kabanosk/whisper-website) - Simple self-hosted web application, which can be used to convert audio to subtitles by OpenAI's Whisper model
 - [m1guelpf/yt-whisper](https://github.com/m1guelpf/yt-whisper) - Using OpenAI's Whisper to automatically generate YouTube subtitles
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [techleadhd/chatgpt-retrieval](https://github.com/techleadhd/chatgpt-retrieval) - 
@@ -1867,7 +1867,7 @@
 - [shpetimselaci/fastify-esbuild-typescript-vite](https://github.com/shpetimselaci/fastify-esbuild-typescript-vite) - Boilerplate to quickly create a backend with fastify.js framework using typescript and the latest tooling.
 - [chouzz/vscode-innosetup](https://github.com/chouzz/vscode-innosetup) - Language syntax, snippets and build system for Inno Setup
 - [jee-r/astro-decap-cms](https://github.com/jee-r/astro-decap-cms) - Integration to add Netlify CMS’s admin dashboard to any Astro project
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
 - [ACP-CODE/astro-robots](https://github.com/ACP-CODE/astro-robots) - A reliable robots.txt generator for Astro projects, offering zero-config setup and Verified Bots support.
 - [rossmoody/link-roamer](https://github.com/rossmoody/link-roamer) - A browser extension for gathering, organizing, and inspecting all the links on a page.
 - [rdwz/socialify](https://github.com/rdwz/socialify) - 💞 Socialify your project. 🌐 Share with the world!
