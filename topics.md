@@ -2921,7 +2921,6 @@
 - [fontello/wawoff2](https://github.com/fontello/wawoff2) - WebAssembly build of Google's woff2
 - [itsjenke/itsjenke.github.io](https://github.com/itsjenke/itsjenke.github.io) - JENKE.XYZ Homepage build with react and mantine
 - [atomiks/tippyjs](https://github.com/atomiks/tippyjs) - Tooltip, popover, dropdown, and menu library
-- [emo-crab/observer_ward](https://github.com/emo-crab/observer_ward) - 侦查守卫(observer_ward)Web应用和服务指纹识别工具
 - [jakearchibald/svgomg](https://github.com/jakearchibald/svgomg) - Web GUI for SVGO
 - [lotabout/static-wiki](https://github.com/lotabout/static-wiki) - 
 - [shishkin/astro-pagefind](https://github.com/shishkin/astro-pagefind) - Astro integration for Pagefind static site search.
