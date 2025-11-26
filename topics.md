@@ -103,6 +103,7 @@
 - [google](#google)
 - [google-cloud](#google-cloud)
 - [graphql](#graphql)
+- [gui](#gui)
 - [hackathon](#hackathon)
 - [hacking](#hacking)
 - [hacking-tool](#hacking-tool)
@@ -242,6 +243,7 @@
 - [web](#web)
 - [web-components](#web-components)
 - [web-development](#web-development)
+- [web3](#web3)
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
@@ -1637,6 +1639,18 @@
 - [apex/up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
 - [open-sauced/open-sauced](https://github.com/open-sauced/open-sauced) - 🍕  This is a project to identify your next open source contribution.
 
+## gui 
+
+- [fltk-rs/fltk-rs](https://github.com/fltk-rs/fltk-rs) - Rust bindings for the FLTK GUI library.
+- [ad-si/Perspec](https://github.com/ad-si/Perspec) - Scriptable desktop app to correct the perspective of images
+- [alfg/ffmpeg-commander](https://github.com/alfg/ffmpeg-commander) - A web-based GUI for quickly generating common FFmpeg command-line operations.
+- [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
+- [xcodian/youtube-dl-web](https://github.com/xcodian/youtube-dl-web) - A good web interface for youtube-dl that allows you to download arbitrary mixes of audio and video, including up to the highest quality such as 8K.
+- [shaked6540/YoutubePlaylistDownloader](https://github.com/shaked6540/YoutubePlaylistDownloader) - A tool to download whole playlists, channels or single videos from youtube and also optionally convert them to almost any format you would like
+- [Botspot/pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
+- [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and MacOS, free and open-source (FOSS)
+- [Johnson070/MiBand-5-watchface-editor](https://github.com/Johnson070/MiBand-5-watchface-editor) - A program to help create watch faces for mi band 5 & 6!
+
 ## hackathon 
 
 - [Olivr/free-domain](https://github.com/Olivr/free-domain) - Get a cluster.ws & wip.la domain for free and instantly
@@ -2796,7 +2810,6 @@
 - [ThivaV/image_to_audio](https://github.com/ThivaV/image_to_audio) - image_to_audio
 - [ProseMirror/prosemirror](https://github.com/ProseMirror/prosemirror) - The ProseMirror WYSIWYM editor
 - [madmaze/pytesseract](https://github.com/madmaze/pytesseract) - A Python wrapper for Google Tesseract
-- [fltk-rs/fltk-rs](https://github.com/fltk-rs/fltk-rs) - Rust bindings for the FLTK GUI library.
 - [AllenDang/PngOptimizier](https://github.com/AllenDang/PngOptimizier) - Cross platform, tiny but ultra fast PNG optimizer
 - [callumlocke/json-formatter](https://github.com/callumlocke/json-formatter) - Makes JSON easy to read.
 - [unjs/giget](https://github.com/unjs/giget) - ✨ Download templates and git repositories with pleasure!
@@ -3456,7 +3469,6 @@
 - [gabek/node-internet-radio](https://github.com/gabek/node-internet-radio) - Node.js module to get Now Playing information from an internet radio stream.
 - [thesnipersteve/shoutcast-song-history](https://github.com/thesnipersteve/shoutcast-song-history) - A NodeJs module to fetch the song history from a shoutcast server's song history page
 - [Jrschellenberg/peact-loading-skeleton](https://github.com/Jrschellenberg/peact-loading-skeleton) - Fork of React-Loading-Skeleton to be ported for Preact Projects
-- [Johnson070/MiBand-5-watchface-editor](https://github.com/Johnson070/MiBand-5-watchface-editor) - A program to help create watch faces for mi band 5 & 6!
 - [ericblade/webos-desktop-docker](https://github.com/ericblade/webos-desktop-docker) - experimental attempt to run desktop webos inside a docker container
 - [cboots/WebGL-Waves-and-Globe](https://github.com/cboots/WebGL-Waves-and-Globe) - 
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
@@ -4616,6 +4628,10 @@
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
 - [xemantic/shader-web-background](https://github.com/xemantic/shader-web-background) - Displays GLSL fragment shaders as a website background. Supports offscreen buffers and floating point textures on almost any browser and hardware. Compatible with Shadertoy.
 - [mdn/content](https://github.com/mdn/content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
+
+## web3 
+
+- [w3f/unbounded](https://github.com/w3f/unbounded) - Open source, freely available and on-chain funded font.
 
 ## webapp 
 
