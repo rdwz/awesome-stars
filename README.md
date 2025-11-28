@@ -93,7 +93,7 @@
 - [aFuzzyBear/astro-ui](https://github.com/aFuzzyBear/astro-ui) - MonoRepo to house the collective distribution for Astro Components, Hoping this turns out to be a community led effort where Astro UI Components can be stored and accessed
 - [coding-in-public/pagefind-firstlook](https://github.com/coding-in-public/pagefind-firstlook) - 
 - [EmaSuriano/astro-art-portfolio](https://github.com/EmaSuriano/astro-art-portfolio) - Minimalistic Art showcase built with Astro and connected with Notion API
-- [leabs/astro-tailwind-flowbite-template](https://github.com/leabs/astro-tailwind-flowbite-template) - A base for projects using Astro, Tailwind, and Flowbite UI components
+- [leabs/astro-tailwind-flowbite-template](https://github.com/leabs/astro-tailwind-flowbite-template) - An Astro site for simple pages that pulls data from a json file
 - [netlify-templates/astro-quickstart](https://github.com/netlify-templates/astro-quickstart) - A bare-bones Astro template to get you deployed to Netlify fast!
 - [astro-reactive/astro-reactive](https://github.com/astro-reactive/astro-reactive) - Let your data build your UI, with Astro components
 - [yoanbernabeu/LinkTreeFreeClone](https://github.com/yoanbernabeu/LinkTreeFreeClone) - LinkTreeFreeClone is a LinkTree clone built with Astro and Tailwind
