@@ -729,7 +729,7 @@
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [pgollangi/netselect](https://github.com/pgollangi/netselect) - 💻 A CLI tool and Go library to find the fastest site based on the lowest ICMP latency.
 - [mindflowai/mindflow](https://github.com/mindflowai/mindflow) - 🧠 code-awareness
-- [simbleau/cddns](https://github.com/simbleau/cddns) - A modern, hackable, green DDNS service and cli for Cloudflare.
+- [nuzzles/cddns](https://github.com/nuzzles/cddns) - A modern, hackable, green DDNS service and cli for Cloudflare.
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [badgen/badgen-cli](https://github.com/badgen/badgen-cli) - Use the fastest badge generator from your CLI
 - [eggplants/deepl-cli](https://github.com/eggplants/deepl-cli) - DeepL Translator CLI (without API Key)
@@ -1110,7 +1110,7 @@
 
 - [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
-- [simbleau/cddns](https://github.com/simbleau/cddns) - A modern, hackable, green DDNS service and cli for Cloudflare.
+- [nuzzles/cddns](https://github.com/nuzzles/cddns) - A modern, hackable, green DDNS service and cli for Cloudflare.
 - [ChristopherHX/github-act-runner](https://github.com/ChristopherHX/github-act-runner) - act as self-hosted runner
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
@@ -1137,7 +1137,7 @@
 - [skills/publish-packages](https://github.com/skills/publish-packages) - Use GitHub Actions to publish your project to a Docker image.
 - [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
 - [luolongfei/freenom](https://github.com/luolongfei/freenom) - Freenom 域名自动续期。Freenom domain name renews automatically.
-- [simbleau/cddns](https://github.com/simbleau/cddns) - A modern, hackable, green DDNS service and cli for Cloudflare.
+- [nuzzles/cddns](https://github.com/nuzzles/cddns) - A modern, hackable, green DDNS service and cli for Cloudflare.
 - [ChristopherHX/github-act-runner](https://github.com/ChristopherHX/github-act-runner) - act as self-hosted runner
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
@@ -2225,7 +2225,7 @@
 ## kubernetes 
 
 - [vitobotta/hetzner-k3s](https://github.com/vitobotta/hetzner-k3s) - The easiest and fastest way to create and manage Kubernetes clusters in Hetzner Cloud using the lightweight distribution k3s by Rancher.
-- [simbleau/cddns](https://github.com/simbleau/cddns) - A modern, hackable, green DDNS service and cli for Cloudflare.
+- [nuzzles/cddns](https://github.com/nuzzles/cddns) - A modern, hackable, green DDNS service and cli for Cloudflare.
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -4025,7 +4025,7 @@
 - [james-d12/apm](https://github.com/james-d12/apm) - Agnostic Package Manager
 - [indiscipline/zrtstr](https://github.com/indiscipline/zrtstr) - Check if stereo WAV files have identical channels (faux-stereo) and convert them to mono.
 - [JamieMason/blurhash-to-css](https://github.com/JamieMason/blurhash-to-css) - Convert BlurHashes to CSS Objects using TypeScript, Rust, and WebAssembly.
-- [simbleau/cddns](https://github.com/simbleau/cddns) - A modern, hackable, green DDNS service and cli for Cloudflare.
+- [nuzzles/cddns](https://github.com/nuzzles/cddns) - A modern, hackable, green DDNS service and cli for Cloudflare.
 - [stalwartlabs/stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 - [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
