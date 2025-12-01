@@ -1296,7 +1296,7 @@
 - [ORB-HD/deface](https://github.com/ORB-HD/deface) - Video anonymization by face detection
 - [batuhanerenler/JARVIS-OpenAI-Voice-Assistant](https://github.com/batuhanerenler/JARVIS-OpenAI-Voice-Assistant) - Jarvis is a voice-enabled chatbot powered by OpenAI's GPT-3.5-turbo. It leverages state-of-the-art natural language processing to deliver intelligent and conversational interactions.
 - [AlexandreSajus/JARVIS](https://github.com/AlexandreSajus/JARVIS) - Your own personal voice assistant: Voice to Text to LLM to Speech, displayed in a web interface
-- [samkeet/google-photos-takeout](https://github.com/samkeet/google-photos-takeout) - A project where I want to analyze, organize and cleanup my Google Photos Takeout exports worth 200+ Gigs
+- [everydaylabs/google-photos-takeout](https://github.com/everydaylabs/google-photos-takeout) - Analyze, organize and cleanup Google Photos Takeout exports worth 200+ Gigs
 - [MichaelMarav/RealTimeDetectionYoutube](https://github.com/MichaelMarav/RealTimeDetectionYoutube) - Takes a youtube video/livestream and performs object detection by using the YOLO or SSD algorithm
 - [numz/sd-wav2lip-uhq](https://github.com/numz/sd-wav2lip-uhq) - Wav2Lip UHQ extension for Automatic1111
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
