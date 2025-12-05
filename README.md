@@ -410,7 +410,7 @@
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [chromium/hstspreload.org](https://github.com/chromium/hstspreload.org) - :lock: Chromium's HSTS preload list submission website.
 - [erikrichardlarson/unbox](https://github.com/erikrichardlarson/unbox) - Log and display your rekordbox / Serato / Traktor / VirtualDJ / DJUCED / Mixxx / djay Pro tracks as they're played
-- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, user-friendly, fault-tolerant database built on SQLite.
+- [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
 - [google/go-containerregistry](https://github.com/google/go-containerregistry) - Go library and CLIs for working with container registries
 - [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy) - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
 - [pulumi/pulumi-kubernetes-crds](https://github.com/pulumi/pulumi-kubernetes-crds) - Typed CustomResources for Kubernetes Operators
@@ -855,7 +855,7 @@
 - [Faboolea/shaders-on-scroll](https://github.com/Faboolea/shaders-on-scroll) - Smooth WebGL Shader Transformations on Scroll
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 - [mayank99/open-props-scss](https://github.com/mayank99/open-props-scss) - open-props as sass variables
-- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - Detect Browsers, OS, Devices, Bots, AI Crawlers, Apps, and more. Run in Browser (client-side) or Node.js (server-side).
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - The Essential Web Development Tool for User-Agent Detection. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser (client-side) or Node.js (server-side).
 - [sa-ma/remix-supabase-tutorial](https://github.com/sa-ma/remix-supabase-tutorial) - Tutorial Example of integrating Supabase in Remix Applications
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the Web.
 - [GoogleChromeLabs/AutoWebPerf](https://github.com/GoogleChromeLabs/AutoWebPerf) - AutoWebPerf provides a flexible and scalable framework for running web performance audits with arbitrary audit tools including PageSpeedInsights, WebPageTest and more.
@@ -1291,7 +1291,6 @@
 - [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 - [zhdsmy/apple-emoji](https://github.com/zhdsmy/apple-emoji) - Apple Color Emoji for Linux / Windows
 - [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux) - Brings Apple's vibrant emojis to your Linux experience
-- [minhd-vu/toxicity-filter](https://github.com/minhd-vu/toxicity-filter) - Natural language processing API to detect toxic chat.
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [ORB-HD/deface](https://github.com/ORB-HD/deface) - Video anonymization by face detection
 - [batuhanerenler/JARVIS-OpenAI-Voice-Assistant](https://github.com/batuhanerenler/JARVIS-OpenAI-Voice-Assistant) - Jarvis is a voice-enabled chatbot powered by OpenAI's GPT-3.5-turbo. It leverages state-of-the-art natural language processing to deliver intelligent and conversational interactions.
