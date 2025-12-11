@@ -94,6 +94,7 @@
 - [framework](#framework)
 - [frameworks](#frameworks)
 - [frontend](#frontend)
+- [generative-ai](#generative-ai)
 - [gh-extension](#gh-extension)
 - [git](#git)
 - [github](#github)
@@ -1245,7 +1246,7 @@
 - [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
 - [mafiosnik777/enhancr](https://github.com/mafiosnik777/enhancr) - Video Frame Interpolation & Super Resolution using NVIDIA's TensorRT & Tencent's NCNN inference, beautifully crafted and packaged into a single app
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
-- [Picorims/wav2bar](https://github.com/Picorims/wav2bar) - Wav2Bar is a tool to make custom audio visualization and export production videos for the audio and music industry.
+- [Picorims/wav2bar](https://github.com/Picorims/wav2bar) - Wav2Bar is a tool to make custom audio visualization and export production videos for the audio and music industry. ⚠⚠⚠ Development has moved! See README.
 - [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) - Build your personal knowledge base with Trilium Notes
 - [nwesthoff/shiplog](https://github.com/nwesthoff/shiplog) - Menubar app to keep track of running deploys on Vercel & Netlify
 - [saisandeepvaddi/ten-hands](https://github.com/saisandeepvaddi/ten-hands) - ⚡ Simplest way to organize and run command-line tasks
@@ -1362,6 +1363,7 @@
 
 ## flask 
 
+- [minhd-vu/toxicity-filter](https://github.com/minhd-vu/toxicity-filter) - Natural language processing API to detect toxic chat.
 - [themagicalmammal/wikibot](https://github.com/themagicalmammal/wikibot) - A :robot: which provides features from Wikipedia like summary, title searches, location API etc.
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
@@ -1443,6 +1445,11 @@
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [JulianCataldo/web-garden](https://github.com/JulianCataldo/web-garden) - Building blocks for making progressive and future-proof websites. Components collection features Astro, HTML, SCSS, JS, TS… Configurations features ESLint, Prettier, Stylelint…
 - [heiseonline/embetty](https://github.com/heiseonline/embetty) - 🐙 Embetty displays remote content like tweets or YouTube videos without compromising your privacy.
+
+## generative-ai 
+
+- [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 
 ## gh-extension 
 
@@ -2501,7 +2508,7 @@
 - [aubio/aubio](https://github.com/aubio/aubio) - a library for audio and music analysis
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
 - [metabrainz/listenbrainz-android](https://github.com/metabrainz/listenbrainz-android) - Official Android App of ListenBrainz
-- [Picorims/wav2bar](https://github.com/Picorims/wav2bar) - Wav2Bar is a tool to make custom audio visualization and export production videos for the audio and music industry.
+- [Picorims/wav2bar](https://github.com/Picorims/wav2bar) - Wav2Bar is a tool to make custom audio visualization and export production videos for the audio and music industry. ⚠⚠⚠ Development has moved! See README.
 - [aolsenjazz/super-controller](https://github.com/aolsenjazz/super-controller) - Give your MIDI devices super powers: take control of the lights, messages, and communication between controllers.
 - [projectM-visualizer/frontend-sdl-rust](https://github.com/projectM-visualizer/frontend-sdl-rust) - Rust | SDL-based standalone application that turns your desktop audio into awesome visuals.
 - [SYQEL/SYQEL-VJ-Releases](https://github.com/SYQEL/SYQEL-VJ-Releases) - SYQEL VJ Desktop Application enables users to visualize their desktop audio feed and/or microphone audio input. Ideal for DJ's looking to visualize their music while streaming online. Compatible with 
@@ -2582,6 +2589,7 @@
 
 ## nlp 
 
+- [minhd-vu/toxicity-filter](https://github.com/minhd-vu/toxicity-filter) - Natural language processing API to detect toxic chat.
 - [jmisilo/clip-gpt-captioning](https://github.com/jmisilo/clip-gpt-captioning) - CLIPxGPT Captioner is Image Captioning Model based on OpenAI's CLIP and GPT-2.
 - [mindflowai/mindflow](https://github.com/mindflowai/mindflow) - 🧠 code-awareness
 - [adbar/German-NLP](https://github.com/adbar/German-NLP) - Curated list of open-access/open-source/off-the-shelf resources and tools developed with a particular focus on German
@@ -3741,6 +3749,7 @@
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [Psyhackological/ytxt](https://github.com/Psyhackological/ytxt) - :video_camera: Convert YouTube video subtitles to clean text! Downloads and processes .vtt files into readable .txt.
 - [MrS0m30n3/youtube-dl-gui](https://github.com/MrS0m30n3/youtube-dl-gui) - A cross platform front-end GUI of the popular youtube-dl written in wxPython.
+- [minhd-vu/toxicity-filter](https://github.com/minhd-vu/toxicity-filter) - Natural language processing API to detect toxic chat.
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [AlexandreSajus/JARVIS](https://github.com/AlexandreSajus/JARVIS) - Your own personal voice assistant: Voice to Text to LLM to Speech, displayed in a web interface
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
