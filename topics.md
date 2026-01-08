@@ -191,6 +191,7 @@
 - [programming](#programming)
 - [programming-language](#programming-language)
 - [project-management](#project-management)
+- [prompt-engineering](#prompt-engineering)
 - [publishing](#publishing)
 - [pwa](#pwa)
 - [python](#python)
@@ -3738,6 +3739,10 @@
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [Josee9988/project-template](https://github.com/Josee9988/project-template) - An awesome 𝗚𝗶𝘁𝗵𝘂𝗯 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲 for any project!🚀 Quickstart your projects and get control over your community.🔥 It includes 𝐢𝐬𝐬𝐮𝐞 𝐭𝐞𝐦𝐩𝐥𝐚𝐭𝐞𝐬, 𝐥𝐚𝐛𝐞𝐥𝐬, 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐫𝐞𝐚𝐝𝐦𝐞, 𝐆𝐢𝐭𝐡𝐮𝐛 𝐛𝐨𝐭𝐬, and much more!! 🤩
+
+## prompt-engineering 
+
+- [swyxio/ai-notes](https://github.com/swyxio/ai-notes) - notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under 
 
 ## publishing 
 
