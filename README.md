@@ -1056,7 +1056,6 @@
 
 ## Makefile 
 
-- [0xType/0xProto](https://github.com/0xType/0xProto) - A programming font focused on source code legibility
 - [blynn/gitmagic](https://github.com/blynn/gitmagic) - A guide to using Git
 - [binary-manu/static-cross-openssh](https://github.com/binary-manu/static-cross-openssh) - Statically cross-compile sshd and sftp-server
 - [golang-templates/seed](https://github.com/golang-templates/seed) - Go application GitHub repository template.
@@ -1261,6 +1260,7 @@
 ## Python 
 
 - [l2xu/shopping-analyzer](https://github.com/l2xu/shopping-analyzer) - 
+- [0xType/0xProto](https://github.com/0xType/0xProto) - A high-legibility programming font engineered to minimize cognitive load.
 - [jstrieb/just.sh](https://github.com/jstrieb/just.sh) - Compile Justfiles to portable shell scripts
 - [bit-team/backintime](https://github.com/bit-team/backintime) - A comfortable and well-configurable graphical Frontend for incremental backups, with a command-line version also available. Modified files are transferred, while unchanged files are linked to the new 
 - [Gutenberg-Labo/Otomanopee](https://github.com/Gutenberg-Labo/Otomanopee) - オとマのペ / Otomanopee (original designed Japanese font) for Google Fonts
