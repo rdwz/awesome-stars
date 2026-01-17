@@ -1077,7 +1077,7 @@
 
 ## design 
 
-- [0xType/0xProto](https://github.com/0xType/0xProto) - A programming font focused on source code legibility
+- [0xType/0xProto](https://github.com/0xType/0xProto) - A high-legibility programming font engineered to minimize cognitive load.
 - [Bazooo/svg-sprite-maker](https://github.com/Bazooo/svg-sprite-maker) - Application to create/edit SVG sprites
 - [nuejs/nue](https://github.com/nuejs/nue) - Fastest way to build modern websites
 - [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
@@ -1394,7 +1394,7 @@
 
 ## font 
 
-- [0xType/0xProto](https://github.com/0xType/0xProto) - A programming font focused on source code legibility
+- [0xType/0xProto](https://github.com/0xType/0xProto) - A high-legibility programming font engineered to minimize cognitive load.
 - [Gutenberg-Labo/Otomanopee](https://github.com/Gutenberg-Labo/Otomanopee) - オとマのペ / Otomanopee (original designed Japanese font) for Google Fonts
 - [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux) - Brings Apple's vibrant emojis to your Linux experience
 - [coreui/coreui-icons](https://github.com/coreui/coreui-icons) - CoreUI Free Icons -  Premium designed free icon set with marks in SVG, Webfont and raster formats
