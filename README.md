@@ -22,6 +22,7 @@
 - [GLSL](#glsl)
 - [Gherkin](#gherkin)
 - [Go](#go)
+- [Go Template](#go-template)
 - [Groovy](#groovy)
 - [HCL](#hcl)
 - [HTML](#html)
@@ -475,6 +476,11 @@
 - [prasmussen/gdrive](https://github.com/prasmussen/gdrive) - Google Drive CLI Client
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 
+## Go Template 
+
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
+- [linode/apl-core](https://github.com/linode/apl-core) - App Platform for Linode Kubernetes Engine
+
 ## Groovy 
 
 - [danielnaber/openthesaurus](https://github.com/danielnaber/openthesaurus) - web-based thesaurus search and management
@@ -654,7 +660,7 @@
 - [mathdroid/react-moon-toggle](https://github.com/mathdroid/react-moon-toggle) - 🌕🌑 Toggle and animate based on moon phases emoji
 - [umd-mith/webvtt-player](https://github.com/umd-mith/webvtt-player) - A React audio player & transcription viewer.
 - [ApayRus/direct-link](https://github.com/ApayRus/direct-link) - A downloader, that gets you access to direct links to youtube's:  video (mp4), audio (m4a), captions/subtitles (.vtt), thumbnails (webp).
-- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Netlify/Decap CMS successor. Fast, lightweight, Git-based headless CMS. Modern UX, first-class i18n support, mobile support + 100s of improvements. Framework-agnostic, open source & free.
+- [sveltia/sveltia-cms](https://github.com/sveltia/sveltia-cms) - Git-based headless CMS. Successor to Netlify CMS (now Decap CMS). Modern UX, first-class i18n support, mobile support + 100s of improvements. Framework-agnostic, open source & free.
 - [possibly-is-gay/possibly-is-gay](https://github.com/possibly-is-gay/possibly-is-gay) - Self-service possibly-is.gay subdomain registration
 - [elrumordelaluz/draGGradients](https://github.com/elrumordelaluz/draGGradients) - A simple tool to generate and customize multiple css3 radial gradients.
 - [bogdaaamn/tracker-radar](https://github.com/bogdaaamn/tracker-radar) - Data set of top third party web domains with rich metadata about them
@@ -734,7 +740,7 @@
 - [nico3333fr/van11y-accessible-modal-window-aria](https://github.com/nico3333fr/van11y-accessible-modal-window-aria) - ES2015 accessible modal window system, using ARIA
 - [NTag/colivings](https://github.com/NTag/colivings) - Map of the best colivings in Europe
 - [code-charity/ultimate-REGEX-extension](https://github.com/code-charity/ultimate-REGEX-extension) - ctrl+shift+F Text multi-tool browser extension  with familiar Ctrl+F visuals.  **need contributors to be the best & complete**
-- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube & Video browser-extension [top~1] Enrich your experience&choice!🧰200+options; clever features📌set&forget📌Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|extra butt
+- [code-charity/youtube](https://github.com/code-charity/youtube) - Open YouTube / Video browser-extension [top~1] Enrich your experience&choice!🧰200+options; clever features📌set&forget📌  - Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|content discovery|player|extra 
 - [april/laboratory](https://github.com/april/laboratory) - Because good website security shouldn't only be available to mad scientists!
 - [adamPatrick12/study-beats-fm](https://github.com/adamPatrick12/study-beats-fm) - An online music player where you can listen to popular Youtube radio livestreams
 - [librariesio/github_companion](https://github.com/librariesio/github_companion) - :pushpin: Chrome Extension to see dependency health on GitHub as you browse.
@@ -1721,8 +1727,6 @@
 ## Smarty 
 
 - [isaron/gitea-kubernetes](https://github.com/isaron/gitea-kubernetes) - Setup Gitea on Kubernetes
-- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
-- [linode/apl-core](https://github.com/linode/apl-core) - App Platform for Linode Kubernetes Engine
 
 ## Starlark 
 
@@ -1990,7 +1994,7 @@
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
 - [FranzFlueckiger/Storygram](https://github.com/FranzFlueckiger/Storygram) - Explore and visualize sequential grouping in your data!
 - [nurpax/petmate](https://github.com/nurpax/petmate) - PETSCII editor with Electron/React/Redux
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [Yqnn/svg-path-editor](https://github.com/Yqnn/svg-path-editor) - Online editor to create and manipulate SVG paths
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [muxinc/media-chrome](https://github.com/muxinc/media-chrome) - Custom elements (web components) for making audio and video player controls that look great in your website or app.
