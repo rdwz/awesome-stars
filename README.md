@@ -54,7 +54,6 @@
 - [QML](#qml)
 - [R](#r)
 - [Riot](#riot)
-- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -1475,10 +1474,6 @@
 
 - [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) - The simplest and most complete UI for your private docker registry v2 and v3
 
-## Roff 
-
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
-
 ## Ruby 
 
 - [square/git-fastclone](https://github.com/square/git-fastclone) - git clone --recursive on steroids
@@ -1530,7 +1525,7 @@
 - [Aleph-Alpha/aleph-alpha-client-rs](https://github.com/Aleph-Alpha/aleph-alpha-client-rs) - 
 - [m1guelpf/plz-cli](https://github.com/m1guelpf/plz-cli) - Copilot for your terminal
 - [thx/resvg-js](https://github.com/thx/resvg-js) - A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs.
-- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A link aggregator and forum for the fediverse
+- [LemmyNet/lemmy](https://github.com/LemmyNet/lemmy) - 🐀 A decentralised discussion platform for communities.
 - [nidnogg/zeitfetch](https://github.com/nidnogg/zeitfetch) - Instantaneous snapshots of system information
 - [dudykr/stc](https://github.com/dudykr/stc) - Speedy TypeScript type checker
 - [sergree/whatbpm](https://github.com/sergree/whatbpm) - 💓 Today's Trending Values for EDM Production
@@ -1649,6 +1644,7 @@
 - [zimfw/zimfw](https://github.com/zimfw/zimfw) - Zim Framework: The Zsh configuration framework with blazing speed and modular extensions.
 - [learnbyexample/learn_gnused](https://github.com/learnbyexample/learn_gnused) - Example based guide to mastering GNU sed
 - [franzflasch/gcc-build-tools](https://github.com/franzflasch/gcc-build-tools) - Scripts to ease building gcc (cross) toolchains.
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) - 
 - [marcodallasanta/ssh-scp-deploy](https://github.com/marcodallasanta/ssh-scp-deploy) - This action provide a way to upload your artifact via scp and execute a set of command via ssh before or/and after.
 - [Soroushnk/Astro](https://github.com/Soroushnk/Astro) - a bash script to help you bypass GFW
