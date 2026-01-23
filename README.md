@@ -368,7 +368,7 @@
 - [progfay/shields-with-icon](https://github.com/progfay/shields-with-icon) - Enjoy https://shields.io
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [ChristopherHX/github-act-runner](https://github.com/ChristopherHX/github-act-runner) - act as self-hosted runner
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
 - [mauamy/ard2rss](https://github.com/mauamy/ard2rss) - A small api that creates rss feeds for ARD Audiothek shows
 - [ai-mastering/phaselimiter-gui](https://github.com/ai-mastering/phaselimiter-gui) - 
@@ -498,7 +498,6 @@
 - [coravacav/pleaseusecodeblocks](https://github.com/coravacav/pleaseusecodeblocks) - A simple website to help those in need of, well, using code blocks.
 - [jdecked/twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone.
 - [stephenhutchings/typicons.font](https://github.com/stephenhutchings/typicons.font) - 336 pixel perfect, all-purpose vector icons in a web-font kit
-- [skills/publish-packages](https://github.com/skills/publish-packages) - Use GitHub Actions to publish your project to a Docker image.
 - [krystonschwarze/coolicons](https://github.com/krystonschwarze/coolicons) - coolicons is a carefully designed collection of 440+ icons with a focus on simplicity and consistency. Perfectly suited for web, application and mobile design.
 - [hyperaudio/hyperaudio-lite](https://github.com/hyperaudio/hyperaudio-lite) - Hyperaudio Lite - a Super-lightweight Interactive Transcript Player
 - [chrisnager/simple-debug.css](https://github.com/chrisnager/simple-debug.css) - Debug your layouts with one line of CSS
@@ -649,6 +648,7 @@
 - [masterT/bandcamp-scraper](https://github.com/masterT/bandcamp-scraper) - A scraper for https://bandcamp.com
 - [githubocto/repo-visualizer](https://github.com/githubocto/repo-visualizer) - 
 - [bgrins/TinyColor](https://github.com/bgrins/TinyColor) - Fast, small color manipulation and conversion for JavaScript
+- [skills/publish-docker-images](https://github.com/skills/publish-docker-images) - Build and publish Docker images using GitHub Actions.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [seriousme/fastify-openapi-glue](https://github.com/seriousme/fastify-openapi-glue) - A plugin for the Fastify  webserver to autogenerate a Fastify configuration based on a OpenApi(v2/v3) specification.
 - [actions/javascript-action](https://github.com/actions/javascript-action) - Create a JavaScript Action with tests, linting, workflow, publishing, and versioning
