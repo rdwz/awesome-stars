@@ -4590,6 +4590,7 @@
 - [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
 - [openreplay/openreplay](https://github.com/openreplay/openreplay) - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
 - [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
+- [incluud/accessible-astro-starter](https://github.com/incluud/accessible-astro-starter) - An Accessible, WCAG compliant Starter Theme for Astro 5+ including several accessibility features such as, better focus-outline, landmarks, semantics, interactive components and skip-link navigation. 
 - [ixartz/Astro-boilerplate](https://github.com/ixartz/Astro-boilerplate) - 🚀 Astro boilerplate with responsive blog and portfolio template using TypeScript and React styled with Tailwind CSS ⚡️ Made with developer experience first: TypeScript + ESLint + Prettier + Husky + Li
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's private API, known as InnerTube.
