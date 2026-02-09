@@ -682,7 +682,6 @@
 - [fontello/wawoff2](https://github.com/fontello/wawoff2) - WebAssembly build of Google's woff2
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
-- [rinturaj/tailwind-material-3](https://github.com/rinturaj/tailwind-material-3) - Tailwind Material 3 is a library that provides ready-to-use UI components for Tailwind CSS users. It includes a range of customizable components such as buttons, cards, and forms, as well as useful ut
 - [code-farmer-i/vue-markdown-editor](https://github.com/code-farmer-i/vue-markdown-editor) - A markdown editor built on Vue
 - [atomiks/tippyjs](https://github.com/atomiks/tippyjs) - Tooltip, popover, dropdown, and menu library
 - [jakearchibald/svgomg](https://github.com/jakearchibald/svgomg) - Web GUI for SVGO
@@ -1825,6 +1824,7 @@
 - [LibreService/my_font_converter](https://github.com/LibreService/my_font_converter) - Convert ttf/woff2 fonts.
 - [abbrcode/abbreviations-in-code](https://github.com/abbrcode/abbreviations-in-code) - The list of common abbreviations in program codes.
 - [CardoPixel/md3-nextjs-template](https://github.com/CardoPixel/md3-nextjs-template) - Material Design 3 compliant Next.js website template, including features like: custom theming, Internationalization, PWA, SupaBase for data management, and Vercel for deployment.
+- [rinturaj/tailwind-material-3](https://github.com/rinturaj/tailwind-material-3) - Tailwind Material 3 is a library that provides ready-to-use UI components for Tailwind CSS users. It includes a range of customizable components such as buttons, cards, and forms, as well as useful ut
 - [rakibdev/material-code](https://github.com/rakibdev/material-code) - Material You | Dynamic theme for Visual Studio Code.
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [nimiq/qr-scanner](https://github.com/nimiq/qr-scanner) - Lightweight Javascript QR Code Scanner
