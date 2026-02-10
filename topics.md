@@ -4357,7 +4357,6 @@
 
 ## tailwindcss 
 
-- [deepakness/putout](https://github.com/deepakness/putout) - PutOut is an open-source, self-hosted solution that turns your ebook chapters into beautiful, responsive websites.
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub) - LinksHub aims to provide developers with access to a wide range of free resources and tools that they can use in their work. These resources include links to free software, libraries, frameworks, and 
 - [zwelhtetyan/t3-note-taking-app](https://github.com/zwelhtetyan/t3-note-taking-app) - Personal note taking app which supports markdown syntax
