@@ -3569,7 +3569,7 @@
 - [usmannasir/cyberpanel](https://github.com/usmannasir/cyberpanel) - Cyber Panel - The hosting control panel for OpenLiteSpeed
 - [YalePrivacyLab/citizen-foss](https://github.com/YalePrivacyLab/citizen-foss) - Snowden's toolkit — for the Rest of Us.
 - [hatorikibble/pegelbot](https://github.com/hatorikibble/pegelbot) - der Rheinpegel von Köln per Twitter
-- [unifi-utilities/unifios-utilities](https://github.com/unifi-utilities/unifios-utilities) - A collection of  enhancements for UnifiOS based devices
+- [unifi-utilities/unifios-utilities](https://github.com/unifi-utilities/unifios-utilities) - Enhancing Your UniFi Experience
 - [the-halfbloodprince/GalaxyM1199](https://github.com/the-halfbloodprince/GalaxyM1199) - A cool galaxy simulation using THREE JS particles.
 - [akashuba/react-timeline-animation](https://github.com/akashuba/react-timeline-animation) - react-timeline-animation component
 - [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
