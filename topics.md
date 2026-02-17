@@ -442,7 +442,7 @@
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - This repository has been moved to https://codeberg.org/janikvonrotz/awesome-powershell. Please visit the new location for the latest updates.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [stoatchat/awesome-stoat](https://github.com/stoatchat/awesome-stoat) - Collection of Stoat libraries, bots, clients and other cool stuff.
+- [stoatchat/awesome-stoat](https://github.com/stoatchat/awesome-stoat) - Collection of Stoat libraries, bots, clients, and other cool stuff.
 - [738/awesome-url-shortener](https://github.com/738/awesome-url-shortener) - 🔗 A curated list of awesome url shortener
 - [standard/awesome-standard](https://github.com/standard/awesome-standard) - Documenting the explosion of packages in the standard ecosystem!
 - [dariubs/GoBooks](https://github.com/dariubs/GoBooks) - List of Golang books
@@ -481,7 +481,7 @@
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - This repository has been moved to https://codeberg.org/janikvonrotz/awesome-powershell. Please visit the new location for the latest updates.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-- [stoatchat/awesome-stoat](https://github.com/stoatchat/awesome-stoat) - Collection of Stoat libraries, bots, clients and other cool stuff.
+- [stoatchat/awesome-stoat](https://github.com/stoatchat/awesome-stoat) - Collection of Stoat libraries, bots, clients, and other cool stuff.
 - [738/awesome-url-shortener](https://github.com/738/awesome-url-shortener) - 🔗 A curated list of awesome url shortener
 - [readium/awesome-readium](https://github.com/readium/awesome-readium) - ⭐️ Awesome Readium-related resources
 - [standard/awesome-standard](https://github.com/standard/awesome-standard) - Documenting the explosion of packages in the standard ecosystem!
@@ -2077,7 +2077,7 @@
 - [xemantic/shader-web-background](https://github.com/xemantic/shader-web-background) - Displays GLSL fragment shaders as a website background. Supports offscreen buffers and floating point textures on almost any browser and hardware. Compatible with Shadertoy.
 - [opal/opal](https://github.com/opal/opal) - Ruby ♥︎ JavaScript
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
-- [steffest/DPaint-js](https://github.com/steffest/DPaint-js) - Webbased image editor, modeled after the legendary Deluxe Paint with a focus on retro Amiga file formats: read and write Amiga icon files and IFF ILBM images
+- [steffest/DPaint-js](https://github.com/steffest/DPaint-js) - Webbased image editor, modeled after the legendary Deluxe Paint with a focus on retro Amiga file formats: read and write Amiga icon files and IFF ILBM images/animations
 - [patriciogonzalezvivo/glslCanvas](https://github.com/patriciogonzalezvivo/glslCanvas) - Simple tool to load GLSL shaders on HTML Canvas using WebGL
 - [standard/awesome-standard](https://github.com/standard/awesome-standard) - Documenting the explosion of packages in the standard ecosystem!
 - [markteekman/frontend-resources](https://github.com/markteekman/frontend-resources) - A list of resources concerning front-end web development. From HTML, CSS and JavaScript to testing, accessibility, Atom packages, UI Design and Design Systems.
