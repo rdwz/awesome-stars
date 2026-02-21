@@ -1121,7 +1121,7 @@
 - [crystalcommunication/crystalcommunication](https://github.com/crystalcommunication/crystalcommunication) - Profile README
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [coding-in-public/astro-search-fusejs](https://github.com/coding-in-public/astro-search-fusejs) - 
-- [stoatchat/awesome-stoat](https://github.com/stoatchat/awesome-stoat) - Collection of Stoat libraries, bots, clients, and other cool stuff.
+- [stoatchat/awesome-stoat](https://github.com/stoatchat/awesome-stoat) - Collection of Stoat libraries, bots, clients and other cool stuff.
 - [withastro/automation](https://github.com/withastro/automation) - Centralized repo for GitHub actions for the `withastro` org
 - [joelacus/Cobalt](https://github.com/joelacus/Cobalt) - A very customisable widget based start page browser extension/website
 - [738/awesome-url-shortener](https://github.com/738/awesome-url-shortener) - 🔗 A curated list of awesome url shortener
