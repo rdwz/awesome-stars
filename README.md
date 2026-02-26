@@ -797,7 +797,6 @@
 - [realvjy/nxt-lnk](https://github.com/realvjy/nxt-lnk) - Custom bio links for creatives who love coding. A perfect custom alternative for linktree, bio and other shortner platform.
 - [mafiosnik777/enhancr](https://github.com/mafiosnik777/enhancr) - Video Frame Interpolation & Super Resolution using NVIDIA's TensorRT & Tencent's NCNN inference, beautifully crafted and packaged into a single app
 - [rschristian/astro-preact-twind](https://github.com/rschristian/astro-preact-twind) - Astro integration for using Preact & Twind
-- [astrofox-io/astrofox](https://github.com/astrofox-io/astrofox) - Astrofox is a motion graphics program that lets you turn audio into amazing videos.
 - [truethari/reactfolio](https://github.com/truethari/reactfolio) - Reactfolio is a sleek and responsive personal portfolio template built using React, perfect for showcasing your work and skills in a professional manner.
 - [Klarr-Agency/Circum-Icons](https://github.com/Klarr-Agency/Circum-Icons) - Circum is a open source icon library following Google Material Design principles. Every icon was made using a 24x24 grid.
 - [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) - A gitmoji interactive cli tool for using emojis on commits. 💻
@@ -805,7 +804,6 @@
 - [domdomegg/hideytthumbnails-extension](https://github.com/domdomegg/hideytthumbnails-extension) - 🚫 Hide YouTube thumbnails for less clickbaity browsing
 - [gusfahmi/Social-Media-Downloader](https://github.com/gusfahmi/Social-Media-Downloader) - API for Social Media Downloader. (Youtube Downloader, Youtube Playlist Downloader, Instagram Downloader, TikTok Downloader, Soundcloud Downloader, DailyMotion Downloader).
 - [arscan/encom-globe](https://github.com/arscan/encom-globe) - 🌎 WebGL globe based on the boardroom scene from Tron: Legacy
-- [NTag/dotted-map](https://github.com/NTag/dotted-map) - Create futuristic SVG maps, Tron-like, filled with dots or hexagons
 - [quilliepie/tiny-visions](https://github.com/quilliepie/tiny-visions) - A front-end web app aiming to create a modern, minimalistic experience for tarot card readings and quizzes.
 - [abetusk/ResonatorVoyantTarot](https://github.com/abetusk/ResonatorVoyantTarot) - An experiment in creating generative tarot cards.
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
@@ -1927,12 +1925,14 @@
 - [Leonardo-Interactive/leonardo-ts-sdk](https://github.com/Leonardo-Interactive/leonardo-ts-sdk) - Typescript SDK for Leonardo AI
 - [pingidentity/astro](https://github.com/pingidentity/astro) - React component library for Ping Identity's design system
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
+- [astrofox-io/astrofox](https://github.com/astrofox-io/astrofox) - Astrofox is a motion graphics program that lets you turn audio into amazing videos.
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate) - A tool to help migrate JavaScript code quickly and conveniently to TypeScript
 - [bluulo/joplin-plugin-code-clipboard](https://github.com/bluulo/joplin-plugin-code-clipboard) - Copy the content of a code block to the clipboard
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, solid-styled-components, stitches and goober) at build time.
 - [astuto/astuto](https://github.com/astuto/astuto) - A free, open source, self-hosted customer feedback tool 🦊
+- [NTag/dotted-map](https://github.com/NTag/dotted-map) - Create futuristic SVG maps, Tron-like, filled with dots or hexagons
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [bejamas/react-redux-blog](https://github.com/bejamas/react-redux-blog) - A frontend blog made with TypeScript, React and Redux Toolkit.
 - [phosphor-icons/react](https://github.com/phosphor-icons/react) - A flexible icon family for React
