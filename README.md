@@ -928,7 +928,6 @@
 - [webkul/coolhue](https://github.com/webkul/coolhue) - Coolest Gradient Hues and Swatches
 - [orestbida/cookieconsent](https://github.com/orestbida/cookieconsent) - :cookie: Simple cross-browser cookie-consent plugin written in vanilla js
 - [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb) - Peer-to-Peer Databases for the Decentralized Web
-- [electricbookworks/electric-book](https://github.com/electricbookworks/electric-book) - A Jekyll template for creating books in multiple formats
 - [oslabs-beta/fflow](https://github.com/oslabs-beta/fflow) - fflow is an easy-to-use open-source tool for all developers to create their React application.
 - [brandon1024/find](https://github.com/brandon1024/find) - A find-in-page extension for Chrome and Firefox that supports regular expressions.
 - [stylus/stylus](https://github.com/stylus/stylus) - Expressive, robust, feature-rich CSS language built for nodejs
@@ -1611,6 +1610,7 @@
 - [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [ingram-projects/animxyz](https://github.com/ingram-projects/animxyz) - The first truly composable CSS animation library. Built for Vue, React, SCSS, and CSS, AnimXYZ will bring your website to life.
 - [themarshallproject/klaxon](https://github.com/themarshallproject/klaxon) - Klaxon enables reporters and editors to monitor scores of sites on the web for newsworthy changes.
+- [electricbookworks/electric-book](https://github.com/electricbookworks/electric-book) - A Jekyll template for creating books in multiple formats
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 
