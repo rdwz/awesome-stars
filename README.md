@@ -608,7 +608,7 @@
 - [openaudible/openaudible](https://github.com/openaudible/openaudible) - Audiobook Manager for Audible Users
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [Winbee/SynoCI](https://github.com/Winbee/SynoCI) - A guide to install a continuous integration infrastructure on a NAS Synology
-- [eclipse/openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
+- [eclipse-openvsx/openvsx](https://github.com/eclipse-openvsx/openvsx) - An open-source registry for VS Code extensions
 - [google/live-transcribe-speech-engine](https://github.com/google/live-transcribe-speech-engine) - Live Transcribe is an Android application that provides real-time captioning for people who are deaf or hard of hearing. This repository contains the Android client libraries for communicating with Go
 - [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
 - [mdlu/set-game](https://github.com/mdlu/set-game) - backend for an online multiplayer version of the card game Set
@@ -1986,7 +1986,7 @@
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [yocontra/react-responsive](https://github.com/yocontra/react-responsive) - CSS media queries in react - for responsive design, and more.
 - [sass/sass](https://github.com/sass/sass) - Sass makes CSS fun!
-- [shuding/cobe](https://github.com/shuding/cobe) - 5kB WebGL globe lib.
+- [shuding/cobe](https://github.com/shuding/cobe) - 5KB WebGL globe lib.
 - [FranzFlueckiger/Storygram](https://github.com/FranzFlueckiger/Storygram) - Explore and visualize sequential grouping in your data!
 - [nurpax/petmate](https://github.com/nurpax/petmate) - PETSCII editor with Electron/React/Redux
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
