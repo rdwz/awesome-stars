@@ -368,7 +368,7 @@
 - [progfay/shields-with-icon](https://github.com/progfay/shields-with-icon) - Enjoy https://shields.io
 - [tdewolff/minify](https://github.com/tdewolff/minify) - Go minifiers for web formats
 - [ChristopherHX/github-act-runner](https://github.com/ChristopherHX/github-act-runner) - act as self-hosted runner
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
 - [mauamy/ard2rss](https://github.com/mauamy/ard2rss) - A small api that creates rss feeds for ARD Audiothek shows
 - [ai-mastering/phaselimiter-gui](https://github.com/ai-mastering/phaselimiter-gui) - 
