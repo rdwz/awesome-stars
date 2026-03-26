@@ -1821,7 +1821,6 @@
 - [PowerDNS/pdns-builder](https://github.com/PowerDNS/pdns-builder) - Infrastructure for creating Dockerfiles for package building
 - [PowerDNS/pdns](https://github.com/PowerDNS/pdns) - PowerDNS Authoritative, PowerDNS Recursor, dnsdist
 - [linuxserver/docker-fleet](https://github.com/linuxserver/docker-fleet) - 
-- [meteor/blaze](https://github.com/meteor/blaze) - :fire: Meteor Blaze is a powerful library for creating live-updating user interfaces
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [andstor/file-existence-action](https://github.com/andstor/file-existence-action) - :file_folder: :octocat: GitHub Action to check for file existence
 - [emibcn/badge-action](https://github.com/emibcn/badge-action) - Create a badge using GitHub Actions and GitHub Workflow CPU time (no 3rd parties servers)
@@ -3392,6 +3391,7 @@
 - [uhub/awesome-shell](https://github.com/uhub/awesome-shell) - A curated list of awesome Shell frameworks, libraries and software.
 - [Rob--W/crxviewer](https://github.com/Rob--W/crxviewer) - Add-on / web app to view the source code of Chrome / Firefox / Opera 15 extensions and zip files.
 - [jsfiddle/togetherjs](https://github.com/jsfiddle/togetherjs) - A service for your website that makes it surprisingly easy to collaborate in real-time.
+- [meteor/blaze](https://github.com/meteor/blaze) - :fire: Meteor Blaze is a powerful library for creating live-updating user interfaces
 - [homerchen19/github-file-icons](https://github.com/homerchen19/github-file-icons) - 🌈 🗂 A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.
 - [chinchang/extensions-4-every-developer](https://github.com/chinchang/extensions-4-every-developer) - A list of extensions that every web developer must have
 - [themarshallproject/klaxon](https://github.com/themarshallproject/klaxon) - Klaxon enables reporters and editors to monitor scores of sites on the web for newsworthy changes.
