@@ -1283,7 +1283,6 @@
 - [zhdsmy/apple-emoji](https://github.com/zhdsmy/apple-emoji) - Apple Color Emoji for Linux / Windows
 - [samuelngs/apple-emoji-ttf](https://github.com/samuelngs/apple-emoji-ttf) - Brings Apple's vibrant color emojis to Linux, Windows, and the Web
 - [minhd-vu/toxicity-filter](https://github.com/minhd-vu/toxicity-filter) - Natural language processing API to detect toxic chat.
-- [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [ORB-HD/deface](https://github.com/ORB-HD/deface) - Video anonymization by face detection
 - [batuhanerenler/JARVIS-OpenAI-Voice-Assistant](https://github.com/batuhanerenler/JARVIS-OpenAI-Voice-Assistant) - Jarvis is a voice-enabled chatbot powered by OpenAI's GPT-3.5-turbo. It leverages state-of-the-art natural language processing to deliver intelligent and conversational interactions.
 - [AlexandreSajus/JARVIS](https://github.com/AlexandreSajus/JARVIS) - Your own personal voice assistant: Voice to Text to LLM to Speech, displayed in a web interface
