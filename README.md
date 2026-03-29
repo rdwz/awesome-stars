@@ -336,7 +336,7 @@
 - [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) - Fast and secure standalone server for resizing, processing, and converting images on the fly
 - [thomiceli/opengist](https://github.com/thomiceli/opengist) - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
-- [raystack/meteor](https://github.com/raystack/meteor) - Meteor is an easy-to-use, plugin-driven metadata collection framework to extract data from different sources and sink to any data catalog.
+- [raystack/meteor](https://github.com/raystack/meteor) - Meteor is a metadata collection agent that connects to databases, warehouses, dashboards,   pipelines, and infrastructure to extract and deliver rich observations that power your organization's  conte
 - [kevinburke/tss](https://github.com/kevinburke/tss) - Go port of moreutils/ts
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
