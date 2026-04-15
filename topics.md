@@ -3226,7 +3226,6 @@
 - [rschristian/astro-preact-twind](https://github.com/rschristian/astro-preact-twind) - Astro integration for using Preact & Twind
 - [jpaddeo/treelink](https://github.com/jpaddeo/treelink) - Personal link tree
 - [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder) - Home of StarCoder: fine-tuning & inference!
-- [RocketCommunicationsInc/astro-components](https://github.com/RocketCommunicationsInc/astro-components) - 
 - [katyo/aubio-rs](https://github.com/katyo/aubio-rs) - Rust bindings for Aubio library
 - [bugout-dev/mirror](https://github.com/bugout-dev/mirror) - Software project analysis
 - [bluulo/joplin-plugin-code-clipboard](https://github.com/bluulo/joplin-plugin-code-clipboard) - Copy the content of a code block to the clipboard
@@ -3509,7 +3508,6 @@
 - [penpot/penpot-files](https://github.com/penpot/penpot-files) - Publicly released files and assets of Penpot, The Open-Source design & prototyping platform
 - [atlemo/SubtlePatterns](https://github.com/atlemo/SubtlePatterns) - All the patterns
 - [ssllabs/ssllabs-scan](https://github.com/ssllabs/ssllabs-scan) - A command-line reference-implementation client for SSL Labs APIs, designed for automated and/or bulk testing.
-- [RocketCommunicationsInc/astro-www](https://github.com/RocketCommunicationsInc/astro-www) - The source code for the Astro UXDS website
 - [TanStack/ranger](https://github.com/TanStack/ranger) - 🤖 Headless utilities for building range and multi-range sliders in React, Preact, Solid, Vue, Svelte and Angular
 - [bejamas/dodonut-og-image](https://github.com/bejamas/dodonut-og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
