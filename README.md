@@ -1107,7 +1107,7 @@
 - [neon-bindings/examples](https://github.com/neon-bindings/examples) - A collection of examples of Neon
 - [dhfbk/emoji-transcriptions](https://github.com/dhfbk/emoji-transcriptions) - Transcriptions of emojis in plain text for English, Italian and German
 - [mahshidaln/AI-for-music](https://github.com/mahshidaln/AI-for-music) - Resources on AI applications in the music domain
-- [tehtbl/awesome-note-taking](https://github.com/tehtbl/awesome-note-taking) - A curated list of awesome note-taking software.
+- [tehtbl/awesome-note-taking](https://github.com/tehtbl/awesome-note-taking) - A curated list of 100+ awesome note-taking apps, PKM tools & knowledge management software — open source and proprietary. Updated regularly.
 - [crystalcommunication/crystalcommunication](https://github.com/crystalcommunication/crystalcommunication) - Profile README
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [coding-in-public/astro-search-fusejs](https://github.com/coding-in-public/astro-search-fusejs) - 
