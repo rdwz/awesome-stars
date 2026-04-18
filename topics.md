@@ -1883,7 +1883,6 @@
 - [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify playing on your Github profile
 - [open-wc/open-wc](https://github.com/open-wc/open-wc) - Open Web Components: guides, tools and libraries for developing web components.
 - [dar5hak/generator-awesome-list](https://github.com/dar5hak/generator-awesome-list) - :sunglasses: Yeoman generator for GitHub awesome lists
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) - Fast passive subdomain enumeration tool.
