@@ -313,6 +313,7 @@
 
 ## ai-agents 
 
+- [raystack/meteor](https://github.com/raystack/meteor) - Meteor extracts structured context from across your systems and delivers it to power your   organization's context graph and AI agents.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
@@ -2909,7 +2910,6 @@
 - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [rr-n4p5t3r/neofetch](https://github.com/rr-n4p5t3r/neofetch) - A commandline system information written in bash. Fork by Alexia Stein. Traditional version.
 - [Tencent-Hunyuan/HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo) - HunyuanVideo: A Systematic Framework For Large Video Generation Model
-- [raystack/meteor](https://github.com/raystack/meteor) - Meteor is a metadata collection agent that connects to databases, warehouses, dashboards,   pipelines, and infrastructure to extract and deliver rich observations that power your organization's  conte
 - [DevinR528/cargo-sort](https://github.com/DevinR528/cargo-sort) - Check if tables and items in a .toml file are lexically sorted
 - [jcs/no_color](https://github.com/jcs/no_color) - Website data for no-color.org
 - [bitsundbaeume/publication2023](https://github.com/bitsundbaeume/publication2023) - Publication 2023
