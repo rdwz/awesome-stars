@@ -1702,7 +1702,7 @@
 
 - [bit-team/backintime](https://github.com/bit-team/backintime) - A comfortable and well-configurable graphical Frontend for incremental backups, with a command-line version also available. Modified files are transferred, while unchanged files are linked to the new 
 - [rinturaj/tailwind-material-3](https://github.com/rinturaj/tailwind-material-3) - Tailwind Material 3 is a library that provides ready-to-use UI components for Tailwind CSS users. It includes a range of customizable components such as buttons, cards, and forms, as well as useful ut
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 
 ## google 
 
@@ -1721,7 +1721,7 @@
 ## graphql 
 
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [magidoc-org/magidoc](https://github.com/magidoc-org/magidoc) - Autogenerate static GraphQL API documentation
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [apex/up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
@@ -1786,7 +1786,7 @@
 - [DenverCoder1/custom-icon-badges](https://github.com/DenverCoder1/custom-icon-badges) - 🛡 Allows users to more easily use Octicons and their own icons and logos on shields.io badges
 - [rugk/awesome-emoji-picker](https://github.com/rugk/awesome-emoji-picker) - Add-on/WebExtension that provides a modern emoji picker that you can use to find and copy/insert emoji into the active web page.
 - [grantholle/moviedb-promise](https://github.com/grantholle/moviedb-promise) - Interact with themoviedb.org's api with Node... now in TypeScript!
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [AndrejJurkin/create-tw](https://github.com/AndrejJurkin/create-tw) - CLI to scaffold tailwindcss-ready projects
 - [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
 - [IonicaBizau/ama](https://github.com/IonicaBizau/ama) - :speech_balloon: Ask me anything!
@@ -2078,7 +2078,7 @@
 - [tommoor/tinycon](https://github.com/tommoor/tinycon) - A small library for manipulating the favicon, in particular adding alert bubbles and changing images.
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
 - [itgalaxy/favicons](https://github.com/itgalaxy/favicons) - Favicons generator for Node.js
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
 - [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
@@ -2600,7 +2600,7 @@
 
 ## nestjs 
 
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 
 ## neural-network 
@@ -2809,7 +2809,7 @@
 - [URUWorks/TeroSubtitler](https://github.com/URUWorks/TeroSubtitler) - Tero Subtitler is an open source, cross-platform, and free subtitle editing software.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🫖 Status page with uptime monitoring & API monitoring as code   🫖
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
 - [desertplant/moon-phase-background](https://github.com/desertplant/moon-phase-background) - A lightweight Bash utility that dynamically updates the desktop background based on the current moon phase.
 - [ReclaimApp/Reclaim](https://github.com/ReclaimApp/Reclaim) - A hub for your personal data
@@ -3434,7 +3434,7 @@
 - [alrra/browser-logos](https://github.com/alrra/browser-logos) - 🗂 High resolution web browser logos
 - [keybase/book-content](https://github.com/keybase/book-content) - 
 - [handshake-org/hsd](https://github.com/handshake-org/hsd) - Handshake Daemon & Full Node
-- [kyokan/bob-wallet](https://github.com/kyokan/bob-wallet) - Bob Wallet is a GUI for DNS Record Management and Name Auctions on Handshake. It includes an integrated full node: hsd
+- [rhymincymon/bob-wallet](https://github.com/rhymincymon/bob-wallet) - Bob Wallet is a GUI for DNS Record Management and Name Auctions on Handshake. It includes an integrated full node: hsd
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [mikhailklassen/Mining-the-Social-Web-3rd-Edition](https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition) - The official online compendium for Mining the Social Web, 3rd Edition (O'Reilly, 2018)
 - [caesiumstudio/csBooks-updates](https://github.com/caesiumstudio/csBooks-updates) - csBooks is the best epub reader, pdf reader, mobi book reader and djvu reader for windows, linux and mac os. It solves your problems if you need ebook manager, library manager on linux, best comic boo
@@ -3691,7 +3691,7 @@
 ## postgresql 
 
 - [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [remix-pwa/rockspec-stack](https://github.com/remix-pwa/rockspec-stack) - A fully configurable & customizable Remix PWA stack.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [practicajs/practica](https://github.com/practicajs/practica) - Node.js solution starter boilerplate that is production-ready, packed with ✅  best practices and built with simplicity in mind
@@ -3930,7 +3930,7 @@
 - [MaxLeiter/Drift](https://github.com/MaxLeiter/Drift) - Drift is a self-hostable Gist and paste service. Built with Next.js 13 and React Server Components.
 - [willnguyen1312/zoom-image](https://github.com/willnguyen1312/zoom-image) - A little yet powerful framework agnostic headless library to zoom images on the web
 - [EmaSuriano/astro-art-portfolio](https://github.com/EmaSuriano/astro-art-portfolio) - Minimalistic Art showcase built with Astro and connected with Notion API
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [sheldhur/cross-browser-extension-boilerplate](https://github.com/sheldhur/cross-browser-extension-boilerplate) - Supports TypeScript, React, PostCSS, Manifest V3 and Manifest V2. Cross browser building for Chrome, Firefox, Safari, Edge, etc.
 - [alibaba/ChatUI](https://github.com/alibaba/ChatUI) - The UI design language and React library for Conversational UI
 - [hernandez87v/djjosehernandez](https://github.com/hernandez87v/djjosehernandez) - 🎶 DJ Progressive Web App built using 🧬 React, 🔗 APIs.
@@ -4005,7 +4005,7 @@
 ## reactjs 
 
 - [SubramonianInian/code-forge](https://github.com/SubramonianInian/code-forge) - A Codepen clone 🔨
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [AndrejJurkin/create-tw](https://github.com/AndrejJurkin/create-tw) - CLI to scaffold tailwindcss-ready projects
 - [hernandez87v/djjosehernandez](https://github.com/hernandez87v/djjosehernandez) - 🎶 DJ Progressive Web App built using 🧬 React, 🔗 APIs.
 - [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
@@ -4553,7 +4553,7 @@
 - [fajarhidayatt/whatmovie](https://github.com/fajarhidayatt/whatmovie) - WhatMovie is a website to find information about your favorite movies
 - [grantholle/moviedb-promise](https://github.com/grantholle/moviedb-promise) - Interact with themoviedb.org's api with Node... now in TypeScript!
 - [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️ Browser fingerprinting via favicon!
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [sheldhur/cross-browser-extension-boilerplate](https://github.com/sheldhur/cross-browser-extension-boilerplate) - Supports TypeScript, React, PostCSS, Manifest V3 and Manifest V2. Cross browser building for Chrome, Firefox, Safari, Edge, etc.
 - [shpetimselaci/fastify-esbuild-typescript-vite](https://github.com/shpetimselaci/fastify-esbuild-typescript-vite) - Boilerplate to quickly create a backend with fastify.js framework using typescript and the latest tooling.
@@ -4763,7 +4763,7 @@
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [ServiceStack/ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
 - [xemantic/shader-web-background](https://github.com/xemantic/shader-web-background) - Displays GLSL fragment shaders as a website background. Supports offscreen buffers and floating point textures on almost any browser and hardware. Compatible with Shadertoy.
 - [mediathekview/mediathekviewweb](https://github.com/mediathekview/mediathekviewweb) - Eine Weboberfläche als Alternative zum Java-Client
