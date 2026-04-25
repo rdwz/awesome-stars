@@ -3032,7 +3032,7 @@
 - [randombits-dev/astro-font-picker](https://github.com/randombits-dev/astro-font-picker) - Astro Dev Toolbar Integration that lets you try out different fonts on your website
 - [simonw/strip-tags](https://github.com/simonw/strip-tags) - CLI tool for stripping tags from HTML
 - [learnwithjason/pure-js-drag-n-drop](https://github.com/learnwithjason/pure-js-drag-n-drop) - 
-- [aminya/astro-plugins](https://github.com/aminya/astro-plugins) - Various astro plugins such as astro-htmlnano to minify Astro files with HTMLNano and CSSNano
+- [aminya/astro-plugins](https://github.com/aminya/astro-plugins) - astro-posthtml + astro-htmlnano to modify HTMLs or minify Astro files with HTMLNano and CSSNano
 - [mitchmindtree/nannou-sketches](https://github.com/mitchmindtree/nannou-sketches) - Random bits and pieces with nannou!
 - [kevinzunigacuellar/astro-supabase](https://github.com/kevinzunigacuellar/astro-supabase) - Astro and Supabase auth and database demo
 - [yeun/open-color](https://github.com/yeun/open-color) - Color scheme for UI design.
