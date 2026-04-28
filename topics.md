@@ -136,7 +136,6 @@
 - [js](#js)
 - [json](#json)
 - [julia](#julia)
-- [koa](#koa)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
@@ -2255,10 +2254,6 @@
 
 - [helgee/JPLEphemeris.jl](https://github.com/helgee/JPLEphemeris.jl) - JPL ephemerides for Julia
 - [JuliaSpaceMissionDesign/FrameTransformations.jl](https://github.com/JuliaSpaceMissionDesign/FrameTransformations.jl) - A modern, high-performance and comprehensive set of tools for transformations between any standard and user-defined reference frame.
-
-## koa 
-
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 
 ## kotlin 
 
