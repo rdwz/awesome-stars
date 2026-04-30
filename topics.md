@@ -1609,7 +1609,7 @@
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [steelx/extractlinks](https://github.com/steelx/extractlinks) - extractlinks GO package for extracting anchor links from HTML
 - [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-- [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Infrastructure as code for DNS!
+- [itstoragesvc/dnscontrol](https://github.com/itstoragesvc/dnscontrol) - Infrastructure as code for DNS!
 - [coredns/coredns](https://github.com/coredns/coredns) - CoreDNS is a DNS server that chains plugins
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
