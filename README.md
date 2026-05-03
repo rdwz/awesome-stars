@@ -131,7 +131,7 @@
 - [t3-oss/init.tips](https://github.com/t3-oss/init.tips) - 
 - [Destiner/astro-analytics](https://github.com/Destiner/astro-analytics) - Astro components for site analytics
 - [delucis/astro-embed](https://github.com/delucis/astro-embed) - Low-JavaScript embed components for Astro websites
-- [incluud/accessible-astro-starter](https://github.com/incluud/accessible-astro-starter) - An Accessible, WCAG compliant Starter Theme for Astro 5+ including several accessibility features such as, better focus-outline, landmarks, semantics, interactive components and skip-link navigation. 
+- [incluud/accessible-astro-starter](https://github.com/incluud/accessible-astro-starter) - An Accessible, WCAG compliant Starter Theme for Astro 6+ including several accessibility features such as, better focus-outline, landmarks, semantics, interactive components and skip-link navigation. 
 - [mhyfritz/astro-landing-page](https://github.com/mhyfritz/astro-landing-page) - An Astro + Tailwind CSS Example/Template for Landing Pages
 - [aFuzzyBear/astro-academy](https://github.com/aFuzzyBear/astro-academy) - 
 
