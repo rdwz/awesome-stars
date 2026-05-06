@@ -1117,7 +1117,7 @@
 
 ## developer-tools 
 
-- [zx0r/VSCodium-Setup](https://github.com/zx0r/VSCodium-Setup) - Privacy, telemetry-free development environment that puts security at the core.
+- [zx0r/vscodium-setup](https://github.com/zx0r/vscodium-setup) - Privacy, telemetry-free development environment that puts security at the core.
 - [jondot/devstart](https://github.com/jondot/devstart) - Devstart: run dev tasks without thinking
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
