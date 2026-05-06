@@ -1616,7 +1616,7 @@
 
 ## Shell 
 
-- [zx0r/VSCodium-Setup](https://github.com/zx0r/VSCodium-Setup) - Privacy, telemetry-free development environment that puts security at the core.
+- [zx0r/vscodium-setup](https://github.com/zx0r/vscodium-setup) - Privacy, telemetry-free development environment that puts security at the core.
 - [coderofsalvation/powscript](https://github.com/coderofsalvation/powscript) - transpiler written in bash: painless shellscript, indentbased, coffee for the shell with hipster-sparkles v1 BETA LANDED 🎉🎉🎉🎉 thanks fcard!
 - [Sushrut1101/GoFile-Upload](https://github.com/Sushrut1101/GoFile-Upload) - A Simple Script to upload Files to gofile.io via Terminal (CLI). Written in Bash.
 - [GroveOS/bare.sh](https://github.com/GroveOS/bare.sh) - bare.sh is a collection of bare bones shell scripts for simplifying various tasks such as API calls (OpenAI, Stripe, Postmark, etc), video and audio processing, and much more.
