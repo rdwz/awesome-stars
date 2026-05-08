@@ -1118,6 +1118,7 @@
 - [ScribeMD/.github](https://github.com/ScribeMD/.github) - GitHub Actions Starter Workflows and Default Community Health Files
 - [darsaveli/Readme-Markdown-Syntax](https://github.com/darsaveli/Readme-Markdown-Syntax) - 🔥 The Best, Complete Guide to Master Markdown Syntax & Create Awesome READMEs😈
 - [jabacchetta/vscode-essentials](https://github.com/jabacchetta/vscode-essentials) - Turn VSCode into a supercharged IDE.
+- [DeepLcom/openapi](https://github.com/DeepLcom/openapi) - OpenAPI specification of the DeepL API
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
 - [joelparkerhenderson/inclusive-language](https://github.com/joelparkerhenderson/inclusive-language) - Inclusive language
 - [IonicaBizau/ama](https://github.com/IonicaBizau/ama) - :speech_balloon: Ask me anything!
@@ -1330,7 +1331,6 @@
 - [mindflowai/mindflow](https://github.com/mindflowai/mindflow) - 🧠 code-awareness
 - [m-bain/whisperX](https://github.com/m-bain/whisperX) - WhisperX:  Automatic Speech Recognition with Word-level Timestamps (& Diarization)
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
-- [DeepLcom/openapi](https://github.com/DeepLcom/openapi) - OpenAPI specification of the DeepL API
 - [andrewzlee/NeuralBlock](https://github.com/andrewzlee/NeuralBlock) - Neural Network that detects in-video YouTube sponsorships.
 - [jeanslack/Videomass](https://github.com/jeanslack/Videomass) - Videomass is a free, open source and cross-platform GUI for FFmpeg
 - [nod-ai/AMD-SHARK-Studio](https://github.com/nod-ai/AMD-SHARK-Studio) - AMD-SHARK Studio -- Web UI for SHARK+IREE High Performance Machine Learning Distribution
