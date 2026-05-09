@@ -1242,7 +1242,6 @@
 
 - [atomia/atomiadns](https://github.com/atomia/atomiadns) - Atomia DNS
 - [curl/everything-curl](https://github.com/curl/everything-curl) - The book documenting the curl project, the curl tool, libcurl and more. Simply put: everything curl.
-- [silnrsi/font-andika](https://github.com/silnrsi/font-andika) - A font family designed especially for literacy use, taking into account the needs of beginning readers
 
 ## PowerShell 
 
@@ -1406,6 +1405,7 @@
 - [huashengdun/webssh](https://github.com/huashengdun/webssh) - :seedling: Web based ssh client
 - [Anon-Planet/thgtoa](https://github.com/Anon-Planet/thgtoa) - The comprehensive guide for online anonymity and OpSec.
 - [kr-g/gitonic](https://github.com/kr-g/gitonic) - gitonic simplifies working with multiple git repositories
+- [silnrsi/font-andika](https://github.com/silnrsi/font-andika) - A font family designed especially for literacy use, taking into account the needs of beginning readers
 - [byro/byro](https://github.com/byro/byro) - Plugin-based, unopinionated membership administration software
 - [geldata/gel](https://github.com/geldata/gel) - Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more.
 - [Faldrian/bandcamp-scraper](https://github.com/Faldrian/bandcamp-scraper) - Will scrape bandcamp for Creative Commons music
@@ -1778,7 +1778,6 @@
 - [SubramonianInian/code-forge](https://github.com/SubramonianInian/code-forge) - A Codepen clone 🔨
 - [nathanielw/party-ify](https://github.com/nathanielw/party-ify) - Website that turns any image into party-parrot style animated GIF
 - [thednp/svg-path-commander](https://github.com/thednp/svg-path-commander) - 🛹 Typescript tools for advanced processing of SVG path data.
-- [play-dl/play-dl](https://github.com/play-dl/play-dl) - Mainly used for Discord js Bots to play music.
 - [Sn8z/Poddr](https://github.com/Sn8z/Poddr) - Podcatcher made with Electron and Angular
 - [thecmdrunner/swiftube-frontend](https://github.com/thecmdrunner/swiftube-frontend) - It's like ChatGPT for videos.
 - [sxy15/font-subset](https://github.com/sxy15/font-subset) - create a font-subset from a font file
