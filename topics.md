@@ -3458,7 +3458,6 @@
 - [yanxiu0614/subdomain3](https://github.com/yanxiu0614/subdomain3) - A new generation of tool for discovering subdomains( ip , cdn and so on)
 - [rdwz/js.cool](https://github.com/rdwz/js.cool) - 为国人开源项目提供免费的子域名（自 2020 年 8 月起），现在支持 Vercel 啦！
 - [eclipse-openvsx/openvsx](https://github.com/eclipse-openvsx/openvsx) - An open-source registry for VS Code extensions
-- [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
 - [nhoizey/1y](https://github.com/nhoizey/1y) - A template project to build a short URL manager with Eleventy
 - [wyattjoh/ydns-updater](https://github.com/wyattjoh/ydns-updater) - A DNS Updater client written in Go for yDNS
 - [gmate/gmate](https://github.com/gmate/gmate) - Set of plugins and improvements to make Gedit a powerfull programmer text editor
