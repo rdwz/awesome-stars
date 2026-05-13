@@ -2025,7 +2025,6 @@
 - [GrapesJS/grapesjs](https://github.com/GrapesJS/grapesjs) - Free and Open source Web Builder Framework. Next generation tool for building templates without coding
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [domaindumper/domain-statistics](https://github.com/domaindumper/domain-statistics) - Domain Dumper delivers daily updates on the statistics of all registered domains across 900+ zones, with records dating back to January 1, 1990. This API provides daily updates on the number of domain
-- [planetscale/beam](https://github.com/planetscale/beam) - A simple message board for your organization or project
 - [bugbakery/audapolis](https://github.com/bugbakery/audapolis) - an editor for spoken-word audio with automatic transcription
 - [antfu-collective/sponsorkit](https://github.com/antfu-collective/sponsorkit) - 💖 Toolkit for generating sponsors images 😄
 - [IamFlowZ/ssh-bm](https://github.com/IamFlowZ/ssh-bm) - An ssh bookmarking program
