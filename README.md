@@ -1784,7 +1784,7 @@
 - [DTStack/molecule](https://github.com/DTStack/molecule) - :rocket: A lightweight Web IDE UI framework.
 - [arturania/human-logic](https://github.com/arturania/human-logic) - Human Logic
 - [thx/resvg-js](https://github.com/thx/resvg-js) - A high-performance SVG renderer and toolkit, powered by Rust based resvg and napi-rs.
-- [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
+- [lissy93/web-check](https://github.com/lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [florian-lefebvre/astro-integration-kit](https://github.com/florian-lefebvre/astro-integration-kit) - A package that contains utilities to help you build Astro integrations.
 - [PlayForm/Format](https://github.com/PlayForm/Format) - Format 🗻
 - [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours
@@ -2071,7 +2071,7 @@
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [rdwz/personal-astro-theme](https://github.com/rdwz/personal-astro-theme) - Personal AstroJS theme for Stackbit V2
 - [therealsujitk/deploy-badge](https://github.com/therealsujitk/deploy-badge) - Generate a deployment badge for your project's README
-- [Lissy93/personal-security-checklist](https://github.com/Lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
+- [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [fell-lucas/chrome-extension-template-preact-vite](https://github.com/fell-lucas/chrome-extension-template-preact-vite) - 
 - [initml/clipdrop-api-samples](https://github.com/initml/clipdrop-api-samples) - Public samples using the ClipDrop API
 - [JeffreyCA/spotify-recently-played-readme](https://github.com/JeffreyCA/spotify-recently-played-readme) - Display your recently played Spotify tracks on your GitHub profile README.
