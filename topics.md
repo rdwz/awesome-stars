@@ -326,7 +326,7 @@
 ## ai-agents 
 
 - [raystack/meteor](https://github.com/raystack/meteor) - Meteor extracts structured context from across your systems and delivers it to power your   organization's context graph and AI agents.
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 
@@ -1082,7 +1082,7 @@
 - [supabase-community/deno-fresh-openai-doc-search](https://github.com/supabase-community/deno-fresh-openai-doc-search) - Template for building your own custom ChatGPT style doc search powered by Fresh, Deno, OpenAI, and Supabase.
 - [denoland/saaskit](https://github.com/denoland/saaskit) - A modern SaaS template built on Fresh.
 - [campvanilla/casualdb](https://github.com/campvanilla/casualdb) - Simple JSON "database" for Deno with type-safety! ⚡️
-- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
+- [freshframework/fresh](https://github.com/freshframework/fresh) - The framework so simple, you already know it.
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 - [denosaurs/mod.land](https://github.com/denosaurs/mod.land) - 📦 Pretty subdomains for you deno project
 - [IamFlowZ/ssh-bm](https://github.com/IamFlowZ/ssh-bm) - An ssh bookmarking program
@@ -2126,7 +2126,7 @@
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
 - [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate) - A tool to help migrate JavaScript code quickly and conveniently to TypeScript
 - [arscan/encom-globe](https://github.com/arscan/encom-globe) - 🌎 WebGL globe based on the boardroom scene from Tron: Legacy
-- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
+- [freshframework/fresh](https://github.com/freshframework/fresh) - The framework so simple, you already know it.
 - [hello-efficiency-inc/raven-reader](https://github.com/hello-efficiency-inc/raven-reader) - 📖 All your articles in one place. Beautiful.
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [pronouns/main](https://github.com/pronouns/main) - Share your personal pronouns and stay updated on your friends' pronouns. Pronouny allows you to update your pronouns and send alerts to your friends.
@@ -2391,7 +2391,7 @@
 - [Ngz91/Eunomia](https://github.com/Ngz91/Eunomia) - Analyze your code locally using a GPT LLM.
 - [kharvd/gpt-cli](https://github.com/kharvd/gpt-cli) - Command-line interface for ChatGPT, Claude and Bard
 - [mindflowai/mindflow](https://github.com/mindflowai/mindflow) - 🧠 code-awareness
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
@@ -2523,7 +2523,6 @@
 
 ## mcp 
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 
 ## microservices 
@@ -2661,7 +2660,7 @@
 
 ## no-code 
 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [Budibase/plugins](https://github.com/Budibase/plugins) - A curated list of Budibase plugins 🔌 including data sources and components.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
@@ -3906,7 +3905,7 @@
 ## rag 
 
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 
 ## raspberry-pi 
@@ -4580,7 +4579,7 @@
 - [dhohirpradana/Instagram-Automation](https://github.com/dhohirpradana/Instagram-Automation) - [Python, Typescript] Instagram Automation Post Feed and Story, Integrate Data from Facebook Group and Page
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
 - [airbnb/ts-migrate](https://github.com/airbnb/ts-migrate) - A tool to help migrate JavaScript code quickly and conveniently to TypeScript
-- [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
+- [freshframework/fresh](https://github.com/freshframework/fresh) - The framework so simple, you already know it.
 - [bejamas/react-redux-blog](https://github.com/bejamas/react-redux-blog) - A frontend blog made with TypeScript, React and Redux Toolkit.
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) - 🛍️ Typescript E-commerce Platform
