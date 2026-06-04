@@ -1930,7 +1930,7 @@
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [hynnot/PERN-stack-boilerplate](https://github.com/hynnot/PERN-stack-boilerplate) - 
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
-- [sparkable-cc/Sparkable](https://github.com/sparkable-cc/Sparkable) - Sparkable is a collection of links that have brought lasting new insight to people
+- [sparkable-cc/old-version](https://github.com/sparkable-cc/old-version) - Old version of Sparkable
 - [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [r7kamura/amazon_url_shortener](https://github.com/r7kamura/amazon_url_shortener) - Chrome extension to automatically shorten Amazon product URL.
 - [evershopcommerce/evershop](https://github.com/evershopcommerce/evershop) - 🛍️ Typescript E-commerce Platform
