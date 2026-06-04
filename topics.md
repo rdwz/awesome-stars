@@ -305,6 +305,7 @@
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
 - [kyegomez/Gemini](https://github.com/kyegomez/Gemini) - The open source implementation of Gemini, the model that will "eclipse ChatGPT" by Google
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [URUWorks/TeroSubtitler](https://github.com/URUWorks/TeroSubtitler) - Tero Subtitler is an open source, cross-platform, and free subtitle editing software.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [JingShing/AI-image-tag-extractor](https://github.com/JingShing/AI-image-tag-extractor) - A tool to help you get image info.
@@ -2994,7 +2995,6 @@
 - [umd-mith/webvtt-player](https://github.com/umd-mith/webvtt-player) - A React audio player & transcription viewer.
 - [possibly-is-gay/possibly-is-gay](https://github.com/possibly-is-gay/possibly-is-gay) - Self-service possibly-is.gay subdomain registration
 - [AndrewCarterUK/AstroSplash](https://github.com/AndrewCarterUK/AstroSplash) - An app that uses the Astronomy Picture of the Day API provided by NASA and the Zend Expressive framework.
-- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [ufal/whisper_streaming](https://github.com/ufal/whisper_streaming) - Whisper realtime streaming for long speech-to-text transcription and translation
 - [Aleph-Alpha/aleph-alpha-client-rs](https://github.com/Aleph-Alpha/aleph-alpha-client-rs) - 
 - [geraldfingburke/plateau-tarot-api](https://github.com/geraldfingburke/plateau-tarot-api) - A simple API for accessing a basic tarot deck
@@ -3271,7 +3271,7 @@
 - [prenaudin/reservify](https://github.com/prenaudin/reservify) - Util to mark as reserved a a list of words / Blacklisting subdomain ala Slack
 - [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists) - SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensi
 - [GoogleChromeLabs/squoosh](https://github.com/GoogleChromeLabs/squoosh) - Make images smaller using best-in-class codecs, right in the browser.
-- [sparkable-cc/Sparkable](https://github.com/sparkable-cc/Sparkable) - Sparkable is a collection of links that have brought lasting new insight to people
+- [sparkable-cc/old-version](https://github.com/sparkable-cc/old-version) - Old version of Sparkable
 - [siddharthvp/toolforge-node-app-base](https://github.com/siddharthvp/toolforge-node-app-base) - Base for creating a node.js app hosted on Toolforge
 - [atomia/atomiadns](https://github.com/atomia/atomiadns) - Atomia DNS
 - [bigdatabysumitm/NotesOfYouTubeSQLSeries](https://github.com/bigdatabysumitm/NotesOfYouTubeSQLSeries) - 
