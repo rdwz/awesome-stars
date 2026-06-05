@@ -918,8 +918,8 @@
 - [sonnyp/Tangram](https://github.com/sonnyp/Tangram) - Browser for your pinned tabs
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [AInoob/NooBoss](https://github.com/AInoob/NooBoss) - NooBoss is an extension that handles your extensions like a boss!
-- [AwesomeWebProjects/react-player](https://github.com/AwesomeWebProjects/react-player) - One audio player built with ReactJS, Web Audio API and Web Worker API
 - [facundoolano/google-play-scraper](https://github.com/facundoolano/google-play-scraper) - Node.js scraper to get data from Google Play
+- [swyxio/swyxdotio](https://github.com/swyxio/swyxdotio) - This is the repo for swyx's blog - Blog content is created in github issues, then posted on swyx.io as blog pages! Comment/watch to follow along my blog within GitHub
 - [webkul/coolhue](https://github.com/webkul/coolhue) - Coolest Gradient Hues and Swatches
 - [orestbida/cookieconsent](https://github.com/orestbida/cookieconsent) - :cookie: Simple cross-browser cookie-consent plugin written in vanilla js
 - [orbitdb/orbitdb](https://github.com/orbitdb/orbitdb) - Peer-to-Peer Databases for the Decentralized Web
@@ -1720,7 +1720,6 @@
 - [AleksandrHovhannisyan/fluid-type-scale-calculator](https://github.com/AleksandrHovhannisyan/fluid-type-scale-calculator) - Generate font size variables for a fluid type scale with CSS clamp.
 - [mediathekview/mediathekviewweb](https://github.com/mediathekview/mediathekviewweb) - Eine Weboberfläche als Alternative zum Java-Client
 - [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
-- [swyxio/swyxdotio](https://github.com/swyxio/swyxdotio) - This is the repo for swyx's blog - Blog content is created in github issues, then posted on swyx.io as blog pages! Comment/watch to follow along my blog within GitHub
 - [christopher-kapic/astro-devblog](https://github.com/christopher-kapic/astro-devblog) - A 🔥blazingly fast🔥 developer blog template built with Astro, NetlifyCMS, TailwindCSS, and Prisma that can automatically publish to Medium and Dev.to.
 
 ## Swift 
@@ -2038,6 +2037,7 @@
 - [open-source-labs/Vno](https://github.com/open-source-labs/Vno) - a build tool for compiling and bundling Vue single-file components
 - [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and MacOS, free and open-source (FOSS)
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
+- [AwesomeWebProjects/react-player](https://github.com/AwesomeWebProjects/react-player) - One audio player built with ReactJS, Web Audio API and Web Worker API
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [github/issue-labeler](https://github.com/github/issue-labeler) - An action for automatically labelling issues
