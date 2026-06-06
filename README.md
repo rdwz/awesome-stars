@@ -2106,7 +2106,6 @@
 ## Vue 
 
 - [alfg/ffmpeg-commander](https://github.com/alfg/ffmpeg-commander) - A web-based GUI for quickly generating common FFmpeg command-line operations.
-- [charlenherv/spongebob-time-cards](https://github.com/charlenherv/spongebob-time-cards) - SpongeBob-Themed Time Card Generator, For Fun and Memes
 - [andreas-stricker/ownlinks](https://github.com/andreas-stricker/ownlinks) - linktree clone – link in bio for instagram social media
 - [orhanemree/link-in-bio](https://github.com/orhanemree/link-in-bio) - 🌲 All-in-one bio link tool. An open source alternative to Linktree, with no registration required.
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
