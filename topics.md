@@ -2947,7 +2947,7 @@
 - [ixkaito/astro-relative-links](https://github.com/ixkaito/astro-relative-links) - Build Astro with relative links.
 - [GoogleChromeLabs/text-app](https://github.com/GoogleChromeLabs/text-app) - A text editor for ChromeOS and Chrome
 - [webrecorder/archiveweb.page](https://github.com/webrecorder/archiveweb.page) - A High-Fidelity Web Archiving Extension for Chrome and Chromium based browsers!
-- [zhdsmy/apple-emoji](https://github.com/zhdsmy/apple-emoji) - Apple Color Emoji for Linux / Windows
+- [zhdsmy/apple-emoji](https://github.com/zhdsmy/apple-emoji) - Archived: upstream now includes Windows Compatible Font support
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
 - [jdecked/twemoji](https://github.com/jdecked/twemoji) - Emoji for everyone.
 - [mxrah10/toxicity-censor](https://github.com/mxrah10/toxicity-censor) - A chrome extension that filters out any negative or toxic content on your page, while you are browsing, and actively gives a warning if your own messages or content has toxic or negative content.
