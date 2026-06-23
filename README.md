@@ -1000,7 +1000,7 @@
 
 - [helgee/JPLEphemeris.jl](https://github.com/helgee/JPLEphemeris.jl) - JPL ephemerides for Julia
 - [JuliaSpaceMissionDesign/FrameTransformations.jl](https://github.com/JuliaSpaceMissionDesign/FrameTransformations.jl) - A modern, high-performance and comprehensive set of tools for transformations between any standard and user-defined reference frame.
-- [kiranshila/NOVAS.jl](https://github.com/kiranshila/NOVAS.jl) - Naval Observatory Vector Astronomy Software - Reimplemented in Julia
+- [activexray/NOVAS.jl](https://github.com/activexray/NOVAS.jl) - Naval Observatory Vector Astronomy Software - Reimplemented in Julia
 - [PerezHz/PlanetaryEphemeris.jl](https://github.com/PerezHz/PlanetaryEphemeris.jl) - Solar System ephemeris Taylor integrator based on JPL DE430/431 dynamical model
 - [fbanning/ardaudiothek-dl](https://github.com/fbanning/ardaudiothek-dl) - A simple Julia script to download audio files from ARD Audiothek
 
