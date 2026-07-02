@@ -143,6 +143,7 @@
 - [language](#language)
 - [languages](#languages)
 - [laravel](#laravel)
+- [learn-to-code](#learn-to-code)
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
@@ -272,7 +273,6 @@
 - [xcode](#xcode)
 - [xml](#xml)
 - [youtube](#youtube)
-- [zig](#zig)
 - [zsh](#zsh)
 
 ## 3d 
@@ -2311,6 +2311,10 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [ssddanbrown/rss](https://github.com/ssddanbrown/rss) - PROJECT MIGRATED TO CODEBERG -- A simple twitter-feed-style RSS aggregator written in PHP, Laravel, Inertia.js, Tailwind and Vue.js
 
+## learn-to-code 
+
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
+
 ## learning 
 
 - [mdn/content](https://github.com/mdn/content) - The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
@@ -4128,6 +4132,7 @@
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [Rustaceans/rust-cologne](https://github.com/Rustaceans/rust-cologne) - Website for Rust User Group Cologne
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [untitaker/hyperlink](https://github.com/untitaker/hyperlink) - Very fast link checker for CI.
 - [nonnorm/DietPi-Dashboard](https://github.com/nonnorm/DietPi-Dashboard) - A lightweight, standalone web dashboard for DietPi
@@ -4921,10 +4926,6 @@
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's internal API, known as InnerTube.
 - [Rudloff/alltube](https://github.com/Rudloff/alltube) - Web GUI for youtube-dl
 - [juanv911/SocialCounters](https://github.com/juanv911/SocialCounters) - jQuery/PHP - Collection of Social Media APIs that display number of your social media fans. Facebook Likes, Twitter Followers, Instagram Followers, YouTube Subscribers, etc..
-
-## zig 
-
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 ## zsh 
 
