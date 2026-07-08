@@ -1295,7 +1295,7 @@
 - [UKPLab/EasyNMT](https://github.com/UKPLab/EasyNMT) - Easy to use, state-of-the-art Neural Machine Translation for 100+ languages
 - [coreyhu/Urbanist](https://github.com/coreyhu/Urbanist) - Urbanist is a low-contrast, geometric sans-serif inspired by Modernist design and typography.
 - [toptal/top-assist-lab](https://github.com/toptal/top-assist-lab) - The self actualizing documentation framework that heals its knowledge gaps as naturally as a ray of light.
-- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.
 - [NotCookey/Quote2Image](https://github.com/NotCookey/Quote2Image) - Quote2Image is a python library for turning text quotes into graphical images
 - [ufal/whisper_streaming](https://github.com/ufal/whisper_streaming) - Whisper realtime streaming for long speech-to-text transcription and translation
 - [bycloudai/FBCNN-Windows](https://github.com/bycloudai/FBCNN-Windows) - Towards Flexible Blind JPEG Artifacts Removal (FBCNN, ICCV 2021)
