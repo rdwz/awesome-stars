@@ -1480,6 +1480,7 @@
 
 ## Rust 
 
+- [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [rssblue/tools](https://github.com/rssblue/tools) - 
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
 - [svg-rust/svgo-rs](https://github.com/svg-rust/svgo-rs) - Speedy SVGO rewritten in Rust 🦀. Tool for optimizing SVG files.
