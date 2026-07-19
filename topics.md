@@ -4418,7 +4418,6 @@
 - [leabs/astro-tailwind-flowbite-template](https://github.com/leabs/astro-tailwind-flowbite-template) - An Astro site for simple pages that pulls data from a json file
 - [AndrejJurkin/create-tw](https://github.com/AndrejJurkin/create-tw) - CLI to scaffold tailwindcss-ready projects
 - [yoanbernabeu/LinkTreeFreeClone](https://github.com/yoanbernabeu/LinkTreeFreeClone) - LinkTreeFreeClone is a LinkTree clone built with Astro and Tailwind
-- [SpinalCMS/astro-docs-template](https://github.com/SpinalCMS/astro-docs-template) - An Astro + Tailwind CSS theme for your documentation site
 - [manuelernestog/astrofy](https://github.com/manuelernestog/astrofy) - Astrofy is a free and open-source template for your Personal Portfolio Website built with Astro and TailwindCSS. Create in minutes a website with Blog, CV, Project Section, Store and RSS Feed.
 - [uno-forge-hub/agency-landing-page-Astrojs](https://github.com/uno-forge-hub/agency-landing-page-Astrojs) - A simple agency landing page made with astrojs and tailwindcss
 - [arthelokyo/astrowind](https://github.com/arthelokyo/astrowind) - ⭕️ AstroWind: A free template using Astro v6 and Tailwind CSS v4. Astro starter theme.
