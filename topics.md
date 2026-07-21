@@ -191,6 +191,7 @@
 - [pentesting](#pentesting)
 - [perl](#perl)
 - [phaser](#phaser)
+- [phishing](#phishing)
 - [php](#php)
 - [portfolio-website](#portfolio-website)
 - [postgresql](#postgresql)
@@ -1725,7 +1726,6 @@
 
 ## good-first-issue 
 
-- [bit-team/backintime](https://github.com/bit-team/backintime) - A comfortable and well-configurable graphical Frontend for incremental backups, with a command-line version also available. Modified files are transferred, while unchanged files are linked to the new 
 - [rinturaj/tailwind-material-3](https://github.com/rinturaj/tailwind-material-3) - Tailwind Material 3 is a library that provides ready-to-use UI components for Tailwind CSS users. It includes a range of customizable components such as buttons, cards, and forms, as well as useful ut
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 
@@ -3335,7 +3335,6 @@
 - [meilisearch/docs-scraper](https://github.com/meilisearch/docs-scraper) - Scrape documentation into Meilisearch
 - [spdx/license-list-XML](https://github.com/spdx/license-list-XML) - Source XML and test text files for the SPDX License List
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
-- [dnstwister/dnstwister](https://github.com/dnstwister/dnstwister) - Domain name permutation as a service
 - [mend/renovate-ce-ee](https://github.com/mend/renovate-ce-ee) - Mend Renovate Documentation & Examples
 - [ngryman/cz-emoji](https://github.com/ngryman/cz-emoji) - Commitizen adapter formatting commit messages using emojis.
 - [ReadmeCritic/awesome-react](https://github.com/ReadmeCritic/awesome-react) - A collection of awesome things regarding React ecosystem
@@ -3681,6 +3680,10 @@
 ## phaser 
 
 - [yahiko00/Starfield](https://github.com/yahiko00/Starfield) - Procedural generated 2D Starfield
+
+## phishing 
+
+- [dnstwister/dnstwister](https://github.com/dnstwister/dnstwister) - Domain name permutation as a service
 
 ## php 
 
