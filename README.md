@@ -2050,7 +2050,7 @@
 - [slab/quill](https://github.com/slab/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility
 - [yoshixmk/deno-x-ranking](https://github.com/yoshixmk/deno-x-ranking) - 🦕 Deno Third Party Modules Ranking 👑
 - [lumeland/lume](https://github.com/lumeland/lume) - 🔥🪰 Static site generator for Deno
-- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform for agents and developers
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [TanStack/ranger](https://github.com/TanStack/ranger) - 🤖 Headless utilities for building range and multi-range sliders in React, Preact, Solid, Vue, Svelte and Angular
 - [bejamas/dodonut-og-image](https://github.com/bejamas/dodonut-og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
