@@ -1087,6 +1087,7 @@
 
 ## Others 
 
+- [googlefonts/emoji-metadata](https://github.com/googlefonts/emoji-metadata) - Emoji metadata for the construction of pickers
 - [brave-intl/themis-rfcc](https://github.com/brave-intl/themis-rfcc) - Repository with resources for the THEMIS RFC&C
 - [Jieiku/zola-themes-benchmarks](https://github.com/Jieiku/zola-themes-benchmarks) - 
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
@@ -1732,6 +1733,7 @@
 
 ## TypeScript 
 
+- [glincker/thesvg](https://github.com/glincker/thesvg) - 6,400+ brand SVG icons for developers. Tree-shakeable, typed, open source. npm i thesvg
 - [rafalzawadzki/spellbook-forge](https://github.com/rafalzawadzki/spellbook-forge) - ✨ Make your LLM prompts executable and version controlled. ✨
 - [marionebl/term-schemes](https://github.com/marionebl/term-schemes) - Parse and normalize common terminal emulator color schemes
 - [holbrookdev/ok-color-picker](https://github.com/holbrookdev/ok-color-picker) - 🎨 Pick colors using the Okhsv and Okhsl color spaces (based on Oklab).
