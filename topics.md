@@ -256,7 +256,6 @@
 - [ui](#ui)
 - [ui-design](#ui-design)
 - [userscript](#userscript)
-- [v2ray](#v2ray)
 - [video](#video)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
@@ -583,7 +582,6 @@
 - [ThatOneCalculator/NerdFetch](https://github.com/ThatOneCalculator/NerdFetch) - A POSIX *nix fetch script using Nerdfonts
 - [andsens/homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
-- [Soroushnk/Astro](https://github.com/Soroushnk/Astro) - a bash script to help you bypass GFW
 - [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
 - [nixcraft/domain-check-2](https://github.com/nixcraft/domain-check-2) - Domain Expiration Check Shell Script Forked and Maintained by nixCraft
 - [shelljs/shx](https://github.com/shelljs/shx) - Portable Shell Commands for Node
@@ -2362,7 +2360,6 @@
 - [d2phap/ImageGlass](https://github.com/d2phap/ImageGlass) - 🏞 A fast, open-source, modern image viewer for 90+ formats – including WEBP, GIF, SVG, AVIF, JXL, HEIC and more – built for smooth browsing across Windows, macOS, and Linux.
 - [nashaofu/node-screenshots](https://github.com/nashaofu/node-screenshots) - Zero-dependent. A native nodejs screenshots library for Mac、Windows、Linux.
 - [URUWorks/TeroSubtitler](https://github.com/URUWorks/TeroSubtitler) - Tero Subtitler is an open source, cross-platform, and free subtitle editing software.
-- [Soroushnk/Astro](https://github.com/Soroushnk/Astro) - a bash script to help you bypass GFW
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
 - [nixcraft/domain-check-2](https://github.com/nixcraft/domain-check-2) - Domain Expiration Check Shell Script Forked and Maintained by nixCraft
 - [phoronix-test-suite/phoronix-test-suite](https://github.com/phoronix-test-suite/phoronix-test-suite) - The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
@@ -3255,7 +3252,6 @@
 - [techleadhd/chatgpt-retrieval](https://github.com/techleadhd/chatgpt-retrieval) - 
 - [deta/starters](https://github.com/deta/starters) - Example Space apps to help you get started with Space.
 - [Leonardo-Interactive/leonardo-ts-sdk](https://github.com/Leonardo-Interactive/leonardo-ts-sdk) - Typescript SDK for Leonardo AI
-- [ekohrt/davinci_notebook](https://github.com/ekohrt/davinci_notebook) - A collection of AI-generated sketches in the style of Leonardo da Vinci's journals
 - [rschristian/astro-preact-twind](https://github.com/rschristian/astro-preact-twind) - Astro integration for using Preact & Twind
 - [jpaddeo/treelink](https://github.com/jpaddeo/treelink) - Personal link tree
 - [bigcode-project/starcoder](https://github.com/bigcode-project/starcoder) - Home of StarCoder: fine-tuning & inference!
@@ -4666,7 +4662,6 @@
 
 ## ubuntu 
 
-- [Soroushnk/Astro](https://github.com/Soroushnk/Astro) - a bash script to help you bypass GFW
 - [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
 - [linuxserver/docker-webtop](https://github.com/linuxserver/docker-webtop) - Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.
 - [Cyclenerd/static_status](https://github.com/Cyclenerd/static_status) - 🚦Bash script to generate a static status page.
@@ -4697,10 +4692,6 @@
 
 - [mnghsn/google-search-sidebar](https://github.com/mnghsn/google-search-sidebar) - A user script and user style to move Google search tools to sidebar.
 - [marioortizmanero/reddit-search-on-google](https://github.com/marioortizmanero/reddit-search-on-google) - Button on Google to search only for Reddit posts
-
-## v2ray 
-
-- [Soroushnk/Astro](https://github.com/Soroushnk/Astro) - a bash script to help you bypass GFW
 
 ## video 
 
@@ -4755,7 +4746,6 @@
 
 ## vpn 
 
-- [Soroushnk/Astro](https://github.com/Soroushnk/Astro) - a bash script to help you bypass GFW
 - [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) - 🛡 I2P: End-to-End encrypted and anonymous Internet
 
 ## vue 
