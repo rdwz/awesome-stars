@@ -2988,7 +2988,6 @@
 - [dcf21/star-charter](https://github.com/dcf21/star-charter) - A command-line tool for producing vector-graphics charts of the night sky in SVG, PDF and PNG formats.
 - [binary-manu/static-cross-openssh](https://github.com/binary-manu/static-cross-openssh) - Statically cross-compile sshd and sftp-server
 - [dnaprawa/dockerfile-best-practices](https://github.com/dnaprawa/dockerfile-best-practices) - Dockerfile Best Practices
-- [osamahamad/FUZZING](https://github.com/osamahamad/FUZZING) - Collected fuzzing payloads from different resources
 - [JPF3N998/astro-x-aceternityui](https://github.com/JPF3N998/astro-x-aceternityui) - 
 - [MatthiesenXYZ/astro-hashnode](https://github.com/MatthiesenXYZ/astro-hashnode) - An Integration to bring your Hashnode Headless Blog content into Astro!
 - [UKPLab/EasyNMT](https://github.com/UKPLab/EasyNMT) - Easy to use, state-of-the-art Neural Machine Translation for 100+ languages
