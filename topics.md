@@ -308,6 +308,7 @@
 
 ## ai 
 
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [rafalzawadzki/spellbook-forge](https://github.com/rafalzawadzki/spellbook-forge) - ✨ Make your LLM prompts executable and version controlled. ✨
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
@@ -334,6 +335,7 @@
 
 ## ai-agents 
 
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [raystack/meteor](https://github.com/raystack/meteor) - Meteor extracts structured context from across your systems and delivers it to power your   organization's context graph and AI agents.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
@@ -760,6 +762,7 @@
 
 ## cli 
 
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [microsoft/shell-use](https://github.com/microsoft/shell-use) - 💻 Make the terminal / shell accessible for AI agents. Automate tasks with ease.
 - [wobsoriano/blipgloss](https://github.com/wobsoriano/blipgloss) - Style definitions for nice terminal layouts 👄
 - [sysid/bkmr](https://github.com/sysid/bkmr) - Knowledge Management for Humans and Agents
@@ -2914,6 +2917,7 @@
 
 ## others 
 
+- [hugo-vrijswijk/astro-headers-file](https://github.com/hugo-vrijswijk/astro-headers-file) - Astro integration that uses existing configuration to write a static headers file for platforms like Cloudflare Pages, Netlify and Vercel.
 - [Paul-Browne/svgo-variable-float-precision](https://github.com/Paul-Browne/svgo-variable-float-precision) - ⚙️ Node.js tool for optimizing SVG files
 - [googlefonts/emoji-metadata](https://github.com/googlefonts/emoji-metadata) - Emoji metadata for the construction of pickers
 - [l2xu/shopping-analyzer](https://github.com/l2xu/shopping-analyzer) - 
