@@ -1730,6 +1730,8 @@
 
 ## TypeScript 
 
+- [hugo-vrijswijk/astro-headers-file](https://github.com/hugo-vrijswijk/astro-headers-file) - Astro integration that uses existing configuration to write a static headers file for platforms like Cloudflare Pages, Netlify and Vercel.
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [glincker/thesvg](https://github.com/glincker/thesvg) - 6,400+ brand SVG icons for developers. Tree-shakeable, typed, open source. npm i thesvg
 - [rafalzawadzki/spellbook-forge](https://github.com/rafalzawadzki/spellbook-forge) - ✨ Make your LLM prompts executable and version controlled. ✨
 - [marionebl/term-schemes](https://github.com/marionebl/term-schemes) - Parse and normalize common terminal emulator color schemes
