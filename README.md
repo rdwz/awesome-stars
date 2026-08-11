@@ -619,6 +619,7 @@
 
 ## JavaScript 
 
+- [KoltesDigital/shadertoy-exporter](https://github.com/KoltesDigital/shadertoy-exporter) - Export images and videos from Shadertoy.
 - [Paul-Browne/svgo-variable-float-precision](https://github.com/Paul-Browne/svgo-variable-float-precision) - ⚙️ Node.js tool for optimizing SVG files
 - [pioug/google-play-badges](https://github.com/pioug/google-play-badges) - Localized Google Play badges in SVG format with editable Figma source
 - [mislav/rfc](https://github.com/mislav/rfc) - Pretty RFC indexes and reformats RFC documents for easier discovery and viewing.
@@ -1486,7 +1487,7 @@
 - [1070rik/svgo-rs](https://github.com/1070rik/svgo-rs) - Speedy SVGO rewrite in Rust
 - [juhaku/utoipa](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
 - [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner.
-- [microsoft/shell-use](https://github.com/microsoft/shell-use) - 💻 Make the terminal / shell accessible for AI agents. Automate tasks with ease.
+- [microsoft/tui-test](https://github.com/microsoft/tui-test) - 💻 testing framework and cli for driving tests for terminal apps - native ai agent support
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
 - [DevinR528/cargo-sort](https://github.com/DevinR528/cargo-sort) - Check if tables and items in a .toml file are lexically sorted
 - [sysid/bkmr](https://github.com/sysid/bkmr) - Knowledge Management for Humans and Agents
