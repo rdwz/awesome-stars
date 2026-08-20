@@ -555,7 +555,6 @@
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [Rustaceans/rust-cologne](https://github.com/Rustaceans/rust-cologne) - Website for Rust User Group Cologne
 - [argyleink/gui-challenges](https://github.com/argyleink/gui-challenges) - Components from the YouTube show GUI Challenges: accessible, responsive, adaptive and cross browser components.
-- [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and MacOS, free and open-source (FOSS)
 - [LinkStackOrg/linkstack-themes](https://github.com/LinkStackOrg/linkstack-themes) - A list of themes for LinkStack. Customize the look of your LinkStack instance with themes. Themes allow you to change the look and feel of your site with a few clicks. Users can submit themes they cre
 - [MichaIng/DietPi-Docs](https://github.com/MichaIng/DietPi-Docs) - Source repository for the DietPi OS documentation
 - [atlemo/SubtlePatterns](https://github.com/atlemo/SubtlePatterns) - All the patterns
@@ -2039,6 +2038,7 @@
 - [myxvisual/react-uwp](https://github.com/myxvisual/react-uwp) - 📱⌨ React Components that Implement Microsoft's UWP Design & Fluent Design.
 - [digimezzo/dopamine](https://github.com/digimezzo/dopamine) - The audio player that keeps it simple
 - [open-source-labs/Vno](https://github.com/open-source-labs/Vno) - a build tool for compiling and bundling Vue single-file components
+- [ransome1/sleek](https://github.com/ransome1/sleek) - todo.txt manager for Linux, Windows and Mac, free and open-source (FOSS)
 - [undergroundwires/privacy.sexy](https://github.com/undergroundwires/privacy.sexy) - Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
 - [AwesomeWebProjects/react-player](https://github.com/AwesomeWebProjects/react-player) - One audio player built with ReactJS, Web Audio API and Web Worker API
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
