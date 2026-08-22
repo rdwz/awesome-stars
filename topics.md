@@ -452,7 +452,7 @@
 
 ## automation 
 
-- [microsoft/tui-test](https://github.com/microsoft/tui-test) - 💻 testing framework and cli for driving tests for terminal apps - native ai agent support
+- [microsoft/tui-test](https://github.com/microsoft/tui-test) - 💻 testing framework and cli for controlling terminal apps - makes any terminal accessible for an ai agent
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
 - [dhamaniasad/HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - A list of (almost) all headless web browsers in existence
 - [niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting) - Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?
@@ -580,7 +580,7 @@
 - [GroveOS/bare.sh](https://github.com/GroveOS/bare.sh) - bare.sh is a collection of bare bones shell scripts for simplifying various tasks such as API calls (OpenAI, Stripe, Postmark, etc), video and audio processing, and much more.
 - [neurobin/shc](https://github.com/neurobin/shc) - Shell script compiler
 - [sigoden/argc](https://github.com/sigoden/argc) - A Bash CLI framework, also a Bash command runner.
-- [microsoft/tui-test](https://github.com/microsoft/tui-test) - 💻 testing framework and cli for driving tests for terminal apps - native ai agent support
+- [microsoft/tui-test](https://github.com/microsoft/tui-test) - 💻 testing framework and cli for controlling terminal apps - makes any terminal accessible for an ai agent
 - [mickeys/grc_generic_colouriser](https://github.com/mickeys/grc_generic_colouriser) - make command-line work with scrolling output that much less crazy-making
 - [ThatOneCalculator/NerdFetch](https://github.com/ThatOneCalculator/NerdFetch) - A POSIX *nix fetch script using Nerdfonts
 - [andsens/homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash
@@ -763,7 +763,7 @@
 ## cli 
 
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [microsoft/tui-test](https://github.com/microsoft/tui-test) - 💻 testing framework and cli for driving tests for terminal apps - native ai agent support
+- [microsoft/tui-test](https://github.com/microsoft/tui-test) - 💻 testing framework and cli for controlling terminal apps - makes any terminal accessible for an ai agent
 - [wobsoriano/blipgloss](https://github.com/wobsoriano/blipgloss) - Style definitions for nice terminal layouts 👄
 - [sysid/bkmr](https://github.com/sysid/bkmr) - Knowledge Management for Humans and Agents
 - [samuherek/backup-codepen-cli](https://github.com/samuherek/backup-codepen-cli) - CLI tool for backing up your codepen pens into files on your computer. (using puppeteer)
@@ -2413,7 +2413,7 @@
 ## llm 
 
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [microsoft/tui-test](https://github.com/microsoft/tui-test) - 💻 testing framework and cli for driving tests for terminal apps - native ai agent support
+- [microsoft/tui-test](https://github.com/microsoft/tui-test) - 💻 testing framework and cli for controlling terminal apps - makes any terminal accessible for an ai agent
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
 - [AlexandreSajus/JARVIS](https://github.com/AlexandreSajus/JARVIS) - Your own personal voice assistant: Voice to Text to LLM to Speech, displayed in a web interface
 - [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
@@ -3732,7 +3732,7 @@
 
 ## powershell 
 
-- [microsoft/tui-test](https://github.com/microsoft/tui-test) - 💻 testing framework and cli for driving tests for terminal apps - native ai agent support
+- [microsoft/tui-test](https://github.com/microsoft/tui-test) - 💻 testing framework and cli for controlling terminal apps - makes any terminal accessible for an ai agent
 - [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - This repository has been moved to https://codeberg.org/janikvonrotz/awesome-powershell. Please visit the new location for the latest updates.
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
@@ -4484,7 +4484,7 @@
 ## terminal 
 
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 450 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
-- [microsoft/tui-test](https://github.com/microsoft/tui-test) - 💻 testing framework and cli for driving tests for terminal apps - native ai agent support
+- [microsoft/tui-test](https://github.com/microsoft/tui-test) - 💻 testing framework and cli for controlling terminal apps - makes any terminal accessible for an ai agent
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [ThatOneCalculator/NerdFetch](https://github.com/ThatOneCalculator/NerdFetch) - A POSIX *nix fetch script using Nerdfonts
@@ -4531,7 +4531,7 @@
 
 ## testing 
 
-- [microsoft/tui-test](https://github.com/microsoft/tui-test) - 💻 testing framework and cli for driving tests for terminal apps - native ai agent support
+- [microsoft/tui-test](https://github.com/microsoft/tui-test) - 💻 testing framework and cli for controlling terminal apps - makes any terminal accessible for an ai agent
 - [dhamaniasad/HeadlessBrowsers](https://github.com/dhamaniasad/HeadlessBrowsers) - A list of (almost) all headless web browsers in existence
 - [phoronix-test-suite/phoronix-test-suite](https://github.com/phoronix-test-suite/phoronix-test-suite) - The Phoronix Test Suite open-source, cross-platform automated testing/benchmarking software.
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
@@ -4549,7 +4549,7 @@
 
 ## tui 
 
-- [microsoft/tui-test](https://github.com/microsoft/tui-test) - 💻 testing framework and cli for driving tests for terminal apps - native ai agent support
+- [microsoft/tui-test](https://github.com/microsoft/tui-test) - 💻 testing framework and cli for controlling terminal apps - makes any terminal accessible for an ai agent
 - [wobsoriano/blipgloss](https://github.com/wobsoriano/blipgloss) - Style definitions for nice terminal layouts 👄
 - [vadimdemedes/ink-ui](https://github.com/vadimdemedes/ink-ui) - 💄 Ink-redible command-line interfaces made easy
 - [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
