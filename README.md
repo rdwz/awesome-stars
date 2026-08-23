@@ -1200,7 +1200,7 @@
 - [traccar/traccar-docker](https://github.com/traccar/traccar-docker) - Traccar Docker
 - [YalePrivacyLab/citizen-foss](https://github.com/YalePrivacyLab/citizen-foss) - Snowden's toolkit — for the Rest of Us.
 - [milligram/awesome-milligram](https://github.com/milligram/awesome-milligram) - A curated list of Milligram resources.
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [spf13/hugostrap](https://github.com/spf13/hugostrap) - 
 
 ## PHP 
@@ -1386,6 +1386,7 @@
 - [bagder/uncurled](https://github.com/bagder/uncurled) - Uncurled - everything I know and learned about running and maintaining Open Source projects for three decades.
 - [OWASP/CheatSheetSeries](https://github.com/OWASP/CheatSheetSeries) - The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.
 - [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
+- [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [soheyldaliraan/instagram_follower_bot_remover](https://github.com/soheyldaliraan/instagram_follower_bot_remover) - Python Script for detecting and blocking Instagram Sub Bots / Fake Followers
 - [julianps/kontrolx1](https://github.com/julianps/kontrolx1) - Ableton Live Control Surface for NI Kontrol X1 (MKI)
 - [rbsec/dnscan](https://github.com/rbsec/dnscan) - 
@@ -1598,7 +1599,6 @@
 - [teemutammela/auralcandy.net](https://github.com/teemutammela/auralcandy.net) - Source code of AuralCandy.Net - Premium House Music Podcast.
 - [markteekman/advice-generator-app](https://github.com/markteekman/advice-generator-app) - Frontend Mentor challenge "Advice Generator App" using CSS Flexbox and Grid, Accessibility best practices, CSS Animations and the Fetch API for the random advices.
 - [ifrOSS/ifrOSS](https://github.com/ifrOSS/ifrOSS) - ifrOSS Knowledge Center
-- [AboutRSS/ALL-about-RSS](https://github.com/AboutRSS/ALL-about-RSS) - A list of RSS related stuff: tools, services, communities and tutorials, etc.
 - [themarshallproject/klaxon](https://github.com/themarshallproject/klaxon) - Klaxon enables reporters and editors to monitor scores of sites on the web for newsworthy changes.
 - [electricbookworks/electric-book](https://github.com/electricbookworks/electric-book) - A Jekyll template for creating books in multiple formats
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
