@@ -1018,6 +1018,7 @@
 
 ## Kotlin 
 
+- [montafra/beam](https://github.com/montafra/beam) - Beam is an Android app that displays real-time battery metrics as a persistent notification
 - [skydoves/TheMovies2](https://github.com/skydoves/TheMovies2) - 🎬 A demo project using The Movie DB based on Kotlin MVVM architecture and material design & animations.
 - [sharplab/epub-translator](https://github.com/sharplab/epub-translator) - An utility to translate epub books with DeepL
 - [Slion/Fulguris](https://github.com/Slion/Fulguris) - ⚡Web Browser
