@@ -764,6 +764,7 @@
 
 ## cli 
 
+- [lukeslp/cli-codepen](https://github.com/lukeslp/cli-codepen) - Push local HTML/CSS/JS to CodePen from the command line via the Prefill API
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [microsoft/tui-test](https://github.com/microsoft/tui-test) - 💻 testing framework and cli for controlling terminal apps - makes any terminal accessible for an ai agent
 - [wobsoriano/blipgloss](https://github.com/wobsoriano/blipgloss) - Style definitions for nice terminal layouts 👄
@@ -1143,6 +1144,7 @@
 
 ## developer-tools 
 
+- [lukeslp/cli-codepen](https://github.com/lukeslp/cli-codepen) - Push local HTML/CSS/JS to CodePen from the command line via the Prefill API
 - [zx0r/vscodium-setup](https://github.com/zx0r/vscodium-setup) - Privacy, telemetry-free development environment that puts security at the core.
 - [jondot/devstart](https://github.com/jondot/devstart) - Devstart: run dev tasks without thinking
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
@@ -1509,6 +1511,7 @@
 
 ## frontend 
 
+- [lukeslp/cli-codepen](https://github.com/lukeslp/cli-codepen) - Push local HTML/CSS/JS to CodePen from the command line via the Prefill API
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [buttons/github-buttons](https://github.com/buttons/github-buttons) - :octocat: Unofficial github:buttons
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
@@ -3846,6 +3849,7 @@
 
 ## python 
 
+- [lukeslp/cli-codepen](https://github.com/lukeslp/cli-codepen) - Push local HTML/CSS/JS to CodePen from the command line via the Prefill API
 - [Andre0512/lidl-plus](https://github.com/Andre0512/lidl-plus) - Fetch receipts and more from Lidl Plus
 - [bit-team/backintime](https://github.com/bit-team/backintime) - A comfortable and well-configurable graphical Frontend for incremental backups, with a command-line version also available. Modified files are transferred, while unchanged files are linked to the new 
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
