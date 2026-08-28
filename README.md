@@ -1250,6 +1250,7 @@
 
 ## Python 
 
+- [lukeslp/cli-codepen](https://github.com/lukeslp/cli-codepen) - Push local HTML/CSS/JS to CodePen from the command line via the Prefill API
 - [Andre0512/lidl-plus](https://github.com/Andre0512/lidl-plus) - Fetch receipts and more from Lidl Plus
 - [l2xu/shopping-analyzer](https://github.com/l2xu/shopping-analyzer) - 
 - [0xType/0xProto](https://github.com/0xType/0xProto) - A high-legibility programming font engineered to minimize cognitive load.
