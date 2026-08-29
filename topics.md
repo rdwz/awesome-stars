@@ -1916,7 +1916,6 @@
 - [oss-review-toolkit/ort](https://github.com/oss-review-toolkit/ort) - A suite of tools to automate software compliance checks.
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [rest-sh/restish](https://github.com/rest-sh/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
-- [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [lissy93/personal-security-checklist](https://github.com/lissy93/personal-security-checklist) - 🔒 A compiled checklist of 300+ tips for protecting digital security and privacy in 2026
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
@@ -4734,7 +4733,7 @@
 - [code-charity/youtube](https://github.com/code-charity/youtube) - YouTube / Video Browser-Extension. [Top1 FOSS.]  Enrich your experience & choice! 🧰Smart features📌set & forget📌300+ tweaks. Longest-standing. Join🧩us?👨‍👩‍👧‍👧  ⋮ {playback|discovery|extra player button
 - [danilw/shadertoy-to-video-with-FBO](https://github.com/danilw/shadertoy-to-video-with-FBO) - Render a ShaderToy script directly to a video file. (added FrameBuffers support)
 - [valerebron/usetube](https://github.com/valerebron/usetube) - search & get datas from youtube no google account needed
-- [astrofox-io/astrofox](https://github.com/astrofox-io/astrofox) - Astrofox is a motion graphics program that lets you turn audio into amazing videos.
+- [astrofox-io/astrofox](https://github.com/astrofox-io/astrofox) - Astrofox is a motion graphics program that lets you turn audio into stunning visuals.
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [Picorims/wav2bar](https://github.com/Picorims/wav2bar) - Wav2Bar is a tool to make custom audio visualization and export production videos for the audio and music industry. ⚠⚠⚠ Development has moved! See README.
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
