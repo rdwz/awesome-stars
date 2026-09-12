@@ -1617,6 +1617,7 @@
 
 ## Shell 
 
+- [mbentley/docker-omada-controller](https://github.com/mbentley/docker-omada-controller) - Docker image to run TP-Link Omada Controller
 - [zx0r/vscodium-setup](https://github.com/zx0r/vscodium-setup) - Privacy, telemetry-free development environment that puts security at the core.
 - [coderofsalvation/powscript](https://github.com/coderofsalvation/powscript) - transpiler written in bash: painless shellscript, indentbased, coffee for the shell with hipster-sparkles v1 BETA LANDED 🎉🎉🎉🎉 thanks fcard!
 - [Sushrut1101/GoFile-Upload](https://github.com/Sushrut1101/GoFile-Upload) - A Simple Script to upload Files to gofile.io via Terminal (CLI). Written in Bash.
@@ -1735,7 +1736,7 @@
 
 - [hugo-vrijswijk/astro-headers-file](https://github.com/hugo-vrijswijk/astro-headers-file) - Astro integration that uses existing configuration to write a static headers file for platforms like Cloudflare Pages, Netlify and Vercel.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [glincker/thesvg](https://github.com/glincker/thesvg) - 6,500+ brand SVG icons for developers. Tree-shakeable, typed, open source. npm i thesvg
+- [glincker/thesvg](https://github.com/glincker/thesvg) - 7,400+ brand SVG icons for developers. Tree-shakeable, typed, open source. npm i thesvg
 - [rafalzawadzki/spellbook-forge](https://github.com/rafalzawadzki/spellbook-forge) - ✨ Make your LLM prompts executable and version controlled. ✨
 - [marionebl/term-schemes](https://github.com/marionebl/term-schemes) - Parse and normalize common terminal emulator color schemes
 - [holbrookdev/ok-color-picker](https://github.com/holbrookdev/ok-color-picker) - 🎨 Pick colors using the Okhsv and Okhsl color spaces (based on Oklab).
