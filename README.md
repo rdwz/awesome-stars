@@ -125,7 +125,6 @@
 - [themefisher/northendlab-light-astro](https://github.com/themefisher/northendlab-light-astro) - Northendlab is a highly customizable Astro theme designed specifically personal blog.
 - [jpaddeo/treelink](https://github.com/jpaddeo/treelink) - Personal link tree
 - [delucis/astro-badge](https://github.com/delucis/astro-badge) - Badges for Astro projects
-- [sondr3/astro-compressor](https://github.com/sondr3/astro-compressor) - A gzip, brotli and zstd compressor for Astro
 - [t3-oss/init.tips](https://github.com/t3-oss/init.tips) - 
 - [Destiner/astro-analytics](https://github.com/Destiner/astro-analytics) - Astro components for site analytics
 - [zaki-yama/copy-title-and-url-as-markdown](https://github.com/zaki-yama/copy-title-and-url-as-markdown) - Chrome Extension: Quickly copy the title & url of current tab as Markdown style
@@ -1252,7 +1251,7 @@
 
 ## Python 
 
-- [lukeslp/cli-codepen](https://github.com/lukeslp/cli-codepen) - Push local HTML/CSS/JS to CodePen from the command line via the Prefill API
+- [actually-useful-ai/cli-codepen](https://github.com/actually-useful-ai/cli-codepen) - Push local HTML/CSS/JS to CodePen from the command line via the Prefill API
 - [Andre0512/lidl-plus](https://github.com/Andre0512/lidl-plus) - Fetch receipts and more from Lidl Plus
 - [l2xu/shopping-analyzer](https://github.com/l2xu/shopping-analyzer) - 
 - [0xType/0xProto](https://github.com/0xType/0xProto) - A high-legibility programming font engineered to minimize cognitive load.
@@ -1700,7 +1699,7 @@
 - [BaptisteBdn/docker-selfhosted-apps](https://github.com/BaptisteBdn/docker-selfhosted-apps) - Collection of selfhosted apps with docker only ! Traefik, Bitwarden, Wireguard with Pihole, Synapse with Elements, etc.
 - [unifi-utilities/unifi-common](https://github.com/unifi-utilities/unifi-common) - UniFi Common - on_boot.d
 - [tests-always-included/mo](https://github.com/tests-always-included/mo) - Mustache templates in pure bash
-- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump
+- [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.
 - [pimusicbox/pimusicbox](https://github.com/pimusicbox/pimusicbox) - An image (SD-card) to turn the Raspberry Pi into an easy to use MusicBox with Spotify playback and AirTunes streaming
 - [nextcloud/client_theming](https://github.com/nextcloud/client_theming) - :computer: Nextcloud themed desktop client - Moved over to https://github.com/nextcloud/desktop
 - [Jintin/aliasme](https://github.com/Jintin/aliasme) - A shell script to memorize your command in command line.
@@ -1958,6 +1957,7 @@
 - [AnWeber/dot-icons](https://github.com/AnWeber/dot-icons) - File Icon Extension for VSCode or VSCodium
 - [originjs/webpack-to-vite](https://github.com/originjs/webpack-to-vite) - Convert a webpack/vue-cli project to vite project. 将 webpack/vue-cli 项目转换为 vite 项目。
 - [aarol/variable-font-helper](https://github.com/aarol/variable-font-helper) - Self host variable fonts from Google Fonts
+- [sondr3/astro-compressor](https://github.com/sondr3/astro-compressor) - A gzip, brotli and zstd compressor for Astro
 - [marcolink/contentful-remix-starter-blog](https://github.com/marcolink/contentful-remix-starter-blog) - Remix starter for a Contentful blog (template) project
 - [JustinBeckwith/linkinator](https://github.com/JustinBeckwith/linkinator) - Broken link checker that crawls websites and validates links. Find broken links, dead links, and invalid URLs in websites, documentation, and local files. Perfect for SEO audits and CI/CD.
 - [meilisearch/meilisearch-js-plugins](https://github.com/meilisearch/meilisearch-js-plugins) - The search client to use Meilisearch with InstantSearch.
