@@ -3757,7 +3757,7 @@
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) - The most customisable and low-latency cross platform/shell prompt renderer
-- [Watfaq/PowerSession-rs](https://github.com/Watfaq/PowerSession-rs) - Rust implementation of PowerSession, with new features and enhancements
+- [Watfaq-legacy/PowerSession-rs](https://github.com/Watfaq-legacy/PowerSession-rs) - Rust implementation of PowerSession, with new features and enhancements
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 
@@ -4168,7 +4168,7 @@
 - [Lymphatus/libcaesium](https://github.com/Lymphatus/libcaesium) - The Caesium compression library written in Rust (with a C interface)
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-- [Watfaq/PowerSession-rs](https://github.com/Watfaq/PowerSession-rs) - Rust implementation of PowerSession, with new features and enhancements
+- [Watfaq-legacy/PowerSession-rs](https://github.com/Watfaq-legacy/PowerSession-rs) - Rust implementation of PowerSession, with new features and enhancements
 - [projectM-visualizer/frontend-sdl-rust](https://github.com/projectM-visualizer/frontend-sdl-rust) - Rust | SDL-based standalone application that turns your desktop audio into awesome visuals.
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
