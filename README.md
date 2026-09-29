@@ -1636,6 +1636,7 @@
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) - 
 - [marcodallasanta/ssh-scp-deploy](https://github.com/marcodallasanta/ssh-scp-deploy) - This action provide a way to upload your artifact via scp and execute a set of command via ssh before or/and after.
+- [Soroushnk/Astro](https://github.com/Soroushnk/Astro) - a bash script to help you bypass GFW
 - [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
 - [Kab1r/dotfiles](https://github.com/Kab1r/dotfiles) - Some of my DotFiles
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
