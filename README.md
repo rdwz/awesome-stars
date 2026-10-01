@@ -197,7 +197,7 @@
 
 - [intel/openvino-plugins-ai-audacity](https://github.com/intel/openvino-plugins-ai-audacity) - A set of AI-enabled effects, generators, and analyzers for Audacity®.
 - [google/leveldb](https://github.com/google/leveldb) - LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
-- [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - Run GGUF models easily with a KoboldAI UI. One File. Zero Install.
+- [LostRuins/koboldcpp](https://github.com/LostRuins/koboldcpp) - KoboldCpp - Run GGUF AI models locally with a KoboldAI UI. One File. Zero Install.
 - [Ornstein89/ephemeris_generic_example](https://github.com/Ornstein89/ephemeris_generic_example) - An example of ephemeris calculation with different toolkits and sources: NASA/NAIF SPICE toolkit with JPL DE440 ephemeris and IAA RAS EPM 2021 ephemeris
 - [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
 - [aclemons/emailrelay](https://github.com/aclemons/emailrelay) - emailrelay migrated to git (unofficial) - https://svn.code.sf.net/p/emailrelay/code/ mirrored in git
