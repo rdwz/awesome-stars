@@ -1469,7 +1469,7 @@
 - [github/gemoji](https://github.com/github/gemoji) - Emoji images and names.
 - [opal/opal](https://github.com/opal/opal) - Ruby ♥︎ JavaScript
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
-- [madelaine-maz/siteinspector](https://github.com/madelaine-maz/siteinspector) - A tool for catching spelling errors, grammatical errors, broken links, and other errors on websites.
+- [TripleChecker-HQ/siteinspector](https://github.com/TripleChecker-HQ/siteinspector) - A tool for catching spelling errors, grammatical errors, broken links, and other errors on websites.
 - [openSUSE/open-build-service](https://github.com/openSUSE/open-build-service) - Build and distribute Linux packages from sources in an automatic, consistent and reproducible way #obs
 - [anishathalye/proof-html](https://github.com/anishathalye/proof-html) - A GitHub Action to validate HTML, check links, and more ✅
 - [discourse/all-the-plugins](https://github.com/discourse/all-the-plugins) - 
