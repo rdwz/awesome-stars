@@ -77,7 +77,6 @@
 ## Astro 
 
 - [renovate-bot/jrichy1-_-astro-supabase-starter](https://github.com/renovate-bot/jrichy1-_-astro-supabase-starter) - 
-- [fulldotdev/ui](https://github.com/fulldotdev/ui) - Components and Blocks for building content-driven Astro websites
 - [DBozhinovski/astro-ltree](https://github.com/DBozhinovski/astro-ltree) - A self-hosted Linktree _and_ Linkinbio rolled in one, using Astro and TinaCMS.
 - [florian-lefebvre/astro-integration-template](https://github.com/florian-lefebvre/astro-integration-template) - Publish integrations within minutes.
 - [MatthiesenXYZ/astro-hashnode](https://github.com/MatthiesenXYZ/astro-hashnode) - An Integration to bring your Hashnode Headless Blog content into Astro!
@@ -240,6 +239,7 @@
 
 ## CSS 
 
+- [fulldotdev/ui](https://github.com/fulldotdev/ui) - Components and Blocks for building content-driven Astro websites
 - [ultimateakash/react-rating-emoji](https://github.com/ultimateakash/react-rating-emoji) - An animated emoji rating component
 - [mnghsn/google-search-sidebar](https://github.com/mnghsn/google-search-sidebar) - A user script and user style to move Google search tools to sidebar.
 - [lotabout/static-wiki](https://github.com/lotabout/static-wiki) - 
@@ -857,7 +857,7 @@
 - [Faboolea/shaders-on-scroll](https://github.com/Faboolea/shaders-on-scroll) - Smooth WebGL Shader Transformations on Scroll
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 - [mayank99/open-props-scss](https://github.com/mayank99/open-props-scss) - open-props as sass variables
-- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js: The Go-To User-Agent Tool for Teams That Build the Web. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser or Node
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js: The Essential Web Development Tool for User-Agent Detection. Detect Browsers, OS, Devices, Bots, Apps, AI Crawlers, and more. Run in Browser or Node
 - [sa-ma/remix-supabase-tutorial](https://github.com/sa-ma/remix-supabase-tutorial) - Tutorial Example of integrating Supabase in Remix Applications
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the Web.
 - [GoogleChromeLabs/AutoWebPerf](https://github.com/GoogleChromeLabs/AutoWebPerf) - AutoWebPerf provides a flexible and scalable framework for running web performance audits with arbitrary audit tools including PageSpeedInsights, WebPageTest and more.
