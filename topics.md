@@ -274,6 +274,7 @@
 - [webpack](#webpack)
 - [website](#website)
 - [windows](#windows)
+- [windows-11](#windows-11)
 - [wordpress](#wordpress)
 - [workflow](#workflow)
 - [xcode](#xcode)
@@ -2936,6 +2937,7 @@
 
 ## others 
 
+- [kzenmatthias/twitch-chat-left](https://github.com/kzenmatthias/twitch-chat-left) - Chrome extension to toggle Twitch chat between left and right side
 - [mbentley/docker-omada-controller](https://github.com/mbentley/docker-omada-controller) - Docker image to run TP-Link Omada Controller
 - [KoltesDigital/shadertoy-exporter](https://github.com/KoltesDigital/shadertoy-exporter) - Export images and videos from Shadertoy.
 - [hugo-vrijswijk/astro-headers-file](https://github.com/hugo-vrijswijk/astro-headers-file) - Astro integration that uses existing configuration to write a static headers file for platforms like Cloudflare Pages, Netlify and Vercel.
@@ -4944,6 +4946,12 @@
 - [rcmaehl/MSEdgeRedirect](https://github.com/rcmaehl/MSEdgeRedirect) - A Tool to Redirect News, Search, Widgets, Weather and More to Your Default Browser
 - [yaronzz/Tidal-Media-Downloader-PRO](https://github.com/yaronzz/Tidal-Media-Downloader-PRO) - Download 'TIDAL' Music On Windows/Linux/MacOs (PYTHON/C#)
 - [nextcloud/client_theming](https://github.com/nextcloud/client_theming) - :computer: Nextcloud themed desktop client - Moved over to https://github.com/nextcloud/desktop
+
+## windows-11 
+
+- [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+- [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
+- [M2Team/NanaZip](https://github.com/M2Team/NanaZip) - The 7-Zip derivative intended for the modern Windows experience
 
 ## wordpress 
 
