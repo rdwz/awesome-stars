@@ -618,6 +618,7 @@
 
 ## JavaScript 
 
+- [kzenmatthias/twitch-chat-left](https://github.com/kzenmatthias/twitch-chat-left) - Chrome extension to toggle Twitch chat between left and right side
 - [KoltesDigital/shadertoy-exporter](https://github.com/KoltesDigital/shadertoy-exporter) - Export images and videos from Shadertoy.
 - [Paul-Browne/svgo-variable-float-precision](https://github.com/Paul-Browne/svgo-variable-float-precision) - ⚙️ Node.js tool for optimizing SVG files
 - [pioug/google-play-badges](https://github.com/pioug/google-play-badges) - Localized Google Play badges in SVG format with editable Figma source
@@ -1603,7 +1604,6 @@
 - [ifrOSS/ifrOSS](https://github.com/ifrOSS/ifrOSS) - ifrOSS Knowledge Center
 - [themarshallproject/klaxon](https://github.com/themarshallproject/klaxon) - Klaxon enables reporters and editors to monitor scores of sites on the web for newsworthy changes.
 - [electricbookworks/electric-book](https://github.com/electricbookworks/electric-book) - A Jekyll template for creating books in multiple formats
-- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 
 ## SVG 
@@ -2066,6 +2066,7 @@
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [google/brotli](https://github.com/google/brotli) - Brotli compression format
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
+- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [OpenAPITools/openapi-generator-cli](https://github.com/OpenAPITools/openapi-generator-cli) - A node package wrapper for https://github.com/OpenAPITools/openapi-generator
 - [samueldobbie/shelf.gg](https://github.com/samueldobbie/shelf.gg) - A pastebin to find and share useful resources 📚
 - [zws-im/zws](https://github.com/zws-im/zws) - Shorten URLs using invisible spaces
