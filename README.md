@@ -76,6 +76,7 @@
 ## Astro 
 
 - [renovate-bot/jrichy1-_-astro-supabase-starter](https://github.com/renovate-bot/jrichy1-_-astro-supabase-starter) - 
+- [fulldotdev/ui](https://github.com/fulldotdev/ui) - Components and Blocks for building content-driven Astro websites
 - [DBozhinovski/astro-ltree](https://github.com/DBozhinovski/astro-ltree) - A self-hosted Linktree _and_ Linkinbio rolled in one, using Astro and TinaCMS.
 - [florian-lefebvre/astro-integration-template](https://github.com/florian-lefebvre/astro-integration-template) - Publish integrations within minutes.
 - [MatthiesenXYZ/astro-hashnode](https://github.com/MatthiesenXYZ/astro-hashnode) - An Integration to bring your Hashnode Headless Blog content into Astro!
@@ -1743,7 +1744,6 @@
 - [kyr0/quality-prompts-js](https://github.com/kyr0/quality-prompts-js) - Write Quality Prompts - TypeScript/JavaScript edition. Use and evaluate prompting techniques quickly.
 - [kyr0/offline-geocode-city](https://github.com/kyr0/offline-geocode-city) - 217 kB, tiny offline reverse geocoding library that works anywhere, browser, Node.js, web worker. High performance (S2 cell based). Looks up country and nearest city, given GPS coordinates
 - [PrimeDeviation/chatgpt-advanced](https://github.com/PrimeDeviation/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
-- [fulldotdev/ui](https://github.com/fulldotdev/ui) - Components and Blocks for building content-driven Astro websites
 - [samuherek/backup-codepen-cli](https://github.com/samuherek/backup-codepen-cli) - CLI tool for backing up your codepen pens into files on your computer. (using puppeteer)
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications. -- bolt.new -- Help Center: https://support.bolt.new/ -- Community Support: https://discord.com/invite/stackblitz
 - [vadimdemedes/ink-ui](https://github.com/vadimdemedes/ink-ui) - 💄 Ink-redible command-line interfaces made easy
@@ -1865,7 +1865,7 @@
 - [ReclaimApp/Reclaim](https://github.com/ReclaimApp/Reclaim) - A hub for your personal data
 - [shishkin/astro-asciidoc](https://github.com/shishkin/astro-asciidoc) - Support AsciiDoc pages in Astro
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
-- [ankit/stylebot](https://github.com/ankit/stylebot) - Change the appearance of the web instantly
+- [ankit/stylebot](https://github.com/ankit/stylebot) - Don't like how a website looks? Change it.
 - [pybash1/aionspace](https://github.com/pybash1/aionspace) - Explore the power of GPT on Space
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
 - [advanced-astro/anse](https://github.com/advanced-astro/anse) - Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.
