@@ -115,8 +115,7 @@
 - [jordienr/astro-design-system](https://github.com/jordienr/astro-design-system) - This is a theme/starter project for design systems built in Astro. You can install and import your own component library and document all your design decisions and components.
 - [JonasKruckenberg/tauri-astro-template](https://github.com/JonasKruckenberg/tauri-astro-template) - Tauri, Astro, and Svelte template
 - [treefarmstudio/simple-blog-astro](https://github.com/treefarmstudio/simple-blog-astro) - A minimal, modern blog theme using Astro
-- [codiume/orbit](https://github.com/codiume/orbit) - Collection of useful integrations & components for the Astro ecosystem. ⭐️ Star to support our work!
-- [shim369/Astro-Newt-Site](https://github.com/shim369/Astro-Newt-Site) - Jamstack with headless CMS
+- [shim369/Astro-MicroCMS-Site](https://github.com/shim369/Astro-MicroCMS-Site) - Jamstack with headless CMS
 - [magnuswahlstrand/astro-supabase-vercel](https://github.com/magnuswahlstrand/astro-supabase-vercel) - 
 - [cosmicjs/simple-astro-blog](https://github.com/cosmicjs/simple-astro-blog) - A simple astro blog powered by the Cosmic CMS
 - [BryceRussell/astro-headless-ui](https://github.com/BryceRussell/astro-headless-ui) - A headless component library for Astro
@@ -1865,7 +1864,7 @@
 - [ReclaimApp/Reclaim](https://github.com/ReclaimApp/Reclaim) - A hub for your personal data
 - [shishkin/astro-asciidoc](https://github.com/shishkin/astro-asciidoc) - Support AsciiDoc pages in Astro
 - [webhintio/hint](https://github.com/webhintio/hint) - 💡 A hinting engine for the web
-- [ankit/stylebot](https://github.com/ankit/stylebot) - Don't like how a website looks? Change it.
+- [ankit/stylebot](https://github.com/ankit/stylebot) - Restyle any website
 - [pybash1/aionspace](https://github.com/pybash1/aionspace) - Explore the power of GPT on Space
 - [osmoscraft/osmosfeed](https://github.com/osmoscraft/osmosfeed) - Turn GitHub into an RSS reader
 - [advanced-astro/anse](https://github.com/advanced-astro/anse) - Supercharged experience for ChatGPT, DALL-E and Stable Diffusion.
@@ -1881,6 +1880,7 @@
 - [Tarikul-Islam-Anik/linkz](https://github.com/Tarikul-Islam-Anik/linkz) - 🔗 Just a Linktree clone, but simpler and, most importantly, with your own social media reference landing page. Just add your links in data/data.json and you're good to go!
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [nowaythatworked/auth-astro](https://github.com/nowaythatworked/auth-astro) - Community maintained Astro integration of @auth/core
+- [codiume/orbit](https://github.com/codiume/orbit) - Collection of useful integrations & components for the Astro ecosystem. ⭐️ Star to support our work!
 - [Revenciel/Tina-Astro-Starter](https://github.com/Revenciel/Tina-Astro-Starter) - My Astro + Tina CMS sandbox to build generic features and components that I can reuse for future projects.
 - [advanced-astro/chatgpt-demo](https://github.com/advanced-astro/chatgpt-demo) - Minimal web UI for ChatGPT.
 - [Dogtiti/AutoGPT-Next-Web](https://github.com/Dogtiti/AutoGPT-Next-Web) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
