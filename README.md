@@ -140,6 +140,7 @@
 - [davidar/bootsh](https://github.com/davidar/bootsh) - Bootstrappable, self-hosting POSIX shell
 - [neurobin/shc](https://github.com/neurobin/shc) - Shell script compiler
 - [kddnewton/tree](https://github.com/kddnewton/tree) - Implementations of the unix tree command
+- [ad-si/Perspec](https://github.com/ad-si/Perspec) - Scriptable desktop app to correct the perspective of images
 - [dcf21/star-charter](https://github.com/dcf21/star-charter) - A command-line tool for producing vector-graphics charts of the night sky in SVG, PDF and PNG formats.
 - [astrological-guru/astro-novas](https://github.com/astrological-guru/astro-novas) - Basic vector astronomy using NOVAS
 - [FreeRADIUS/freeradius-server](https://github.com/FreeRADIUS/freeradius-server) - FreeRADIUS - A multi-protocol policy server.
@@ -583,7 +584,6 @@
 
 ## Haskell 
 
-- [ad-si/Perspec](https://github.com/ad-si/Perspec) - Scriptable desktop app to correct the perspective of images
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [jaspervdj/patat](https://github.com/jaspervdj/patat) - Terminal-based presentations using Pandoc
 - [smallhadroncollider/brok](https://github.com/smallhadroncollider/brok) - Find broken links in text documents
@@ -1225,7 +1225,7 @@
 - [MagicLike/readme-typing-svg](https://github.com/MagicLike/readme-typing-svg) - ⚡ Dynamically generated, customizable SVG that gives the appearance of typing and deleting text. Typing SVGs can be used as a bio on your Github profile readme or repository.
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [filegator/filegator](https://github.com/filegator/filegator) - Powerful Multi-User File Manager
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.
 - [ssddanbrown/rss](https://github.com/ssddanbrown/rss) - PROJECT MIGRATED TO CODEBERG -- A simple twitter-feed-style RSS aggregator written in PHP, Laravel, Inertia.js, Tailwind and Vue.js
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [Rudloff/alltube](https://github.com/Rudloff/alltube) - Web GUI for youtube-dl
