@@ -891,6 +891,7 @@
 - [bespokejs/bespoke](https://github.com/bespokejs/bespoke) - DIY Presentation Micro-Framework
 - [jasondavies/d3-cloud](https://github.com/jasondavies/d3-cloud) - Create word clouds in JavaScript.
 - [axelmy318/react-github-scraper](https://github.com/axelmy318/react-github-scraper) - Provides multiple customizable components to automatically load and display GitHub repositories data by just passing the targeted repository!
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
 - [aUnicornDev/tabsMonster](https://github.com/aUnicornDev/tabsMonster) - A Chrome extension to keep a tab on your Browser Tabs
 - [handshake-org/hsd](https://github.com/handshake-org/hsd) - Handshake Daemon & Full Node
@@ -1624,7 +1625,7 @@
 - [Sushrut1101/GoFile-Upload](https://github.com/Sushrut1101/GoFile-Upload) - A Simple Script to upload Files to gofile.io via Terminal (CLI). Written in Bash.
 - [GroveOS/bare.sh](https://github.com/GroveOS/bare.sh) - bare.sh is a collection of bare bones shell scripts for simplifying various tasks such as API calls (OpenAI, Stripe, Postmark, etc), video and audio processing, and much more.
 - [lukechilds/zsh-better-npm-completion](https://github.com/lukechilds/zsh-better-npm-completion) - Better completion for npm
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 850 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 900 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
 - [zma/usefulscripts](https://github.com/zma/usefulscripts) - Useful shell scripts for Linux and macOS
 - [rr-n4p5t3r/neofetch](https://github.com/rr-n4p5t3r/neofetch) - A commandline system information written in bash. Fork by Alexia Stein. Traditional version.
 - [mickeys/grc_generic_colouriser](https://github.com/mickeys/grc_generic_colouriser) - make command-line work with scrolling output that much less crazy-making
@@ -2021,7 +2022,6 @@
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [ferdium/ferdium-server](https://github.com/ferdium/ferdium-server) - The server component that can either be self-hosted or hosted for general purpose - for use with the ferdium thick client.
 - [privatenumber/minification-benchmarks](https://github.com/privatenumber/minification-benchmarks) - 🏃‍♂️🏃‍♀️🏃 JS minification benchmarks: babel-minify, esbuild, terser, uglify-js, swc, google closure compiler, tdewolff/minify, oxc-minify
-- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [peter-evans/create-issue-from-file](https://github.com/peter-evans/create-issue-from-file) - A GitHub action to create an issue using content from a file
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [badgen/badgen.net](https://github.com/badgen/badgen.net) - Fast badge service
