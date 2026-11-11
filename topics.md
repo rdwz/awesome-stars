@@ -281,6 +281,7 @@
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
+- [whatsapp](#whatsapp)
 - [windows](#windows)
 - [windows-11](#windows-11)
 - [wordpress](#wordpress)
@@ -856,7 +857,7 @@
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
 - [tarampampam/tinifier](https://github.com/tarampampam/tinifier) - 🐼 CLI tool for compressing images using the TinyPNG
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-- [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
+- [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node_modules 📦, artifacts, caches and dev leftovers 🧹
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [qawolf/cli](https://github.com/qawolf/cli) - QA Wolf from anywhere — your terminal, your CI, your AI agent.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
@@ -934,7 +935,6 @@
 - [sammy-ette/bunnyfetch](https://github.com/sammy-ette/bunnyfetch) - 🐰 Tiny system info fetch utility.
 - [hetznercloud/cli](https://github.com/hetznercloud/cli) - A command-line interface for Hetzner Cloud
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-- [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [smallhadroncollider/brok](https://github.com/smallhadroncollider/brok) - Find broken links in text documents
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
@@ -1196,7 +1196,6 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [rossmoody/link-roamer](https://github.com/rossmoody/link-roamer) - A browser extension for gathering, organizing, and inspecting all the links on a page.
 - [tarampampam/indocker-app](https://github.com/tarampampam/indocker-app) - 💥 Domain names with valid SSL for your local docker containers
-- [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [kr-g/gitonic](https://github.com/kr-g/gitonic) - gitonic simplifies working with multiple git repositories
 - [brandon1024/find](https://github.com/brandon1024/find) - A find-in-page extension for Chrome and Firefox that supports regular expressions.
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
@@ -1925,7 +1924,6 @@
 - [surjithctly/neat-starter](https://github.com/surjithctly/neat-starter) - Starter Template for Netlify CMS, Eleventy, Alpine JS & Tailwind CSS
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [Botspot/pi-apps](https://github.com/Botspot/pi-apps) - Raspberry Pi App Store for Open Source Projects
 - [autotrace/autotrace](https://github.com/autotrace/autotrace) - bitmap to vector graphics converter
 - [ferdium/ferdium-recipes](https://github.com/ferdium/ferdium-recipes) - Recipes encapsulate your favourite apps into Ferdium for unified notifications handling and more
@@ -2243,7 +2241,7 @@
 - [vc64web/virtualc64web](https://github.com/vc64web/virtualc64web) - vc64web - Commodore C64  Emulator for iPad iPhone Android and the Web with CSDb access for thousands of demos at your fingertip.
 - [fcambus/jsemu](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript programming language
 - [luxocrates/viciious](https://github.com/luxocrates/viciious) - A Commodore 64 emulator in JavaScript
-- [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
+- [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node_modules 📦, artifacts, caches and dev leftovers 🧹
 - [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler) - Open source browser extension for finding, editing, exporting, optimizing, and managing SVG content.
 - [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
 - [remusao/tldts](https://github.com/remusao/tldts) - JavaScript Library to extract domains, subdomains and public suffixes from complex URIs.
@@ -2621,7 +2619,7 @@
 
 ## mcp 
 
-- [krystonschwarze/coolicons](https://github.com/krystonschwarze/coolicons) - Every icon for your next project. Free, wherever you build: 1,300+ icons in five styles with sharp, regular or round corners, for React, Vue, shadcn/ui and Figma.
+- [krystonschwarze/coolicons](https://github.com/krystonschwarze/coolicons) - Every icon for your next project. Free, wherever you build: 1,500+ icons in five styles with sharp, regular or round corners, for React, Vue, shadcn/ui and Figma.
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - Open-source status page, incident response and uptime monitoring
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - 3,400+ curated icons and logos for dashboards and AI agents. SVG, PNG and WEBP on a free CDN, plus an MCP server for Claude Code, Codex, ChatGPT, Cursor, Hermes and OpenClaw.
@@ -2786,7 +2784,6 @@
 - [vsetka/deepl-translator](https://github.com/vsetka/deepl-translator) - This module provides promised methods for translating text using DeepL Translator (https://www.deepl.com/translator) undocumented API.
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [timothystewart6/littlelink-server](https://github.com/timothystewart6/littlelink-server) - A lightweight, open source, stateless, and self-hosted alternative to linktree in a Docker container!
-- [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [magidoc-org/magidoc](https://github.com/magidoc-org/magidoc) - Autogenerate static GraphQL API documentation
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [suptejas/volt](https://github.com/suptejas/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
@@ -2854,7 +2851,6 @@
 - [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [luxocrates/viciious](https://github.com/luxocrates/viciious) - A Commodore 64 emulator in JavaScript
-- [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [fazt/github-client](https://github.com/fazt/github-client) - A Frontend Application using Pure Javascript and Github API
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [emibcn/badge-action](https://github.com/emibcn/badge-action) - Create a badge using GitHub Actions and GitHub Workflow CPU time (no 3rd parties servers)
@@ -2900,7 +2896,6 @@
 - [thuliteio/doks](https://github.com/thuliteio/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
 - [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
-- [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - ✅ The Node.js best practices list (July 2026)
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
@@ -2921,7 +2916,7 @@
 - [montafra/beam](https://github.com/montafra/beam) - Beam is an Android app that displays real-time battery metrics as a persistent notification
 - [glincker/thesvg](https://github.com/glincker/thesvg) - The open SVG brand library: 7,600+ brand logos and cloud icons (AWS, Azure, GCP) as official SVG. Search, copy, ship via npm, CDN, CLI, React, Vue, Svelte, Figma, VS Code, Raycast and MCP. Free, MIT, 
 - [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub) - LinksHub aims to provide developers with access to a wide range of free resources and tools that they can use in their work. These resources include links to free software, libraries, frameworks, and 
-- [krystonschwarze/coolicons](https://github.com/krystonschwarze/coolicons) - Every icon for your next project. Free, wherever you build: 1,300+ icons in five styles with sharp, regular or round corners, for React, Vue, shadcn/ui and Figma.
+- [krystonschwarze/coolicons](https://github.com/krystonschwarze/coolicons) - Every icon for your next project. Free, wherever you build: 1,500+ icons in five styles with sharp, regular or round corners, for React, Vue, shadcn/ui and Figma.
 - [URUWorks/TeroSubtitler](https://github.com/URUWorks/TeroSubtitler) - Tero Subtitler is an open source, cross-platform, and free subtitle editing software.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - Open-source status page, incident response and uptime monitoring
@@ -4644,6 +4639,7 @@
 - [vadimdemedes/ink-ui](https://github.com/vadimdemedes/ink-ui) - 💄 Ink-redible command-line interfaces made easy
 - [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
 - [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
+- [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - Easily find and remove old and heavy node_modules 📦, artifacts, caches and dev leftovers 🧹
 - [beucismis/awesome-fetch](https://github.com/beucismis/awesome-fetch) - A curated collection of command-line fetch tools.
 - [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
@@ -4728,7 +4724,6 @@
 - [yahiko00/Starfield](https://github.com/yahiko00/Starfield) - Procedural generated 2D Starfield
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [rossmoody/svg-gobbler](https://github.com/rossmoody/svg-gobbler) - Open source browser extension for finding, editing, exporting, optimizing, and managing SVG content.
 - [dubinc/dub.link](https://github.com/dubinc/dub.link) - The modern link attribution platform. Loved by world-class engineering teams at Twilio, Zillow, Jobber, Vercel, Raycast, and more.
 - [remusao/tldts](https://github.com/remusao/tldts) - JavaScript Library to extract domains, subdomains and public suffixes from complex URIs.
@@ -4988,6 +4983,10 @@
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking '.is-a.dev' subdomain.
 - [jivoi/awesome-osint](https://github.com/jivoi/awesome-osint) - :scream: A curated list of amazingly awesome OSINT
 - [hermanTenuki/ASCII-Generator.site](https://github.com/hermanTenuki/ASCII-Generator.site) - Django website for generating ASCII-arts out of images or text 🎨 (closed)
+
+## whatsapp 
+
+- [avdeev/vanilla-sharing](https://github.com/avdeev/vanilla-sharing) - Small (1.5 KB) simple tool for sharing url, title, description and image to VK, Facebook (Feed, Dialog, Button, Messenger), Reddit, Pinterest, Tumblr, Twitter, VK, OK, Mail.ru, LinkedIn, Whatsapp, Vib
 
 ## windows 
 
