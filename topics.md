@@ -837,7 +837,7 @@
 - [marcolardera/chatgpt-cli](https://github.com/marcolardera/chatgpt-cli) - Simple yet effective command line client for chatting with ChatGPT using the official API
 - [kharvd/gpt-cli](https://github.com/kharvd/gpt-cli) - Command-line interface for ChatGPT, Claude and Bard
 - [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
-- [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
+- [made-in-common/ni](https://github.com/made-in-common/ni) - 💡 Use the right package manager
 - [pgollangi/netselect](https://github.com/pgollangi/netselect) - 💻 A CLI tool and Go library to find the fastest site based on the lowest ICMP latency.
 - [mindflowai/mindflow](https://github.com/mindflowai/mindflow) - 🧠 code-awareness
 - [nuzzles/cddns](https://github.com/nuzzles/cddns) - A modern, hackable, green DDNS service and cli for Cloudflare.
@@ -1869,7 +1869,6 @@
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
-- [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [ajayyy/SponsorBlock](https://github.com/ajayyy/SponsorBlock) - Skip YouTube video sponsors (browser extension)
 - [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub) - LinksHub aims to provide developers with access to a wide range of free resources and tools that they can use in their work. These resources include links to free software, libraries, frameworks, and 
 - [masterT/bandcamp-scraper](https://github.com/masterT/bandcamp-scraper) - A scraper for https://bandcamp.com
@@ -2628,9 +2627,10 @@
 
 ## mcp 
 
-- [krystonschwarze/coolicons](https://github.com/krystonschwarze/coolicons) - Every icon for your next project. Free, wherever you build: 1,700+ icons in five styles with sharp, regular or round corners, for React, Vue, shadcn/ui and Figma.
+- [krystonschwarze/coolicons](https://github.com/krystonschwarze/coolicons) - Every icon for your next project. Free, wherever you build: 1,900+ icons in five styles with sharp, regular or round corners, for React, Vue, shadcn/ui and Figma.
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - Open-source status page, incident response and uptime monitoring
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
+- [microfeed/microfeed](https://github.com/microfeed/microfeed) - an agentic cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - 3,400+ curated icons and logos for dashboards and AI agents. SVG, PNG and WEBP on a free CDN, plus an MCP server for Claude Code, Codex, ChatGPT, Cursor, Hermes and OpenClaw.
 
 ## mcp-server 
@@ -2638,6 +2638,7 @@
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [glincker/thesvg](https://github.com/glincker/thesvg) - The open SVG brand library: 7,600+ brand logos and cloud icons (AWS, Azure, GCP) as official SVG. Search, copy, ship via npm, CDN, CLI, React, Vue, Svelte, Figma, VS Code, Raycast and MCP. Free, MIT, 
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - Open-source status page, incident response and uptime monitoring
+- [microfeed/microfeed](https://github.com/microfeed/microfeed) - an agentic cms self-hosted on cloudflare, for podcasts, blogs, photos, videos, documents, and curated urls.
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - 3,400+ curated icons and logos for dashboards and AI agents. SVG, PNG and WEBP on a free CDN, plus an MCP server for Claude Code, Codex, ChatGPT, Cursor, Hermes and OpenClaw.
 
 ## microservices 
@@ -2901,7 +2902,7 @@
 - [devxprite/wettr](https://github.com/devxprite/wettr) - 🌦 Easy way to  check Weather via the command line.
 - [pablopunk/miny](https://github.com/pablopunk/miny) - The minimal module generator that generated itself
 - [timashev/human-logic](https://github.com/timashev/human-logic) - Human Logic
-- [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
+- [made-in-common/ni](https://github.com/made-in-common/ni) - 💡 Use the right package manager
 - [styfle/packagephobia](https://github.com/styfle/packagephobia) - ⚖️ Find the cost of adding a new dependency to your project
 - [astrit/css.gg](https://github.com/astrit/css.gg) - 700+ Pure CSS, SVG & Figma UI Icons, 6000+ glyphs, patterns, colors and layouts.
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
@@ -2929,7 +2930,7 @@
 - [montafra/beam](https://github.com/montafra/beam) - Beam is an Android app that displays real-time battery metrics as a persistent notification
 - [glincker/thesvg](https://github.com/glincker/thesvg) - The open SVG brand library: 7,600+ brand logos and cloud icons (AWS, Azure, GCP) as official SVG. Search, copy, ship via npm, CDN, CLI, React, Vue, Svelte, Figma, VS Code, Raycast and MCP. Free, MIT, 
 - [rupali-codes/LinksHub](https://github.com/rupali-codes/LinksHub) - LinksHub aims to provide developers with access to a wide range of free resources and tools that they can use in their work. These resources include links to free software, libraries, frameworks, and 
-- [krystonschwarze/coolicons](https://github.com/krystonschwarze/coolicons) - Every icon for your next project. Free, wherever you build: 1,700+ icons in five styles with sharp, regular or round corners, for React, Vue, shadcn/ui and Figma.
+- [krystonschwarze/coolicons](https://github.com/krystonschwarze/coolicons) - Every icon for your next project. Free, wherever you build: 1,900+ icons in five styles with sharp, regular or round corners, for React, Vue, shadcn/ui and Figma.
 - [URUWorks/TeroSubtitler](https://github.com/URUWorks/TeroSubtitler) - Tero Subtitler is an open source, cross-platform, and free subtitle editing software.
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - Open-source status page, incident response and uptime monitoring
@@ -3007,6 +3008,7 @@
 
 ## others 
 
+- [boykopovar/AnyPS5](https://github.com/boykopovar/AnyPS5) - Tool for automatic PS5 executables porting to Linux and Windows
 - [tpetsas/doom-2016-dualsense-mod](https://github.com/tpetsas/doom-2016-dualsense-mod) - A mod for DOOM (2016) that adds DualSense adaptive triggers for all the Weapons and its mods!  :godmode:🤘
 - [kzenmatthias/twitch-chat-left](https://github.com/kzenmatthias/twitch-chat-left) - Chrome extension to toggle Twitch chat between left and right side
 - [mbentley/docker-omada-controller](https://github.com/mbentley/docker-omada-controller) - Docker image to run TP-Link Omada Controller
@@ -3574,7 +3576,7 @@
 - [google/live-transcribe-speech-engine](https://github.com/google/live-transcribe-speech-engine) - Live Transcribe is an Android application that provides real-time captioning for people who are deaf or hard of hearing. This repository contains the Android client libraries for communicating with Go
 - [bugbakery/audapolis](https://github.com/bugbakery/audapolis) - an editor for spoken-word audio with automatic transcription
 - [antiboredom/videogrep](https://github.com/antiboredom/videogrep) - automatic video supercuts with python
-- [antfu-collective/sponsorkit](https://github.com/antfu-collective/sponsorkit) - 💖 Toolkit for generating sponsors images 😄
+- [made-in-common/sponsorkit](https://github.com/made-in-common/sponsorkit) - 💖 Toolkit for generating sponsors images 😄
 - [thewizardplusplus/go-crawler](https://github.com/thewizardplusplus/go-crawler) - The library that implements crawling of all relative links for specified ones
 - [SynologyOpenSource/ExamplePackages](https://github.com/SynologyOpenSource/ExamplePackages) - 
 - [guysoft/OctoPi](https://github.com/guysoft/OctoPi) - Scripts to build OctoPi, a Raspberry PI distro for controlling 3D printers over the web
@@ -3750,7 +3752,7 @@
 
 ## package-manager 
 
-- [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
+- [made-in-common/ni](https://github.com/made-in-common/ni) - 💡 Use the right package manager
 - [james-d12/apm](https://github.com/james-d12/apm) - Agnostic Package Manager
 - [Devolutions/UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
